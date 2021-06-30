@@ -1,1 +1,6 @@
-# Portail des ressources AI4T
+---
+title: Accueil
+template: overrides/home.html
+hide:
+- navigation
+---

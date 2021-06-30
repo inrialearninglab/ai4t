@@ -1,0 +1,60 @@
+.md-header-nav__title{
+    margin-left: 0;
+}
+
+.home-container{
+    padding: 2rem 0 15vw 0;
+    color: white;
+    background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1123 258'><path d='M1124,2c0,0 0,256 0,256l-1125,0l0,-48c0,0 16,5 55,5c116,0 197,-92 325,-92c121,0 114,46 254,46c140,0 214,-167 572,-166Z' style='fill: hsla(0, 0%, 100%, 1)' /></svg>") no-repeat bottom,linear-gradient(to bottom, var(--md-primary-fg-color), var(--md-accent-fg-color) 99%, var(--md-default-bg-color) 99%);
+}
+
+.home-hero{
+ /*   max-width: 600px; */
+    margin: 0 .8rem;
+    color:white;
+}
+
+.home-hero h1{
+    margin-bottom: 0;
+    font-weight: bold;
+    color:white;
+}
+
+.home-hero p{
+    margin: 1em 0 1.5em 0;
+}
+
+.home-hero .md-button {
+    margin-bottom: 5px;
+    color: var(--md-primary-fg-color);
+    background-color: var(--md-primary-bg-color);
+    border-color: var(--md-primary-bg-color);
+}
+
+.home-hero .md-button:hover {
+    color: var(--md-primary-bg-color);
+    background-color: var(--md-primary-fg-color--light);
+    border-color: var(--md-primary-fg-color--light);
+}
+
+.home-hero .md-button.hollow {
+    color: var(--md-primary-bg-color);
+    background-color: transparent;
+    border-color: var(--md-primary-bg-color);
+}
+
+.home-hero .md-button.hollow:hover {
+    color: var(--md-primary-bg-color);
+    background-color: var(--md-primary-fg-color--light);
+    border-color: var(--md-primary-fg-color--light);
+}
+
+@media (max-width: 960px) {
+}
+
+@media (max-width: 600px) {
+    .home-container{
+        text-align: center;
+        padding: 2rem 0 20vw 0;
+    }
+}
