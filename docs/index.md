@@ -1,6 +1,6 @@
 ---
 title: Accueil
-template: overrides/home.html
+template: home.html
 hide:
 - navigation
 ---
