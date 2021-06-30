@@ -1,0 +1,49 @@
+site_name: Portail AI4T
+use_directory_urls: false
+nav:
+  - ...
+extra_css:
+  - assets/extra.css
+extra_javascript:
+  - assets/extra.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+theme:
+  name: material
+  palette:
+    scheme: preference
+    primary: teal
+    accent: light blue
+  features:
+    - navigation.tabs
+markdown_extensions:
+  - admonition
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.snippets
+  - pymdownx.details
+  - pymdownx.magiclink
+  - pymdownx.tabbed
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.smartsymbols
+  - pymdownx.arithmatex:
+      generic: true
+plugins:
+  - search
+  - macros
+  - awesome-pages
