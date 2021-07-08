@@ -53,7 +53,7 @@ The MOOC is a co-production of Class'Code, Inria, Magic Maker, S24B l'Interactiv
 
 *   Martine Courbin, Documentation.
 
-#### Adaptation et intégration du Mooc sur FUN, quiz et exercices, forum
+**##### Adaptation et intégration du Mooc sur FUN, quiz et exercices, forum**
 
 ![](/static/MHComte.jpg)  
 **Marie-Hélène Comte**  
