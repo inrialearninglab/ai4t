@@ -5,15 +5,21 @@ _The relevance of this original presentation of IAI Mooc is to be considered in 
 
 ### The MOOC is organised in 3 Modules:
 
-**Module 1 :** **What is meant by AI?****![](/static/bulle-IAI-module1.png)**
+ **Module 1: What is meant by AI?**
+ 
+<img src="../Images/bulle-IAI-module1.png" alt="bulle-IAI-module1" width="200">
 
 This first part is dedicated to the acquisition of a first understanding of what is meant by Artificial Intelligence, what it is not and finally raises the question: What is intelligence ?
 
-![](/static/bulle-IAI-module2.png)**Module 2 :** **Machine Learning and Data.**
+**Module 2: Machine Learning and Data**
+
+<img src="../Images/bulle-IAI-module2.png" alt="bulle-IAI-module2" width="200">
 
 This second part helps to understand the basics of machine learning and the key role played by the control of data sets.
 
-![](/static/bulle-IAI-module3.png)**Module 3 :** **Humans and AI**
+**Module 3: Humans and AI**
+
+<img src="../Images/bulle-IAI-module3.png" alt="bulle-IAI-module3" width="200">
 
 This third part deals with the problems of ethics and aims to understand the stakes and the levers for AI to be at the service of humans.
 
