@@ -1,4 +1,7 @@
-### Did You Said AI?
+---
+title: Did You Said AI?
+description: 
+---
 
 **Objective:**
 
@@ -6,10 +9,10 @@ Gain an initial understanding of what is meant by Artificial Intelligence (AI) a
 
 **Content:**
 
-*   [To question: Who Is Afraid of AI?](https://lms.fun-mooc.fr/courses/course-v1:inria+41029+session01/jump_to_id/fb74be0b63a2427fbfa76d2e822a0a76)
-*   [To Experiment: Let's Test Our First Program](https://lms.fun-mooc.fr/courses/course-v1:inria+41029+session01/jump_to_id/160205285b294868aab481c75b99bb9a)
-*   [To Discover: What Is Artificial Intelligence?](https://lms.fun-mooc.fr/courses/course-v1:inria+41029+session01/jump_to_id/69fac44005c24acd92bd044084f38c95)
-*   [Quiz Module 1](https://lms.fun-mooc.fr/courses/course-v1:inria+41029+session01/jump_to_id/72b9a357e8b64a118ddcf2e644d449f0)
-*   [Let's Play with AI](https://lms.fun-mooc.fr/courses/course-v1:inria+41029+session01/jump_to_id/a05d0c27e73544c5abb76c083f42da52)
+*   [To question: Who Is Afraid of AI?](https://inrialearninglab.github.io/ai4t/2-module-1-what-is-meant-by-ai/2-1-11-to-question-who-is-afraid-of-ai/2-1-1-did-you-say-intelligence.html)
+*   [To Experiment: Let's Test Our First Program](https://inrialearninglab.github.io/ai4t/2-module-1-what-is-meant-by-ai/2-2-to-experiment-lets-test-our-first-program/2-2-0-tutorial-lets-test-our-first-program.html)
+*   [To Discover: What Is Artificial Intelligence?](https://inrialearninglab.github.io/ai4t/2-module-1-what-is-meant-by-ai/2-3-to-discover-what-is-artificial-intelligence/2-3-0-what-is-artificial-intelligence.html)
+*   [Quiz Module 1](https://inrialearninglab.github.io/ai4t/2-module-1-what-is-meant-by-ai/2-5-quiz-module-1/2-5-0-did-you-said-ai.html)
+*   [Let's Play with AI](https://inrialearninglab.github.io/ai4t/2-module-1-what-is-meant-by-ai/2-6-quiz-ai-just-to-play-with/2-6-0-quiz-ai-just-to-play-with.html)
 
 **Investment time:** to be completed
