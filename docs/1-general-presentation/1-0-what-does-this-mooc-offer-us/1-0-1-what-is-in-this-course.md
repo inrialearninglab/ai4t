@@ -9,7 +9,7 @@ _The relevance of this original presentation of IAI Mooc is to be considered in 
  
 <img src="../Images/bulle-IAI-module1.png" alt="bulle-IAI-module1" width="200">
 
-This first part is dedicated to the acquisition of a first understanding of what is meant by Artificial Intelligence, what it is not and finally raises the question: What is intelligence ?
+This first part is dedicated to the acquisition of a first understanding of what is meant by Artificial Intelligence, what it is not and finally raises the question: What is intelligence?
 
 **Module 2: Machine Learning and Data**
 
