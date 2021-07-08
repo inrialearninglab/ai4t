@@ -1,9 +1,7 @@
 ### What is in this Course? How is it Organised?
 
-The relevance of this original presentation of IAI Mooc is to be considered in line with the hybridization models that will be defined with the partners and the Methodological Framework (D2.1) of the AI4T Project.  
-  
-This part has to be considered as the backbone of our co-construction work towards Mooc V1 & beyond.  
-🗓️ In a first step (before July 16), your feedbacks on the structure of the course are essential so that, in a second step (July 19 - August 28), we can progress on the detailed contents, adapt them or complete them with your proposals.
+_The relevance of this original presentation of IAI Mooc is to be considered in line with the hybridization models that will be defined with the partners and the Methodological Framework (D2.1) of the AI4T Project._
+
 
 ### The MOOC is organised in 3 Modules:
 
@@ -30,5 +28,3 @@ At the end of each module, directly on the FUN platform, **theoretical exercises
 ### Detailed structure of the course
 
 The detailed structure of the course is available here:  "[Table of contents](https://lms.fun-mooc.fr/courses/course-v1:inria+41029+session01/6bbd354627d2421f96a09c7a6e96b6eb/)" and via the tab of the top navigation.
-
-### Your feedback
