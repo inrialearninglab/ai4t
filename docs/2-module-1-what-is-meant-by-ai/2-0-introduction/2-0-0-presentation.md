@@ -13,5 +13,3 @@ Gain an initial understanding of what is meant by Artificial Intelligence (AI) a
 *   [Let's Play with AI](https://lms.fun-mooc.fr/courses/course-v1:inria+41029+session01/jump_to_id/a05d0c27e73544c5abb76c083f42da52)
 
 **Investment time:** to be completed
-
-### Your feedback
