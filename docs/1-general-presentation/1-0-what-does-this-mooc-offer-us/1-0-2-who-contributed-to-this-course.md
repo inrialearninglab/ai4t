@@ -1,4 +1,7 @@
-### Who contributed to this course?
+---
+title: Who contributed to this course?
+description: 
+---
 
 _The initial presentation of IAI Mooc has to be updated according to the AI4T context._
 
