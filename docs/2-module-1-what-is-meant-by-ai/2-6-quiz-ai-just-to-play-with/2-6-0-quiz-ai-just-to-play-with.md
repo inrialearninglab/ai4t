@@ -1,22 +1,20 @@
 #### AI Just to Play With!
 
-The following questions refer to the previous contents of Module 1.
+_The following questions refer to the previous contents of Module 1._
 
 Let's test our first program
 ----------------------------
 
-![](/static/Tuto1.png)
+![](../Images/Tuto-M1-FirstProgram.png)
+
+**Q1. Artificial Intelligence in 2 Words**
+
+Q1/6. Today, Artificial Intelligence is :
+- Juste a media buzz
+- A unique technology
+- A scientific discipline
 
 Quick, Draw
 -----------
 
-[![QuickDrawn](/static/Quick-Drawn.png)](https://quickdraw.withgoogle.com/?locale=en_US)
-
-RECITAL Platform
-----------------
-
-Other platform or resource with contents in English to identify (in link with the 1.4 content : image recognition).
-
-[![](/static/recital.png)](http://recital.univ-nantes.fr/#/)
-
-### Your feedback
+[<img src="../Images/Quick-Drawn.png" alt="Quick-Drawn" width="200">](https://quickdraw.withgoogle.com/?locale=en_US)
