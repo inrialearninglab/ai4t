@@ -1,1 +1,4 @@
-# Portail des ressources AI4T
+---
+title: Home
+template: home.html
+---
