@@ -1,4 +1,7 @@
-### What is in this Course? How is it Organised?
+---
+title: What is in this Course?
+description:
+---
 
 _The relevance of this original presentation of IAI Mooc is to be considered in line with the hybridization models that will be defined with the partners and the Methodological Framework (D2.1) of the AI4T Project._
 
