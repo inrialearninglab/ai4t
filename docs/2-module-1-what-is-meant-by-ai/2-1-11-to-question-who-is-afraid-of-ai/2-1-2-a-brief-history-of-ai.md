@@ -12,6 +12,6 @@ In the mid-1990s, AI experienced a new boom, propelled - among other things - by
 
 #### To Go Further
 
-_Resources in English on AI history)_
+_Resources in English on AI history_
 
 #### Issues and History of Artificial Intelligence
