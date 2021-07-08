@@ -10,6 +10,7 @@ Let's test our first program
 **In the Tutorial Let's Test our First Program, you train an AI:**
 
 A. The input data are:
+
 - text
 - images
 - sounds
@@ -17,6 +18,7 @@ A. The input data are:
 - other digital data
 
 B. This AI allows to distinguish 2 categories, how does it proceed?
+
 - it generates a large amount of input data autonomously
 - it needs a training phase where each input has been previously labelled by a human
 - it needs a training phase with entries from both categories without special annotation
