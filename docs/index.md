@@ -1,6 +1,1 @@
----
-title: Accueil
-template: home.html
-hide:
-- navigation
----
+# Portail des ressources AI4T
