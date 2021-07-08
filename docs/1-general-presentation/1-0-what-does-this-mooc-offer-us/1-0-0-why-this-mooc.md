@@ -1,3 +1,7 @@
+---
+title: Why this Mooc?
+description:
+---
 #### Why This Mooc ?
 
 _What mention is to be made of the IAI project and what reference should be made to the Inria- Class'Code Mooc? How do we present AI4T?  
