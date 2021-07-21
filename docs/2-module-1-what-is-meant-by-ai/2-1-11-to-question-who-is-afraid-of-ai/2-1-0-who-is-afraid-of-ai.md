@@ -9,4 +9,4 @@ I thought it was top, but now I see an article where Stephen Hawking, you know t
 **Do you also have the same question?**  
 _Watch the video below (3'04")_
 
-[![Watch the video](../Images/AI4T-M1-video1.png)](https://youtu.be/mkfXdzA6B_c)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mkfXdzA6B_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
