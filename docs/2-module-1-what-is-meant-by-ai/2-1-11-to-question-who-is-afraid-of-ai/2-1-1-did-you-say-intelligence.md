@@ -1,3 +1,7 @@
+---
+title: Did You say Intelligence?
+description:
+---
 #### Did You say Intelligence?
 
 More than being unbeatable at mental arithmetic or Go, intelligence is the ability of a living system to understand, interpret, learn and adapt to change. **To be intelligent is to know how to find the most appropriate response to a problem**, for which we rely on all our mental and cognitive faculties. Moreover, intelligence is embodied, it is something inseparable from our body. If we take the example of the game of Go, we use our intellect to adapt our game strategy to a situation, anticipate that of our opponent and find the best combination to win the game. But then, if in 2016 the Alpha Go program managed to beat the Korean Go champion, does that mean that computer programs are more intelligent than human intelligence? In short, **what is the difference between the intelligence of a human being and that of a machine**?

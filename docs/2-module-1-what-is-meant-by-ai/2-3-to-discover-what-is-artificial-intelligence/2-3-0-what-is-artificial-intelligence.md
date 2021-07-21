@@ -1,3 +1,7 @@
+---
+title: What is Artificial Intelligence?
+description:
+---
 #### What is Artificial Intelligence?
 
 _To review the video and get subtitles in English or other language, you will need to change the preferences of the video on YouTube player and select automatic translation in your preferred language._

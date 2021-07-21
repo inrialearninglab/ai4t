@@ -1,3 +1,7 @@
+---
+title: QUIZ 2- AI Just to Play With!
+description:
+---
 #### AI Just to Play With!
 
 _The following questions refer to the previous contents of Module 1._

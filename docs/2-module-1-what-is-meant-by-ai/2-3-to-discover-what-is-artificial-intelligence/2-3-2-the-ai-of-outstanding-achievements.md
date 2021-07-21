@@ -1,3 +1,7 @@
+---
+title: The AI of Outstanding Achievements
+description:
+---
 #### The AI of Outstanding Achievements
 
 **What is Said in the [Inria White Paper](https://www.slideshare.net/INRIA/inria-white-paper-artificial-intelligence-current-challenges-and-inrias-engagement?ref=https://intranet.inria.fr/): "Artificial intelligence, current challenges and Inria's engagement"** 

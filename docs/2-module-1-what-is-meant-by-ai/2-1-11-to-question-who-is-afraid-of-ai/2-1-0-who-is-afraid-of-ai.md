@@ -1,3 +1,8 @@
+---
+title: Who Is Afraid of AI?
+description:
+---
+
 #### Who Is Afraid of AI?
 
 _Because the non-academic style of the video which could be surprising for teachers, it is suggested to add context and elements of presentation.  

@@ -1,3 +1,7 @@
+---
+title: Should We Be Afraid of AI?
+description:
+---
 #### Should We Be Afraid of AI?
 
 ![ Image «The Starry Night»](../Images/DeepDream-Google.jpg)

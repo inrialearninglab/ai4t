@@ -1,3 +1,7 @@
+---
+title: A Brief History of AI
+description:
+---
 #### A Brief History of AI
 
 Today, artificial intelligence is present in many of the technologies we use every day: in our computers, our mobile phones, our watches, our speakers... It is even present in our search engines and on social networks. This is probably what explains the new craze that it is experiencing today, we are passionate about it because it has enabled us to boost our technologies and therefore have better uses for them.
