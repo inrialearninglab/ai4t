@@ -1,4 +1,9 @@
-### Humans and AI... _Artificial intelligence at our service?_
+---
+title: Presentation
+description:
+---
+
+### Artificial intelligence at our service?
 
 **Objective:**
 

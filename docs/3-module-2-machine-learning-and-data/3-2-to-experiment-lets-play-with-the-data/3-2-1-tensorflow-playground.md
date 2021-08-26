@@ -1,3 +1,7 @@
+---
+title: Play with the Machine's Neurons
+description:
+---
 ### Play with the Machine's Neurons
 
 This activity was dedicated to discovering TensorFlow, an "end-to-end open source platform for machine learning". It can be replaced by an activity in English that is easier to implement for in-depth discovery of machine learning softwares.

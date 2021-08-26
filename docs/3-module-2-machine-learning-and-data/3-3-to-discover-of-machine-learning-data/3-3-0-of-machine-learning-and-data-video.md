@@ -1,3 +1,7 @@
+---
+title: Of Machine Learning and Data
+description:
+---
 #### Of Machine Learning and Data
 
 When we talk about AI today, we most often hear "machine learning". But how do machines learn, and what do they learn from?
@@ -9,7 +13,7 @@ To review the video and get subtitles in English or other language, you will nee
 
 Possibilty to explore further with additional resources while being careful to dispersion.
 
- **More on this Subject ![](/static/arrow-down-circle.svg)** 
+ **More on this Subject ![](/static/arrow-down-circle.svg)**
 
 *   _[Le Deep Learning](https://www.youtube.com/watch?v=trWrEWfhTVg) par David Louapre, Science étonnante #27, 8 avril 2016_  
     _une vidéo de vulgarisation sur le deep learning, une technique qui révolutionne l'intelligence artificielle...et bientôt notre quotidien_

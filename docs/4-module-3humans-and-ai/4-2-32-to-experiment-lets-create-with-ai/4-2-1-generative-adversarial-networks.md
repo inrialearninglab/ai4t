@@ -1,8 +1,8 @@
 ---
-title: Tutorial: Let's Create with AI
+title: Generative Adversarial Networks: GAN
 description:
 ---
-#### Let's Create with AI
+#### More about Generative Adversarial Networks: GAN
 
 Experiences to discover AI in all its forms
 -------------------------------------------

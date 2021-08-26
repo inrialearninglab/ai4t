@@ -1,3 +1,7 @@
+---
+title: AI Ethics "in the future"
+description:
+---
 #### To go further: AI Ethics "in the future"
 
 Resources in English on the ethics of AI and its future development have to be adapted if proposed.

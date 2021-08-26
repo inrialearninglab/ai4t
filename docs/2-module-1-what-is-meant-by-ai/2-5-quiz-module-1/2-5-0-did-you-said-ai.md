@@ -1,10 +1,9 @@
 ---
-title: QUIZ 1- Did You Said AI?
+title: QUIZ 1: Did You Said AI?
 description:
 ---
 #### QUIZ 1: Did You Said AI?
 
-_The questions of the quiz may be reformulated and more teacher oriented._
 
 **Beware!** Quiz 1 contains 3 parts with a total of 6 questions
 

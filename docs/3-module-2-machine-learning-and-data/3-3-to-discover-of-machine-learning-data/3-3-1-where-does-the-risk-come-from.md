@@ -1,11 +1,15 @@
+---
+title: Where Does the Risk Come From?
+description:
+---
 #### Where Does the Risk Come From?
 
 Long article about AI risk identification and classification published on www.lemonde.fr Web site.  
-  
+
 The article is dedicated to two types of risks linked to AI:  
 \- Data risk refers to the protection of data on these platforms  
 \- Algorithm risk refers to the drift of algorithmic discrimination  
-  
+
 The EU Guidelines for Trustworthy AI is quoted at the end of the unit.  
 Other resources in English about risk and cross studies between law and informatics may be found and integrated.
 
@@ -71,7 +75,7 @@ A range of cognitive biases should also be mentioned
 *   Confirmation bias is a tendency to favour information that reinforces one's view. For example, after a trusted person has told us that so-and-so is bossy, we only notice examples that show this.            
 *   The illusory correlation bias is a tendency to want to associate phenomena that are not necessarily related. For example, thinking that there is a relationship between oneself and an external event such as a train delay or weather.
 *   The endogenous bias is related to a relative inability to anticipate the future. For example, in the case of _credit scoring_, it may be that a prospect with a poor loan repayment history may change their lifestyle when they decide to start a family.  
-    
+
 
 ![](https://storage.googleapis.com/prd-blogs/2020/01/f9e2cccb-illustrationsbiais1.png)
 

@@ -1,3 +1,8 @@
+---
+title: Mechanisms in AI
+description:
+---
+
 #### Quiz 2: Mechanisms in AI
 
 **Warning!** This quiz 2 contains 6 questions

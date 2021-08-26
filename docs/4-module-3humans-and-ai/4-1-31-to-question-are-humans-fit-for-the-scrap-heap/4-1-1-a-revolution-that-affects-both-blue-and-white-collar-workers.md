@@ -1,3 +1,7 @@
+---
+title: A revolution that affects both blue and white collar workers
+description:
+---
 ### A revolution that affects both blue and white collar workers
 
 Previous industrial revolutions have always had an almost exclusive impact on the category of workers known as "**blue-collar workers**". That is, occupations involving rather manual tasks.
@@ -13,16 +17,16 @@ In an interview with [Chut magazine](https://chut.media/portraits/erwann-tison-l
 Image by [Thomas Meier](https://pixabay.com/users/tmeier1964-2034229/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1193318) for [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1193318)
 
 *   **"Physical"** jobs could be impacted by robotisation. Professionals would be replaced by machines that can perform difficult tasks faster and more efficiently than they can.
-    
+
 
 *   "**Intellectual**" jobs would be impacted by digitalisation. Algorithms could perform systematic, tedious and time-consuming tasks faster than humans.
-    
+
 
 *   Some professionals would see their daily lives improved by artificial intelligence mechanisms, which would allow them to be relieved of _repetitive tasks_ to focus on the most important aspects of their jobs.
-    
+
 
 *   Finally, some jobs, which require too much complex interaction with the environment, would not be directly threatened. This is the case for gardeners or plumbers, among others.
-    
+
 
 **Are these predictions likely and should we fear that we will eventually be mostly replaced by robots in our work?**
 

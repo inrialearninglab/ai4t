@@ -1,3 +1,7 @@
+---
+title: AI: How Does it Work?
+description:
+---
 #### AI: but how Does it Work?
 
 Texte translated from IAI Mooc. Possibility to add resources in English about deep learning, neuronal networks ...

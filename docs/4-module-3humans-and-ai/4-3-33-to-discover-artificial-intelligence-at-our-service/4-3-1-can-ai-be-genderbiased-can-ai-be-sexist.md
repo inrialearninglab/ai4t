@@ -1,3 +1,8 @@
+---
+title: Can AI be Gender-biased?
+description:
+---
+
 #### Can AI be Gender-biased?
 
 To be adapted if needed : resource about gender-biased AI and press article in French about Amazon AI recruitment.

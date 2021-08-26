@@ -3,13 +3,11 @@ title: What is in this Course?
 description:
 ---
 
-_The relevance of this original presentation of IAI Mooc is to be considered in line with the hybridization models that will be defined with the partners and the Methodological Framework (D2.1) of the AI4T Project._
-
 
 ### The MOOC is organised in 3 Modules:
 
  **Module 1: What is meant by AI?**
- 
+
 <img src="../Images/bulle-IAI-module1.png" alt="bulle-IAI-module1" width="200">
 
 This first part is dedicated to the acquisition of a first understanding of what is meant by Artificial Intelligence, what it is not and finally raises the question: What is intelligence?

@@ -1,3 +1,8 @@
+---
+title: Tutorial: "Boosted with AI?"
+description:
+---
+
 #### Tutorial: "Boosted with AI?"
 
 An English version of the tutorials without the short videos would be integrated for the pilot phase.

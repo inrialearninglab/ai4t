@@ -1,3 +1,8 @@
+---
+title: Boosted with AI!
+description:
+---
+
 #### Video : Boosted with AI !
 
 How do they put artificial intelligence in a pizza?
@@ -6,7 +11,7 @@ How do they put artificial intelligence in a pizza?
 
 To review the video and get subtitles in English or other language, you will need to change the preferences of the video on the YouTube player and select automatic translation in your prefered language.
 
- **Read also on the subject ![](/static/arrow-down-circle.svg)** 
+ **Read also on the subject ![](/static/arrow-down-circle.svg)**
 
 To be replaced by other resources in English.
 
