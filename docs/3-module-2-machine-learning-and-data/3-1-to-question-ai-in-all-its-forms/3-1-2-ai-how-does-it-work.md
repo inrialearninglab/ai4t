@@ -1,5 +1,5 @@
 ---
-title: AI: How Does it Work?
+title: AI&#58; How Does it Work?
 description:
 ---
 #### AI: but how Does it Work?

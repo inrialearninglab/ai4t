@@ -1,5 +1,5 @@
 ---
-title: QUIZ 1: Various Approaches
+title: Various Approaches
 description:
 ---
 #### QUIZ 1: Various Approaches

@@ -1,5 +1,5 @@
 ---
-title: Tutorial: "Boosted with AI?"
+title: Boosted with AI?
 description:
 ---
 

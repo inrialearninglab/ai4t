@@ -1,5 +1,5 @@
 ---
-title: Tutorial: Let's Create with AI
+title: Let's Create with AI
 description:
 ---
 #### Let's Create with AI

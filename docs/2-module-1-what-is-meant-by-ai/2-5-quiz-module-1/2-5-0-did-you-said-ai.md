@@ -1,5 +1,5 @@
 ---
-title: QUIZ 1: Did You Said AI?
+title: Did You Said AI?
 description:
 ---
 #### QUIZ 1: Did You Said AI?

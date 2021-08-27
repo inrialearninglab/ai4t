@@ -1,5 +1,5 @@
 ---
-title: Generative Adversarial Networks: GAN
+title: Generative Adversarial Networks (GAN)
 description:
 ---
 #### More about Generative Adversarial Networks: GAN
