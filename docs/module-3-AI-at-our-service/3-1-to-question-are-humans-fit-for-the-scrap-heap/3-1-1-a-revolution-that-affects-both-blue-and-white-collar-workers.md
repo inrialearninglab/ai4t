@@ -28,9 +28,9 @@ Image by [Thomas Meier](https://pixabay.com/users/tmeier1964-2034229/?utm_source
 
 **Are these predictions likely and should we fear that we will eventually be mostly replaced by robots in our work?**
 
-For the researcher and economist Gregory Verdugo _"Very poor indeed who can predict what will be technically automatable."_ We could seek to automate our entire society, but that would be our choice and we have to ask ourselves the question of the purpose of such a choice. For the moment, AI mainly allows us to **facilitate the work** of certain professionals, but in the future it will depend on how we collectively choose to organise society with these new [Tools](https://www.fun-mooc.fr/courses/course-v1:inria+41021+session01/74acf5a9f91540bdace334610838db53/#O).
+For the researcher and economist Gregory Verdugo _"Very poor indeed who can predict what will be technically automatable."_ We could seek to automate our entire society, but that would be our choice and we have to ask ourselves the question of the purpose of such a choice. For the moment, AI mainly allows us to **facilitate the work** of certain professionals, but in the future it will depend on how we collectively choose to organise society with these new [Tools](>).
 
-![](/static/artificial-intelligence-2228610_1280.jpg)
+![](>)
 
 Image by [Seanbatty](https://pixabay.com/fr/users/Seanbatty-5097598/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2228610) from [Pixabay](https://pixabay.com/fr/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2228610)
 
