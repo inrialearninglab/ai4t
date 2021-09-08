@@ -5,13 +5,7 @@ description:
 
 #### Can AI be Gender-biased?
 
-To be adapted if needed : resource about gender-biased AI and press article in French about Amazon AI recruitment.
-
 ![](/static/ondira-levrres-intelligence-artificielle-femmes.jpg)
-
-![Voice Artificial Intelligence](https://ici.radio-canada.ca/premiere/emissions/on-dira-ce-qu-on-voudra/segments/chronique/56567/siri-cortana-alexa-intelligence-artificielle-sexiste-silicon-valley)
-
-Photo : CBC/Radio-Canada -iStock - Editing: Amarilys Proulx
 
 An artificial intelligence does not think. So can it be racist, sexist or homophobic? It is possible for it to reproduce discriminatory mechanisms, if the mechanism has been trained by biased data. Human beings have [cognitive biases](https://www.fun-mooc.fr/courses/course-v1:inria+41021+session01/74acf5a9f91540bdace334610838db53/#B) in their reasoning.
 
@@ -23,12 +17,11 @@ Technologies are therefore not neutral; they indirectly reflect the ways in whic
 
 Artificial intelligence can reinforce inequities as well as combat them. Faced with these ethical and technical challenges, several modes of action are envisaged. For example, guaranteeing more gender diversity in computer sciences, so that men are no longer over-represented. Or to overcome cognitive biases by teaching the algorithm to recognise them. This second option requires designers to consider cognitive biases upstream, even though they are not always aware of them. The best solution is to ensure diversity in the learning data, as data can be easier to change than mindsets.3
 
+
 * * *
 
-1 _[Amazon a dû se débarrasser d’une intelligence artificielle sexiste”,](http://www.slate.fr/story/168413/amazon-abandonne-intelligence-artificielle-sexiste) Slatefr,10 octobre 2018. ; [Amazon met fin à une intelligence artificielle sexiste”](https://www.franceinter.fr/emissions/c-est-deja-demain/c-est-deja-demain-12-octobre-2018) par Hélène Chevallier, France Inter, emission c'est déjà demain, vendredi 12 octobre 2018 ; [Amazon a du débrancher un logiciel de recrutement qui s’est révélé sexiste”](https://www.europe1.fr/emissions/axel-de-tarle-vous-parle-economie/amazon-a-du-debrancher-une-logiciel-de-recrutement-qui-sest-revele-sexiste-37768493), La matinale d'Europe 1, le 6h - 9h, l'édito économique d'Axel de Tarlé, le 12 octobre 2018._  
-2 _[Quand l’Intelligence Artificielle rencontre les Sciences du Langage”](https://chut.media/portraits/intelligence-artificielle-sciences-du-langage/) par Aurore Bisicchia, Chut!, janvier 2005._  
-3 _[“L’IA est–elle sexiste, elle aussi ?”](https://www.lemonde.fr/blog/binaire/2018/03/08/lia-est-elle-sexiste-elle-aussi/) par Anne-Marie Kermarrec, Blog Binaire, Le Monde, 08 mars 2018._  
-_["Les biais sexistes de l'IA peuvent être corrigés, selon les chercheuses Aude Bernheim et Flora Vincent"](https://www.usinenouvelle.com/editorial/les-biais-sexistes-de-l-ia-peuvent-etre-corriges-selon-les-chercheuses-aude-bernheim-et-flora-vincent.N815345), L'Usine Nouvelle, propos recueillis par Marion Garreau, 08/03/2019._  
-_["Le secteur de l’intelligence artificielle est aussi masculin qu’un bar des sports le soir d’un match de Ligue 1”](https://www.lopinion.fr/edition/politique/secteur-l-intelligence-artificielle-est-aussi-masculin-qu-bar-sports-180114), Interview d'Aude Bernheim et Flora Vincent par Irène Inchauspé, L’opinion, 08 Mars 2019._  
-
-### Your feedback
+1 _[Amazon a dû se débarrasser d’une intelligence artificielle sexiste”,](http://www.slate.fr/story/168413/amazon-abandonne-intelligence-artificielle-sexiste) Slatefr,10 octobre 2018. ; [Amazon met fin à une intelligence artificielle sexiste”](https://www.franceinter.fr/emissions/c-est-deja-demain/c-est-deja-demain-12-octobre-2018) par Hélène Chevallier, France Inter, emission c'est déjà demain, vendredi 12 octobre 2018 ; [Amazon a du débrancher un logiciel de recrutement qui s’est révélé sexiste”](https://www.europe1.fr/emissions/axel-de-tarle-vous-parle-economie/amazon-a-du-debrancher-une-logiciel-de-recrutement-qui-sest-revele-sexiste-37768493), La matinale d'Europe 1, le 6h - 9h, l'édito économique d'Axel de Tarlé, le 12 octobre 2018(Amazon had to get rid of a sexist artificial intelligence)._  
+2 _[Quand l’Intelligence Artificielle rencontre les Sciences du Langage”](https://chut.media/portraits/intelligence-artificielle-sciences-du-langage/) par Aurore Bisicchia, Chut!, janvier 2005. 'When artificial intelligence meets language sciences)_  
+3 _[“L’IA est–elle sexiste, elle aussi ?”](https://www.lemonde.fr/blog/binaire/2018/03/08/lia-est-elle-sexiste-elle-aussi/) par Anne-Marie Kermarrec, Blog Binaire, Le Monde, 08 mars 2018. (Is AI also sexist ?)_  
+_["Les biais sexistes de l'IA peuvent être corrigés, selon les chercheuses Aude Bernheim et Flora Vincent"](https://www.usinenouvelle.com/editorial/les-biais-sexistes-de-l-ia-peuvent-etre-corriges-selon-les-chercheuses-aude-bernheim-et-flora-vincent.N815345), L'Usine Nouvelle, propos recueillis par Marion Garreau, 08/03/2019.(Gender bias in AI can be corrected according to researchers)_  
+_["Le secteur de l’intelligence artificielle est aussi masculin qu’un bar des sports le soir d’un match de Ligue 1”](https://www.lopinion.fr/edition/politique/secteur-l-intelligence-artificielle-est-aussi-masculin-qu-bar-sports-180114), Interview d'Aude Bernheim et Flora Vincent par Irène Inchauspé, L’opinion, 08 Mars 2019.(The artificial intelligence sector is as male as a sports bar on the night of a Premier League match)_

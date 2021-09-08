@@ -8,8 +8,6 @@ Previous industrial revolutions have always had an almost exclusive impact on th
 
 In contrast, the so-called "**white-collar workers**", those in "office" jobs, have never before been threatened by these revolutions. The technological revolution heralded by AI is in this respect very different from previous ones. It threatens both white and blue collar workers. In the list of jobs that will be most affected in the years to come, we find not only jobs such as train driving or counter work, but also in banking and insurance, in accounting, in office automation or in management.
 
-In the web article presented in IAI Mooc and translated below, the author explains the typology of transformations that may be foreseen according to the nature of the work. The Mooc V1 could propose a teacher-oriented resource adapted to each country?
-
 In an interview with [Chut magazine](https://chut.media/portraits/erwann-tison-le-numerique-mon-emploi-et-moi/), Erwan Tison, director of studies at the Sapiens Institute, identifies in his book Robots, my job and me several job categories that, to different degrees, could be transformed by AI.
 
 ![](/static/humanVSIA.jpg)
@@ -37,5 +35,3 @@ For the researcher and economist Gregory Verdugo _"Very poor indeed who can pred
 Image by [Seanbatty](https://pixabay.com/fr/users/Seanbatty-5097598/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2228610) from [Pixabay](https://pixabay.com/fr/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2228610)
 
 Moreover, if artificial intelligence is capable of learning quickly, there are human capacities that can only be simulated and not realised, such as human empathy and creativity, for example. Yet in many professions, these two qualities are indispensable. A future where our nurses, artists or educators resemble R2D2 is therefore not yet possible.
-
-### Your feedback

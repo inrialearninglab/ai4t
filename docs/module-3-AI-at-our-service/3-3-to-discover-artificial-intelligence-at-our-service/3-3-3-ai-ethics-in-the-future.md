@@ -4,11 +4,12 @@ description:
 ---
 #### To go further: AI Ethics "in the future"
 
-Resources in English on the ethics of AI and its future development have to be adapted if proposed.
 
 ### AI Ethics in the future
 
-Article from [www.lemonde.fr](https://www.lemonde.fr/blog/binaire/2020/03/25/une-ethique-de-lia-au-futur/) web site.
+#### To go further: AI Ethics "in the future"
+
+### AI Ethics in the future
 
 Artificial Intelligence (AI) is at the heart of many debates and controversies in society. No area of social and economic life seems to be spared from the subject. What is interesting to note is that in all the debates today around AI, ethics is always called upon. No one seems to reduce the question of AI to a simple technical issue. This is evidenced by the proliferation of reports on the ethics of AI, produced by private companies, public actors and civil society organisations.
 
@@ -56,26 +57,24 @@ Does the ethics of AI take into account the fact that the impacts of AI will dif
 
 **Alain Loute** (Centre d’éthique médicale, labo ETHICS EA 7446, Université Catholique de Lille - Centre for Medical Ethics /Catholic University of Lille)
 
-[\[1\]](https://www.lemonde.fr/#_ftnref1) [Comment permettre à l’homme de garder la main](https://www.cnil.fr/sites/default/files/atoms/files/cnil_rapport_garder_la_main_web.pdf) ? Les enjeux éthiques des algorithmes et de l’intelligence artificielle, CNIL, 2017.
+[\[1\]](https://www.lemonde.fr/#_ftnref1) [Comment permettre à l’homme de garder la main](https://www.cnil.fr/sites/default/files/atoms/files/cnil_rapport_garder_la_main_web.pdf) ? Les enjeux éthiques des algorithmes et de l’intelligence artificielle, CNIL, 2017 (How to enable man to keep his hand in, in.The ethical challenges of algorithms and artificial intelligence).
 
-[\[2\]](https://www.lemonde.fr/#_ftnref2) [Donner un sens à l’intelligence artificielle, Pour une stratégie nationale et européenne](https://www.aiforhumanity.fr/pdfs/9782111457089_Rapport_Villani_accessible.pdf), Rapport Villani, 8 mars 2018.
+[\[2\]](https://www.lemonde.fr/#_ftnref2) [Donner un sens à l’intelligence artificielle, Pour une stratégie nationale et européenne](https://www.aiforhumanity.fr/pdfs/9782111457089_Rapport_Villani_accessible.pdf), Rapport Villani, 8 mars 2018 (Giving meaning to artificial intelligence, For a national and European strategy).
 
-[\[3\]](https://www.lemonde.fr/#_ftnref3) [Ethique de la recherche en apprentissage machine](http://cerna-ethics-allistene.org/digitalAssets/53/53991_cerna___thique_apprentissage.pdf), Avis de la Commission de réflexion sur l’Ethique de la Recherche en sciences et technologies du Numérique d’Allistene (CERNA), juin 2017
+[\[3\]](https://www.lemonde.fr/#_ftnref3) [Ethique de la recherche en apprentissage machine](http://cerna-ethics-allistene.org/digitalAssets/53/53991_cerna___thique_apprentissage.pdf), Avis de la Commission de réflexion sur l’Ethique de la Recherche en sciences et technologies du Numérique d’Allistene (CERNA), juin 2017 (Ethics of machine learning research, in.Opinion of the Allistene Commission on Research Ethics in Digital Science and Technology).
 
-\[4\] E. Sardin, La vie algorithmique, Critique de la raison numérique, Ed. L’échappée, Paris 2015, pp. 21-22.
+\[4\] E. Sardin, La vie algorithmique, Critique de la raison numérique, Ed. L’échappée, Paris 2015, pp. 21-22 (Algorithmic Life, Critique of Digital Reason).
 
-\[5\] D. Bigo, « Sécurité maximale et prévention ? La matrice du futur antérieur et ses grilles », in B. Cassin (éd.), Derrière les grilles, Sortons du tout-évaluation, Paris, Fayard, 2014, p. 111-138, p. 126.
+\[5\] D. Bigo, « Sécurité maximale et prévention ? La matrice du futur antérieur et ses grilles », in B. Cassin (éd.), Derrière les grilles, Sortons du tout-évaluation, Paris, Fayard, 2014, p. 111-138, p. 126 (Maximum security and prevention? The future tense matrix and its grids).
 
-\[6\] P. Dumouchel et L. Damiano, Vivre avec des robots, Essai sur l’empathie artificielle, Paris, Seuil, 2016, p. 191.
+\[6\] P. Dumouchel et L. Damiano, Vivre avec des robots, Essai sur l’empathie artificielle, Paris, Seuil, 2016, p. 191 (Living with robots, An essay on artificial empathy).
 
 \[7\] ibid., p. 191-192.
 
-\[8\] A. Mathieu-Fritz et G. Gaglio, « À la recherche des configurations sociotechniques de la télémédecine, Revue de littérature des travaux de sciences sociales », in Réseaux, 207, 2018/1, pp. 27-63.
+\[8\] A. Mathieu-Fritz et G. Gaglio, « À la recherche des configurations sociotechniques de la télémédecine, Revue de littérature des travaux de sciences sociales », in Réseaux, 207, 2018/1, pp. 27-63 (In search of the socio-technical configurations of telemedicine).
 
-\[9\] C. Bertholet et L. Létourneau, Ubérisons l’Etat avant que les autres ne s’en chargent, Paris, Armand Collin, 2017, p.182.
+\[9\] C. Bertholet et L. Létourneau, Ubérisons l’Etat avant que les autres ne s’en chargent, Paris, Armand Collin, 2017, p.182 (Let's uberise the state before others do it).
 
-\[10\] A. Lowenhaupt Tsing, Le champignon de la fin du monde, Sur la possibilité de vivre dans les ruines du capitalisme, Paris, La Découverte, 2017, p. 78.
+\[10\] A. Lowenhaupt Tsing, Le champignon de la fin du monde, Sur la possibilité de vivre dans les ruines du capitalisme, Paris, La Découverte, 2017, p. 78(The mushroom at the end of the world, On the possibility of living in the ruins of capitalism).
 
 \[11\] A. Jobin, M. Ienca, & E. Vayena, « The global landscape of AI ethics guidelines », in Nat Mach Intell, 1, 2019, pp. 389–399.
-
-### Your feedback
