@@ -2,4 +2,6 @@
 title: Various Approaches
 description:
 ---
-#### QUIZ 1: Various Approaches
+### QUIZ 1: Various Approaches
+
+>insérer QUIZ
