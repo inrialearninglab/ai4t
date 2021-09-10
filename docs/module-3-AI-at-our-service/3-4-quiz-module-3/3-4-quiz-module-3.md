@@ -1,5 +1,5 @@
 ---
-title: AI, history and approaches
+title: Humans and AI
 description:
 ---
 
@@ -8,4 +8,4 @@ description:
 _Remarque :_ There may be 0, 1 or more (or all) answers to tick, on some questions.
 
 
-<iframe style="width:100%;height:500px;" src="activities-3/AI4T-quiz-module3-artificial-intelligence-at-our-service-html/index.html"  title="Quiz activity" frameborder="0" allowfullscreen></iframe>
+[![Quiz3: Humans and AI](../Images/AI4T-quiz-module3.png)](activities-3/AI4T-quiz-module3-artificial-intelligence-at-our-service-html/index.html){:target="_blank" }
