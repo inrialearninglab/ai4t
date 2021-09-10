@@ -11,6 +11,8 @@ extra_javascript:
 theme:
   name: material
   custom_dir: overrides
+  logo: assets/AI4T_reducirano_bela.png
+  favicon: assets/AI4T_reducirano_bela.png
   palette:
     scheme: preference
     primary: indigo
