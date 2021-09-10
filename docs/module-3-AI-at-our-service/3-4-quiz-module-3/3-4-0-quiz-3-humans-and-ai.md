@@ -12,4 +12,4 @@ _Remarque :_ There may be 0, 1 or more (or all) answers to tick, on some questio
 
 [Download Quiz in pdf format](activities-3/PDF/AI4T-quiz-module3-artificial-intelligence-at-our-service.pdf)
 
-[Download Quiz in scorm 1.2 format] (activities-3/SCORM/AI4T-quiz-module3-artificial-intelligence-at-our-service-scorm12)
+[Download Quiz in scorm 1.2 format](activities-3/SCORM/AI4T-quiz-module3-artificial-intelligence-at-our-service-scorm12)
