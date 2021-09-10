@@ -15,7 +15,7 @@ Let's imagine that we want to teach an artificial intelligence to recognise a ca
 To do this, we will provide a lot of data, namely, many images where a cat can be seen and many images where no cat can be seen, so that the calculation adjusts its parameters in order to give an output value corresponding to the presence or not of the feline. All these images constitute the input data, and the expected result, whether or not there is a cat in the image, the output data. These "input" and "output" data are the only information provided for its training.  
 The computational mechanism must therefore adjust internal parameters (such as the control knobs of a camera) to determine whether or not there is a cat in the image. The first time, a random and therefore most likely false result will be provided, then little by little the mechanism will observe the errors and by successive trials will adjust the parameters to reduce them. This process is known as machine learning.
 
-![]()
+![Image by Gerd Altmann from Pixabay]()
 
 Image by Gerd Altmann from Pixabay
 
@@ -23,9 +23,9 @@ This mechanism of artificial neural networks is quite different from the neurons
 
 We speak of **deep learning** when there are many hidden layers stacked up to make the calculation more efficient.
 
-We speak of **convolutional neural networks** when neurons gather information from other neurons in the vicinity before transmitting the output to higher layers. For example, when analysing an image, a convolutional neural network will create filters to group information from a small area of the image. For example, the contrast, or a colour element, and then at the next layer small areas corresponding to basic elements such as a line or a slightly round area, and little by little the mechanism recognises a cat as well as Jim Davis, it's amazing. But then, what reasoning has been put in place to distinguish between images with and without cats? Well, none! It's just a calculation, a blind calculation in a way. And we don't know how to interpret such a calculation today. This is what we call the black box of AI 2.
+We speak of **convolutional neural networks** when neurons gather information from other neurons in the vicinity before transmitting the output to higher layers. For example, when analysing an image, a convolutional neural network will create filters to group information from a small area of the image. For example, the contrast, or a colour element, and then at the next layer small areas corresponding to basic elements such as a line or a slightly round area, and little by little the mechanism recognises a cat as well as Jim Davis, it's amazing. But then, what reasoning has been put in place to distinguish between images with and without cats? Well, none! It's just a calculation, a blind calculation in a way. And we don't know how to interpret such a calculation today. This is what we call the black box of AI <sup>2</sup>.
 
 * * *
-2References in French: _[Comprendre le DeepLearning et les Réseaux de neurones en 10 mins !](https://www.youtube.com/watch?v=gPVVsw2OWdM)_ vidéo, Sociamix, août 2019 - (Understanding deep learning and neural networks in 10 mins!)  
+<sup>2</sup>References in French: _[Comprendre le DeepLearning et les Réseaux de neurones en 10 mins !](https://www.youtube.com/watch?v=gPVVsw2OWdM)_ vidéo, Sociamix, août 2019 - (Understanding deep learning and neural networks in 10 mins!)  
 _[Le deep learning](https://www.youtube.com/watch?v=trWrEWfhTVg)_, vidéo, Science étonnante #27, avril 2016  
 _[Comment le « deep learning » révolutionne l'intelligence artificielle](https://www.lemonde.fr/pixels/article/2015/07/24/comment-le-deep-learning-revolutionne-l-intelligence-artificielle_4695929_4408996.html)_ par Morgane Tual ; Le Monde, juillet 2015. \- (How Deep Learning transforms AI.)
