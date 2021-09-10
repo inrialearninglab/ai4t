@@ -13,8 +13,10 @@ theme:
   custom_dir: overrides
   palette:
     scheme: preference
-    primary: deep purple
-    accent: indigo
+    primary: indigo
+    accent: purple
+  font:
+    text: Open-sans
   features:
     - navigation.tabs
 markdown_extensions:
