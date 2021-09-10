@@ -1,6 +1,8 @@
 ---
 title: Various Approaches
 description:
+hide:
+- toc
 ---
 ### QUIZ 1: Various Approaches
 
