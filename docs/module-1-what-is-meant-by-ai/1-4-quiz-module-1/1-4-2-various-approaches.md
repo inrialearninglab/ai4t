@@ -1,8 +1,6 @@
 ---
 title: Various Approaches
-description: quiz
-hide:
-  - navigation
+description:
 ---
 ### QUIZ 1: Various Approaches
 
