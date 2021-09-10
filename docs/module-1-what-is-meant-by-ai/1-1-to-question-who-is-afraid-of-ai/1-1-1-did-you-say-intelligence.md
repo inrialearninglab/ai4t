@@ -4,7 +4,7 @@ description:
 ---
 ### Did You say Intelligence?
 
-Translated text from the french IAI Mooc.
+_Translated text from the french IAI Mooc._
 
 More than being unbeatable at mental arithmetic or Go, intelligence is the ability of a living system to understand, interpret, learn and adapt to change.
 

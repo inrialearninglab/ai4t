@@ -2,6 +2,7 @@
 title: The AI of Outstanding Achievements
 description:
 ---
+
 ### The AI of Outstanding Achievements
 
 **AI has become a hot topic in the media and science magazines** due to numerous achievements, many of which are the result of advances in the field of machine learning.
@@ -29,7 +30,7 @@ Equally fundamental are the results obtained in **areas such as knowledge repres
 
 *   **Google Knowledge Graph** improves search results by displaying structured data on requested search terms or phrases;
 *   **Schema.org** contains millions of RDF triples describing known facts: search engines can use this data to provide structured information on demand;
-*   #Facebook uses the **OpenGraph protocol** - based on RDFa - to allow any web page to become an enriched object in a social graph.
+*   **Facebook uses the **OpenGraph protocol** - based on RDFa - to allow any web page to become an enriched object in a social graph.
 
 Finally, another important trend is the **recent opening up of several previously proprietary technologies** so that the AI research community can not only benefit from them, but also contribute to enriching them with new features.  
 

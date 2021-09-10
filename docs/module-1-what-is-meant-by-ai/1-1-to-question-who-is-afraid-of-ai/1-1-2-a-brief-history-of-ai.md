@@ -4,13 +4,13 @@ description:
 ---
 ### A Brief History of AI
 
-Translated text from the french IAI Mooc.
+_Translated text from the french IAI Mooc._
 
 Today, artificial intelligence is present in many of the technologies we use every day: in our computers, our mobile phones, our watches, our speakers... It is even present in our search engines and on social networks. This is probably what explains the new craze that it is experiencing today, we are passionate about it because it has enabled us to boost our technologies and therefore have better uses for them.
 
 However, **AI is an old scientific discipline**, it was officially recognised as a field of research in 1956 and the progress of research in this field will be booming until 1974.
 
- ![Premier Hiver de l'IA](../Images/Hiver_1980.png)
+ ![Image First winter for AI](../Images/Hiver_1980.png)
 
  Subsequently, as the hoped-for results did not materialise, investors lost interest in the discipline and research in the field began to falter until 1980: this was the first winter of AI. It was **the rise in the 1980s of expert systems**, which made it possible to reproduce cognitive abilities and to outperform experts in their field, that revived the dynamics of the discipline. But here again, the enthusiasm of funders is waning in the face of slower-than-expected progress, and AI will experience a second winter of about ten year
 

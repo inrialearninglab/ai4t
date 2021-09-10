@@ -28,10 +28,8 @@ This third part deals with the problems of ethics and aims to understand the sta
 #### Each module is articulated in 3 steps:
 
 *   To Question Yourself: to move from preconceived ideas to questions on which to build understanding.
-*   To Experiment: to perform activity (on line or not) and see for yourself.
+*   To Experiment: to perform activity (on line or not) and see by yourself.
 *   To Discover: to understand how it works through the history of humans and their ideas.
-
-At the end of each module, directly on the FUN platform, **theoretical exercises (quizzes)** and **practical exercises (AI that can be played)** are offered to you to reinforce the knowledge and skills acquired.
 
 ### Videos and quizzes?
 

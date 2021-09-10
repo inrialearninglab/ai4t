@@ -2,20 +2,21 @@
 title: What types of AI?
 description:
 ---
-#### What types of AI?
+
+### What types of AI?
 
 Many AI definitions and classification can be found in the litterature. Although AI has entered the common language, there is no really shared definition.  
 One of the classification distinguishes between weak AI and strong AI. An other one refers to symbolic or numerical approaches to artificial intelligence.  Let's see what do they refer to.
 
-Translated text from the french IAI Mooc.
+_Translated text from the french IAI Mooc._
 
 Weak or strong AI?
 ------------------
 
 The expression "artificial intelligence", created in the 1950s, refers to the field of research that studies the mechanisms of intelligence by modelling them with algorithms and experimenting with machines. These mechanisms include, for example, the ability to automatically find solutions to problems, which may involve planning, prediction, control, memory or learning. By extension, the term "artificial intelligence" is often used to refer to algorithms that simulate or share some of the intelligence capabilities of living beings.
 
-*   **Weak artificial intelligence  
-    **This is the artificial intelligence we know today: it is an algorithm that "learns", by adapting its parameters to learning data, and is not endowed with mental and cognitive capacities, but is capable of performing a specific task much more efficiently, sometimes more so than a human being.
+*   **Weak artificial intelligence**  
+    This is the artificial intelligence we know today: it is an algorithm that "learns", by adapting its parameters to learning data, and is not endowed with mental and cognitive capacities, but is capable of performing a specific task much more efficiently, sometimes more so than a human being.
 *   **Strong artificial intelligence**  
     An artificial intelligence that would be capable of copying human aptitudes (learning, understanding, apprehending, reasoning, making decisions, having a conscience, emotions, etc.). To date, strong artificial intelligence does not exist, it is a belief.
 

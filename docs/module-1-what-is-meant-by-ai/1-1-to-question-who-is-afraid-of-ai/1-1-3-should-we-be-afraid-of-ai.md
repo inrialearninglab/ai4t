@@ -4,11 +4,11 @@ description:
 ---
 ### Should We Be Afraid of AI?
 
-Translated text from the french IAI Mooc.
+_Translated text from the french IAI Mooc._
 
 AI makes us dream as well as have nightmares. It must be said that it has greatly inspired science fiction, from "2001 : A Space Odyssey" to "Terminator" or more recently "Her", there is plenty to feed our imagination. However, many eminent scientists, such as Stephen Hawkings and Elon Musk, also warn us against the development of this discipline. So should we fear that AI will destroy humanity, or on the contrary should we see it as our salvation?
 
-![ Image «The Starry Night»](../Images/DeepDream-Google.jpg)
+![Image «The Starry Night»](../Images/DeepDream-Google.jpg)
 
 « The Starry Night » by Vincent Van Gogh as seen by Google [Deep Dream](https://deepdreamgenerator.com/#gallery)
 
