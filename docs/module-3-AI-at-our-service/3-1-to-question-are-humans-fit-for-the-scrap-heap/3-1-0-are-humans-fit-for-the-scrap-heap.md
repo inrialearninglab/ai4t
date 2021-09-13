@@ -10,4 +10,4 @@ Today with computers we talk about automatic information processing. Does this m
 **Do you also have questions?**  
 _Watch the video below (1 minute 51):_
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CpS2_IsY2EI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CpS2_IsY2EI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
