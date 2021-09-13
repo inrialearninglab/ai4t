@@ -10,4 +10,4 @@ The development of computer science in general and artificial intelligence in pa
 **Want to discover "Artificial intelligence at our service?"**  
 _View the video below (4'36"):_
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/b3ljE6erMkY?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="640" height="360" src="https://www.youtube.com/embed/b3ljE6erMkY?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>

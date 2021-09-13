@@ -9,4 +9,4 @@ When we talk about AI today, we most often hear "machine learning". But how do m
 **Explanation**  
 _Watch the video below (9'35")_
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XD6fvv7ldA8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="640" height="360" src="https://www.youtube.com/embed/XD6fvv7ldA8?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
