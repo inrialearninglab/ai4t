@@ -3,8 +3,6 @@ title: What is Artificial Intelligence?
 description:
 ---
 
-### What is Artificial Intelligence?
-
 "Our computers, have they become intelligent or not?" Let's see what biological intelligence is so we can define AI with the different symbolic, numerical approaches... All the artificial intelligences we come across in real life are just technical and very specific!
 
 **Want to find out "what is artificial intelligence?"**  

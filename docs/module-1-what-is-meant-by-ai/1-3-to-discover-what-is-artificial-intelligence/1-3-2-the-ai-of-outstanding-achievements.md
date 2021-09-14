@@ -3,8 +3,6 @@ title: The AI of Outstanding Achievements
 description:
 ---
 
-### The AI of Outstanding Achievements
-
 **AI has become a hot topic in the media and science magazines** due to numerous achievements, many of which are the result of advances in the field of machine learning.
 
 AI research has made significant progress in the last decade in a variety of areas. The **best known advances are those in machine learning**, thanks in particular to the development of deep learning architectures, multi-layer convolutional neural networks that learn from large volumes of data on intensive computing architectures.

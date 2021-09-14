@@ -2,7 +2,6 @@
 title: Should We Be Afraid of AI?
 description:
 ---
-### Should We Be Afraid of AI?
 
 _Translated text from the french IAI Mooc._
 

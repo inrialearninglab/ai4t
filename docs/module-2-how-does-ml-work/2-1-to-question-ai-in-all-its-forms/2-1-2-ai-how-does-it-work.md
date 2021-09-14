@@ -2,7 +2,6 @@
 title: AI&#58; How Does it Work?
 description:
 ---
-### AI: but how Does it Work?
 
 _Texte translated from IAI Mooc._
 

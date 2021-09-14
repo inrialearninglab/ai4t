@@ -2,7 +2,6 @@
 title: Of Machine Learning and Data
 description:
 ---
-### Of Machine Learning and Data
 
 When we talk about AI today, we most often hear "machine learning". But how do machines learn, and what do they learn from?
 

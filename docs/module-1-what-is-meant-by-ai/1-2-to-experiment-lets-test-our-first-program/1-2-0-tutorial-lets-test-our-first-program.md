@@ -2,7 +2,6 @@
 title: Let's Test our First Program
 description:
 ---
-### Tutorial : Let's Test our First Program
 
 What is AI and how does an AI program work?  
 Go ahead and train an AI!

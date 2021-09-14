@@ -5,8 +5,6 @@ hide:
 - toc
 ---
 
-### AI Ethics in the future
-
 _Text translated from the online press article in French [(www.lemonde.fr)](https://www.lemonde.fr/blog/binaire/2020/03/25/une-ethique-de-lia-au-futur/) about ethics and machine learning._
 
 Artificial Intelligence (AI) is at the heart of many debates and controversies in society. No area of social and economic life seems to be spared from the subject. What is interesting to note is that in all the debates today around AI, ethics is always called upon. No one seems to reduce the question of AI to a simple technical issue. This is evidenced by the proliferation of reports on the ethics of AI, produced by private companies, public actors and civil society organisations.

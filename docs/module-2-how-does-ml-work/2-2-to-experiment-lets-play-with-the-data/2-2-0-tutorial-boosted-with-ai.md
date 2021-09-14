@@ -3,8 +3,6 @@ title: Boosted with AI?
 description:
 ---
 
-### Tutorial: "Boosted with AI?"
-
 There is no better way to understand how machine learning and program training works than to understand how to properly prepare your dataset.
 
 **It's your turn!**  

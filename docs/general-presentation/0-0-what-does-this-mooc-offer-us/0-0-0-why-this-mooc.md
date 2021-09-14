@@ -3,8 +3,6 @@ title: Why this Mooc?
 description:
 ---
 
-#### Why This Mooc?
-
 Used by everyone from now on, the term "artificial intelligence" needs to be explained and understood in order to be able to appropriate it and to take the necessary distance from the numerous preconceived ideas on the subject.  
 The objective of this online resource is to share a minimal culture on Artificial Intelligence, or rather AI components, in particular in the school context, and to give everyone the possibility to better master the issues and the use of these technologies.
 

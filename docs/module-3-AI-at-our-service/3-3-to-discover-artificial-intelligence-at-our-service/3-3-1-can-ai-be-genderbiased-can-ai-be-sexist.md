@@ -5,8 +5,6 @@ hide:
 - toc
 ---
 
-### Can AI be Gender-biased?
-
 _Translated text from the french IAI Mooc._
 
 <center><img src="../Images/ondira-levrres-intelligence-artificielle-femmes.jpg" alt="Photo by Fernando Arcos from Pexels" width="500"></center>

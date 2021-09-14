@@ -3,8 +3,6 @@ title: Our Daily Lives Boosted by AI
 description:
 ---
 
-### Our Daily Lives Boosted by AI
-
 _Texte translated from IAI Mooc._
 
 Many of the technologies we use now work with artificial intelligence. They use two types of AI software applications: a "recognition" system and/or a prediction system.

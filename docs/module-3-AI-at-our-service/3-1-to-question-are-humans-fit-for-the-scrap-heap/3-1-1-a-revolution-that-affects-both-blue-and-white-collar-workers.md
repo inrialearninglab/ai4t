@@ -4,7 +4,6 @@ description:
 hide:
 - toc
 ---
-### A revolution that affects both blue and white collar workers
 
 Previous industrial revolutions have always had an almost exclusive impact on the category of workers known as "**blue-collar workers**". That is, occupations involving rather manual tasks.
 

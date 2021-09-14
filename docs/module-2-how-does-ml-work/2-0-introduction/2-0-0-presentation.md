@@ -2,9 +2,8 @@
 title: Presentation
 description:
 ---
-### How does Machine Learning work?
 
-**Objective:**
+**Objective of Module 2:**
 
 Understand the principles of machine learning and the crucial role played by the control of data sets.
 

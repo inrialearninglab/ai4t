@@ -2,7 +2,6 @@
 title: A Brief History of AI
 description:
 ---
-### A Brief History of AI
 
 _Translated text from the french IAI Mooc._
 

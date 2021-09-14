@@ -2,7 +2,6 @@
 title: Where Does the Risk Come From?
 description:
 ---
-### Where Does the Risk Come From?
 
 > traduire illustrations?
 

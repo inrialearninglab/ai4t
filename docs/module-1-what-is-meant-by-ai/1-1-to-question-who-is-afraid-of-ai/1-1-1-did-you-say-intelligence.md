@@ -2,7 +2,6 @@
 title: Did You say Intelligence?
 description:
 ---
-### Did You say Intelligence?
 
 _Translated text from the french IAI Mooc._
 

@@ -4,11 +4,9 @@ description:
 hide:
 - toc
 ---
-#### To go further: Machine Learning Seeks its Ethics
 
 _Text translated from the online press article in French [(01net.com)](https://www.01net.com/actualites/intelligence-artificielle-l-apprentissage-automatique-cherche-son-ethique-1712366.html) about ethics and machine learning._
 
-### Machine Learning Seeks its Ethics
 
 More and more artificial intelligence algorithms are beginning to rule our lives, although it is not clear whether their decisions are well-founded. Good practices and tools are beginning to emerge to promote the ethical and responsible use of this technology.
 

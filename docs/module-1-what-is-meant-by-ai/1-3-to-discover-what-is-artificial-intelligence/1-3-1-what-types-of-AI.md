@@ -3,7 +3,6 @@ title: What types of AI?
 description:
 ---
 
-### What types of AI?
 
 Many AI definitions and classification can be found in the litterature. Although AI has entered the common language, there is no really shared definition.  
 One of the classification distinguishes between weak AI and strong AI. An other one refers to symbolic or numerical approaches to artificial intelligence.  Let's see what do they refer to.

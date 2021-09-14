@@ -3,8 +3,6 @@ title: Boosted with AI!
 description:
 ---
 
-###Boosted with AI !
-
 How do they put artificial intelligence in a pizza?
 
 _Watch the video below (1'26")_

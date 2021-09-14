@@ -3,9 +3,7 @@ title: What is in this Course?
 description:
 ---
 
-### What is in this Course? How is it Organised?
-
-#### The MOOC is organised in 3 Modules:
+### The MOOC is organised in 3 Modules:
 
  **Module 1: What is meant by Artificial Intelligence?**
 
@@ -25,7 +23,7 @@ This second part helps to understand the basics of machine learning and the key 
 
 This third part deals with the problems of ethics and aims to understand the stakes and the levers for AI to be at the service of humans.
 
-#### Each module is articulated in 3 steps:
+### Each module is articulated in 3 steps:
 
 *   To Question Yourself: to move from preconceived ideas to questions on which to build understanding.
 *   To Experiment: to perform activity (on line or not) and see by yourself.

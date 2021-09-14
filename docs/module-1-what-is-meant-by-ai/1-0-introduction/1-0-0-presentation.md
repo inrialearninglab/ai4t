@@ -2,9 +2,8 @@
 title: Presentation
 description:
 ---
-### What is Meant by AI?
 
-**Objective:**
+**Objective of Module 1:**
 
 Gain an initial understanding of what is meant by Artificial Intelligence (AI) and what it is not.
 

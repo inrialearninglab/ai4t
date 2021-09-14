@@ -5,9 +5,8 @@ hide:
 - toc
 ---
 
-### Artificial intelligence at our service?
 
-**Objective:**
+**Objective of Module 3:**
 
 Understanding the challenges and levers for putting AI to work for people.
 

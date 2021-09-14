@@ -5,7 +5,7 @@ hide:
 - toc
 ---
 
-### Quiz Module 3
+### Quiz Module 3: Humans and AI
 
 Quiz Module 3 contains 3 parts:
 
