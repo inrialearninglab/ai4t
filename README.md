@@ -1,8 +1,8 @@
-# AI4T : Educational resources
+![Logo](https://user-images.githubusercontent.com/5736114/133277346-2bf4460c-9a3d-48a7-a28c-6f81fc7f709c.png)
 
 This repository contains educational resources for teachers about artificial intelligence.
 
-## How to use these resources
+# How to use these resources
 
 This resources a free to use, download and to make your own website. You can host **for free** using **Github Pages** ([see below](#make-your-own-github-website)). 
 
