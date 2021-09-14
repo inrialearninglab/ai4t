@@ -1,55 +1,64 @@
-# Portail AI4T
+# AI4T : Educational resources
 
-Ce dépôt contient la configuration et les templates du portail AI4T.
+This repository contains educational resources for teachers about artificial intelligence.
 
-## Organisation des fichiers
+## How to use these resources
 
-Les fichiers markdown sont compilés depuis le dossier `/docs`. 
+This resources a free to use, download and to make your own website. You can host **for free** using **Github Pages** ([see below](#make-your-own-github-website)). 
 
-## Déploiement local
+To download this entire resources package you can use the top right menu :
 
-Afin de contribuer et visualiser vos modifications, vous pouvez déployer le site localement 
-sur votre ordinateur.
+![Download](https://user-images.githubusercontent.com/5736114/133274837-b30bf8fa-abb7-4c15-98cc-a6d87d41f6a8.png)
 
-### Avec pip / conda
 
-#### Installation
+## Files tree
 
-**Prérequis :**
-- Installer Miniconda : https://docs.conda.io/en/latest/miniconda.html
-- (Optionnel) Créer un environement `conda` dédié : 
-  ```shell
-  conda create --name mkdocs && source activate mkdocs
-  ```
-- Installer les dépendances :
+```bash
+📦ai4t # ------------------------------ Root directory
+ ┣ 📂docs # --------------------------- Website sources
+ ┃ ┣ 📂assets # ----------------------- General assets (logo, favicon, etc)
+ ┃ ┣ 📂general-presentation # --------- Folder module 1
+ ┃ ┣ 📂module-2-how-does-ml-work # ---- Folder module 2
+ ┃ ┣ 📂module-3-AI-at-our-service # --- Folder module 3
+ ┃ ┃ ┗ 📜.pages # --------------------- Folder website config file
+ ┃ ┗ 📜index.md # --------------------- Homepage content file(overriden by home.html)
+ ┣ 📂overrides # ---------------------- Custom pages overrides
+ ┃ ┗ 📜home.html # -------------------- Homepage override
+ ┣ 📜.gitignore # --------------------- Git ignored files
+ ┣ 📜README.md # ---------------------- Main readme file (This file you're reading)
+ ┗ 📜mkdocs.yml # --------------------- Website main config file
+```
+
+--------
+
+## Make your own github website
+
+1. Fork this project in you own github space
+2. Make your changes
+3. After a few minutes, visit : https://[YOUR_LOGIN_OR_GROUPNAME].github.io/ai4t/
+
+--------
+
+## Deploy your own website locally (on your computer)
+
+To preview the website locally on **your computer** you need to install `python`, `mkdocs` and `git`.
+
+### Installation
+
+**Prerequisites :**
+- Install python using Miniconda : https://docs.conda.io/en/latest/miniconda.html
+- Install mkdocs dependencies (in a terminal) :
   ```shell
   pip install mkdocs-material mkdocs-pdf-export-plugin mkdocs-jupyter mkdocs-macros-plugin
   ```
+- Install git : https://git-scm.com/downloads
 
-#### Visualisation en local
+### Preview locally
 
-1. Cloner le dépôt
-2. Se placer dans le projet à la racine et lancer le serveur mkdocs
-  ```shell
-  cd portail/
-  mkdocs serve
-  ```
+In a terminal :
 
-Après quelques secondes, le site devrait être visible ici : http://localhost:8000
+1. Clone this repository `git clone https://github.com/inrialearninglab/ai4t.git`
+2. Change directory `cd ai4t`
+3. Run the local server : `mkdocs serve`
 
-### Avec Docker
-
-#### Installation
-
-**Prérequis :**
-- Installer Docker https://docs.docker.com/engine/install/
-
-#### Visualisation en local
-1. Cloner le dépôt avec les sous-modules (moocs 1 & 2)
-2. Se placer dans le projet à la racine
-3. Lancer le serveur
-  ```shell
-  docker build -t mkdocs . && docker run --rm -it -p 8000:8000 -v ${PWD}:/docs mkdocs
-  ```
-
-Après quelques secondes, le site devrait être visible ici : http://localhost:8000
+After a few seconds, the website should be available at : http://localhost:8000
