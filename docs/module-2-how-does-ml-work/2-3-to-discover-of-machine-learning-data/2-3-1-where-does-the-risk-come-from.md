@@ -4,16 +4,14 @@ description:
 ---
 ### Where Does the Risk Come From?
 
-> traduire illsutrations?
+> traduire illustrations?
 
 [Full article in French published on February 20, 2020 by binaire on Le Monde web site: "D’où vient le risque ? Des données et des algorithmes" - _Authors: Serge Abiteboul, Thierry Viéville_](https://www.lemonde.fr/blog/binaire/2020/02/05/les-plateformes-numeriques-un-foyer-pour-les-risques-donnees-et-algorithmes/) 
 
 _The meeting of researchers from the legal and computer science domains in the context of the [Centre Internet et Société](http://cis.cnrs.fr/) (Internet and Society Center) launch was an opportunity for cross-reflection and to raise a number of questions and initial research approaches to be explored together. This article summarises the results of the round table. **Serge Abiteboul, Thierry Viéville.**_
 
-
-![Photo by Fernando Arcos from Pexels](https://storage.googleapis.com/prd-blogs/2020/02/cc883a26-white-caution-cone-on-keyboard-211151.jpg)
-
-[Photo by Fernando Arcos from Pexels](https://www.pexels.com/photo/white-caution-cone-on-keyboard-211151/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
+<center><img src="https://storage.googleapis.com/prd-blogs/2020/02/cc883a26-white-caution-cone-on-keyboard-211151.jpg" alt="Photo by Fernando Arcos from Pexels" width="500"></center>
+<center>[Photo by Fernando Arcos from Pexels](https://www.pexels.com/photo/white-caution-cone-on-keyboard-211151/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)</center>
 
 Classification of Risks
 -----------------------
@@ -41,9 +39,8 @@ From Risks to Bias in Data and in Algorithms
 
 We take up a [classification of biases](https://www.telecom-paris.fr/wp-content-EvDsK19/uploads/2019/02/Algorithmes-Biais-discrimination-equite.pdf) proposed by colleagues at Télécom ParisTech and discussed in [a report](https://www.institutmontaigne.org/blog/algorithmes-donnees-et-biais-quelles-politiques-publiques) from the Institut Montaigne in Paris. We adapt this classification to risk-data and risk-algorithms with a focus on bias.
 
-![Illustration from ©Sihem Amer-Yahia](https://storage.googleapis.com/prd-blogs/2020/01/f72b6361-illustrationsbiais2.png)
-
-©Sihem Amer-Yahia
+<center><img src="https://storage.googleapis.com/prd-blogs/2020/01/f72b6361-illustrationsbiais2.png" alt="Illustration from ©Sihem Amer-Yahia" width="500"></center>
+<center>[©Sihem Amer-Yahia]()</center>
 
 The data come from different sources and have multiple formats. They carry different types of bias.
 
@@ -65,10 +62,8 @@ A range of cognitive biases should also be mentioned
 *   The illusory correlation bias is a tendency to want to associate phenomena that are not necessarily related. For example, thinking that there is a relationship between oneself and an external event such as a train delay or weather.
 *   The endogenous bias is related to a relative inability to anticipate the future. For example, in the case of _credit scoring_, it may be that a prospect with a poor loan repayment history may change their lifestyle when they decide to start a family.  
 
-
-![Illustration from ©Sihem Amer-Yahia](https://storage.googleapis.com/prd-blogs/2020/01/f9e2cccb-illustrationsbiais1.png)
-
-©Sihem Amer-Yahia
+<center><img src="https://storage.googleapis.com/prd-blogs/2020/01/f9e2cccb-illustrationsbiais1.png" alt="Illustration from ©Sihem Amer-Yahia" width="500"></center>
+<center>[©Sihem Amer-Yahia]()</center>
 
 Algorithms are a series of instructions that manipulate input data and return output data. This input data sometimes carries biases. Biases can also be found in one or more instructions of the algorithms.
 

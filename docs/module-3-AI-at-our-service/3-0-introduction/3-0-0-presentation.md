@@ -1,11 +1,11 @@
 ---
 title: Presentation
 description:
+hide:
+- toc
 ---
 
 ### Artificial intelligence at our service?
-
->Insérer liens
 
 **Objective:**
 

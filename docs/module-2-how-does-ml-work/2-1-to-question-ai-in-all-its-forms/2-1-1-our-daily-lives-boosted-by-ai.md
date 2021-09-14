@@ -7,13 +7,10 @@ description:
 
 _Texte translated from IAI Mooc._
 
-> liens image
-
 Many of the technologies we use now work with artificial intelligence. They use two types of AI software applications: a "recognition" system and/or a prediction system.
 
-![Virtual plant: plant recognition]()
-
-© Inria / Photo G. Cohen
+<center><img src="../Images/Inria-0201-037.jpg" alt="Virtual plant: plant recognition" width="250"></center>
+<center>© Inria / Photo G. Cohen</center>
 
 A **recognition system** identifies and classifies all the data submitted to it. It can recognise an image, a face, a sound, a word, etc. Such a system increases the functionality of our smartphone applications, search engines or social networking software. Thanks to recognition systems, an application can now identify a person's photos and classify them in a dedicated album. This is also what allows search engine translators such as Google to automatically identify the original language of a word that is being translated.
 

@@ -1,6 +1,8 @@
 ---
 title: AI Ethics "in the future"
 description:
+hide:
+- toc
 ---
 
 ### AI Ethics in the future
@@ -19,9 +21,8 @@ The movement is twofold: anticipating the downstream side of technological devel
 
 First of all, there is an epistemological criticism. How can we ethically judge the potentialities opened up by digital technology? Faced with such a development, are we not plunged into what economists call 'radical uncertainty'? The possibilities opened up by "Big Data" are a good example of this radical uncertainty. This term refers to the phenomenon of the uninterrupted and exponential proliferation of data. This development has led to an evolution in the technical language used to measure the storage power of data. From bytes, we have moved on to megabytes, gigabytes, etc. As Eric Sardin points out, with units of measurement such as the petabyte, the zeta-byte or the yottabyte, it is clear that we are dealing with units of measurement that purely and simply exceed our human structures of intelligibility <sup>4</sup>. Moreover, don't all the reports insist on the unpredictability of certain learning algorithms? Aware of this unpredictability, the CNIL defends in its report a principle of "vigilance" which institutes the obligation of continuous ethical reflection. But more fundamentally, should we not recognise that not everything can be anticipated?
 
-![](https://storage.googleapis.com/prd-blogs/2020/03/c1d499a6-bytes.jpg)
-
-Photo credit: [Ian-S](https://visualhunt.co/a4/8129d567) on [Visualhunt.com](https://visualhunt.com/re6/e9ca0ca4) / [CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/2.0/)
+<center><img src="https://storage.googleapis.com/prd-blogs/2020/03/c1d499a6-bytes.jpg" alt="Photo by Ian-S from Visualhunt.com - CC BY-NC-ND" width="500"></center>
+<center>[Ian-S](https://visualhunt.co/a4/8129d567) on [Visualhunt.com](https://visualhunt.com/re6/e9ca0ca4) / [CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/2.0/) </center>
 
 **A 'colonised' future?**
 
@@ -31,9 +32,8 @@ The robotic ethic runs the same risk of colonising the future, as Paul Dumouchel
 
 This theme of the inevitable empowerment of machines is powerful and quite problematic. Of all the possibilities, attention is focused on this scenario, which is posited as 'inevitable'. Such a focus of attention poses several problems. On the one hand, it raises epistemological questions: why is it possible to support this inevitability? On the other hand, for Dumouchel and Damiano, this belief, although not rational, has certain real effects: it diverts attention from power issues that are already at stake, namely that the empowerment of robots, the fact of delegating decisions to them and letting them choose for themselves, may mean the loss of decision-making power for a few, but it also intensifies the concentration of decision-making in the hands of a few (programmers, robot owners, etc.).
 
-![Photo on data representation](https://storage.googleapis.com/prd-blogs/2020/03/7b8b81cc-forbiden-planet.jpg)
-
-Image form the film  Forbiden Planet (USA, 1956) – MGM productions
+<center><img src="https://storage.googleapis.com/prd-blogs/2020/03/7b8b81cc-forbiden-planet.jpg" alt="Photo on data representation" width="500"></center>
+<center>Image form the film  Forbiden Planet (USA, 1956) – MGM productions</center>
 
 **Who anticipates?**
 

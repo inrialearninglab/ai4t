@@ -6,8 +6,6 @@ description:
 
 _Texte translated from IAI Mooc._
 
->insérer Image
-
 Many artificial intelligence mechanisms today work through supervised learning. This mechanism resembles one of the ways in which a biological system learns.
 
 Let's imagine that we want to teach an artificial intelligence to recognise a cat in an image.
@@ -15,9 +13,8 @@ Let's imagine that we want to teach an artificial intelligence to recognise a ca
 To do this, we will provide a lot of data, namely, many images where a cat can be seen and many images where no cat can be seen, so that the calculation adjusts its parameters in order to give an output value corresponding to the presence or not of the feline. All these images constitute the input data, and the expected result, whether or not there is a cat in the image, the output data. These "input" and "output" data are the only information provided for its training.  
 The computational mechanism must therefore adjust internal parameters (such as the control knobs of a camera) to determine whether or not there is a cat in the image. The first time, a random and therefore most likely false result will be provided, then little by little the mechanism will observe the errors and by successive trials will adjust the parameters to reduce them. This process is known as machine learning.
 
-![Image by Gerd Altmann from Pixabay]()
-
-Image by Gerd Altmann from Pixabay
+<center><img src="../Images/artificial-intelligence-3382521_1280.jpg" alt="Virtual plant: plant recognition" width="350"></center>
+<center>Image by Gerd Altmann from Pixabay</center>
 
 This mechanism of artificial neural networks is quite different from the neurons in our brain: they are just elementary computational units that combine input data and deliver a low or high value as output depending on the combined value. A neural network is a set of neurons that are all connected and communicate with each other. It is the parameters of these connections between neurons that constitute the control knobs to obtain the desired output for a given input. From the input neurons to the output neurons, via the neurons inside the network (hidden neurons), the digital information is transmitted to give a final result.
 

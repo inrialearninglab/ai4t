@@ -1,6 +1,8 @@
 ---
 title: Machine Learning Seeks its Ethics
 description:
+hide:
+- toc
 ---
 #### To go further: Machine Learning Seeks its Ethics
 
@@ -10,7 +12,8 @@ _Text translated from the online press article in French [(01net.com)](https://w
 
 More and more artificial intelligence algorithms are beginning to rule our lives, although it is not clear whether their decisions are well-founded. Good practices and tools are beginning to emerge to promote the ethical and responsible use of this technology.
 
-![](../Images/IAI-module3-ethique.png)
+<center><img src="../Images/IAI-module3-ethique.png" alt="Photo by Mike MacKensie from www.vpnsrus.com" width="500"></center>
+<center>Photo by Mike MacKensie from www.vpnsrus.com</center>
 
 Whenever a new revolutionary technology has appeared, ethical and legal questions have quickly arisen: What are its limits of use? How can we ensure that it does not have harmful consequences for users? Who is responsible if something goes wrong?  
 

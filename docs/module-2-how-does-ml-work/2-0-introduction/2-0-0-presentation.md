@@ -16,5 +16,3 @@ Understand the principles of machine learning and the crucial role played by the
 *   [Quiz Module 2: Mechanisms in AI](../2-4-quiz-module-2/2-4-0-quiz-2-mechanisms-in-ai.html)
 
 **Investment time:** about 50 minutes
-
-> insérer liens

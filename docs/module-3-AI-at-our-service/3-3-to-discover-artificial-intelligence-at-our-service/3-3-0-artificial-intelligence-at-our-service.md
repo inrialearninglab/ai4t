@@ -1,6 +1,8 @@
 ---
 title: Artificial Intelligence at our Service?
 description:
+hide:
+- toc
 ---
 
 ### Artificial Intelligence at our Service?

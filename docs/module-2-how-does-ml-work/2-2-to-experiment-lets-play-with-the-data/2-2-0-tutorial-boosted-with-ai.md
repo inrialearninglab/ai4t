@@ -4,7 +4,6 @@ description:
 ---
 
 ### Tutorial: "Boosted with AI?"
-> Traduire l'image en EN
 
 There is no better way to understand how machine learning and program training works than to understand how to properly prepare your dataset.
 

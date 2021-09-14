@@ -1,10 +1,10 @@
 ---
 title: Let's Create with AI
 description:
+hide:
+- toc
 ---
-#### Let's Create with AI
-
->Créer et intégrer image du Tutorial3-ai4t
+### Let's Create with AI
 
 Detecting AI: AI or Human?
 

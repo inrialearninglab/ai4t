@@ -3,7 +3,7 @@ title: Who Is Afraid of AI?
 description:
 ---
 
-#### Who Is Afraid of AI?
+### Who Is Afraid of AI?
 
 Artificial intelligence! The more I hear about it, the less I understand it...  
 I thought it was top, but now I see an article where Stephen Hawking, you know the hyper brilliant researcher, who says: "the development of full artificial intelligence could end the human race".

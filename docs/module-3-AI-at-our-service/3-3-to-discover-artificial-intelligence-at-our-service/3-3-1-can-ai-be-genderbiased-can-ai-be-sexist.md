@@ -1,15 +1,16 @@
 ---
 title: Can AI be Gender-biased?
 description:
+hide:
+- toc
 ---
 
 ### Can AI be Gender-biased?
 
 _Translated text from the french IAI Mooc._
 
-![Illustration gender-biased](../Images/ondira-levrres-intelligence-artificielle-femmes.jpg)
-
-Photo : CBC/Radio-Canada -iStock - Editing: Amarilys Proulx
+<center><img src="../Images/ondira-levrres-intelligence-artificielle-femmes.jpg" alt="Photo by Fernando Arcos from Pexels" width="500"></center>
+<center>[Photo: CBC/Radio-Canada -iStock - Editing: Amarilys Proulx]()</center>
 
 An artificial intelligence does not think. So can it be racist, sexist or homophobic? It is possible for it to reproduce discriminatory mechanisms, if the mechanism has been trained by biased data. Human beings havecognitive biases in their reasoning.
 

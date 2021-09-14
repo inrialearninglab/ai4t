@@ -17,5 +17,3 @@ Gain an initial understanding of what is meant by Artificial Intelligence (AI) a
 
 
 **Investment time:** About 30 minutes
-
-> Insérer liens

@@ -1,6 +1,8 @@
 ---
 title: Generative Adversarial Networks (GAN)
 description:
+hide:
+- toc
 ---
 ### More about Generative Adversarial Networks: GAN
 
