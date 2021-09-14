@@ -10,7 +10,7 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 theme:
   name: material
-  custom_dir: override
+  custom_dir: overrides
   logo: assets/AI4T_simbo_bela.png
   favicon: assets/AI4T_simbo_bela.png
   palette:
