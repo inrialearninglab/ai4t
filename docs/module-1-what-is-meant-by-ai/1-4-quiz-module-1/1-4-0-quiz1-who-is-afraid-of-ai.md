@@ -4,10 +4,16 @@ description:
 hide:
 - toc
 ---
-### QUIZ 1: Who is Afraid of AI?
+### QUIZ Module 1: Who is Afraid of AI?
 
 
-_**Note:** Quiz 1 contains 3 parts with a total of 6 questions_There may be 0, 1 or more (or all) answers to tick, on some questions._
+Quiz Module 1 contains 3 parts:
 
+- QUIZ 1: Did you Say AI?
+- QUIZ 2: A Bit of History
+- QUIZ 3: Various Approaches of AI
 
-[![Quiz1: Who is afraid of AI?](../Images/AI4T-quiz-module1.png)](Quiz-1-ressources/HTML/AI4T-quiz-module1-who-is-afraid-of-ai-html/index.html){:target="_blank" }
+_Click on the image below and start the quiz!_
+
+[![Quiz Module 1: Who is afraid of AI?](../Images/AI4T-quiz-module1.png)](Quiz-1-ressources/HTML/AI4T-quiz-module1-who-is-afraid-of-ai-html/index.html#/lessons/kTdCJvqaYv_E9I8ipVGp2Zx59rc6UFlj
+){:target="_blank" }
