@@ -2,9 +2,9 @@
 
 This repository contains educational resources for teachers about artificial intelligence.
 
-# How to use these resources
+# How to use this repository
 
-These resources are free to use and download to make your own website in the context of the AI4T project. You can host **for free** using **Github Pages** ([see below](#make-your-own-github-website)). 
+All files of the repository are free to use and download to make your own website in the context of the AI4T project. You can host **for free** using **Github Pages** ([see below](#make-your-own-github-website)).
 
 To download this entire resources package you can use the top right menu :
 
