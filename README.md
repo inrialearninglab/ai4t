@@ -40,20 +40,14 @@ To download the entire resources package you can use the top right menu:
 2. **Quiz**  
   Each module of the Mooc contains a set of quizzes. They are hosted and presented on the website (https://inrialearninglab.github.io/ai4t/index.html).
   You can also download them from this repository in 3 formats: pdf, html or Scorm1.2 files (a format commonly used on Learning Management System as Moodle or 360Learning):
-  * Quiz Module 1
-    - [download pdf format](https://github.com/inrialearninglab/ai4t/blob/main/docs/module-1-what-is-meant-by-ai/1-4-quiz-module-1/Quiz-1-ressources/PDF/AI4T-quiz-module3-artificial-intelligence-at-our-service.pdf)
-    - [download html files zip](https://github.com/inrialearninglab/ai4t/blob/main/docs/module-1-what-is-meant-by-ai/1-4-quiz-module-1/Quiz-1-ressources/HTML.zip)
-    - [download Scorm1.2 files zip](https://github.com/inrialearninglab/ai4t/blob/main/docs/module-1-what-is-meant-by-ai/1-4-quiz-module-1/Quiz-1-ressources/SCORM.zip)
+  * Quiz Module 1  
+    [download pdf format](https://github.com/inrialearninglab/ai4t/blob/main/docs/module-1-what-is-meant-by-ai/1-4-quiz-module-1/Quiz-1-ressources/PDF/AI4T-quiz-module3-artificial-intelligence-at-our-service.pdf) / [download html files zip](https://github.com/inrialearninglab/ai4t/blob/main/docs/module-1-what-is-meant-by-ai/1-4-quiz-module-1/Quiz-1-ressources/HTML.zip) / [download Scorm1.2 files zip](https://github.com/inrialearninglab/ai4t/blob/main/docs/module-1-what-is-meant-by-ai/1-4-quiz-module-1/Quiz-1-ressources/SCORM.zip)
 
   * Quiz Module 2  
-    - [download pdf format](https://github.com/inrialearninglab/ai4t/tree/main/docs/module-2-how-does-ml-work/2-4-quiz-module-2/Quiz-2-ressources/PDF)
-    - [download html files zip](https://github.com/inrialearninglab/ai4t/blob/main/docs/module-2-how-does-ml-work/2-4-quiz-module-2/Quiz-2-ressources/HTML.zip)
-    - [download Scorm1.2 files zip](https://github.com/inrialearninglab/ai4t/blob/main/docs/module-2-how-does-ml-work/2-4-quiz-module-2/Quiz-2-ressources/SCORM.zip)
+  [download pdf format](https://github.com/inrialearninglab/ai4t/tree/main/docs/module-2-how-does-ml-work/2-4-quiz-module-2/Quiz-2-ressources/PDF) / [download html files zip](https://github.com/inrialearninglab/ai4t/blob/main/docs/module-2-how-does-ml-work/2-4-quiz-module-2/Quiz-2-ressources/HTML.zip) / [download Scorm1.2 files zip](https://github.com/inrialearninglab/ai4t/blob/main/docs/module-2-how-does-ml-work/2-4-quiz-module-2/Quiz-2-ressources/SCORM.zip)
 
-  * Quiz Module 3
-    - [download pdf format](https://github.com/inrialearninglab/ai4t/tree/main/docs/module-3-AI-at-our-service/3-4-quiz-module-3/Quiz-3-ressources/PDF)
-    - [download html files zip](https://github.com/inrialearninglab/ai4t/blob/main/docs/module-3-AI-at-our-service/3-4-quiz-module-3/Quiz-3-ressources/HTML.zip)
-    - [download Scorm1.2 files zip](https://github.com/inrialearninglab/ai4t/blob/main/docs/module-3-AI-at-our-service/3-4-quiz-module-3/Quiz-3-ressources/SCORM.zip)
+  * Quiz Module 3  
+    [download pdf format](https://github.com/inrialearninglab/ai4t/tree/main/docs/module-3-AI-at-our-service/3-4-quiz-module-3/Quiz-3-ressources/PDF) / [download html files zip](https://github.com/inrialearninglab/ai4t/blob/main/docs/module-3-AI-at-our-service/3-4-quiz-module-3/Quiz-3-ressources/HTML.zip) / [download Scorm1.2 files zip](https://github.com/inrialearninglab/ai4t/blob/main/docs/module-3-AI-at-our-service/3-4-quiz-module-3/Quiz-3-ressources/SCORM.zip)
 
 
 --------
