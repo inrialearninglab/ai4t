@@ -4,7 +4,7 @@ This repository contains educational resources for teachers about artificial int
 
 # How to use these resources
 
-This resources a free to use, download and to make your own website. You can host **for free** using **Github Pages** ([see below](#make-your-own-github-website)). 
+These resources are free to use and download to make your own website in the context of the AI4T project. You can host **for free** using **Github Pages** ([see below](#make-your-own-github-website)). 
 
 To download this entire resources package you can use the top right menu :
 
