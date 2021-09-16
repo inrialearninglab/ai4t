@@ -40,3 +40,4 @@ Participants should not be surprised by this non-academic style of the videos.
 #### About quizzes
 
 The Mooc offers quizzes at the end of each Module. Their objective is to reinforce the knowledge and skills acquired.
+_Note_ : At the end of each quizz a passing score is displayed, which is a rating of your answers. This information is not taken into account in the Mooc pedagogical pathway (because there is no evaluation of learners).
