@@ -20,7 +20,7 @@ To download the entire resources package you can use the top right menu:
  ┣ 📂docs # --------------------------- Website sources
  ┃ ┣ 📂assets # ----------------------- General assets (logo, favicon, etc)
  ┃ ┣ 📂general-presentation # --------- Folder Mooc presentation
- ┃ ┣ 📂module-1-what-is-meant-by-AI # ---- Folder module 1
+ ┃ ┣ 📂module-1-what-is-meant-by-AI # - Folder module 1
  ┃ ┣ 📂module-2-how-does-ml-work # ---- Folder module 2
  ┃ ┣ 📂module-3-AI-at-our-service # --- Folder module 3
  ┃ ┃ ┗ 📜.pages # --------------------- Folder website config file
