@@ -17,4 +17,4 @@ jobs:
       - run: git checkout gh-pages
       - run: export CI_PAGES_URL="https://$GITHUB_ACTOR.github.io/$( cut -d '/' -f 2- <<< "$GITHUB_REPOSITORY" )/"; echo $CI_PAGES_URL;
       - run: for file in $(find * -name "*.html"); do sed -i "s|<img \([^\\\>]*\)src=\"\([^\:]*\)\"|<img \1\src=\"$CI_PAGES_URL/$(dirname $file)/\2\"|g" $file; done
-      - run: git add . && git commit -m "Relative to absolute urls"
+      - run: git add . && git commit --author="Benoit Rospars <benoit.rospars@inria.fr>" -m "Relative to absolute urls"
