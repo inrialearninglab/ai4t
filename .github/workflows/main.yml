@@ -1,7 +1,7 @@
-name: ci 
+name: ci
 on:
   push:
-    branches: 
+    branches:
       - master
       - main
 jobs:
@@ -14,3 +14,7 @@ jobs:
           python-version: 3.x
       - run: pip install mkdocs-material mkdocs-macros-plugin mkdocs-awesome-pages-plugin mkdocs-redirects
       - run: mkdocs gh-deploy --force
+      - run: git checkout gh-pages
+      - run: export CI_PAGES_URL="https://$GITHUB_ACTOR.github.io/$( cut -d '/' -f 2- <<< "$GITHUB_REPOSITORY" )/"
+      - run: for file in $(find * -name "*.html"); do sed -i "s|<img \([^\\\>]*\)src=\"\([^\:]*\)\"|<img \1\src=\"$CI_PAGES_URL/$(dirname $file)/\2\"|g" $file; done
+
