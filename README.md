@@ -42,14 +42,14 @@ To download the entire resources package you can use the top right menu:
   Each module of the Mooc contains a set of quizzes. They are hosted and presented on the website (https://inrialearninglab.github.io/ai4t/index.html).
   You can also download them from this repository in 3 formats: pdf, html or Scorm1.2 files (a format commonly used on Learning Management System as Moodle or 360Learning):
   * Quiz Module 1  
-    [download pdf format](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-1-what-is-meant-by-ai/1-4-quiz-module-1/Quiz-1-ressources/PDF/AI4T-quiz-module3-artificial-intelligence-at-our-service.pdf) / [download html files zip](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-1-what-is-meant-by-ai/1-4-quiz-module-1/Quiz-1-ressources/HTML.zip) / [download Scorm1.2 files zip](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-1-what-is-meant-by-ai/1-4-quiz-module-1/Quiz-1-ressources/SCORM.zip)/[download texts in .xlf files for translation](https://github.com/inrialearninglab/ai4t/raw/main/docs/general-presentation/0-1-conditions-of-use-of-the-mooc-and-its-contents/Quiz subtitles - xlf files /Quiz-module-1-who-is-afraid-of-ai.xlf)
+    [download pdf format](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-1-what-is-meant-by-ai/1-4-quiz-module-1/Quiz-1-ressources/PDF/AI4T-quiz-module3-artificial-intelligence-at-our-service.pdf) / [download html files zip](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-1-what-is-meant-by-ai/1-4-quiz-module-1/Quiz-1-ressources/HTML.zip) / [download Scorm1.2 files zip](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-1-what-is-meant-by-ai/1-4-quiz-module-1/Quiz-1-ressources/SCORM.zip) / [download texts in .xlf files for translation](https://github.com/inrialearninglab/ai4t/raw/main/docs/general-presentation/0-1-conditions-of-use-of-the-mooc-and-its-contents/Quiz-subtitles-xlf-files/Quiz-module-1-who-is-afraid-of-ai.xlf)
 
   * Quiz Module 2  
-  [download pdf format](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-2-how-does-ml-work/2-4-quiz-module-2/Quiz-2-ressources/PDF/AI4T-quiz-module2-how-does-machine-learning-works.pdf) / [download html files zip](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-2-how-does-ml-work/2-4-quiz-module-2/Quiz-2-ressources/HTML.zip) / [download Scorm1.2 files zip](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-2-how-does-ml-work/2-4-quiz-module-2/Quiz-2-ressources/SCORM.zip)/[download texts in .xlf files for translation](https://github.com/inrialearninglab/ai4t/raw/main/docs/general-presentation/0-1-conditions-of-use-of-the-mooc-and-its-contents/Quiz subtitles - xlf files /Quiz-module-2-how-does-machine-learning-work.xlf)
+  [download pdf format](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-2-how-does-ml-work/2-4-quiz-module-2/Quiz-2-ressources/PDF/AI4T-quiz-module2-how-does-machine-learning-works.pdf) / [download html files zip](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-2-how-does-ml-work/2-4-quiz-module-2/Quiz-2-ressources/HTML.zip) / [download Scorm1.2 files zip](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-2-how-does-ml-work/2-4-quiz-module-2/Quiz-2-ressources/SCORM.zip)/[download texts in .xlf files for translation](https://github.com/inrialearninglab/ai4t/raw/main/docs/general-presentation/0-1-conditions-of-use-of-the-mooc-and-its-contents/Quiz-subtitles-xlf-files/Quiz-module-2-how-does-machine-learning-work.xlf)
 
   * Quiz Module 3  
     [download pdf format](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-3-AI-at-our-service/3-4-quiz-module-3/Quiz-3-ressources/PDF/AI4T-quiz-module3-artificial-intelligence-at-our-service.pdf) / [download html files zip](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-3-AI-at-our-service/3-4-quiz-module-3/Quiz-3-ressources/HTML.zip) / [download Scorm1.2 files zip](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-3-AI-at-our-service/3-4-quiz-module-3/Quiz-3-ressources/SCORM.zip)/
-    [download texts in .xlf files for translation](https://github.com/inrialearninglab/ai4t/raw/main/docs/general-presentation/0-1-conditions-of-use-of-the-mooc-and-its-contents/Quiz subtitles - xlf files /Quiz-module-3-artificial-intelligence-at-our-service.xlf )
+    [download texts in .xlf files for translation](https://github.com/inrialearninglab/ai4t/raw/main/docs/general-presentation/0-1-conditions-of-use-of-the-mooc-and-its-contents/Quiz-subtitles-xlf-files/Quiz-module-3-artificial-intelligence-at-our-service.xlf)
 
 
 --------
@@ -63,7 +63,7 @@ All texts are accessible in HTML or Markdown format.
 *Translated subtitles will be directly uploaded on the project YouTube channel by Inria.*
 
 How to proceed for translation :
-- step 1 : [download the subtitles in .srt format](https://github.com/inrialearninglab/ai4t/raw/main/docs/general-presentation/0-1-conditions-of-use-of-the-mooc-and-its-contents/Subtitles EN 09-2021/Tutorials - VTT.zip)
+- step 1 : [download the subtitles in .srt format](https://github.com/inrialearninglab/ai4t/raw/main/docs/general-presentation/0-1-conditions-of-use-of-the-mooc-and-its-contents/Subtitles-EN-09-2021/Videos-SRT.zip)
 - step 2 : propose your translation while taking care on note modifying the timecodes
 - step 3:  send us [mooc-ai4t@inria.fr](mailto:mooc-ai4t@inria.fr) the translated files.
 
@@ -79,7 +79,7 @@ How to proceed for translation :
 *Translated subtiles will be directly inserted in the tutorial by Inria.*
 
 How to proceed for the translation :
-- step 1 : [download the subtitles in .vtt format](https://github.com/inrialearninglab/ai4t/raw/main/docs//general-presentation/0-1-conditions-of-use-of-the-mooc-and-its-contents/Subtitles EN 09-2021/Videos - SRT.zip)  
+- step 1 : [download the subtitles in .vtt format](https://github.com/inrialearninglab/ai4t/raw/main/docs/general-presentation/0-1-conditions-of-use-of-the-mooc-and-its-contents/Subtitles-EN-09-2021/Videos-VTT.zip)  
 - step 2 : propose your translation while taking care on note modifying the timecodes or the mentions on the top of the document
 - step 3 : send us [mooc-ai4t@inria.fr](mailto:mooc-ai4t@inria.fr) the translated files
 
