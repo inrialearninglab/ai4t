@@ -97,9 +97,9 @@ All quiz texts can be downloaded in .xlf format in the previous section of the R
 ### General remarks on translation
 Each partner is in charge of the translation of the contents from English to the target language (reminder : a budget has been allocated to every partner for this task).
 You can  use some free online translator such as :
-- [DeepL](https://www.deepl.com/translator) (a german company which traduction service has an interface in 4 of the languages project : DE, EN, FR, IT). If you download the application (it's also free), the use of DeepL is then really quick and easy - we used it to internationalize the french Mooc **Intelligence Artificielle avec Intelligence**)
+- [eTranslation](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/Grants+eTranslation)is a UE translation service we can use a member of an Erasmus+ project. Its easy to use and there are many features that can be really helpful for our projet (ie. upload a .pdf or .ppt and receive the formated translation in your mailbox)
 - The [official translation website of the EU presidency](https://presidencymt.eu/#/)
-
+- [DeepL](https://www.deepl.com/translator) (a german company which traduction service has an interface in 4 of the languages project : DE, EN, FR, IT). If you download the application (it's also free), the use of DeepL is then really quick and easy - we used it to internationalize the french Mooc **Intelligence Artificielle avec Intelligence**)
 
 --------
 
