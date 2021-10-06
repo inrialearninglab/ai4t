@@ -79,7 +79,7 @@ How to proceed for translation :
 *Translated subtiles will be directly inserted in the tutorial by Inria.*
 
 How to proceed for the translation :
-- step 1 : [download the subtitles in .vtt format](https://github.com/inrialearninglab/ai4t/raw/main/docs/general-presentation/0-1-conditions-of-use-of-the-mooc-and-its-contents/Subtitles-EN-09-2021/Videos-VTT.zip)  
+- step 1 : [download the subtitles in .vtt format](https://github.com/inrialearninglab/ai4t/raw/main/docs/general-presentation/0-1-conditions-of-use-of-the-mooc-and-its-contents/Subtitles-EN-09-2021/Tutorials-VTT.zip)  
 - step 2 : propose your translation while taking care on note modifying the timecodes or the mentions on the top of the document
 - step 3 : send us [mooc-ai4t@inria.fr](mailto:mooc-ai4t@inria.fr) the translated files
 
