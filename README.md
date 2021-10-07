@@ -93,6 +93,7 @@ How to proceed for the translation :
 
 4. **Quiz**  
 All quiz texts can be downloaded in .xlf format in the previous section of the README : **How to access specific ressources**
+Quiz have been made using [Rise 36O](https://articulate.com/360/rise). Easy translation process is proposed by the  [Articulate Community](https://community.articulate.com/series/rise-360/articles/rise-360-translate-your-course). An efficient free tool to translate .Xliff version 1.2 files is [Matecat](https://www.matecat.com) - _note_ : _eTranslation only support further versions of .xliff files and can not be used for rise contents_
 
 ### General remarks on translation
 Each partner is in charge of the translation of the contents from English to the target language (reminder : a budget has been allocated to every partner for this task).
