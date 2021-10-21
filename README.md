@@ -83,13 +83,13 @@ How to proceed for the translation :
 - step 2 : propose your translation while taking care on note modifying the timecodes or the mentions on the top of the document
 - step 3 : send us [mooc-ai4t@inria.fr](mailto:mooc-ai4t@inria.fr) the translated files
 
-**Note on file naming**  : Also respect the file naming that will allow us to insert the resource at the correct place - Only change the -EN at the end of the file into :
+**Note on file naming**: Also respect the file naming that will allow us to insert the resource at the correct place - Only change the -EN at the end of the file into:
 
 -DE for the German version,
 -IT for the Italian version,
 -SI for the Slovenian version.
 
-*exemple.*  for the German version of the video of the Tutorial 2  - video 7 (ie. the last video in the tutorial **Boosted with AI**) the file name would be : tutorial2-vid7-DE.vtt
+*example.*  for the German version of the video of the tuto2-activite1-vid7-EN.vtt (ie. the vvt file of the last video in the tutorial **Boosted with AI**) the file name would be: tuto2-activite1-vid7-DE.vtt
 
 4. **Quiz**  
 All quiz texts can be downloaded in .xlf format in the previous section of the README : **How to access specific ressources**
