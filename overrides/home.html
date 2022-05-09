@@ -23,11 +23,16 @@
             <h3>{{card.title[i18n_page_locale]}}</h3>
             <p>{{card.desc[i18n_page_locale]}}</p>
             <div>
-              <a href="{{ card.url|url }}" target="_blank" title="{{card.title[i18n_page_locale]}}" class="md-button">{{config.extra.trad['See'][i18n_page_locale]}}</a>
+              <a href="{{ card.url|url }}" target="_blank" title="{{card.title[i18n_page_locale]}}" class="md-button">
+                {{config.extra.trad['See'][i18n_page_locale]}}
+              </a>
             </div>
           </div>
           {% endfor %}
         </div>
+        <a href="{{part.url}}" title="{{config.extra.trad['See all'][i18n_page_locale]}}" class="md-button md-button--primary">
+          {{config.extra.trad['See all'][i18n_page_locale]}}
+        </a>
       </div>
     </div>
   </section>

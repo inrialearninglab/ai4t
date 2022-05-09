@@ -64,8 +64,9 @@ extra:
     - title:
         en: "Part 1"
         fr: "Partie 1"
+      url: "path/to/folder"
       cards:
-        - link: "path/to/file/index.html"
+        - url: "path/to/file/index.html"
           title:
             en: "Title in english"
             fr: "Titre en français"
@@ -75,8 +76,9 @@ extra:
     - title:
         en: "Part 2"
         fr: "Partie 2"
+      url: "path/to/folder"
       cards:
-        - link: "path/to/file/index.html"
+        - url: "path/to/file/index.html"
           title:
             en: "Title in english"
             fr: "Titre en français"
@@ -88,6 +90,9 @@ extra:
     "See":
       en: "See"
       fr: "Voir"
+    "See all":
+      en: "See all"
+      fr: "Voir tout"
 plugins:
   - search
   - macros
