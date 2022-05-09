@@ -1,0 +1,8 @@
+mkdocs
+mkdocs-material
+mkdocs-jupyter
+mkdocs-macros-plugin
+mkdocs-exclude
+mkdocs-awesome-pages-plugin
+mkdocs-page-pdf==0.1.0
+mkdocs-static-i18n==0.43
