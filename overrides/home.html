@@ -11,6 +11,29 @@
   </div>
 </div>
 </section>
+{% if config.extra.parts %}
+  {% for part in config.extra.parts %}
+  <section>
+    <div class="md-grid md-typeset">
+      <div class="home-section">
+        <h2>{{part.title[i18n_page_locale]}}</h2>
+        <div class="md-flex">
+          {% for card in part.cards %}
+          <div class="md-card">
+            <h3>{{card.title[i18n_page_locale]}}</h3>
+            <p>{{card.desc[i18n_page_locale]}}</p>
+            <div>
+              <a href="{{ card.url|url }}" target="_blank" title="{{card.title[i18n_page_locale]}}" class="md-button">{{config.extra.trad['See'][i18n_page_locale]}}</a>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </section>
+  {% endfor %}
+{% endif %}
+
 {% endblock %}
 {% block content %}
 {{ page.content }}

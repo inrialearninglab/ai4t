@@ -50,7 +50,77 @@ markdown_extensions:
       generic: true
   - pymdownx.tasklist:
       custom_checkbox: true
+extra:
+  generator: false
+  alternate:
+    - name: English
+      link: ./
+      lang: en
+    - name: Français
+      link: ./fr/
+      lang: fr
+  # Liens vers des pages à afficher dans la page d'accueil (cards)
+  parts:
+    - title:
+        en: "Part 1"
+        fr: "Partie 1"
+      cards:
+        - link: "path/to/file/index.html"
+          title:
+            en: "Title in english"
+            fr: "Titre en français"
+          desc:
+            en: "Description in english"
+            fr: "Description en français"
+    - title:
+        en: "Part 2"
+        fr: "Partie 2"
+      cards:
+        - link: "path/to/file/index.html"
+          title:
+            en: "Title in english"
+            fr: "Titre en français"
+          desc:
+            en: "Description in english"
+            fr: "Description en français"
+  # Traductions autres
+  trad:
+    "See":
+      en: "See"
+      fr: "Voir"
 plugins:
   - search
   - macros
   - awesome-pages
+  - i18n:
+      default_language: en
+      languages:
+        en:
+          name: English
+          build: false
+        fr:
+          name: Français
+          site_name: "L'intelligence artificielle pour et par les enseignants"
+      # Traductions manquantes dans la navigation
+      nav_translations:
+        fr:
+          "General Presentation": "Présentation générale"
+  - page-to-pdf:
+      disableOnServe: true
+      displayHeaderFooter: true
+      printBackground: true
+      exclude:
+        - "index.*"
+        - "cookies.*"
+        - "404.*"
+      headerTemplate: '<header style="width:100%;font-size:10px;font-weight:600;color:white;background:#138779;margin-top:-20px;padding:10px;padding-bottom:0;-webkit-print-color-adjust: exact">
+                    <img class="logo" alt="logo" width="90" style="background:#138779;display:inline-block;vertical-align:middle;" src=""/>
+                    <span style="display:inline-block;vertical-align:middle;margin-top:-4px;margin-left:10px;font-family: monospace;">{{config["site_name"]}}</span>
+                  </header>'
+      footerTemplate: '<footer style="position:relative;width:100%;font-size:8px;color:#999999;margin:10px 20px;-webkit-print-color-adjust: exact">
+                    <span style="font-family: monospace;"> CCBY | 2021</span>
+                    <span class="page" style="position:absolute;bottom:0;right:0;">
+                      <span class="pageNumber"></span>/<span class="totalPages"></span>
+                    </span>
+                  </footer>'
+
