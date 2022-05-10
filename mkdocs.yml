@@ -67,6 +67,7 @@ extra:
       url: "path/to/folder"
       cards:
         - url: "path/to/file/index.html"
+          img: "assets/AI4T_simbo_barvna.png"
           title:
             en: "Title in english"
             fr: "Titre en français"
@@ -79,6 +80,7 @@ extra:
       url: "path/to/folder"
       cards:
         - url: "path/to/file/index.html"
+          img: "assets/AI4T_simbo_bela.png"
           title:
             en: "Title in english"
             fr: "Titre en français"
