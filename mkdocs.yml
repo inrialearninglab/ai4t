@@ -62,8 +62,8 @@ extra:
   # Liens vers des pages à afficher dans la page d'accueil (cards)
   parts:
     - title:
-        en: "Part 1"
-        fr: "Partie 1"
+        en: "Teacher's Professional Practices"
+        fr: "Pratiques professionnelles de l'enseignant"
       url: "path/to/folder"
       cards:
         - url: "path/to/file/index.html"
@@ -75,8 +75,21 @@ extra:
             en: "Description in english"
             fr: "Description en français"
     - title:
-        en: "Part 2"
-        fr: "Partie 2"
+        en: "AI in the Classroom"
+        fr: "L'IA en classe"
+      url: "path/to/folder"
+      cards:
+        - url: "path/to/file/index.html"
+          img: "assets/AI4T_simbo_bela.png"
+          title:
+            en: "Title in english"
+            fr: "Titre en français"
+          desc:
+            en: "Description in english"
+            fr: "Description en français"
+    - title:
+        en: "AI in the Classroom"
+        fr: "L'IA en classe"
       url: "path/to/folder"
       cards:
         - url: "path/to/file/index.html"
@@ -130,4 +143,3 @@ plugins:
                       <span class="pageNumber"></span>/<span class="totalPages"></span>
                     </span>
                   </footer>'
-
