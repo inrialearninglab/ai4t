@@ -66,6 +66,59 @@ extra:
         fr: "Pratiques professionnelles de l'enseignant"
       url: "path/to/folder"
       cards:
+        - url: "O2-AI-and-Teacher/Learning-activities/Clustering/Teacher-LA-clustering.html"
+          img: "O2-AI-and-Teacher/Images/Persona-illustration.png"
+          title:
+            en: "Pupils profiles"
+            fr: "Profils d'élèves"
+          desc:
+            en: "Persona, an AI tool to better understand the digital learning profile of pupils."
+            fr: "Persona, un outil d'IA pour mieux connaître le profil numérique d'apprentissage des élèves."
+        - url: "O2-AI-and-Teacher/Learning-activities/Data-and-AI/Teacher-LA-data-and-ai.html"
+          img: "O2-AI-and-Teacher/Images/data-bias.png"
+          title:
+            en: "Effect of data on AI tools"
+            fr: "Titre en français"
+          desc:
+            en: "How data bias impact AI tools"
+            fr: "Description en français"
+        - url: "O2-AI-and-Teacher/Learning-activities/Prediction-Decision/Teacher-LA-predict-decide.html"
+          img: "assets/AI4T_simbo_bela.png"
+          title:
+            en: "Prediction helps to decide?"
+            fr: "Prédire pour mieux décider?"
+          desc:
+            en: "BacAnalytics, an AI tool to support the organization of school exams"
+            fr: "Description en français"
+        - url: "path/to/file/index.html"
+          img: "assets/AI4T_simbo_bela.png"
+          title:
+            en: "Title in english"
+            fr: "Titre en français"
+          desc:
+            en: "Description in english"
+            fr: "Description en français"
+    - title:
+        en: "AI in the Classroom"
+        fr: "L'IA en classe"
+      url: "path/to/folder"
+      cards:
+        - url: "path/to/file/index.html"
+          img: "assets/AI4T_simbo_bela.png"
+          title:
+            en: "Title in english"
+            fr: "Titre en français"
+          desc:
+            en: "Description in english"
+            fr: "Description en français"
+        - url: "path/to/file/index.html"
+          img: "assets/AI4T_simbo_barvna.png"
+          title:
+            en: "Title in english"
+            fr: "Titre en français"
+          desc:
+            en: "Description in english"
+            fr: "Description en français"
         - url: "path/to/file/index.html"
           img: "assets/AI4T_simbo_barvna.png"
           title:
@@ -75,7 +128,7 @@ extra:
             en: "Description in english"
             fr: "Description en français"
     - title:
-        en: "AI in the Classroom"
+        en: "Teachers Training"
         fr: "L'IA en classe"
       url: "path/to/folder"
       cards:
@@ -87,13 +140,16 @@ extra:
           desc:
             en: "Description in english"
             fr: "Description en français"
-    - title:
-        en: "AI in the Classroom"
-        fr: "L'IA en classe"
-      url: "path/to/folder"
-      cards:
         - url: "path/to/file/index.html"
-          img: "assets/AI4T_simbo_bela.png"
+          img: "assets/AI4T_simbo_barvna.png"
+          title:
+            en: "Title in english"
+            fr: "Titre en français"
+          desc:
+            en: "Description in english"
+            fr: "Description en français"
+        - url: "path/to/file/index.html"
+          img: "assets/AI4T_simbo_barvna.png"
           title:
             en: "Title in english"
             fr: "Titre en français"

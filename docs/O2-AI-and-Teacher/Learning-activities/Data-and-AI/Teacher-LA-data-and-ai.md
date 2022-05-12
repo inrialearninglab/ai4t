@@ -5,6 +5,6 @@ hide:
 - toc
 ---
 
-### Activity on the effect of Data in AI
+### Effect of Data in AI
 
-.....
+Activity on perpetuation of stereotypes
