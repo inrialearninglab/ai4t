@@ -3,7 +3,14 @@ title: Of Machine Learning and Data
 description:
 ---
 
-When we talk about AI today, we most often hear "machine learning". But how do machines learn, and what do they learn from?
+This Forth video is more specifically dedicated to machine learning. It is still a generalist video, with a humorous tone, which can be used in class.
+
+The video also provides an overview of some machine learning concepts in the form of a cartoon :
+- Machine learning : from 0'55" to 1'50"
+- Supervised learning : from 2'03" to 2'41"
+- Reinforcement learning : from 2'42 to 3'07"
+- Neural networks & deep learning : from 3'23" to 5'12"
+
 
 **Explanation**  
 _Watch the video below (9'35")_

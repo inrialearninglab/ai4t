@@ -3,8 +3,9 @@ title: Are humans fit for the Scrap Heap?
 description:
 ---
 
-Today with computers we talk about automatic information processing. Does this mean that artificial intelligence could replace intellectual work?
-
+This video highlights the anticipated changes in work due to AI (and in particular the evolution of certain professions) without specifically addressing the field of education.
+The question of "Human in the loop" - i.e. what place should be given to the human being in decision support systems - is raised.
+This humorous video can also be used in class.
 **Do you also have questions?**  
 _Watch the video below (1 minute 51):_
 

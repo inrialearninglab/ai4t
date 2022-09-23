@@ -1,11 +1,17 @@
 ---
 title: Artificial Intelligence at our Service?
 description:
- 
+
 ---
 
 
-The development of computer science in general and artificial intelligence in particular raises ethical questions that are very different from those posed, since Hippocrate, by the development of life sciences and medicine. Traditional values, such as respect for privacy, transparency, intelligibility... are to be rethought.
+This last video aims to define what explicability is in the field of AI, and its stakes. Namely, how an answer is constructed in a decision support tool. In view of the stakes of certain decisions, whether in the medical field or in the orientation of students for example, the video opens the debate on the question of the legal framework of AI and the necessary information for citizens to make informed choices.
+
+The video also provides an overview on the notion "explainability" in the form of a cartoon :
+- explainability and deep learning  : from 3'45" to 4'30"
+
+The ton remains humorous and the video can bee used in classroom.
+
 
 **Want to discover "Artificial intelligence at our service?"**  
 _View the video below (4'36"):_
