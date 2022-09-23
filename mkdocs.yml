@@ -66,23 +66,23 @@ extra:
         fr: "Pratiques professionnelles de l'enseignant"
       url: "path/to/folder"
       cards:
-        - url: "O2-AI-and-Teacher/Learning-activities/Clustering/Teacher-LA-clustering.html"
-          img: "O2-AI-and-Teacher/Images/Persona-illustration.png"
+        - url: "TR-Training-Resources/Learning-activities/Clustering/Teacher-LA-clustering.html"
+          img: "TR-Training-Resources/Images/Persona-illustration.png"
           title:
             en: "Pupils profiles"
             fr: "Profils d'élèves"
           desc:
             en: "Persona, an AI tool to better understand the digital learning profile of pupils."
             fr: "Persona, un outil d'IA pour mieux connaître le profil numérique d'apprentissage des élèves."
-        - url: "O2-AI-and-Teacher/Learning-activities/Data-and-AI/Teacher-LA-data-and-ai.html"
-          img: "O2-AI-and-Teacher/Images/data-bias.png"
+        - url: "TR-Training-Resources/Learning-activities/Data-and-AI/Teacher-LA-data-and-ai.html"
+          img: "TR-Training-Resources/Images/data-bias.png"
           title:
             en: "Effect of data on AI tools"
             fr: "Titre en français"
           desc:
             en: "How data bias impact AI tools"
             fr: "Description en français"
-        - url: "O2-AI-and-Teacher/Learning-activities/Prediction-Decision/Teacher-LA-predict-decide.html"
+        - url: "TR-Training-Resources/Learning-activities/Prediction-Decision/Teacher-LA-predict-decide.html"
           img: "assets/AI4T_simbo_bela.png"
           title:
             en: "Prediction helps to decide?"
