@@ -1,5 +1,5 @@
 ---
-title: Changes in work practice due to AI 
+title: Changes in work practice due to AI
 description:Understand how decision-making tools change practices or can improve them and have to be questionned
 hide:
 - toc

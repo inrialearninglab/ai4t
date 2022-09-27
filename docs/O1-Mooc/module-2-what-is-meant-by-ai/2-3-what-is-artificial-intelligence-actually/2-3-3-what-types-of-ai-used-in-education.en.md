@@ -1,9 +1,9 @@
 ---
-title: What types of AI?
+title: What types of AI? used in Education 
 description: Describe main existing AI applications, what are their potential or existing uses in Education
 ---
 
-*to be modified* 
+*to be modified*
 Many AI definitions and classification can be found in the litterature. Although AI has entered the common language, there is no really shared definition.  
 One of the classification distinguishes between weak AI and strong AI. An other one refers to symbolic or numerical approaches to artificial intelligence.  Let's see what do they refer to.
 
