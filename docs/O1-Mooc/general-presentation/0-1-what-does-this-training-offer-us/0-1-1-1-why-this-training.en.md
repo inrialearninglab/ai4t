@@ -1,8 +1,8 @@
 ---
-title: Why this Mooc?
+title: Why this Training?
 description:
 ---
-# Why this Mooc?
+# Why this Training?
 
 
 This self-directed online training, - also named "the Mooc", is part of the training designed and created for European teachers and school leaders to investigate, experiment and question themselves about the use of AI in Education.
@@ -15,7 +15,7 @@ The complete training lasts 3 months and includes:
 
 -   an online manual,
 
--   webinars to share practises and opinions,
+-   webinars to share practices and opinions,
 
 -   and guided trainings, in-person and on-line, for participants interactions with AI and Education experts
 
