@@ -1,6 +1,6 @@
 ---
 title: Who Is Afraid of AI?
-description: Introduction of video 1 IAI
+description: Introduction of video Who is afraid of AI?
 ---
 
 This video deals with artificial intelligence and its implications in our lives in a humorous tone. Its approach is general and it can be used in classroom for a first presentation of the AI.
