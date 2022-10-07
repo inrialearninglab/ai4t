@@ -62,7 +62,7 @@ from 170 countries.
 
 -   Accessible from fun-mooc platform to the Mooc[^3]
 
-### Ai for everyone
+### AI for everyone
 
 -   By Andrew Ng (DeepLearning AI - Stanford University)
 
@@ -126,7 +126,7 @@ Language: EN, FR
 
 ###  **Artificial Intelligence (AI) Education for Teachers:**
 
--   ### By: Macquarie University (AUS) and **IBM (base on AI Curriculum Framework)**
+-   ### By: Macquarie University (AUS) and **IBM (based on AI Curriculum Framework)**
 
 -   Info about the Mooc: « *This course is based on the IBM AI Curriculum Framework*[^9] *and provides theory plus applied examples of the components that make up AI. As teachers, you can work your way through the entire course, or you can focus on key areas as you need. There are knowledge, skills and attitudes related to AI that are transferable to multiple disciplines and learning areas from early childhood, primary, secondary, and post-secondary*. »
 
