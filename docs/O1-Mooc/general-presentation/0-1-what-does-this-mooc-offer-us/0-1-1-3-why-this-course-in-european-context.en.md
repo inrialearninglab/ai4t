@@ -3,11 +3,10 @@ title: What is in this Course?
 description: Presentation of the content & organization
 ---
 
-# Artificial Intelligence in Education
+# What is in this Course?
 
-Designed in a mixed format with stand-alone online parts and guided face-to-face sessions, the training on Artificial Intelligence for teachers and school leaders is developed and experimented at the European level in 5 countries: France, Ireland, Italy, Luxembourg, and Slovenia.
-
-The objective of this training has several layers:
+The objectives of this training, developed at the European level have
+several layers:
 
 -   To demystify and understand AI;
 
@@ -33,7 +32,7 @@ As in all educational activities, the ethical dimension is a transversal compone
 
 ---
 
-**<span style="color:#EE147F">Caution : Guidelines about AI Ethics in Education** **not yet available </span>**In line with Research and the development digital literacy, the project proposes to use the guidelines about AI Ethics in Education as a support for a first reflection on the informed uses of AI.
+**<span style="color:#EE147F">Caution : Guidelines about AI Ethics in Education not yet available </span>**. In line with Research and the development digital literacy, the project proposes to use the guidelines about AI Ethics in Education as a support for a first reflection on the informed uses of AI.
 
 ---
 
