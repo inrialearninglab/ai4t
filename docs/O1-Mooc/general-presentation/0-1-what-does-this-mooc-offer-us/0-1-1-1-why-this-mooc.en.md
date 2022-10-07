@@ -2,11 +2,38 @@
 title: Why this Mooc?
 description:
 ---
+# Why this Mooc?
 
 
+This self-directed online training, - also named "the Mooc", is part of the training designed and created for European teachers and school leaders to investigate, experiment and question themselves about the use of AI in Education.
 
+The complete training lasts 3 months and includes:
 
-*To be modified* 
-#### A content based on IAI Class'Code Mooc
+-   the present on-line training course, designed as a Mooc, and consisting for now of 4 modules with a total duration from 2 to 3 hours
 
-This online ressource is essentially based on the content of the French Mooc "[L'Intelligence Artificielle... avec intelligence!](https://www.fun-mooc.fr/en/cours/lintelligence-artificielle-avec-intelligence/)" available on Fun Mooc and produced in 2020 by Class'Code, Inria, Magic Maker, S24B l'Interactive, with the participation of 4minutes34, Data Bingo, the University of Nantes, La Compagnie du Code, La Ligue de l'enseignement and the support of the French Ministry of National Education and Youth, UNIT, EducAzur and leblob.fr.
+-   online training resources to go further on AI and Education
+
+-   an online manual,
+
+-   webinars to share practises and opinions,
+
+-   and guided trainings, in-person and on-line, for participants interactions with AI and Education experts
+
+The total duration of the training is planned for 3 months over a period from November 2022 to March 2023 depending on the countries involved in the experiment.
+
+A graphical representation sometimes helps to understand how it is going to work.
+
+<figure>
+  <img src="Images/AI4T-Training pathway-2022.png" />
+</figure>
+Now, let's get started and dive into the heart of the Mooc:
+
+What is AI for in the context of Education?
+
+What kind of AI for what purpose?
+
+What are the benefits and challenges?
+
+How to use AI-based resources?
+
+What impacts can be anticipated in teaching and learning practices?
