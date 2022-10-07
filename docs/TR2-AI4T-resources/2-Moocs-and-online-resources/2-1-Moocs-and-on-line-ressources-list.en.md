@@ -118,7 +118,7 @@ from 170 countries.
 
 « *A powerful and innovative solutionWith more than 10,000 MOOCs available, My Mooc delivers the best free trainings available on the web. Our mission? To make training accessible to as many people as possible! With an account on My Mooc, you can continually follow the latest MOOC news and be ensured that you do not miss any topics or content from your favorite universities across the globe. »*
 
-And for example you can follow up with all Moocs delivered about AI at the following adresse: [[https://www.my-mooc.com/en/categorie/artificial-intelligence]](https://www.my-mooc.com/en/categorie/artificial-intelligence)
+And for example you can follow up with all Moocs delivered about AI at the following adresse: [https://www.my-mooc.com/en/categorie/artificial-intelligence](https://www.my-mooc.com/en/categorie/artificial-intelligence)
 
 Language: EN, FR
 
@@ -206,28 +206,28 @@ Intelligence will transform schools)
 
 -   Access to the resource[^13]
 
-[^1]: [[http://course.elementsofai.com]](http://course.elementsofai.com)
+[^1]: [http://course.elementsofai.com](http://course.elementsofai.com)
 
-[^2]: [[https://buildingai.elementsofai.com/]](https://buildingai.elementsofai.com/)
+[^2]: [https://buildingai.elementsofai.com/](https://buildingai.elementsofai.com/)
 
-[^3]: [[https://www.fun-mooc.fr/fr/cours/lintelligence-artificielle-avec-intelligence/nceligence-education-for-teachers/home/info]](https://www.fun-mooc.fr/fr/cours/lintelligence-artificielle-avec-intelligence/nceligence-education-for-teachers/home/info)
+[^3]: [https://www.fun-mooc.fr/fr/cours/lintelligence-artificielle-avec-intelligence/nceligence-education-for-teachers/home/info](https://www.fun-mooc.fr/fr/cours/lintelligence-artificielle-avec-intelligence/nceligence-education-for-teachers/home/info)
 
-[^4]: [[https://www.coursera.org/learn/ai-for-everyone/home/week/1]](https://www.coursera.org/learn/ai-for-everyone/home/week/1)
+[^4]: [https://www.coursera.org/learn/ai-for-everyone/home/week/1](https://www.coursera.org/learn/ai-for-everyone/home/week/1)
 
-[^5]: [[https://www.futurelearn.com/courses/artificial-intelligence]](https://www.futurelearn.com/courses/artificial-intelligence)
+[^5]: [https://www.futurelearn.com/courses/artificial-intelligence](https://www.futurelearn.com/courses/artificial-intelligence)
 
-[^6]: [[https://openclassrooms.com/en/courses/7078811-destination-ai-introduction-to-artificial-intelligence]](https://openclassrooms.com/en/courses/7078811-destination-ai-introduction-to-artificial-intelligence)
+[^6]: [https://openclassrooms.com/en/courses/7078811-destination-ai-introduction-to-artificial-intelligence](https://openclassrooms.com/en/courses/7078811-destination-ai-introduction-to-artificial-intelligence)
 
-[^7]: [[https://openclassrooms.com/fr/courses/6417031-objectif-ia-initiez-vous-a-lintelligence-artificielle]](https://openclassrooms.com/fr/courses/6417031-objectif-ia-initiez-vous-a-lintelligence-artificielle)
+[^7]: [https://openclassrooms.com/fr/courses/6417031-objectif-ia-initiez-vous-a-lintelligence-artificielle](https://openclassrooms.com/fr/courses/6417031-objectif-ia-initiez-vous-a-lintelligence-artificielle)
 
-[^8]: [[https://www.my-mooc.com/]](https://www.my-mooc.com/)
+[^8]: [https://www.my-mooc.com/](https://www.my-mooc.com/)
 
-[^9]: [[https://www.coursera.org/learn/artificial-intelligence-education-for-teachers/resources/FAgGy]](https://www.coursera.org/learn/artificial-intelligence-education-for-teachers/resources/FAgGy)
+[^9]: [https://www.coursera.org/learn/artificial-intelligence-education-for-teachers/resources/FAgGy](https://www.coursera.org/learn/artificial-intelligence-education-for-teachers/resources/FAgGy)
 
-[^10]: [[https://www.coursera.org/learn/artificial-intelligence-education-for-teachers]](https://www.coursera.org/learn/artificial-intelligence-education-for-teachers)
+[^10]: [https://www.coursera.org/learn/artificial-intelligence-education-for-teachers](https://www.coursera.org/learn/artificial-intelligence-education-for-teachers)
 
-[^11]: [[https://www.europeanschoolnetacademy.eu/courses/course-v1:CodeWeek+AI+2021/about]](https://www.europeanschoolnetacademy.eu/courses/course-v1:CodeWeek+AI+2021/about)
+[^11]: [https://www.europeanschoolnetacademy.eu/courses/course-v1:CodeWeek+AI+2021/about](https://www.europeanschoolnetacademy.eu/courses/course-v1:CodeWeek+AI+2021/about)
 
-[^12]: [[https://www.nau.edu.pt/curso/a-inteligencia-artificial-vai-transformar-a-escola/]](https://www.nau.edu.pt/curso/a-inteligencia-artificial-vai-transformar-a-escola/)
+[^12]: [https://www.nau.edu.pt/curso/a-inteligencia-artificial-vai-transformar-a-escola/](https://www.nau.edu.pt/curso/a-inteligencia-artificial-vai-transformar-a-escola/)
 
-[^13]: [[https://skills.it.ox.ac.uk/ai-in-education-course-pack]](https://skills.it.ox.ac.uk/ai-in-education-course-pack)
+[^13]: [https://skills.it.ox.ac.uk/ai-in-education-course-pack](https://skills.it.ox.ac.uk/ai-in-education-course-pack)

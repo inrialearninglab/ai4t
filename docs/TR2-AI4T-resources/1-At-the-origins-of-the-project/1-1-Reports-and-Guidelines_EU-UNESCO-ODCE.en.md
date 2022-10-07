@@ -96,48 +96,48 @@ The OECD leads many activities around AI. These activities range from: prospecti
 
 **Education**: many reports and datasets related to education are gathered by the OECD. It also provides the possibility to visualise «*timely trends about where, how and at what rate AI is being developed and used*» in Education[^23].
 
-[^1]: [[https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52018DC0022&from=EN]](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52018DC0022&from=EN)
+[^1]: [https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52018DC0022&from=EN](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52018DC0022&from=EN)
 
-[^2]: [[https://education.ec.europa.eu/focus-topics/digital-education/action-plan]](https://education.ec.europa.eu/focus-topics/digital-education/action-plan)
+[^2]: [https://education.ec.europa.eu/focus-topics/digital-education/action-plan](https://education.ec.europa.eu/focus-topics/digital-education/action-plan)
 
-[^3]: [[https://ec.europa.eu/info/sites/default/files/commission-white-paper-artificial-intelligence-feb2020_en.pdf]](https://ec.europa.eu/info/sites/default/files/commission-white-paper-artificial-intelligence-feb2020_en.pdf)
+[^3]: [https://ec.europa.eu/info/sites/default/files/commission-white-paper-artificial-intelligence-feb2020_en.pdf](https://ec.europa.eu/info/sites/default/files/commission-white-paper-artificial-intelligence-feb2020_en.pdf)
 
-[^4]: [[https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai]](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)
+[^4]: [https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)
 
-[^5]: [[https://op.europa.eu/en/publication-detail/-/publication/5cb8eee3-e888-11e8-b690-01aa75ed71a1/language-en]](https://op.europa.eu/en/publication-detail/-/publication/5cb8eee3-e888-11e8-b690-01aa75ed71a1/language-en)
+[^5]: [https://op.europa.eu/en/publication-detail/-/publication/5cb8eee3-e888-11e8-b690-01aa75ed71a1/language-en](https://op.europa.eu/en/publication-detail/-/publication/5cb8eee3-e888-11e8-b690-01aa75ed71a1/language-en)
 
-[^6]: [[https://op.europa.eu/en/publication-detail/-/publication/5cb8eee3-e888-11e8-b690-01aa75ed71a1/language-en]](https://op.europa.eu/en/publication-detail/-/publication/5cb8eee3-e888-11e8-b690-01aa75ed71a1/language-en)
+[^6]: [https://op.europa.eu/en/publication-detail/-/publication/5cb8eee3-e888-11e8-b690-01aa75ed71a1/language-en](https://op.europa.eu/en/publication-detail/-/publication/5cb8eee3-e888-11e8-b690-01aa75ed71a1/language-en)
 
-[^7]: [[https://publications.jrc.ec.europa.eu/repository/handle/JRC120183]](https://publications.jrc.ec.europa.eu/repository/handle/JRC120183)
+[^7]: [https://publications.jrc.ec.europa.eu/repository/handle/JRC120183](https://publications.jrc.ec.europa.eu/repository/handle/JRC120183)
 
-[^8]: [[https://publications.jrc.ec.europa.eu/repository/handle/JRC118163]](https://publications.jrc.ec.europa.eu/repository/handle/JRC118163)
+[^8]: [https://publications.jrc.ec.europa.eu/repository/handle/JRC118163](https://publications.jrc.ec.europa.eu/repository/handle/JRC118163)
 
-[^9]: [[https://publications.jrc.ec.europa.eu/repository/handle/JRC126426]](https://publications.jrc.ec.europa.eu/repository/handle/JRC126426)
+[^9]: [https://publications.jrc.ec.europa.eu/repository/handle/JRC126426](https://publications.jrc.ec.europa.eu/repository/handle/JRC126426)
 
-[^10]: [[https://ec.europa.eu/newsroom/dae/document.cfm?doc_id=60651]](https://ec.europa.eu/newsroom/dae/document.cfm?doc_id=60651)
+[^10]: [https://ec.europa.eu/newsroom/dae/document.cfm?doc_id=60651](https://ec.europa.eu/newsroom/dae/document.cfm?doc_id=60651)
 
-[^11]: [[https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai]](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai)
+[^11]: [https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai)
 
-[^12]: [[https://futurium.ec.europa.eu/en/european-ai-alliance/pages/welcome-altai-portal]](https://futurium.ec.europa.eu/en/european-ai-alliance/pages/welcome-altai-portal)
+[^12]: [https://futurium.ec.europa.eu/en/european-ai-alliance/pages/welcome-altai-portal](https://futurium.ec.europa.eu/en/european-ai-alliance/pages/welcome-altai-portal)
 
-[^13]: [[https://futurium.ec.europa.eu/en/european-ai-alliance/pages/welcome-altai-portal]](https://futurium.ec.europa.eu/en/european-ai-alliance/pages/welcome-altai-portal)
+[^13]: [https://futurium.ec.europa.eu/en/european-ai-alliance/pages/welcome-altai-portal](https://futurium.ec.europa.eu/en/european-ai-alliance/pages/welcome-altai-portal)
 
-[^14]: [[https://unesdoc.unesco.org/ark:/48223/pf0000368303]](https://unesdoc.unesco.org/ark:/48223/pf0000368303)
+[^14]: [https://unesdoc.unesco.org/ark:/48223/pf0000368303](https://unesdoc.unesco.org/ark:/48223/pf0000368303)
 
-[^15]: [[https://unesdoc.unesco.org/ark:/48223/pf0000376709]](https://unesdoc.unesco.org/ark:/48223/pf0000376709)
+[^15]: [https://unesdoc.unesco.org/ark:/48223/pf0000376709](https://unesdoc.unesco.org/ark:/48223/pf0000376709)
 
-[^16]: [[https://unesdoc.unesco.org/ark:/48223/pf0000377897]](https://unesdoc.unesco.org/ark:/48223/pf0000377897)
+[^16]: [https://unesdoc.unesco.org/ark:/48223/pf0000377897](https://unesdoc.unesco.org/ark:/48223/pf0000377897)
 
-[^17]: [[https://iite.unesco.org]](https://iite.unesco.org)
+[^17]: [https://iite.unesco.org](https://iite.unesco.org)
 
-[^18]: [[https://iite.unesco.org/publications/ai-in-education-change-at-the-speed-of-learning/]](https://iite.unesco.org/publications/ai-in-education-change-at-the-speed-of-learning/)
+[^18]: [https://iite.unesco.org/publications/ai-in-education-change-at-the-speed-of-learning/](https://iite.unesco.org/publications/ai-in-education-change-at-the-speed-of-learning/)
 
-[^19]: [[https://oecd.ai/en/]](https://oecd.ai/en/)
+[^19]: [https://oecd.ai/en/](https://oecd.ai/en/)
 
-[^20]: [[https://oecd.ai/en/work-innovation-productivity-skills/key-themes/labour-markets]](https://oecd.ai/en/work-innovation-productivity-skills/key-themes/labour-markets)
+[^20]: [https://oecd.ai/en/work-innovation-productivity-skills/key-themes/labour-markets](https://oecd.ai/en/work-innovation-productivity-skills/key-themes/labour-markets)
 
-[^21]: [[https://oecd.ai/en/ai-principles]](https://oecd.ai/en/ai-principles)
+[^21]: [https://oecd.ai/en/ai-principles](https://oecd.ai/en/ai-principles)
 
-[^22]: [[https://oecd.ai/en/data?selectedArea=ai-news]](https://oecd.ai/en/data?selectedArea=ai-news)
+[^22]: [https://oecd.ai/en/data?selectedArea=ai-news](https://oecd.ai/en/data?selectedArea=ai-news)
 
-[^23]: [[https://oecd.ai/en/data?selectedArea=ai-education]](https://oecd.ai/en/data?selectedArea=ai-education)
+[^23]: [https://oecd.ai/en/data?selectedArea=ai-education](https://oecd.ai/en/data?selectedArea=ai-education)
