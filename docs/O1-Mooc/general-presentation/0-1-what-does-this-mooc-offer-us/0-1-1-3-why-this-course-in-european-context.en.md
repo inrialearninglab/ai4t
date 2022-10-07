@@ -5,8 +5,9 @@ description: Presentation of the content & organization
 
 # What is in this Course?
 
-The objectives of this training, developed at the European level have
-several layers:
+This training on Artificial Intelligence for teachers and school leaders is developed and experimented at the European level in 5 countries: France, Ireland, Italy, Luxembourg, and Slovenia.
+
+Its objectives have several layers:
 
 -   To demystify and understand AI;
 
