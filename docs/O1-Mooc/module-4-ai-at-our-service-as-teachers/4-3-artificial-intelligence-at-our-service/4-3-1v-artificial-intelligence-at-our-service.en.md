@@ -7,10 +7,10 @@ description:
 
 This last video aims to define what explicability is in the field of AI, and its stakes. Namely, how an answer is constructed in a decision support tool. In view of the stakes of certain decisions, whether in the medical field or in the orientation of students for example, the video opens the debate on the question of the legal framework of AI and the necessary information for citizens to make informed choices.
 
-The video also provides an overview on the notion "explainability" in the form of a cartoon :
+The video also provides an overview on the notion "explainability" in the form of a cartoon:
 - explainability and deep learning  : from 3'45" to 4'30"
 
-The ton remains humorous and the video can bee used in classroom.
+The tone remains humorous and the video can bee used in the classroom.
 
 
 **Want to discover "Artificial intelligence at our service?"**  
