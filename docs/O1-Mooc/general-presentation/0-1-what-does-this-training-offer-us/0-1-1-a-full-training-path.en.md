@@ -1,13 +1,13 @@
 ---
-title: Why this Training?
+title: A Full Training Path on AI and Education
 description:
 ---
-# Why this Training?
+# A Full Training Path on AI and Education
 
 
 This self-directed online training, - also named "the Mooc", is part of the training designed and created for European teachers and school leaders to investigate, experiment and question themselves about the use of AI in Education.
 
-The complete training lasts 3 months and includes:
+The full training extends over a period of 3 months and includes:
 
 -   the present on-line training course, designed as a Mooc, and consisting for now of 4 modules with a total duration from 2 to 3 hours
 
@@ -26,14 +26,5 @@ A graphical representation sometimes helps to understand how it is going to work
 <figure>
   <img src="Images/AI4T-Training pathway-2022.png" />
 </figure>
-Now, let's get started and dive into the heart of the Mooc:
 
-What is AI for in the context of Education?
-
-What kind of AI for what purpose?
-
-What are the benefits and challenges?
-
-How to use AI-based resources?
-
-What impacts can be anticipated in teaching and learning practices?
+Welcome!
