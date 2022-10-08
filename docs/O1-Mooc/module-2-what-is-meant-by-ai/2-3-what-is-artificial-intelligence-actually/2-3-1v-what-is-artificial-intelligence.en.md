@@ -3,8 +3,8 @@ title: What is Artificial Intelligence?
 description:
 ---
 
-This video deals with what the biological intelligence is so it is the possible to defin AI with the different symbolic, numerical approaches. It points out that all the artificial intelligences we encounter in real life are just technical and very specific!
-Its approach is general and it can alos be used in classroom as the first video proposed previously ("Who is afraid of AI?"").
+This video deals with what the biological intelligence is so it is the possible to define AI with the different symbolic, numerical approaches. It points out that all the artificial intelligences we encounter in real life are just technical and very specific!
+Its approach is general and it can also be used in classroom as the first video proposed previously ("Who is afraid of AI?"").
 **Want to find out "what is artificial intelligence?"**  
 _Watch the video below (8'22")_
 
