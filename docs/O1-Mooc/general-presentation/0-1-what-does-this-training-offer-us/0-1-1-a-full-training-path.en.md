@@ -1,5 +1,5 @@
 ---
-title: A Full Training Path on AI and Education
+title: 0.1.1 A Full Training Path on AI and Education
 description:
 ---
 # A Full Training Path on AI and Education

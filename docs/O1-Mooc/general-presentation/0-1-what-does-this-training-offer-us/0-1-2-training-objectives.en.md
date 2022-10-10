@@ -1,9 +1,11 @@
 ---
-title: What is the Objective of this Training?
+title: 0.1.2 What is the Objective of this Training?
 description: Locate the training in the European framework
 ---
 
-# Artificial Intelligence in Education
+# What is the Objective of this Training?
+
+## Artificial Intelligence in Education
 
 Designed in a mixed format with stand-alone online parts and guided face-to-face sessions, the training on Artificial Intelligence for teachers and school leaders is developed and experimented at the European level in 5 countries: France, Ireland, Italy, Luxembourg, and Slovenia.
 
