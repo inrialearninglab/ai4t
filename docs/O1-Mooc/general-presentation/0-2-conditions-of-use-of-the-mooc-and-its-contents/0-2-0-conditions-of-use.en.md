@@ -35,10 +35,10 @@ If you use Mooc content, here is the mention to add for attribution according to
 ### For using the resources of the Mooc to build a training course
 
 Credit: "Artificial Intelligence for and by Teachers", AI4T, published under CC-BY licence on the fun-mooc.fr website <https://www.fun-mooc.fr/en/courses/environmental-impacts-of-digital-technologies/>  
-And be sure to mention the Erasmus + logo: <img style="vertical-align: middle;" src="Images/LogoCoFoundedErasmusProgramEU.png" />
+And be sure to mention the Erasmus + logo: <img style="vertical-align: middle;" src="Images/LogoCoFoundedErasmusProgramEU.png" alt="Logo Co-founded by Erasmus and EU"/>
 
 ### For the specific use of a Mooc resource
 
 Credit: AI4T (Author) "Resource title", from "Artificial Intelligence for and by Teachers", AI4T, published under CC-BY licence, <https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/index.html>
 
-And be sure to mention the Erasmus + logo: <img style="vertical-align: middle;" src="Images/LogoCoFoundedErasmusProgramEU.png" />
+And be sure to mention the Erasmus + logo: <img style="vertical-align: middle;" src="Images/LogoCoFoundedErasmusProgramEU.png" alt="Logo Co-founded by Erasmus and EU"/>
