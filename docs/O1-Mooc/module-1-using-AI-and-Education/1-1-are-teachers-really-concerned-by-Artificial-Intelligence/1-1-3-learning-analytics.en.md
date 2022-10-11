@@ -14,5 +14,5 @@ Video “Learning Analytics”
 
 -----------
 
-##Conclusion
+## Conclusion
 Artificial intelligence is already a reality in our daily lives and can help us to personalise learning as well as meet other teachers’ expectations by offering learning assistance, support, and facilitation tools. There are, for example, tools to help with language learning, and others to facilitate the correction of papers.
