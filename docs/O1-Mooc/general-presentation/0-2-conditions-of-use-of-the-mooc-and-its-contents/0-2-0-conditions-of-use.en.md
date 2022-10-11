@@ -1,5 +1,5 @@
 ---
-title: 0.2.0 Conditions of use of the content of the Mooc
+title: 0.2 Conditions of use of the content of the Mooc
 description: How to use the Mooc resources
 ---
 # Conditions of use of the content of the Mooc
