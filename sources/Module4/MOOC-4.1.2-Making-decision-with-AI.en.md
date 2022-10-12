@@ -1,9 +1,9 @@
----
-title: 4.1.2 Decision Making with AI
-description: Understand how decision-making tools change practices, can improve them but have to be questioned
----
+**Mooc 4.1.2 - Decision Making with AI**
 
-# Decision Making with AI
+Objectives : Understand how decision-making tools change practices, possibly improve them but have to be questioned
+
+Contributors : Inria
+Source: Gartner classification of AI supported decisions
 
 In education and in many other fields, AI is changing the way decisions are made. For example, an AI tool dedicated to foreign language teaching
 can help to propose the right exercise at the right time.
@@ -21,4 +21,4 @@ And each degree can cover very different realities. For example, decision automa
 
 But if an AI system were to propose a legal decision on the basis of a dataset consisting of a series of previous decisions, the implication of this delegation of decision-making to AI has another set of consequences. So, classifying decisions in degrees related to the level of AI implied is not sufficient to understand the role played by AI in changing the way decisions are made. The harm that these decisions may cause must be considered.
 
-[^1]: [Would You Let Artificial Intelligence Make Your Pay Decisions?](https://www.gartner.com/smarterwithgartner/would-you-let-artificial-intelligence-make-your-pay-decisions) - Starita, L. Article on [https://www.gartner.com/](https://www.gartner.com/) (consulted 06/10/2022).
+[^1] [Would You Let Artificial Intelligence Make Your Pay Decisions?](https://www.gartner.com/smarterwithgartner/would-you-let-artificial-intelligence-make-your-pay-decisions) - Starita, L. Article on [https://www.gartner.com/](https://www.gartner.com/) (consulted 06/10/2022).

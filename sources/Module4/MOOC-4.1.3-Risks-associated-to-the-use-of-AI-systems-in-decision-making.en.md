@@ -1,37 +1,49 @@
----
-title: 4.1.3 Risks associated to the use of AI systems in decision making
-description: Understand the classification of risked linked to the use of AI systems in decision
----
-# Risks associated to the use of AI systems in decision making
+**Mooc 4.1.3 - Risks associated to the use of AI systems in decision
+making**
+
+Objectives: Understand the classification of risked linked to the use of
+AI systems in decision
+
+Contributors: Inria - EU Framework proposal on AI - Risk assessment
+
+##
 
 ## The 4 levels of risk in AI
 
 The **Regulatory Framework Proposal on Artificial Intelligence**[^1] set up by the European Commission (EC) in 2021 identifies four levels of risk linked to the use of AI systems. It is reminded that "*While most AI systems pose limited to no risk and can contribute to solving many societal challenges, certain AI systems create risks that we must address to avoid undesirable outcomes*".
 With a focus on the fact that "*it is often not possible to find out why an AI system has made a decision or prediction and taken a particular action. So, it may become difficult to assess whether someone has been unfairly disadvantaged, such as in a hiring decision or in an application for a public benefit scheme"*.
 
-Four levels of risk were identified, from minimal to unacceptable:  
+Four levels of risk were identified, from minimal to unacceptable:
 
-1. **Unacceptable risk**: All AI systems considered a clear threat to the safety, livelihoods and rights of people will be banned, from social scoring by governments to toys using voice assistance that encourages dangerous behaviour.  
+1. **Unacceptable risk**: All AI systems considered a clear threat to the safety, livelihoods and rights of people will be banned, from social scoring by governments to toys using voice assistance that encourages dangerous behaviour.
 
 2. **High risk**: AI systems identified as high-risk include AI technology used in:
-    - critical infrastructures (e.g. transport), that could put the life and health of citizens at risk;
-    - **educational or vocational training, that may determine the access to education and professional course of someone's life (e.g. scoring of exams)**;
-    - safety components of products (e.g. AI application in robot-assisted surgery);
-    - employment, management of workers and access to self-employment (e.g. CV-sorting software for recruitment procedures);
-    - essential private and public services (e.g. credit scoring denying citizens opportunity to obtain a loan);
-    - law enforcement that may interfere with people's fundamental rights (e.g. evaluation of the reliability of evidence);
-    - migration, asylum and border control management (e.g. verification of authenticity of travel documents);
-    - administration of justice and democratic processes (e.g. applying the law to a concrete set of facts).
 
-3. **Limited risk**: Limited risk refers to AI systems with specific transparency obligations. When using AI systems such as chatbots, users should be aware that they are interacting with a machine so they can take an informed decision to continue or step back.  
+- critical infrastructures (e.g. transport), that could put the life and health of citizens at risk;
+
+- **educational or vocational training, that may determine the access to education and professional course of someone's life (e.g. scoring of exams)**;
+
+- safety components of products (e.g. AI application in robot-assisted surgery);
+
+- employment, management of workers and access to self-employment (e.g. CV-sorting software for recruitment procedures);
+
+- essential private and public services (e.g. credit scoring denying citizens opportunity to obtain a loan);
+
+- law enforcement that may interfere with people's fundamental rights (e.g. evaluation of the reliability of evidence);
+
+- migration, asylum and border control management (e.g. verification of authenticity of travel documents);
+
+- administration of justice and democratic processes (e.g. applying the law to a concrete set of facts).
+
+3. **Limited risk**: Limited risk refers to AI systems with specific transparency obligations. When using AI systems such as chatbots, users should be aware that they are interacting with a machine so they can take an informed decision to continue or step back.
 
 4. **Minimal or no risk**: The proposal allows the free use of minimal-risk AI. This includes applications such as AI-enabled video games or spam filters. The vast majority of AI systems currently used in the EU fall into this category.
 
-<figure> 
-<img src="Images/AI-Risks-EC.png" alt= "Representation of AI Risks by the European Commission.""> 
-<figcaption>The proposed 4 levels of Artificial Intelligence risks of the AI
- Act of the EC.</figcaption> 
-</figure>
+![](media/image1.png){width="6.267716535433071in"
+height="3.2222222222222223in"}
+
+Figure: The proposed 4 levels of Artificial Intelligence risks of the AI
+Act of the EC.
 
 The classification of educational and vocational training in the high-risk category does not mean that no AI system should be used in those fields but that extra precautions are to be taken. The previously mentioned framework states that "*high-risk AI systems will be subject to strict obligations before they can be placed on the market"*.
 

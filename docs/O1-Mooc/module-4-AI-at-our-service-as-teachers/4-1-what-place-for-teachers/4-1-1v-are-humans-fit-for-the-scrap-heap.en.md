@@ -1,11 +1,12 @@
 ---
-title: What place for human beings?
-description: 
+title: 4.1.1 Video What place for human beings?
+description: The anticipated changes due to AI in work
 ---
+# 4.1.1 Video: What place for human beings?
 
-This video highlights the anticipated changes in work due to AI (and in particular the evolution of certain professions) without specifically addressing the field of education.
+This video highlights the anticipated changes due to AI in work (and in particular the evolution of certain professions) without specifically addressing the field of education.  
 The question of "Human in the loop" - i.e. what place should be given to the human being in decision support systems - is raised.
-This humorous video can also be used in the classroom.  
+This humorous video can be used in the classroom.  
 
 **Do you also have questions?**  
 _Watch the video below (1 minute 51):_

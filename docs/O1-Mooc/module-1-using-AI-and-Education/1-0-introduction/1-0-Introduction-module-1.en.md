@@ -1,6 +1,6 @@
 ---
 title: 1.0 Introduction
-description: Video 1 A Walk through AI
+description: Presentation of Module 1
 ---
 # Introduction
 Artificial intelligence (AI) has been making its way into our daily lives for a few years now, for example to manage spam in our emails or to present information tailored to our reading preferences on social networks.
