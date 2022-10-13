@@ -13,5 +13,5 @@ This tutorial can be used in the classroom.
 _Click on the image below and let us guide you!_
 
 <a href="https://pixees.fr/classcodeiai/app/tuto3-ai4t/?lang=en" target="_blank"><figure> 
-  <img src="Images/IA-M.3.3.1.png" /> 
+  <img src="Images/IA-M.3.3.1.png"/> 
 </figure></a>
