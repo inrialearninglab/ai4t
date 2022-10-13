@@ -1,4 +1,16 @@
 ---
-title: Let's create with AI
+title: 3.3.1 Activity Let's create with AI
 description:
 ---
+# Activity: Let's create with AI
+## Detecting AI: AI or Human?
+
+The following activity is about identifying whether an image is real or produced by an AI. This experimental activity is an introduction to understand GANs (Generative Adversarial Networks).
+
+**Want to try?**  
+_Click on the image below and let us guide you!_
+
+<a href="https://pixees.fr/classcodeiai/app/tuto3-ai4t/?lang=en" target="_blank"><figure> 
+  <img src="Images/IA-M.3.2.1.png" /> 
+  <figcaption> Tutorial3: AI or Human? </figcaption> 
+</figure></a>
