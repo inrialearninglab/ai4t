@@ -1,9 +1,9 @@
 ---
-title: Of Machine Learning and Data
+title: 3.2.1 Video Of Machine Learning and Data
 description: a video specifically dedicated to machine learning with highlights on machine learning, supervised and reinforcement learning, neural networks and deep learning.  
 type: video
 ---
-
+# Video: Of Machine Learning and Data
 This Forth video is more specifically dedicated to machine learning. It is still a generalist video, with a humorous tone, which can be used in class.
 
 The video also provides an overview of some machine learning concepts in the form of a cartoon :
@@ -12,7 +12,6 @@ The video also provides an overview of some machine learning concepts in the for
 - Reinforcement learning : from 2'42 to 3'07"
 - Neural networks & deep learning : from 3'23" to 5'12"
 
-
 **Explanation**  
 _Watch the video below (9'35")_
 
@@ -20,6 +19,6 @@ _Watch the video below (9'35")_
 
 ####Synopsis
 The video presents the different approaches to learning. On the one hand the symbolic approach and on the other hand the numerical approach.
-The video then describes machine learning with its two main modes of operation: supervised learning and reinforcement learning. Deep learning (or deep neural network) is then discussed, which is one of the modalities of machine learning and is inspired by the functioning of the brain.
+The video then describes machine learning with its two main modes of operation: supervised learning and reinforcement learning. Deep learning (or deep neural network) is then discussed, which is one of the modalities of machine learning and is inspired by the functioning of the brain.  
 In addition to the algorithms, which were mentioned at the beginning of the video, _Guillaume_ reminds us of the importance of data. Because these data must be numerous, and correctly labelled, to allow AIs to learn correctly, and to make satisfactory predictions. This is an opportunity to come back to the "manufacture" of data and its challenges.
 In its last part, the video finally discusses the environmental impact of AI.
