@@ -1,10 +1,11 @@
 ---
-title: Boosted with AI!
-description:
+title: 3.1.1 Video Boosted with AI!
+description: Overview of the uses that can be made of AI
 ---
-This third general video gives an overview of all the uses that can be made of AI, some of which are rather unexpected.
-In keeping with the humorous tone and general approach of the other videos, this resource can also be used in the classroom.
+# Video: Boosted with AI!
 
+This general video gives an overview of all the uses that can be made of AI, some of which are rather unexpected.
+For a general approach with a humorous tone, this resource can be used in the classroom.
 
 **"Want to know how it's possible?"**  
 _Watch the video below (1'26")_

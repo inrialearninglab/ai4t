@@ -59,11 +59,23 @@ extra:
     - name: Français
       link: ./fr/
       lang: fr
+    - name: Italiano
+      link: ./it/
+      lang: it
+    - name: Deutsch
+      link: ./de/
+      lang: de
+    - name: Slovenščina
+      link: ./si/
+      lang: si
   # Liens vers des pages à afficher dans la page d'accueil (cards)
   parts:
     - title:
         en: "Teacher's Professional Practices"
         fr: "Pratiques professionnelles de l'enseignant"
+        it: "Pratiques professionnelles de l'enseignant"
+        de: "Pratiques professionnelles de l'enseignant"
+        si: "Pratiques professionnelles de l'enseignant"
       url: "path/to/folder"
       cards:
         - url: "TR-Training-Resources/Learning-activities/Clustering/Teacher-LA-clustering.html"
@@ -71,36 +83,63 @@ extra:
           title:
             en: "Pupils profiles"
             fr: "Profils d'élèves"
+            it: "Profils d'élèves"
+            de: "Profils d'élèves"
+            si: "Profils d'élèves"
           desc:
             en: "Persona, an AI tool to better understand the digital learning profile of pupils."
             fr: "Persona, un outil d'IA pour mieux connaître le profil numérique d'apprentissage des élèves."
+            it: "Persona, un outil d'IA pour mieux connaître le profil numérique d'apprentissage des élèves."
+            de: "Persona, un outil d'IA pour mieux connaître le profil numérique d'apprentissage des élèves."
+            si: "Persona, un outil d'IA pour mieux connaître le profil numérique d'apprentissage des élèves."
         - url: "TR-Training-Resources/Learning-activities/Data-and-AI/Teacher-LA-data-and-ai.html"
           img: "TR-Training-Resources/Images/data-bias.png"
           title:
             en: "Effect of data on AI tools"
             fr: "Titre en français"
+            it: "Titre en français"
+            de: "Titre en français"
+            si: "Titre en français"
           desc:
             en: "How data bias impact AI tools"
             fr: "Description en français"
+            it: "Description en français"
+            de: "Description en français"
+            si: "Description en français"
         - url: "TR-Training-Resources/Learning-activities/Prediction-Decision/Teacher-LA-predict-decide.html"
           img: "assets/AI4T_simbo_bela.png"
           title:
             en: "Prediction helps to decide?"
             fr: "Prédire pour mieux décider?"
+            it: "Prédire pour mieux décider?"
+            de: "Prédire pour mieux décider?"
+            si: "Prédire pour mieux décider?"
           desc:
             en: "BacAnalytics, an AI tool to support the organization of school exams"
             fr: "Description en français"
+            it: "Description en français"
+            de: "Description en français"
+            si: "Description en français"
         - url: "path/to/file/index.html"
           img: "assets/AI4T_simbo_bela.png"
           title:
             en: "Title in english"
             fr: "Titre en français"
+            it: "Titre en français"
+            de: "Titre en français"
+            si: "Titre en français"
           desc:
             en: "Description in english"
             fr: "Description en français"
+            it: "Description en français"
+            de: "Description en français"
+            si: "Description en français"
     - title:
         en: "AI in the Classroom"
         fr: "L'IA en classe"
+        it: "L'IA en classe"
+        de: "L'IA en classe"
+        si: "L'IA en classe"
       url: "path/to/folder"
       cards:
         - url: "path/to/file/index.html"
@@ -108,28 +147,49 @@ extra:
           title:
             en: "Title in english"
             fr: "Titre en français"
+            it: "Titre en français"
+            de: "Titre en français"
+            si: "Titre en français"
           desc:
             en: "Description in english"
             fr: "Description en français"
+            it: "Description en français"
+            de: "Description en français"
+            si: "Description en français"
         - url: "path/to/file/index.html"
           img: "assets/AI4T_simbo_bela.png"
           title:
             en: "Title in english"
             fr: "Titre en français"
+            it: "Titre en français"
+            de: "Titre en français"
+            si: "Titre en français"
           desc:
             en: "Description in english"
             fr: "Description en français"
+            it: "Description en français"
+            de: "Description en français"
+            si: "Description en français"
         - url: "path/to/file/index.html"
           img: "assets/AI4T_simbo_bela.png"
           title:
             en: "Title in english"
             fr: "Titre en français"
+            it: "Titre en français"
+            de: "Titre en français"
+            si: "Titre en français"
           desc:
             en: "Description in english"
             fr: "Description en français"
+            it: "Description en français"
+            de: "Description en français"
+            si: "Description en français"
     - title:
         en: "Teachers Training"
         fr: "L'IA en classe"
+        it: "L'IA en classe"
+        de: "L'IA en classe"
+        si: "L'IA en classe"
       url: "path/to/folder"
       cards:
         - url: "path/to/file/index.html"
@@ -137,37 +197,65 @@ extra:
           title:
             en: "Training path"
             fr: "Titre en français"
+            it: "Titre en français"
+            de: "Titre en français"
+            si: "Titre en français"
           desc:
             en: "Description in english"
             fr: "Description en français"
+            it: "Description en français"
+            de: "Description en français"
+            si: "Description en français"
         - url: "path/to/file/index.html"
           img: "assets/AI4T_simbo_bela.png"
           title:
             en: "Title in english"
             fr: "Titre en français"
+            it: "Titre en français"
+            de: "Titre en français"
+            si: "Titre en français"
           desc:
             en: "Description in english"
             fr: "Description en français"
+            it: "Description en français"
+            de: "Description en français"
+            si: "Description en français"
         - url: "path/to/file/index.html"
           img: "assets/AI4T_simbo_bela.png"
           title:
             en: "Title in english"
             fr: "Titre en français"
+            it: "Titre en français"
+            de: "Titre en français"
+            si: "Titre en français"
           desc:
             en: "Description in english"
             fr: "Description en français"
+            it: "Description en français"
+            de: "Description en français"
+            si: "Description en français"
   # Traductions autres
   trad:
     "See":
       en: "See"
       fr: "Voir"
+      it: "Voir"
+      de: "Voir"
+      si: "Voir"
     "See all":
       en: "See all"
       fr: "Voir tout"
+      it: "Voir tout"
+      de: "Voir tout"
+      si: "Voir tout"
 plugins:
   - search
   - awesome-pages
   - macros
+  - exclude:
+      glob: # Cacher des fichiers en mettant le chemin complet depuis "docs/[...]"
+        - "O1-Mooc/module-1-using-AI-and-Education/1-3-AI-challenges-and-competencies-for-education/1-3-2-changes-introduced-by-expert-the-use-of-digital-technologies.en.md"
+        - "O1-Mooc/module-1-using-AI-and-Education/1-3-AI-challenges-and-competencies-for-education/1-3-3-some-practices-tools-and-feedbacks.en.md"
   - i18n:
       default_language: en
       languages:
@@ -177,9 +265,24 @@ plugins:
         fr:
           name: Français
           site_name: "L'intelligence artificielle pour et par les enseignants"
+        it:
+          name: Français
+          site_name: "L'intelligence artificielle pour et par les enseignants"
+        de:
+          name: Français
+          site_name: "L'intelligence artificielle pour et par les enseignants"
+        si:
+          name: Français
+          site_name: "L'intelligence artificielle pour et par les enseignants"
       # Traductions manquantes dans la navigation
       nav_translations:
         fr:
+          "General Presentation": "Présentation générale"
+        it:
+          "General Presentation": "Présentation générale"
+        de:
+          "General Presentation": "Présentation générale"
+        si:
           "General Presentation": "Présentation générale"
   - page-to-pdf:
       disableOnServe: true
