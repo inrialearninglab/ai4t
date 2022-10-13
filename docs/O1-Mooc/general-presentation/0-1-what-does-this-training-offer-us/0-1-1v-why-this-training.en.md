@@ -1,6 +1,7 @@
 ---
 title: 0.1.1 Video Why this Training?
 description: Alain Thillay Interview - one of the project promotors
+contributor: Alain Thillay
 Type: video
 ---
 

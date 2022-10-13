@@ -1,6 +1,8 @@
 ---
 title: AI with Teachers
 description: Presentation and access to the textbook - Colin de la Higuera, Jotsna Iyer
+Contributors:   Colin de la Higuera
+                Jotsna Iyer
 ---
 # AI with Teachers
 

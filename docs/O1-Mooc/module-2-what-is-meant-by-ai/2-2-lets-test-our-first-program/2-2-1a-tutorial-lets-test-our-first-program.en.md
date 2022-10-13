@@ -1,10 +1,15 @@
 ---
 title: Introduction
-description:
-type: activity 
+description: A tutorial to discover image recognition programs, how to train them, how to fool them.
+contributors:   magic makers
+                inria
+                S24B
+                Class'code      
+type: activity
 ---
 
 What is AI and how does an AI program work?  
+Image recongnition is field of AI which has know
 Go ahead and train an AI!
 
 **How to experiment?**  

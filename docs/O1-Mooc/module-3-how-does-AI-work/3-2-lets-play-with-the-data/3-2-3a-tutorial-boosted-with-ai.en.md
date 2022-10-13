@@ -1,6 +1,10 @@
 ---
 title: 3.2.3 Activity Boosted with AI?
 description: Experiment how machine learning and program training works and test the importance of properly prepared data sets.
+contributors:   magic makers
+                inria
+                S24B
+                Class'code     
 type: activity
 ---
 
