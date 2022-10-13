@@ -1,6 +1,6 @@
 ---
 title: 0.4 Credits
-description: Conditions of learners traces collection
+description: Credits, funding and disclaiming
 ---
 
 # Credits

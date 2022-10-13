@@ -1,6 +1,7 @@
 ---
 title: Of Machine Learning and Data
-description:
+description: a video specifically dedicated to machine learning with highlights on machine learning, supervised and reinforcement learning, neural networks and deep learning.  
+type: video
 ---
 
 This Forth video is more specifically dedicated to machine learning. It is still a generalist video, with a humorous tone, which can be used in class.

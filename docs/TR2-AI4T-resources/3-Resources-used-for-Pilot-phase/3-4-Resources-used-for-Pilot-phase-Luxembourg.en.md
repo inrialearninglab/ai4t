@@ -1,6 +1,6 @@
 ---
 title: Presentation of resources used for Pilot Phase by Luxembourg
-description:
+description: Some resources used for Pilot Phase by Luxembourg
 ---
 # Presentation of resources used for Pilot Phase by Luxembourg
 

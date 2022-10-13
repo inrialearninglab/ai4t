@@ -1,6 +1,6 @@
 ---
 title: Presentation of resources used for Pilot Phase by Ireland
-description:
+description: Some resources used for Pilot Phase by Ireland
 ---
 # Presentation of resources used for Pilot Phase by Ireland
 

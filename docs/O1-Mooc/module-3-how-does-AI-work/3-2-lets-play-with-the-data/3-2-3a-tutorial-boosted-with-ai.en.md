@@ -1,6 +1,7 @@
 ---
 title: Boosted with AI?
 description: Experiment how machine learning and program training works and test the importance of properly prepared data sets.
+type: activity
 ---
 
 There is no better way to understand how machine learning and program training works than to understand how to properly prepare your dataset.

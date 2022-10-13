@@ -1,6 +1,6 @@
 ---
 title: Presentation of resources used for Pilot Phase by Italy
-description:
+description: Some resources used for Pilot Phase by italy
 ---
 # Presentation of resources used for Pilot Phase by Italy
 

@@ -1,6 +1,6 @@
 ---
 title: Did You say Intelligence?
-description:Raise questioning on AI use in Education
+description: Raise questioning on AI use in Education
 ---
 *to be modified*
 _Translated text from the french IAI Mooc._

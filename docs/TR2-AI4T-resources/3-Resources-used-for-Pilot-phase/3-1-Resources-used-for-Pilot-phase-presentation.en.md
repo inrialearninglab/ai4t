@@ -4,8 +4,7 @@ description:
 ---
 # Presentation of resources used for Pilot Phase
 
-During the first phase of the AI4T project, the pilot phase, a range of
-resources were used/shared by the partners.
+During the first phase of the AI4T project, the pilot phase, a range of resources were used/shared by the partners.
 
 Some of these are brought together in this section in the following
 organisation

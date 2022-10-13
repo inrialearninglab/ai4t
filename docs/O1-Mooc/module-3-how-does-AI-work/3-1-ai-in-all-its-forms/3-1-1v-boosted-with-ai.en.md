@@ -1,6 +1,7 @@
 ---
 title: 3.1.1 Video Boosted with AI!
 description: Overview of the uses that can be made of AI
+type: video
 ---
 # Video: Boosted with AI!
 

@@ -1,6 +1,11 @@
 ---
 title: 1.1.2 Video A Walk through AI - Guiding pupils to success through observation of learning processes
-description: Video 2 A Walk through AI
+description: Video 2 A Walk through AI - - Guiding pupils to success through observation of learning processes
+contributor:  Anne Boyer
+              Armelle Brun
+              Azim Roussanaly
+              Guilherme Medeiros-machado
+type: video
 ---
 # A Walk through AI - Guiding pupils to success through observation of learning processes
 ## Video n°2: A Walk through AI - Guiding pupils to success through observation of learning processes

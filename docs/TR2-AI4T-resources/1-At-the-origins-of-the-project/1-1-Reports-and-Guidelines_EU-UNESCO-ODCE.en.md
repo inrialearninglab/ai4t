@@ -4,7 +4,7 @@ description:
 ---
 # Reports and Guidelines (EU-UNESCO-OCDE)
 
-In defining the objectives of the AI4T project, the project promoters drew on a range of reports and contributions from different institutions. The documents are presented below. The publications are organised by issuing institutions. If there have been any updates or new developments since 2020 when the project was written, these have also been listed on this page.
+In defining the objectives of the AI4T project, the project promoters drew on a range of reports and contributions from different institutions. Those documents are presented below. The publications are organised by issuing institutions. If there have been any updates or new developments since 2020 when the project was written, these have also been listed on this page.
 
 ## European Union Publication
 

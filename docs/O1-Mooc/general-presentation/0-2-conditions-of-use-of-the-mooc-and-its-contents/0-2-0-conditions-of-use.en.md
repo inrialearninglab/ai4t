@@ -1,6 +1,6 @@
 ---
 title: 0.2 Conditions of use of the content of the Mooc
-description: How to use the Mooc resources
+description: How to use the Mooc resources : licences, precaution of use in line with the project life
 ---
 # Conditions of use of the content of the Mooc
 ____________________

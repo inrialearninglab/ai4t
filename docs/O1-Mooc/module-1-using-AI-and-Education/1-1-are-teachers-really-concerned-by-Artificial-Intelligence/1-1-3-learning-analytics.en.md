@@ -1,6 +1,11 @@
 ---
 title: 1.1.3 Video A Walk through AI - Learning Analytics
-description: Video 3 A Walk through AI
+description: Video 3 A Walk through AI  - Learning Analytics
+contributor:  Anne Boyer
+              Armelle Brun
+              Azim Roussanaly
+              Guilherme Medeiros-machado
+type: video
 ---
 
 # A walk through Artificial Intelligence: Learning Analytics

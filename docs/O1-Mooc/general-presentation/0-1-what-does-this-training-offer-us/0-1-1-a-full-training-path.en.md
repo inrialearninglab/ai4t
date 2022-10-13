@@ -1,6 +1,6 @@
 ---
 title: 0.1.1 A Full Training Path on AI and Education
-description:
+description: Description of the generic training pathway common to all partners
 ---
 # A Full Training Path on AI and Education
 

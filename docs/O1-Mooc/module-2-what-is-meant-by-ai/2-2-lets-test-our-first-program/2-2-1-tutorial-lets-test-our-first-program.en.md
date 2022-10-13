@@ -1,6 +1,7 @@
 ---
 title: Introduction
 description:
+type: activity 
 ---
 
 What is AI and how does an AI program work?  
