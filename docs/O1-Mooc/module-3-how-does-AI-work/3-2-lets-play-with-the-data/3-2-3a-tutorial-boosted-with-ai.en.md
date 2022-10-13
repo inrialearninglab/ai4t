@@ -11,6 +11,13 @@ type: activity
 # Activity: Boosted with AI?
 There is no better way to understand how machine learning and program training works than to understand how to properly prepare your dataset.
 
+In this tutorial are inserted 7 very short pedagogical videos which make the tutorials usable with an audience of high school (or secondary school) students if desired.
+
+###Infos :###
+This tutorial does not store any personal data. The images are processed locally on the user's machine. It can be used with the following browsers : Edge, Chrome, Mozilla, Safari, Opera
+
+
+
 **It's your turn!**  
 _Click on the image below and let us guide you!_
 
