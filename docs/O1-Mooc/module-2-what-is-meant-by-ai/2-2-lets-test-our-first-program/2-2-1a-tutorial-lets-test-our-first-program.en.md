@@ -15,8 +15,7 @@ Image recognition is an area of AI that has seen considerable growth[^1]. This t
 
 In this tutorial are inserted 7 very short pedagogical videos which make the tutorials usable with an audience of high school (or secondary school) students if desired.
 
-## Infos :
-This tutorial does not store any personal data. The images are processed locally on the user's machine. It can be used with the following browsers : Edge, Chrome, Mozilla, Safari, Opera
+**Note**: This tutorial does not store any personal data. The images are processed locally on the user's machine. It can be used with the following browsers: Edge, Chrome, Mozilla, Safari, Opera
 
 Go ahead and train an AI!
 

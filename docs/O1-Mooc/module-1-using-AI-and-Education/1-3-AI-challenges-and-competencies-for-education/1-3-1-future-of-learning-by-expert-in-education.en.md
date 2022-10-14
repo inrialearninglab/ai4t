@@ -33,7 +33,7 @@ If we consider the only specific education-oriented tasks, a set of four needs-b
 
 -   and lifelong learning.
 
-Considering this categorisation, Holmes & al.[^2] established the different types of current AI-based systems for Education as shown below.
+Holmes & al.[^2] classified the different types of current AI-based systems for Education as shown below.
 
 <figure>
 	 <img src="Images/AIED-Holmes-systems.png" />
