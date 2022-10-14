@@ -17,50 +17,32 @@ have been created as part of international or national projects and
 shared under creative commons licences or as open educational
 resources[^1], among which:
 
--   [Lalilo](https://p2ia.lalilo.com/) (FR): adaptive learning to
-    > read (FR)
+-   [Lalilo](https://p2ia.lalilo.com/)(FR): adaptive learning to read
 
--   [Adaptiv'Math](https://www.adaptivmath.fr/) (FR): a teaching
-    > assistant for teaching and adaptive learning for mathematics
+-   [Adaptiv'Math](https://www.adaptivmath.fr/)(FR): a teaching assistant for teaching and adaptive learning for mathematics
 
-Other examples of AI-based resources related to language learning and
-maths can be found on the Web:
+Other examples of AI-based resources related to language learning and maths can be found on the Web:
 
-[Duolingo for Schools](https://schools.duolingo.com): A free
-management layer on top of the Duolingo language learning application to
-get visibility and a level of control over the students' experience on
-Duolingo.
+[Duolingo for Schools](https://schools.duolingo.com): A free management layer on top of the Duolingo language learning application to
+get visibility and a level of control over the students' experience on Duolingo.
 
-[Adaptiv'langue](https://specimen.adaptivlangue.evidenceb.com/)
-(FR): Each student completes a diagnostic test in which the teacher is
-informed of the student's level and that of the class in the skills
-being worked on. The student's progress in the application is
-determined by his or her success rate in the exercises that are proposed
-to help him or her progress without demotivating him or her.
+[Adaptiv'langue](https://specimen.adaptivlangue.evidenceb.com/)(FR): Each student completes a diagnostic test in which the teacher is
+informed of the student's level and that of the class in the skills being worked on. The student's progress in the application is
+determined by his or her success rate in the exercises that are proposed to help him or her progress without demotivating him or her.
 
-[EF Hello](https://www.hello.ef.com/) or [Andy
-Chatbot](https://andychatbot.com/) (EN): Mobile Apps for learners
-to have conversations in English as a foreign language
+[EF Hello](https://www.hello.ef.com/) or [AndyChatbot](https://andychatbot.com/)(EN): Mobile Apps for learners to have conversations in English as a foreign language
 
-[AXIθME](https://axiome.ai/) (FR): Teaching assistant to diagnose
-gaps in mathematics and personalise the learning paths of pupils from 11
+[AXIθME](https://axiome.ai/)(FR): Teaching assistant to diagnose gaps in mathematics and personalise the learning paths of pupils from 11
 to 18.
 
-[Checkmath](https://checkmath.com/) (EN): Support for mathematics
-learning on mobile phone for pupils from 11 to 13.
+[Checkmath](https://checkmath.com/)(EN): Support for mathematics learning on mobile phone for pupils from 11 to 13.
 
-[Photomath](https://photomath.com): Mathematical solver using on
-mobile phone to scan, recognize and display solving steps of the maths
+[Photomath](https://photomath.com): Mathematical solver using on mobile phone to scan, recognize and display solving steps of the maths
 problem.
 
-AI-based tools like those mentioned above are at the core of AI in
-Education. A template to analyse the characteristics of these tools at
-the scientific, technical, regulatory, and ethical levels, will be
-proposed later in this training. The objective is to give teachers a
-better understanding of the resources they use or that their students
-use.
+AI-based tools like those mentioned above are at the core of AI in Education. A template to analyse the characteristics of these tools at
+the scientific, technical, regulatory, and ethical levels, will be proposed later in this training. The objective is to give teachers a
+better understanding of the resources they use or that their students use.
 
-[^1]: European Schoolnet . "Artificial Intelligence Role in K12
-    Education: Agile Collection of Information", 2021, Brussels,
-    Belgium.
+[^1]: European Schoolnet. "Artificial Intelligence Role in K12 Education: Agile Collection of Information", 2021, Brussels, Belgium.
     http://resetedu.eu/wp-content/uploads/2021/11/4.-LIDIJA-KRALJ-Group-Discussion.pdf

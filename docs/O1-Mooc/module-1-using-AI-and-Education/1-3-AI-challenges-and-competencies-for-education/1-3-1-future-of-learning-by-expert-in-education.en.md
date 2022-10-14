@@ -46,21 +46,21 @@ These emerging AI-technologies also have to be questioned in the context of educ
 
 1.  **How can AI be leveraged to enhance education?**
 
-    > Over the past decade, the use of AI tools to support or enhance learning has grown exponentially[^3]. This has only increased following the COVID-19 school closures. However, evidence remains scarce on how AI can improve learning outcomes and whether it can help learning scientists and practitioners to better understand how effective learning happens[^4]. Furthermore, we have yet to explore AI's potential in the tracking of learning outcomes across different settings as well as assessing competencies, especially those acquired in non-formal and informal contexts."
+    "*Over the past decade, the use of AI tools to support or enhance learning has grown exponentially[^3]. This has only increased following the COVID-19 school closures. However, evidence remains scarce on how AI can improve learning outcomes and whether it can help learning scientists and practitioners to better understand how effective learning happens[^4]. Furthermore, we have yet to explore AI's potential in the tracking of learning outcomes across different settings as well as assessing competencies, especially those acquired in non-formal and informal contexts.*"
 
-    > "There is also potential for AI to facilitate new approaches to assessment, such as AI-enabled adaptive and continuous assessment[^5]. However, it is important to acknowledge at the outset that the use of AI for learning and assessment also raises various concerns that are yet to be properly addressed. These include concerns about their approach to pedagogy, the lack of robust evidence for their efficacy and potential impact on teachers' roles, and broader ethical questions[^6] [^7]."
+    "*There is also potential for AI to facilitate new approaches to assessment, such as AI-enabled adaptive and continuous assessment[^5]. However, it is important to acknowledge at the outset that the use of AI for learning and assessment also raises various concerns that are yet to be properly addressed. These include concerns about their approach to pedagogy, the lack of robust evidence for their efficacy and potential impact on teachers' roles, and broader ethical questions[^6] [^7]*."
 
-    > "Many teacher-facing AI applications aim to help teachers reduce workloads by automating tasks such as assessment, plagiarism detection, administration and feedback. This, it is often argued, should free up time for teachers to invest in other tasks, such as providing more effective support to individual students."
+    "*Many teacher-facing AI applications aim to help teachers reduce workloads by automating tasks such as assessment, plagiarism detection, administration and feedback. This, it is often argued, should free up time for teachers to invest in other tasks, such as providing more effective support to individual students.*"
 
 2.  **How can we ensure the ethical, inclusive and equitable use of AI in education?**
 
-    > "The ethical, inclusive and equitable use of AI in education impacts upon each of the Sustainable Development Goals. There are issues centred on data and algorithms, on pedagogical choices, on inclusion and the 'digital divide', on children's right to privacy, liberty and unhindered development, and on equity in terms of gender, disability, social and economic status, ethnic and cultural background, and geographic location."
+    "*The ethical, inclusive and equitable use of AI in education impacts upon each of the Sustainable Development Goals. There are issues centred on data and algorithms, on pedagogical choices, on inclusion and the 'digital divide', on children's right to privacy, liberty and unhindered development, and on equity in terms of gender, disability, social and economic status, ethnic and cultural background, and geographic location.*"
 
 3.  **How can education prepare humans to live and work with AI?**
 
-    > "If the world is to ensure that AI does not exacerbate existing inequalities, it will be increasingly important for every citizen to have the opportunity to develop a robust understanding of AI -- what it is, how it works, and how it might impact on their lives. This is sometimes called 'AI literacy'. For this, teachers will play a key role."
+    "*If the world is to ensure that AI does not exacerbate existing inequalities, it will be increasingly important for every citizen to have the opportunity to develop a robust understanding of AI -- what it is, how it works, and how it might impact on their lives. This is sometimes called 'AI literacy'. For this, teachers will play a key role.*"
 
-    > "Helping students learn how to live effectively in a world increasingly impacted by AI requires a pedagogy that puts more emphasis on human skills (e.g. critical thinking, communication, collaboration and creativity) and the ability to collaborate with pervasive AI tools in life, learning, and work.
+    "*Helping students learn how to live effectively in a world increasingly impacted by AI requires a pedagogy that puts more emphasis on human skills (e.g. critical thinking, communication, collaboration and creativity) and the ability to collaborate with pervasive AI tools in life, learning, and work.*"
 
 ## Core Competencies Required in the AI Era
 
