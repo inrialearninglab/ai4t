@@ -4,13 +4,13 @@ description: Get a first understanding of AI types
 ---
 
 # What kind of AI?  
-Many classifications of AI types can be found in the literature. Let's see what they refer to.
+Many AI types can be found in the literature. Let's see what they refer to.
 
 ## Weak or strong AI?
 - Weak Artificial Intelligence  
   This is the artificial intelligence we know today: it is an algorithm that "learns", by adapting its parameters to learning data, and is not endowed with mental and cognitive capacities, but is capable of performing a specific task much more efficiently sometimes than a human being.
 - Strong Artificial Intelligence  
-  An artificial intelligence that would be capable of copying human aptitudes (learning, understanding, apprehending, reasoning, making decisions, having a conscience, emotions, etc.). To date, strong artificial intelligence does not exist, it is a belief.
+  An artificial intelligence that would be capable of copying human aptitudes (learning, understanding, apprehending, reasoning, making decisions, having a conscience, emotions, etc.). A so-called "strong" artificial intelligence, which would be able to be autonomous and versatile in unexpected situations, is a scientific objective. However, at present, there are results that show that this ideal goal of strong artificial intelligence is technically impossible. To date, strong artificial intelligence does not exist, it is a belief.
 
 ## Symbolic or Numerical Approach?
 

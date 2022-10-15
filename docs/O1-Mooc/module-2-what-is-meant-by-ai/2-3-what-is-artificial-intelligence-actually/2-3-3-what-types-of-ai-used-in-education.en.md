@@ -4,15 +4,7 @@ description: The existing AI systems, what are their potential or existing uses 
 ---
 # What types of AI applications in Education
 
-As a scientific discipline, AI covers several sub-areas of expertise and their associated techniques[^1] as depicted on the following figure, created by the European High-Level Expert Group on Artificial Intelligence. Some of them are often quoted, others less known.
-
-<figure> 
-  <img src="Images/AI-sub-disciplines.png" /> 
-  <figcaption> A simplified overview of AI's sub-disciplines and their relationship. Both machine learning and reasoning include many other techniques, and robotics includes techniques that are outside AI. The whole of AI falls within the computer science discipline. </figcaption> 
-</figure>
-
-
-Among the possible classifications of AI scientific domains, the following table presents an AI taxonomy[^2] according to the family functions possibly performed by AI.
+Among the possible classifications of AI scientific domains, the following table presents an AI taxonomy[^1] according to the family functions possibly performed by AI.
 
 <figure> 
   <img src="Images/AI-Taxonomy-Samoli-al-2021.png" /> 
@@ -20,7 +12,7 @@ Among the possible classifications of AI scientific domains, the following table
  </figcaption> 
 </figure>
 
-Let's see which AI techniques are used in the AI-based education-oriented applications proposed by Holmes & al. in 2019[^3].
+Let's see which AI techniques are used in the AI-based education-oriented applications proposed by Holmes & al. in 2019[^2].
 
 <figure> 
   <img src="Images/AIED-Holmes-systems.png" /> 
@@ -40,8 +32,7 @@ As for personalised marketing offers and recommendations functions that can be f
 - **Student attention and emotion detection**, as a teacher supporting service
 Such a system is likely to use **perception** techniques (computer vision for facial recognition for example) and **machine learning** techniques to analyse the student's facial expressions or behaviour if such information are collected and analysed.
 
-[^1]: A definition of AI: main capabilities and disciplines - High-Level Expert Group on Artificial Intelligence, European Commission - 2019.
 
-[^2]: AI Watch - Defining Artificial Intelligence - 2.0. Towards an operational definition and taxonomy for the AI landscape - Samoili, S., López Cobo, M., Delipetrev, B., Martínez-Plumed, F., Gómez, E., and De Prato, G. - EUR 30873 EN, Publications Office of the European Union, Luxembourg, 2021, ISBN 978-92-76-42648-6, doi:10.2760/019901, JRC126426.
+[^1]: AI Watch - Defining Artificial Intelligence - 2.0. Towards an operational definition and taxonomy for the AI landscape - Samoili, S., López Cobo, M., Delipetrev, B., Martínez-Plumed, F., Gómez, E., and De Prato, G. - EUR 30873 EN, Publications Office of the European Union, Luxembourg, 2021, ISBN 978-92-76-42648-6, doi:10.2760/019901, JRC126426.
 
-[^3]: Artificial Intelligence In Education: Promises and Implications for Teaching and Learning - Wayne Holmes, Maya Bialik, Charles Fadel - Boston, MA, Center for Curriculum Redesign, 2019.
+[^2]: Artificial Intelligence In Education: Promises and Implications for Teaching and Learning - Wayne Holmes, Maya Bialik, Charles Fadel - Boston, MA, Center for Curriculum Redesign, 2019.
