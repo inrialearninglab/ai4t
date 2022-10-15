@@ -6,19 +6,21 @@ contributor:  Jiajun Pan
               Anne Boyer
 ---
 
-# Template for AI characterisation
+# A Template for AI characterisation
 
 Although Artificial Intelligence Educational Resources -AIERs- are becoming increasingly common, there is currently no tool to comprehensively map the characteristics of AIERs and help users make informed use of these resources.
 
-The LORIA[^1] Research Laboratory has designed a template for AI characterisation[^2] in order to help users, and here specifically teachers, to better understand the resources they or their students use.
+The LORIA[^1] Research Laboratory specifically designed a template for AI characterisation[^2] at the scientific, technical, regulatory, and ethical levels to help teachers to better understand the resources they or their students use.
 
-Organised in different layers that cover all the features of the AIER, from usage scenarios to the transparency mechanism to explain the decision proposed by the AI, this template is a tool to help better understand what makes up an AIER.
+It is organised in different layers that cover all the features of the AIER, from usage scenarios to the transparency mechanism to explain the decision proposed by the AI.
+
+**Want to know which questions to ask when using AI tools in Education?**
 
 _Click on the image below and have a look at the ready-to-use format of The Template for Analysing AI Educational resources._
 
 <a href="./AI4T-Template_Ready_to_use.pdf" target="_blank"><figure>
   <img src="Images/AI4T-Template-Detective-visual.jpg" />
-  <figcaption>Ready to Use template for AI resources Characterisation</figcaption> 
+  <figcaption>A Ready to Use template for AI resources Characterisation</figcaption>
 </figure></a>
 
 The Template in a ready-to-use format[^3] can also be uploaded and filled in for your own AI Educational tools and resources.
