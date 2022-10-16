@@ -9,10 +9,13 @@ However, AI is an old scientific discipline, it was officially recognised as a f
 
 The historical timeline presented here highlights the main steps of AI developments from the first concept of a programmable machine by Ada Lovelace in 1837 to the most recent scientific advances in deep learning, applied to image recognition applications for example.
 
-<figure>
-	 <img src="Images/nom-image.png" alt="Image of AI history"/>
-	 <figcaption> Image of AI history </figcaption>
-</figure>
+**What are the main scientific milestone?**  
+_Click on the image below to discover the details of each scientific milestone!_
+
+<a href="https://pixees.fr/classcodeiai/app/tuto1?lang=en" target="_blank"><figure> 
+  <img src="Images/AI-historical-timeline.png" alt="Image of AI history"/> 
+</figure></a>
+
 
 The progress of research in the field of AI will be booming until 1974.
 Subsequently, as the hoped-for results did not materialise, investors lost interest in the discipline and research in the field began to falter until 1980: this was the first winter of AI. It was the rise in the 1980s of expert systems, which made it possible to reproduce cognitive abilities and to outperform experts in their field, that revived the dynamics of the discipline. But here again, the enthusiasm of funders is waning in the face of slower-than-expected progress, and AI will experience a second winter of about ten year.
