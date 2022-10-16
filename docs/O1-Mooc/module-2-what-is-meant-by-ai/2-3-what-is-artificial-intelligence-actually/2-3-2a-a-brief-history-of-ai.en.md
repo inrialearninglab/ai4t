@@ -1,6 +1,6 @@
 ---
 title: 2.3.2 Activity A brief history of AI
-description: Explain where does AI come from and links between milestones in history of AI and educational AI uses
+description: Identify milestones in history of AI
 ---
 # Activity: A brief history of AI
 

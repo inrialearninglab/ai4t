@@ -25,5 +25,3 @@ _Click on the image below and let yourself be guided!_
 <a href="https://pixees.fr/classcodeiai/app/tuto1?lang=en" target="_blank"><figure> 
   <img src="Images/Tuto-M1-FirstProgram.png" /> 
 </figure></a>
-
-[^1]: see Mooc 2.3.3 A brief history of AI
