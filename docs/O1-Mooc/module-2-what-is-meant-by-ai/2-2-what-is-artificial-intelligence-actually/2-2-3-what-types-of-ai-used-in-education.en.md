@@ -1,5 +1,5 @@
 ---
-title: 2.3.3 What types of AI applications in Education
+title: 2.2.3 What types of AI applications in Education
 description: The existing AI systems, what are their potential or existing uses in Education
 ---
 # What types of AI applications in Education

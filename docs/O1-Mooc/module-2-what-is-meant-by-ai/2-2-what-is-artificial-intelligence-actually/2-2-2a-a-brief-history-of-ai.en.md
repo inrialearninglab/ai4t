@@ -1,5 +1,5 @@
 ---
-title: 2.3.2 Activity A brief history of AI
+title: 2.2.2 Activity A brief history of AI
 description: Identify milestones in history of AI
 ---
 # Activity: A brief history of AI

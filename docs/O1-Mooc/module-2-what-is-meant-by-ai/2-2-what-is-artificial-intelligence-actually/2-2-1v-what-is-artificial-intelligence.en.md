@@ -1,6 +1,7 @@
 ---
-title: 2.3.1 Video What is Artificial Intelligence?
+title: 2.2.1 Video What is Artificial Intelligence?
 description:
+type: video
 ---
 
 # What is Artificial Intelligence?

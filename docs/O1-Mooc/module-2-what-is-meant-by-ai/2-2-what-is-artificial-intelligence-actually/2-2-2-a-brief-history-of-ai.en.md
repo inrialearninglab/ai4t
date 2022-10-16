@@ -1,5 +1,5 @@
 ---
-title: 2.3.2 A brief history of AI
+title: 2.2.2 A brief history of AI
 description: Explain where does AI come from
 ---
 
