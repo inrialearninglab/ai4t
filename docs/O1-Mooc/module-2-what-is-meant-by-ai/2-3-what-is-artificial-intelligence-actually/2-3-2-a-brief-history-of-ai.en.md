@@ -12,7 +12,8 @@ The historical timeline presented here highlights the main steps of AI developme
 **What are the main scientific milestone?**  
 _Click on the image below to discover the details of each scientific milestone!_
 
-<a href="https://pixees.fr/classcodeiai/app/tuto1?lang=en" target="_blank"><figure> 
+<a href=" " target="_blank">
+<figure> 
   <img src="Images/AI-historical-timeline.png" alt="Image of AI history"/> 
 </figure></a>
 
