@@ -19,8 +19,7 @@ It is organised in different layers that cover all the features of the AIER, fro
 _Click on the image below and have a look at the ready-to-use format of The Template for Analysing AI Educational resources._
 
 <a href="./AI4T-Template_Ready_to_use.pdf" target="_blank"><figure>
-  <img src="Images/AI4T-Template-Detective-visual.jpg" />
-  <figcaption>A Ready to Use template for AI resources Characterisation</figcaption>
+  <img src="Images/AI4T-Template-Detective-visual.jpg" alt="A Ready to Use template for AI resources Characterisation"/>
 </figure></a>
 
 The Template in a ready-to-use format[^3] can also be uploaded and filled in for your own AI Educational tools and resources.

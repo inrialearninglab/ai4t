@@ -41,8 +41,7 @@ The algorithmic risk can be characterised in three ways.
 For R. Schwartz & al.[^4], "*Bias is neither new nor unique to AI and it is not possible to achieve zero risk of bias in an AI system*".  
 Meanwhile, recognizing that AI agents are inherently subjective is a crucial prerequisite for ensuring that they are only applied to tasks for which they are well equipped.
 
-EPRS' study concludes with several recommendations when using AI-based
-applications:
+EPRS' study concludes with several recommendations when using AI-based applications:
 
 -   Understand bias and subjectivity
 
