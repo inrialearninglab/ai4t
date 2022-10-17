@@ -51,6 +51,8 @@ to 18.
 [[Checkmath]{.ul}](https://checkmath.com/) (EN): Support for mathematics
 learning on mobile phone for pupils from 11 to 13.
 
+[[Orange]{.ul}](https://orangedatamining.com/)(SI) : Open source machine learning and data visualisation.
+
 [[Photomath]{.ul}](https://photomath.com): Mathematical solver using on
 mobile phone to scan, recognize and display solving steps of the maths
 problem.
