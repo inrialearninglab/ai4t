@@ -15,12 +15,12 @@ In the following videos, Alain Thillay, French National Expert in Digital Educat
 ## Artificial Intelligence in Education: Understanding, Experimenting, Developing Digital and Ethic Skills
 Short presentation
 Watch the video below (1'48")
-____________________
-Iframe video1
-____________________
+
+<center><iframe width="640" height="360" src="YT link" frameborder="0" allowfullscreen></iframe></center>
+
 
 Detailed presentation
 Watch the video below (6'57")
-____________________
-Iframe video2
-____________________
+
+
+<center><iframe width="640" height="360" src="YT link" frameborder="0" allowfullscreen></iframe></center>

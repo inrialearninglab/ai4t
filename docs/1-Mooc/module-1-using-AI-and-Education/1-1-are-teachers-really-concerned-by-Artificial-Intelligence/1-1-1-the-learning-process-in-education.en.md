@@ -28,6 +28,6 @@ In this context, we propose **"A walk through Artificial Intelligence", a series
 
 ----------
 
-Video "The Learning Process in Education"
+<center><iframe width="640" height="360" src=" Yt link Learning process in education ?rel=0&showinfo=0&cc_load_policy=1&hl=fr&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
 
 -----------
