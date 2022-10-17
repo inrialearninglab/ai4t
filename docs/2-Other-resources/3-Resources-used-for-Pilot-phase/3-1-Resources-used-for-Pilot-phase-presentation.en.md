@@ -1,6 +1,6 @@
 ---
 title: Presentation of resources used for Pilot Phase
-description:
+description: Presentation of resources used for Pilot Phase
 ---
 # Presentation of resources used for Pilot Phase
 

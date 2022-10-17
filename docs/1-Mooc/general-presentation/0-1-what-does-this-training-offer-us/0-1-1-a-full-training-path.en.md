@@ -13,7 +13,7 @@ The full training extends over a period of 3 months and includes:
 
 -   online training resources to go further on AI and Education
 
--   an online manual,
+-   an online textbook,
 
 -   webinars to share practices and opinions,
 
