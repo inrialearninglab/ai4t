@@ -1,7 +1,7 @@
 ---
 title: 1.2.1 Activity Let's focus on your own AI tools
 description: Raise questioning on our own AI practices
-type : activity
+type: activity
 ---
 
 # Activity: Let's focus on your own AI tools

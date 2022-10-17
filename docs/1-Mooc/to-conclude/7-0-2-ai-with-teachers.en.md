@@ -6,7 +6,7 @@ Contributors:   Colin de la Higuera
 ---
 # AI with Teachers
 
-You are ongoing training or have finished it and have understood why AI was the new key actor in education. Perhaps have you had enough? Or,perhaps, you have more questions now than when you started?
+You are ongoing training or have finished it and have understood why AI was the new key actor in education. Perhaps have you had enough? Or, perhaps, you have more questions now than when you started?
 
 Want to know a bit more about how AIED tools work? Want to understand why language is such an important topic for AI?
 

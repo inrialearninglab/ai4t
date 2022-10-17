@@ -22,3 +22,5 @@ ____________________
 
 <center><iframe width="640" height="360" src="YT Ethical Use of Artificial Intelligence in Education: European Challenges   ?rel=0&showinfo=0&cc_load_policy=1&hl=fr&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
 ____________________
+
+  Ethical guidelines on the use of AI and data in teaching and learning for educators are due to be published a the end October 2022 on the website of the [European Commission - Digital Education Action Plan (Action 6)](https://education.ec.europa.eu/focus-topics/digital-education/action-plan/action-6)
