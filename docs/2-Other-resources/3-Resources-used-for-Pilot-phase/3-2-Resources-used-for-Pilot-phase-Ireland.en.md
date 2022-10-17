@@ -16,7 +16,7 @@ description: Some resources used for Pilot Phase by Ireland
 
 -   Info about the Mooc: "*We help educators around the world use technology to solve tough problems*".
 
--   Access link: [https://www.iste.org/](https://www.iste.org/)
+-   Access to ISTE website : [https://www.iste.org/](https://www.iste.org/)
 
 ### AI in Education podcast[^2]
 
@@ -56,7 +56,7 @@ description: Some resources used for Pilot Phase by Ireland
 
 - By: Encyclopædia Britannica
 
-- ***"*artificial intelligence (AI)****, the ability of a digital [computer](https://www.britannica.com/technology/computer) or computer-controlled [robot](https://www.britannica.com/technology/robot-technology) to perform tasks commonly associated with intelligent beings.(..)"*
+- ***"*artificial intelligence (AI)***, the ability of a digital [computer](https://www.britannica.com/technology/computer) or computer-controlled [robot](https://www.britannica.com/technology/robot-technology) to perform tasks commonly associated with intelligent beings.(..)"*
 
 References: Copeland, B.J.. \"artificial intelligence". Encyclopedia Britannica, 24 Aug. 2022, [https://www.britannica.com/technology/artificial-intelligence](https://www.britannica.com/technology/artificial-intelligence) . Accessed 30 September 2022.
 

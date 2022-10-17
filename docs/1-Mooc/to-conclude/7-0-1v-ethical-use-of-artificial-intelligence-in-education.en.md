@@ -19,5 +19,6 @@ In the following video, Alain Thillay, French National Expert in Digital Educati
 ## Ethical Use of Artificial Intelligence in Education: European Challenges  
 Watch the video below (6'14")
 ____________________
-Iframe video
+
+<center><iframe width="640" height="360" src="YT Ethical Use of Artificial Intelligence in Education: European Challenges   ?rel=0&showinfo=0&cc_load_policy=1&hl=fr&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
 ____________________
