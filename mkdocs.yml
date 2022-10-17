@@ -254,8 +254,8 @@ plugins:
   - macros
   - exclude:
       glob: # Cacher des fichiers en mettant le chemin complet depuis "docs/[...]"
-        - "O1-Mooc/module-1-using-AI-and-Education/1-3-AI-challenges-and-competencies-for-education/1-3-2-changes-introduced-by-expert-the-use-of-digital-technologies.en.md"
-        - "O1-Mooc/module-1-using-AI-and-Education/1-3-AI-challenges-and-competencies-for-education/1-3-3-some-practices-tools-and-feedbacks.en.md"
+        - "1-Mooc/module-1-using-AI-and-Education/1-3-AI-challenges-and-competencies-for-education/1-3-2-changes-introduced-by-expert-the-use-of-digital-technologies.en.md"
+        - "1-Mooc/module-1-using-AI-and-Education/1-3-AI-challenges-and-competencies-for-education/1-3-3-some-practices-tools-and-feedbacks.en.md"
   - i18n:
       default_language: en
       languages:
