@@ -1,11 +1,11 @@
 ---
-title: 0.1.1 A Full Training Path on AI and Education
+title: 0.1.2 A Full Training Path on AI and Education
 description: Description of the generic training pathway common to all partners
 ---
 # A Full Training Path on AI and Education
 
 
-This self-directed online training, - also named "the Mooc", is part of the training designed and created for European teachers and school leaders to investigate, experiment and question themselves about the use of AI in Education.
+This online training, - also named "the Mooc", is part of the full training designed and created for European teachers and school leaders to investigate, experiment and question themselves about the use of AI in Education.
 
 The full training extends over a period of 3 months and includes:
 
