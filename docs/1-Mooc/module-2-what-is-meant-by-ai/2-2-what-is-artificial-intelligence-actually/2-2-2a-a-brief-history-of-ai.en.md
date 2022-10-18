@@ -13,11 +13,11 @@ Natural Interaction, Image Recognition and Autonomous Car are the 3 technologies
 
 - Image Recognition applications are based on computer vision techniques which are used for: face recognition, visual diagnostics, handwriting recognition, etc.
 
-- Autonomous cars result from the transversal domain of integration and interaction technologies combining several technologies: perception, reasoning, action, learning and interaction with the environment.
+- Autonomous cars are the result of integration and interaction technologies and combine several techniques: perception, reasoning, action, learning and interaction with the environment.
 
 ## Where do they come from?
 
-In the following activity you will make the link between the scientific advances at the origin of three AI-based technologies (Natural Interaction, Image Recognition) and educational uses. Autonomous Car will be presented as an example of what is expected of AI.
+In the following activity you will make the link between some scientific advances and AI-based technologies possibly used in Education (Natural Interaction, Image Recognition). Autonomous Car will be presented as an example of what is expected of AI.
 
 **Want to know more about 3 AI-based technologies?**  
 _Click on the image below and follow the instructions!_

@@ -14,7 +14,7 @@ _Click on the image below to discover the details of each scientific milestone!_
 
 <a href=" " target="_blank">
 <figure> 
-  <img src="Images/AI-historical-timeline.png" alt="Image of AI history"/> 
+  <img src="Images/AI-historical-timeline.png" alt="Illustration of AI history"/> 
 </figure></a>
 
 
