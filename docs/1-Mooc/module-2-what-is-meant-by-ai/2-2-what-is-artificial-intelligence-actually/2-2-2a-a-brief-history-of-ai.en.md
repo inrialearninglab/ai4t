@@ -17,11 +17,11 @@ Natural Interaction, Image Recognition and Autonomous Car are the 3 technologies
 
 ## Where do they come from?
 
-In the following activity you will discover the scientific advances at the origin of three AI-based technologies: Natural Interaction, Image Recognition and Autonomous Car.
+In the following activity you will make the link between the scientific advances at the origin of three AI-based technologies (Natural Interaction, Image Recognition) and educational uses. Autonomous Car will be presented as an example of what is expected of AI.
 
 **Want to know?**  
 _Click on the image below and try to guess!_
 
-<a href="https://pixees.fr/classcodeiai/app/tuto1?lang=en" target="_blank"><figure> 
+<a href="" target="_blank"><figure> 
   <img src="Images/AI-historical-timeline.png" alt="Image of AI history" /> 
 </figure></a>
