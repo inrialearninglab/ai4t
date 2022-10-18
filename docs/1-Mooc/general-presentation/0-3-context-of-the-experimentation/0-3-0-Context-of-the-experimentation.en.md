@@ -1,9 +1,9 @@
 ---
 title: 0.3 Context of the experimentation
-description: Conditions of learners traces collection 
+description: Conditions of learners traces collection
 ---
 # Context of the experimentation
-On the different learning platforms (LMS or CMS) used by the 5 countries participating in this AI Training for teachers and school leaders, it is possible to follow the learning path of the learners. This is achieved using “learning traces” that reflect the learner's action when browsing the content of the course, watching a video, or doing an online activity.
+On the different learning platforms (LMS or CMS) used by the 5 countries participating in this AI Training for teachers and school leaders, it is possible to follow the learning path of the participants. This is achieved using “learning traces” that reflect the learner's action when browsing the content of the course, watching a video, or doing an online activity.
 
 All collected traces related to the learning paths are pseudo-anonymized in order to prevent the identification of learners in compliance with the RGPD principles.
 
