@@ -1,12 +1,12 @@
 ---
-title: 0.1.1 Video Why this Training?
+title: "Interview: Challenges of AI in Education"
 description: Alain Thillay Interview - one of the project promotors
 contributor: Alain Thillay
 Type: video
 ---
 
 # Video: Why this Training?
-In the following videos, Alain Thillay, French National Expert in Digital Education, presents the challenges of Artificial Intelligence in Education and the objectives of the present training about the use of AI in Education for the teachers and school leaders at the European level.
+In the following video, Alain Thillay, French National Expert in Digital Education, presents the challenges of Artificial Intelligence in Education and the objectives of the present training about the use of AI in Education for the teachers and school leaders at the European level.
 
 *Since October 2021, Alain Thillay has been a Seconded National Expert (SNE) by the French Ministry of Education to the European Commission in the Digital Education Unit of the Directorate for Education, Art and Culture (DG-EAC).*  
 *He has been a history and geography teacher since 1987 in France before joining the Digital Education Directorate 10 years ago, in Paris.*  

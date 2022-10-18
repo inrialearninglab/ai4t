@@ -1,5 +1,5 @@
 ---
-title: 0.1.2 What is the Objective of this Training?
+title: 0.1.1 What is the Objective of this Training?
 description: Locate the training in the European framework
 ---
 
