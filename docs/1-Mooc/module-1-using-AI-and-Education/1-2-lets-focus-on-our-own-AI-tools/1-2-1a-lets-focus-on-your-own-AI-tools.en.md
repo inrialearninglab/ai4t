@@ -11,7 +11,7 @@ Artificial intelligence has the potential to provide teachers and learners with 
 **Are you already using some of these tools in your professional environment?**  
 _Click on the image below to figure this out!_
 
-<a href="https://pixees.fr/classcodeiai/app/tuto1?lang=en" target="_blank"><figure> 
+<a href="1-2-1-activity-AI-based-tools/story.html" target="_blank"><figure> 
   <img src="Images/Activity-1-2-AI-tools.jpg" /> 
 </figure></a>
 
