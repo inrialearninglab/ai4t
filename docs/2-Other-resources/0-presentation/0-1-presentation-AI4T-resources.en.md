@@ -30,7 +30,7 @@ institutions.
 Note: If there have been any updates or new developments since the 2020
 project was written, these have also been listed.
 
-#### Section 2 - List of Moocs and on-lin resources related to AI or AI & Education
+#### Section 2 - List of Moocs and online resources related to AI or AI & Education
 
 The subject of artificial intelligence is so fascinating that many
 Massive Open Online Courses are dedicated to it.

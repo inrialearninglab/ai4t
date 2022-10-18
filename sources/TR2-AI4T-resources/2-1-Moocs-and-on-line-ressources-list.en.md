@@ -1,11 +1,7 @@
 **AI4T Ressource -2-1- Moocs and other OnLine resources**
 
-Objectives: Share the Existing Mooc about AI and Education
 
-Contributors: Consortium (Ireland) / Inria
-
-The subject of artificial intelligence is so fascinating that many
-Massive Open Online Courses are dedicated to it.
+Many Massive Open Online Courses are dedicated to Artificial Intelligence.
 
 Here is a selection of Moocs organised as follows
 
@@ -23,7 +19,7 @@ key role in the AI4T project.
 
 ## 1 - Moocs About AI in general
 
-#### **Elements of AI** 
+#### **Elements of AI**
 
 -   By: MinnaLearn and the University of Helsinki
 
@@ -130,7 +126,7 @@ Ai for everyone
 
 -   Accessible from future learn platform[^5]
 
-#### **AI Goal: Learn about artificial intelligence** (Objectif IA: Initiez-vous à l\'intelligence artificielle) 
+#### **AI Goal: Learn about artificial intelligence** (Objectif IA: Initiez-vous à l\'intelligence artificielle)
 
 -   By: Institut Montaigne (a french Think Tank) and The Fondation
     > Abenoa
@@ -166,11 +162,11 @@ the following adresse:
 
 Language: EN, FR
 
-## 2 - Moocs about AI and Education 
+## 2 - Moocs about AI and Education
 
-### 
+###
 
-#### **Artificial Intelligence (AI) Education for Teachers:** 
+#### **Artificial Intelligence (AI) Education for Teachers:**
 
 -   ### By: Macquarie University (AUS) and **IBM (base on AI Curriculum Framework)**
 
@@ -263,9 +259,9 @@ Intelligence will transform schools)
 
 -   Accessibility: unlimited
 
-# 
+#
 
-#### **AI in Education** 
+#### **AI in Education**
 
 -   By: University of Oxford - [IT Learning
     > Centre](https://skills.it.ox.ac.uk/)
