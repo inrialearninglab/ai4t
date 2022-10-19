@@ -1,6 +1,6 @@
 ---
 title: 3.1.3 Template for AI characterisation
-description: Get a first understanding of AI types
+description: Get a first understanding of AI characteristics
 contributor:  Jiajun Pan
               Azim Roussanaly
               Anne Boyer
