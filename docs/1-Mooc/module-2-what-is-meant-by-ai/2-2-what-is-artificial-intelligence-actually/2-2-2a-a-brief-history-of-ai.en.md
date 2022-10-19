@@ -1,5 +1,5 @@
 ---
-title: 2.2.2 Activity A brief history of AI
+title: Activity A brief history of AI
 description: Identify education uses in link with milestones in history of AI
 type: activity
 ---
