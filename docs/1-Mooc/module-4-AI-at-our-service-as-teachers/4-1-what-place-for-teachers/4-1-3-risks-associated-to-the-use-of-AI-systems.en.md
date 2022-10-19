@@ -1,6 +1,6 @@
 ---
-title: 4.1.3 Risks associated to the use of AI systems in decision making
-description: Understand the classification of risked linked to the use of AI systems in decision
+title: 4.1.3 Risks and AI-based decision making
+description: Understand the classification of risks linked to the use of AI systems in decision
 ---
 # Risks associated to the use of AI systems in decision making
 
@@ -14,13 +14,13 @@ Four levels of risk were identified, from minimal to unacceptable:
 1. **Unacceptable risk**: All AI systems considered a clear threat to the safety, livelihoods and rights of people will be banned, from social scoring by governments to toys using voice assistance that encourages dangerous behaviour.  
 
 2. **High risk**: AI systems identified as high-risk include AI technology used in:
-    - critical infrastructures (e.g. transport), that could put the life and health of citizens at risk;
-    - **educational or vocational training, that may determine the access to education and professional course of someone's life (e.g. scoring of exams)**;
-    - safety components of products (e.g. AI application in robot-assisted surgery);
-    - employment, management of workers and access to self-employment (e.g. CV-sorting software for recruitment procedures);
-    - essential private and public services (e.g. credit scoring denying citizens opportunity to obtain a loan);
-    - law enforcement that may interfere with people's fundamental rights (e.g. evaluation of the reliability of evidence);
-    - migration, asylum and border control management (e.g. verification of authenticity of travel documents);
+    - critical infrastructures (e.g. transport), that could put the life and health of citizens at risk;  
+    - **educational or vocational training, that may determine the access to education and professional course of someone's life (e.g. scoring of exams)**;  
+    - safety components of products (e.g. AI application in robot-assisted surgery);  
+    - employment, management of workers and access to self-employment (e.g. CV-sorting software for recruitment procedures);  
+    - essential private and public services (e.g. credit scoring denying citizens opportunity to obtain a loan);  
+    - law enforcement that may interfere with people's fundamental rights (e.g. evaluation of the reliability of evidence);  
+    - migration, asylum and border control management (e.g. verification of authenticity of travel documents);  
     - administration of justice and democratic processes (e.g. applying the law to a concrete set of facts).
 
 3. **Limited risk**: Limited risk refers to AI systems with specific transparency obligations. When using AI systems such as chatbots, users should be aware that they are interacting with a machine so they can take an informed decision to continue or step back.  

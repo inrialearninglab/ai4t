@@ -4,14 +4,13 @@ description: Understand how decision-making tools change practices, can improve 
 type: activity
 ---
 
-# Activity:  
+# Activity: Decision Making with AI and Education
+
 This short activity proposes to revisit the 3 main degrees of involvement of AI in decision making with a feedback illustrating each type of decision in the field of education.
-
-
 
 **"Access to the activity"**  
 _Click on the image below_
 
-<a href="4-1-2-activity-making-decision-with-ai/4-1-2.html" target="_blank"><figure> 
-  <img src="images/VisuelQUIZTypologyofAIinvolveddecisionmaking.jpg" alt="AI types classification Activity"/>  
+<a href="4-1-2-activity-making-decision-with-ai/4-1-2-decision-making-and-education.html" target="_blank"><figure> 
+  <img src="images/VisuelQUIZTypologyofAIinvolveddecisionmaking.jpg" alt="Illustration for Decision Making with AI and Education Activity"/>  
 </figure></a>
