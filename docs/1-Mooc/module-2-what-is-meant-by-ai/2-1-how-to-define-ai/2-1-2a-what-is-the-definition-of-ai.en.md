@@ -5,8 +5,8 @@ type: activity
 ---
 
 # Activity:  
-Now that you have discovered a first definition of AI, let's match some computing tasks to one of the 5 main areas of AI.
 
+Now that you have discovered a first definition of AI, let's match some computing tasks to one of the 5 main areas of AI.
 
 **"Access to the activity"**  
 _Click on the image below_

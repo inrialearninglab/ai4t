@@ -1,12 +1,11 @@
 ---
 title: Activity A bit of History
-description: The existing AI systems, what are their potential or existing uses in Education
+description: History of AI
 type: activity
 ---
 
 # Activity:  
  To conclude this unit, a few questions about the history of AI.
-
 
 
 **"Access to the activity"**  
