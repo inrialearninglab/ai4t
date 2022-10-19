@@ -9,10 +9,10 @@ However, AI is an old scientific discipline, it was officially recognised as a f
 
 The historical timeline presented here highlights the main steps of AI developments from the first concept of a programmable machine by Ada Lovelace in 1837 to the most recent scientific advances in deep learning, applied to image recognition applications for example.
 
-**What are the main scientific milestone?**  
+**What are the main scientific milestones of AI?**  
 _Click on the image below to discover the details of each scientific milestone!_
 
-<a href=" " target="_blank">
+<a href="2-2-2-activity-Discover-AI-history/AI-history.html" target="_blank">
 <figure> 
   <img src="Images/AI-historical-timeline.png" alt="Illustration of AI history"/> 
 </figure></a>
