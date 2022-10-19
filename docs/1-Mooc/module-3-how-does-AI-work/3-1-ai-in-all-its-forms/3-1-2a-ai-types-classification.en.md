@@ -1,5 +1,5 @@
 ---
-title: 3.1.2 Activity AI types classification
+title: Activity AI types classification
 description: Identify AI types and how they relate to each other
 ---
 
