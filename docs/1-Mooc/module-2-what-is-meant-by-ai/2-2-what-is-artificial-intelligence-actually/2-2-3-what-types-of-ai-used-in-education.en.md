@@ -8,7 +8,7 @@ Among the possible classifications of AI scientific domains, the following table
 
 <figure> 
   <img src="Images/AI-Taxonomy-Samoli-al-2021.png" /> 
-  <figcaption> AI taxonomy of AI scientific domains and subdomains
+  <figcaption>Figure: AI taxonomy of AI scientific domains and subdomains (from Samoili & al., 2021 JRC report).
  </figcaption> 
 </figure>
 
@@ -16,7 +16,7 @@ Let's see which AI techniques are used in the AI-based education-oriented applic
 
 <figure> 
   <img src="Images/AIED-Holmes-systems.png" /> 
-  <figcaption> Different types of current AI-based systems for Education (from Holmes & al. 2019) </figcaption> 
+  <figcaption>Figure: Different types of current AI-based systems for Education (from Holmes & al. 2019) </figcaption> 
 </figure>
 
 Each specific AI-based educational tool or resource has its own specific techniques. However, it is sometimes possible to guess which ones are likely to be used for a given resource.
