@@ -5,19 +5,16 @@ description: The existing AI systems, what are their potential or existing uses 
 # What types of AI applications in Education
 
 Among the possible classifications of AI scientific domains, the following table presents an AI taxonomy[^1] according to the family functions possibly performed by AI.
-
 <figure> 
-  <img src="Images/AI-Taxonomy-Samoli-al-2021.png" /> 
-  <figcaption>Figure: AI taxonomy of AI scientific domains and subdomains (from Samoili & al., 2021 JRC report).
- </figcaption> 
+  <img src="Images/AI-Taxonomy-Samoli-al-2021.png" alt="Image of AI Taxonomy"/>  
 </figure>
+_Figure: AI taxonomy of AI scientific domains and subdomains (from Samoili & al., 2021 JRC report[^1])._
 
 Let's see which AI techniques are used in the AI-based education-oriented applications proposed by Holmes & al. in 2019[^2].
-
 <figure> 
-  <img src="Images/AIED-Holmes-systems.png" /> 
-  <figcaption>Figure: Different types of current AI-based systems for Education (from Holmes & al. 2019) </figcaption> 
+  <img src="Images/AIED-Holmes-systems.png" alt="Image of AI-based education-oriented systems"/> 
 </figure>
+_Figure: Different types of current AI-based systems for Education (from Holmes & al. 2019[^2])._
 
 Each specific AI-based educational tool or resource has its own specific techniques. However, it is sometimes possible to guess which ones are likely to be used for a given resource.
 
