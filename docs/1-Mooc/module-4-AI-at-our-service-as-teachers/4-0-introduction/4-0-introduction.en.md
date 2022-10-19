@@ -14,7 +14,7 @@ description: Presentation of Module 4
 **Material**:
 
 - 2 videos
-- 2 activities
+- 1 activity
 - 5 readings
 
 **Investment Time: about 40 minutes**

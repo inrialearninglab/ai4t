@@ -14,7 +14,7 @@ description: Presentation of Module 3
 **Material**:
 
 - 2 videos
-- 5 activities
+- 4 activities
 - 6 readings
 
 **Investment Time: about 1h20 minutes**
