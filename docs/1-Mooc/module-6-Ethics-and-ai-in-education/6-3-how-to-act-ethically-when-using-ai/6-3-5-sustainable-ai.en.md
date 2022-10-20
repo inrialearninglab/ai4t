@@ -1,4 +1,0 @@
----
-title: Sustainable AI
-description:
----
