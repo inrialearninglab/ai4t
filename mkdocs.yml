@@ -78,7 +78,7 @@ extra:
         si: "Pregled vsebine programa Mooc"
       url: "path/to/folder"
       cards:
-        - url:https://www.youtube.com/embed/QfneXoU-jXM?rel=0&showinfo=0&cc_load_policy=1&hl=fr&modestbranding=1
+        - url: https://www.youtube.com/embed/QfneXoU-jXM?rel=0&showinfo=0&cc_load_policy=1&hl=fr&modestbranding=1
           img: "assets/Home-a-walk-trough-AI.png"
           title:
             en: "A Walk-trough AI"
@@ -87,35 +87,85 @@ extra:
             de: "Ein Spaziergang durch KI"
             si: "Sprehod skozi umetno inteligenco"
           desc:
-            en: "Persona, an AI tool to better understand the digital learning profile of pupils."
-            fr: "Persona, un outil d'IA pour mieux connaître le profil numérique d'apprentissage des élèves."
-            it: "Persona, un outil d'IA pour mieux connaître le profil numérique d'apprentissage des élèves."
-            de: "Persona, un outil d'IA pour mieux connaître le profil numérique d'apprentissage des élèves."
-            si: "Persona, un outil d'IA pour mieux connaître le profil numérique d'apprentissage des élèves."
+            en: "A series of 3 introductory videos to explore the role Artificial Intelligence, and more specifically Learning Analytics, can play in education."
+            fr: "Une série de 3 vidéos d'introduction pour explorer le rôle que l'intelligence artificielle, et plus particulièrement l'analyse de l'apprentissage, peut jouer dans l'éducation."
+            it: "Una serie di 3 video introduttivi per esplorare il ruolo che l'Intelligenza Artificiale, e più specificamente la Learning Analytics, può svolgere nel settore dell'istruzione."
+            de: "Eine Reihe von 3 Einführungsvideos, die die Rolle der künstlichen Intelligenz und insbesondere von Learning Analytics in der Bildung untersuchen."
+            si: "Serija treh uvodnih videoposnetkov o vlogi umetne inteligence, natančneje analitike učenja, v izobraževanju."
         - url: "TR-Training-Resources/Learning-activities/Data-and-AI/Teacher-LA-data-and-ai.html"
-          img: "TR-Training-Resources/Images/data-bias.png"
+          img: "assets/Home-Timeline.png"
           title:
-            en: "Effect of data on AI tools"
+            en: "AI Historical Timeline"
+            fr: "Frise historique de l'IA"
+            it: "Cronologia storica dell'IA"
+            de: "AI Historischer Zeitstrahl"
+            si: "Zgodovinska časovnica umetne inteligence"
+          desc:
+            en: "Milestones of AI developments from the first concept of a programmable machine by Ada Lovelace in 1837 to the most recent advances."
+            fr: "Les grandes étapes du développement de l'IA, depuis le premier concept d'une machine programmable par Ada Lovelace en 1837 jusqu'aux avancées les plus récentes."
+            it: "Pietre miliari dello sviluppo dell'IA, dal primo concetto di macchina programmabile di Ada Lovelace nel 1837 ai progressi più recenti."
+            de: "Meilensteine der KI-Entwicklung vom ersten Konzept einer programmierbaren Maschine von Ada Lovelace im Jahr 1837 bis zu den jüngsten Fortschritten."
+            si: "Mejniki razvoja umetne inteligence od prvega koncepta programirljivega stroja Ade Lovelace leta 1837 do najnovejših dosežkov."
+        - url: "1-Mooc/module-3-how-does-AI-work/3-1-ai-in-all-its-forms/REPORT_ON_THE_TEMPLATE_1.0.pdf"
+          img: "assets/Home-Template-short.jpg"
+          title:
+            en: "Template of AI characterisation"
+            fr: "Modèle de caractérisation de l'IA"
+            it: "Modello di caratterizzazione dell'IA"
+            de: "Vorlage zur Charakterisierung von AI"
+            si: "Predloga opisa umetne inteligence"
+          desc:
+            en: "A list of questions to ask when using AI in Education"
+            fr: "Une liste de questions à poser lors de l'utilisation de l'IA dans l'éducation"
+            it: "Un elenco di domande da porsi quando si usa l'IA nell'istruzione"
+            de: "Eine Liste von Fragen, die beim Einsatz von KI im Bildungswesen zu stellen sind"
+            si: "Seznam vprašanj, ki si jih je treba zastaviti pri uporabi umetne inteligence v izobraževanju"
+        - url: "1-Mooc/module-3-how-does-AI-work/3-1-ai-in-all-its-forms/3-1-2-1-activity-what-type-of-ai/3-1-2-1-AI-types-relations.html"
+          img: "assets/Home-AItypesclassification.jpg"
+          title:
+            en: "Quiz"
+            fr: "Quiz"
+            it: "Quiz"
+            de: "Quiz"
+            si: "Quiz"
+          desc:
+            en: "Short actions (quizzes, drag-the-word) to be taken following a text to help anchor the concepts presented."
+            fr: "De courtes actions (quiz, glisser le mot) à réaliser à la suite d'un texte pour aider à ancrer les concepts présentés."
+            it: "Description en français"
+            de: "Description en français"
+            si: "Description en français"
+    - title:
+        en: "AI in the Classroom"
+        fr: "L'IA en classe"
+        it: "L'IA en classe"
+        de: "L'IA en classe"
+        si: "L'IA en classe"
+      url: "path/to/folder"
+      cards:
+        - url: "path/to/file/index.html"
+          img: "assets/AI4T_simbo_bela.png"
+          title:
+            en: "Title in english"
             fr: "Titre en français"
             it: "Titre en français"
             de: "Titre en français"
             si: "Titre en français"
           desc:
-            en: "How data bias impact AI tools"
+            en: "Description in english"
             fr: "Description en français"
             it: "Description en français"
             de: "Description en français"
             si: "Description en français"
-        - url: "TR-Training-Resources/Learning-activities/Prediction-Decision/Teacher-LA-predict-decide.html"
+        - url: "path/to/file/index.html"
           img: "assets/AI4T_simbo_bela.png"
           title:
-            en: "Prediction helps to decide?"
-            fr: "Prédire pour mieux décider?"
-            it: "Prédire pour mieux décider?"
-            de: "Prédire pour mieux décider?"
-            si: "Prédire pour mieux décider?"
+            en: "Title in english"
+            fr: "Titre en français"
+            it: "Titre en français"
+            de: "Titre en français"
+            si: "Titre en français"
           desc:
-            en: "BacAnalytics, an AI tool to support the organization of school exams"
+            en: "Description in english"
             fr: "Description en français"
             it: "Description en français"
             de: "Description en français"
@@ -135,23 +185,23 @@ extra:
             de: "Description en français"
             si: "Description en français"
     - title:
-        en: "A Full Training on AI in Education of the AI4T Erasmus+ Programme"
-        fr: "A Full Training on AI in Education of the AI4T Erasmus+ Programme"
-        it: "A Full Training on AI in Education of the AI4T Erasmus+ Programme"
-        de: "A Full Training on AI in Education of the AI4T Erasmus+ Programme"
-        si: "A Full Training on AI in Education of the AI4T Erasmus+ Programme"
+        en: "Teachers Training"
+        fr: "L'IA en classe"
+        it: "L'IA en classe"
+        de: "L'IA en classe"
+        si: "L'IA en classe"
       url: "path/to/folder"
       cards:
-        - url: "docs/1-Mooc/general-presentation/0-1-what-does-this-training-offer-us/0-1-2-a-full-training-path.en.html"
-          img: "assets/Full-training-path.png"
+        - url: "path/to/file/index.html"
+          img: "TR-Training-Resources/Images/TrainingPath.png"
           title:
-            en: "Training Pathway"
-            fr: "Parcours de formation"
-            it: "Percorso di formazione"
-            de: "Ausbildungsweg"
-            si: "Pot usposabljanja"
+            en: "Training path"
+            fr: "Titre en français"
+            it: "Titre en français"
+            de: "Titre en français"
+            si: "Titre en français"
           desc:
-            en: "A full training path designed for European teachers and school leaders to investigate, experiment and question themselves about the use of AI in Education."
+            en: "Description in english"
             fr: "Description en français"
             it: "Description en français"
             de: "Description en français"
@@ -212,18 +262,18 @@ plugins:
         en:
           name: English
           build: false
-        # fr:
-        #   name: Français
-        #   site_name: "L'intelligence artificielle pour et par les enseignants"
-        # it:
-        #   name: Français
-        #   site_name: "L'intelligence artificielle pour et par les enseignants"
-        # de:
-        #   name: Français
-        #   site_name: "L'intelligence artificielle pour et par les enseignants"
-        # si:
-        #   name: Français
-        #   site_name: "L'intelligence artificielle pour et par les enseignants"
+        fr:
+          name: Français
+          site_name: "L'intelligence artificielle pour et par les enseignants"
+        it:
+          name: Français
+          site_name: "L'intelligence artificielle pour et par les enseignants"
+        de:
+          name: Français
+          site_name: "L'intelligence artificielle pour et par les enseignants"
+        si:
+          name: Français
+          site_name: "L'intelligence artificielle pour et par les enseignants"
       # Traductions manquantes dans la navigation
       nav_translations:
         fr:
