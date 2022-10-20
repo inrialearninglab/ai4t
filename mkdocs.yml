@@ -71,21 +71,22 @@ extra:
   # Liens vers des pages à afficher dans la page d'accueil (cards)
   parts:
     - title:
-        en: "Teacher's Professional Practices"
+        en: "Exemple of AI4T videos and activities"
         fr: "Pratiques professionnelles de l'enseignant"
         it: "Pratiques professionnelles de l'enseignant"
         de: "Pratiques professionnelles de l'enseignant"
         si: "Pratiques professionnelles de l'enseignant"
       url: "path/to/folder"
       cards:
-        - url: "TR-Training-Resources/Learning-activities/Clustering/Teacher-LA-clustering.html"
+        - url: <center><iframe width="640" height="360" src="https://www.youtube.com/embed/QfneXoU-jXM?rel=0&showinfo=0&cc_load_policy=1&hl=fr&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
+
           img: "TR-Training-Resources/Images/Persona-illustration.png"
           title:
-            en: "Pupils profiles"
-            fr: "Profils d'élèves"
-            it: "Profils d'élèves"
-            de: "Profils d'élèves"
-            si: "Profils d'élèves"
+            en: "A Walk-trough AI"
+            fr: "Une promenade en intelligence artificielle"
+            it: "Una passeggiata nell'IA"
+            de: "Ein Spaziergang durch KI"
+            si: "Sprehod skozi umetno inteligenco"
           desc:
             en: "Persona, an AI tool to better understand the digital learning profile of pupils."
             fr: "Persona, un outil d'IA pour mieux connaître le profil numérique d'apprentissage des élèves."
