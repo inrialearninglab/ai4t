@@ -4,7 +4,7 @@ description: Video 2 A Walk through AI - - Guiding pupils to success through obs
 contributor:  Anne Boyer
               Armelle Brun
               Azim Roussanaly
-              Guilherme Medeiros-machado
+              Guilherme Medeiros-Machado
 type: video
 ---
 # A Walk through AI - Guiding pupils to success through observation of learning processes

@@ -18,7 +18,7 @@ xmlTemplate = """<?xml version="1.0"?>
 </metadata>
 """
 
-basepath = u"./docs/O1-Mooc/"
+basepath = u"./docs/1-Mooc/"
 for path, dirs, files in os.walk(basepath):
     for file in files:
         file_no_ext, file_extension = os.path.splitext(file)
@@ -30,7 +30,7 @@ for path, dirs, files in os.walk(basepath):
                 # print(os.path.join(path, file_no_ext))
                 # print(md.Meta)
                 match_uid = re.search(
-                    r"docs\/(..[^-]?)[^\/]*\/.*\/(\d)-(\d)-(\d)?([av])?.*",
+                    r"docs\/(.[^-]?)[^\/]*\/.*\/(\d)-(\d)-(\d)?([av])?.*",
                     os.path.join(path, file_no_ext)
                 )
                 if match_uid:
@@ -41,7 +41,7 @@ for path, dirs, files in os.walk(basepath):
                         unit=match_uid.group(4) if match_uid.group(4) else '0',
                         type=match_uid.group(5) if match_uid.group(5) else 't'
                     )
-                    uid = "EU.AI4T.{part}.M{module}.{sequence}.{unit}{type}".format(**parsed_uid)
+                    uid = "EU.AI4T.O1.M{module}.{sequence}.{unit}{type}".format(**parsed_uid)
                 else:
                     print(os.path.join(path, file_no_ext))
                     uid = "EU.AI4T.@todo"
@@ -52,9 +52,9 @@ for path, dirs, files in os.walk(basepath):
                     contributor += '</dc:contributor>'
                 metadata = dict(
                     uid=uid,
-                    type=md.Meta.get('type', ['Text'])[0],
-                    title=md.Meta.get('title', [''])[0],
-                    description=md.Meta.get('description', [''])[0],
+                    type=md.Meta.get('type', ['text'])[0].replace('"', ''),
+                    title=md.Meta.get('title', [''])[0].replace('"', ''),
+                    description=md.Meta.get('description', [''])[0].replace('"', ''),
                     contributor=contributor,
                     date=datetime.now().strftime("%Y-%m-%d"),
                     lang=lang_extension[1:]

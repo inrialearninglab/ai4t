@@ -4,7 +4,7 @@ description: Video 1 A Walk through AI - The Learning Process in Education
 contributor:  Anne Boyer
               Armelle Brun
               Azim Roussanaly
-              Guilherme Medeiros-machado
+              Guilherme Medeiros-Machado
 type: video
 ---
 # A Walk through AI - The Learning Process in Education

@@ -4,7 +4,7 @@ description: Video 3 A Walk through AI  - Learning Analytics
 contributor:  Anne Boyer
               Armelle Brun
               Azim Roussanaly
-              Guilherme Medeiros-machado
+              Guilherme Medeiros-Machado
 type: video
 ---
 

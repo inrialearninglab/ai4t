@@ -2,7 +2,7 @@
 title: "Interview: Challenges of AI in Education"
 description: Alain Thillay Interview - one of the project promotors
 contributor: Alain Thillay
-Type: video
+type: video
 ---
 
 # Video: Why this Training?
