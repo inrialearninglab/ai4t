@@ -1,8 +1,8 @@
 ---
 title: Activity Boosted with AI?
 description: Experiment how machine learning and program training works and test the importance of properly prepared data sets.
-contributors:   magic makers
-                inria
+contributors:   Magic Makers
+                Inria
                 S24B
                 Class'code     
 type: activity
@@ -13,7 +13,11 @@ There is no better way to understand how machine learning and program training w
 
 In this tutorial are inserted 7 very short pedagogical videos which make the tutorials usable with an audience of high school (or secondary school) students if desired.
 
-**_Note_**: This tutorial does not store any personal data. The images are processed locally on the user's machine. It can be used with the following browsers: Edge, Chrome, Mozilla, Safari, Opera.
+**_Note1_**: This tutorial does not store any personal data. The images are processed locally on the user's machine. It can be used with the following browsers: Edge, Chrome, Mozilla, Safari, Opera.
+
+**_Note2_**: This tutorial proposes to upload your own images to experiment machine learning and the importance of datasets to train the algorithm. It's also possible to download already prepared 2 data sets:  
+- Download the [image set of Charles Dickens](images/Images-set-of-Charles-Dickens.zip)  
+- Download the [image set for William Shakespear](images/Images-set-of-William-Shakespear.zip).
 
 
 **It's your turn!**  
