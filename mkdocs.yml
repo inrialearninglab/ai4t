@@ -78,7 +78,7 @@ extra:
         si: "Pregled vsebine programa Mooc"
       url: "path/to/folder"
       cards:
-        - url: https://www.youtube.com/embed/QfneXoU-jXM?rel=0&showinfo=0&cc_load_policy=1&hl=fr&modestbranding=1
+        - url: "https://www.youtube.com/embed/QfneXoU-jXM?rel=0&showinfo=0&cc_load_policy=1&hl=fr&modestbranding=1"
           img: "assets/Home-a-walk-trough-AI.png"
           title:
             en: "A Walk-trough AI"
@@ -192,8 +192,8 @@ extra:
         si: "L'IA en classe"
       url: "path/to/folder"
       cards:
-        - url: "path/to/file/index.html"
-          img: "TR-Training-Resources/Images/TrainingPath.png"
+        - url: "docs/1-Mooc/general-presentation/0-1-what-does-this-training-offer-us/0-1-2-a-full-training-path.en.html"
+          img: "assets/Home-Full-training-path.png"
           title:
             en: "Training path"
             fr: "Titre en français"
@@ -201,7 +201,7 @@ extra:
             de: "Titre en français"
             si: "Titre en français"
           desc:
-            en: "Description in english"
+            en: "A full training path to investigate, experiment and question the use of AI in Education."
             fr: "Description en français"
             it: "Description en français"
             de: "Description en français"
