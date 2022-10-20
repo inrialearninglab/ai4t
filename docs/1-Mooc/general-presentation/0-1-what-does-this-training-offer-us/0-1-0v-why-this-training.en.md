@@ -16,11 +16,10 @@ In the following video, Alain Thillay, French National Expert in Digital Educati
 **Short presentation**  
 _Watch the video below (1'48")_
 
-<center><iframe width="640" height="360" src="https://www.youtube.com/embed/ YT link" frameborder="0" allowfullscreen></iframe></center>
-
+<center><iframe width="640" height="360" src="https://www.youtube.com/embed/ybYPaPxRcBo?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
 
 **Detailed presentation**  
 _Watch the video below (6'57")_
 
 
-<center><iframe width="640" height="360" src="https://www.youtube.com/embed/ YT link" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="640" height="360" src="https://www.youtube.com/embed/NR5mUQJKx8k?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
