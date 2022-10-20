@@ -135,73 +135,23 @@ extra:
             de: "Description en français"
             si: "Description en français"
     - title:
-        en: "AI in the Classroom"
-        fr: "L'IA en classe"
-        it: "L'IA en classe"
-        de: "L'IA en classe"
-        si: "L'IA en classe"
+        en: "A Full Training on AI in Education of the AI4T Erasmus+ Programme"
+        fr: "A Full Training on AI in Education of the AI4T Erasmus+ Programme"
+        it: "A Full Training on AI in Education of the AI4T Erasmus+ Programme"
+        de: "A Full Training on AI in Education of the AI4T Erasmus+ Programme"
+        si: "A Full Training on AI in Education of the AI4T Erasmus+ Programme"
       url: "path/to/folder"
       cards:
-        - url: "path/to/file/index.html"
-          img: "assets/AI4T_simbo_bela.png"
+        - url: "docs/1-Mooc/general-presentation/0-1-what-does-this-training-offer-us/0-1-2-a-full-training-path.en.html"
+          img: "assets/Full-training-path.png"
           title:
-            en: "Title in english"
-            fr: "Titre en français"
-            it: "Titre en français"
-            de: "Titre en français"
-            si: "Titre en français"
+            en: "Training Pathway"
+            fr: "Parcours de formation"
+            it: "Percorso di formazione"
+            de: "Ausbildungsweg"
+            si: "Pot usposabljanja"
           desc:
-            en: "Description in english"
-            fr: "Description en français"
-            it: "Description en français"
-            de: "Description en français"
-            si: "Description en français"
-        - url: "path/to/file/index.html"
-          img: "assets/AI4T_simbo_bela.png"
-          title:
-            en: "Title in english"
-            fr: "Titre en français"
-            it: "Titre en français"
-            de: "Titre en français"
-            si: "Titre en français"
-          desc:
-            en: "Description in english"
-            fr: "Description en français"
-            it: "Description en français"
-            de: "Description en français"
-            si: "Description en français"
-        - url: "path/to/file/index.html"
-          img: "assets/AI4T_simbo_bela.png"
-          title:
-            en: "Title in english"
-            fr: "Titre en français"
-            it: "Titre en français"
-            de: "Titre en français"
-            si: "Titre en français"
-          desc:
-            en: "Description in english"
-            fr: "Description en français"
-            it: "Description en français"
-            de: "Description en français"
-            si: "Description en français"
-    - title:
-        en: "Teachers Training"
-        fr: "L'IA en classe"
-        it: "L'IA en classe"
-        de: "L'IA en classe"
-        si: "L'IA en classe"
-      url: "path/to/folder"
-      cards:
-        - url: "path/to/file/index.html"
-          img: "TR-Training-Resources/Images/TrainingPath.png"
-          title:
-            en: "Training path"
-            fr: "Titre en français"
-            it: "Titre en français"
-            de: "Titre en français"
-            si: "Titre en français"
-          desc:
-            en: "Description in english"
+            en: "A full training path designed for European teachers and school leaders to investigate, experiment and question themselves about the use of AI in Education."
             fr: "Description en français"
             it: "Description en français"
             de: "Description en français"
@@ -262,18 +212,18 @@ plugins:
         en:
           name: English
           build: false
-        fr:
-          name: Français
-          site_name: "L'intelligence artificielle pour et par les enseignants"
-        it:
-          name: Français
-          site_name: "L'intelligence artificielle pour et par les enseignants"
-        de:
-          name: Français
-          site_name: "L'intelligence artificielle pour et par les enseignants"
-        si:
-          name: Français
-          site_name: "L'intelligence artificielle pour et par les enseignants"
+        # fr:
+        #   name: Français
+        #   site_name: "L'intelligence artificielle pour et par les enseignants"
+        # it:
+        #   name: Français
+        #   site_name: "L'intelligence artificielle pour et par les enseignants"
+        # de:
+        #   name: Français
+        #   site_name: "L'intelligence artificielle pour et par les enseignants"
+        # si:
+        #   name: Français
+        #   site_name: "L'intelligence artificielle pour et par les enseignants"
       # Traductions manquantes dans la navigation
       nav_translations:
         fr:
