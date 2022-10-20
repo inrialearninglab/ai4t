@@ -71,16 +71,15 @@ extra:
   # Liens vers des pages à afficher dans la page d'accueil (cards)
   parts:
     - title:
-        en: "Exemple of AI4T videos and activities"
-        fr: "Pratiques professionnelles de l'enseignant"
-        it: "Pratiques professionnelles de l'enseignant"
-        de: "Pratiques professionnelles de l'enseignant"
-        si: "Pratiques professionnelles de l'enseignant"
+        en: "Overview of the Mooc contents"
+        fr: "Aperçu des contenus du Mooc"
+        it: "Panoramica dei contenuti del Mooc"
+        de: "PPanoramica dei contenuti del Mooc"
+        si: "Pregled vsebine programa Mooc"
       url: "path/to/folder"
       cards:
-        - url: <center><iframe width="640" height="360" src="https://www.youtube.com/embed/QfneXoU-jXM?rel=0&showinfo=0&cc_load_policy=1&hl=fr&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
-
-          img: "TR-Training-Resources/Images/Persona-illustration.png"
+        - url:https://www.youtube.com/embed/QfneXoU-jXM?rel=0&showinfo=0&cc_load_policy=1&hl=fr&modestbranding=1
+          img: "assets/Home-a-walk-trough-AI.png"
           title:
             en: "A Walk-trough AI"
             fr: "Une promenade en intelligence artificielle"
