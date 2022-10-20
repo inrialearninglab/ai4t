@@ -1,8 +1,8 @@
 ---
-title: 3.2.3 Where are the data?
+title: 3.2.3 What about data in Education?
 description: Identify the place of educational data in AIEd tools.
 ---
-# Where are the data?
+# What about data in Education?
 To examine the role of data in Education, let's consider the example of personalised learning which is identified as one a the major promise of AI-based services in the field of Education[^1]:
 
 "*AI will play a pivotal role in helping to realize the promise of personalized learning (i.e. the ability to tailor the delivery, the content and the pace of learning to the specific needs of each individual student). The ability to ingest data from multiple data sources, interrogate that data and to derive insights (using tools such as predictive analytics and machine learning) is what makes AI such an exciting advancement in education technology and why its use will prove transformational for all stakeholders, from individual students to Ministries of Education*."

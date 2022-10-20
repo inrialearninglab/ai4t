@@ -39,18 +39,15 @@ _Click on the image below to uplaod the ready-to-use AI characterisation templat
   <img src="images/Ready-To-Use-AI-Template.png" alt="A Ready to Use Template for AI Resources Characterisation"/>
 </figure></a>
 
-## Completed Template Duolingo for Schools
+## Example of the Completed Template for "Duolingo for Schools"
 
-Here is an example of template completion using the above links and some others easily accessible through web searches.
-
+Here is an example of template completion using the information collected from the above links and some others easily accessible information through web searches.
 If many info is accessible, some other characteristics are difficult to fill in, or sometimes impossible to find.
 
 <a href="./AI4T-Case_study_on_AI_Features_For_Duolingo.pdf" target="_blank">
 <figure>
-  <img src="" alt="Completed template for Duolingo for Schools AI-features"/>
+  <img src="images/Template-Duolingo-for-School.png" alt="Completed template for Duolingo for Schools AI-features"/>
 </figure></a>
-
-Duolingo for school Template:​​[https://docs.google.com/document/d/1dt9feMWFc-23PAsNFe-Kkp77N0epZcBm/edit?usp=sharing&ouid=102222241005750199876&rtpof=true&sd=true](https://docs.google.com/document/d/1dt9feMWFc-23PAsNFe-Kkp77N0epZcBm/edit?usp=sharing&ouid=102222241005750199876&rtpof=true&sd=true)
 
 [^1]: [Presentation of Duolingo for Schools](https://blog.duolingo.com/duolingo-for-schools/)
  (consulted on 10/11/2022)
