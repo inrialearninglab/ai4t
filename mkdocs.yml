@@ -109,17 +109,17 @@ extra:
         - url: "1-Mooc/module-3-how-does-AI-work/3-1-ai-in-all-its-forms/AI4T-Template_Ready_to_use.pdf"
           img: "assets/Home-Template.png"
           title:
-            en: "Template of AI Characterisation"
-            fr: "Modèle de caractérisation de l'IA"
-            it: "Modello di caratterizzazione dell'IA"
-            de: "Vorlage zur Charakterisierung von AI"
-            si: "Predloga opisa umetne inteligence"
+            en: "AI Characterisation"
+            fr: "Caractérisation de l'IA"
+            it: "Caratterizzazione dell'IA"
+            de: "KI-Charakterisierung"
+            si: "Opredelitev UI"
           desc:
-            en: "A list of questions to ask when using AI in Education"
-            fr: "Une liste de questions à poser lors de l'utilisation de l'IA dans l'éducation"
-            it: "Un elenco di domande da porsi quando si usa l'IA nell'istruzione"
-            de: "Eine Liste von Fragen, die beim Einsatz von KI im Bildungswesen zu stellen sind"
-            si: "Seznam vprašanj, ki si jih je treba zastaviti pri uporabi umetne inteligence v izobraževanju"
+            en: "A list of questions to ask about AI-based educational resources to help users make informed use of them."
+            fr: "Une liste de questions à poser sur les ressources éducatives basées sur l'IA pour aider les utilisateurs à en faire un usage éclairé."
+            it: "Un elenco di domande da porre sulle risorse educative basate sull'IA per aiutare gli utenti a farne un uso consapevole."
+            de: "Eine Liste von Fragen, die man sich bei KI-basierten Bildungsressourcen stellen sollte, um den Nutzern zu helfen, sie sachkundig zu verwenden."
+            si: "Seznam vprašanj o izobraževalnih virih, ki temeljijo na umetni inteligenci, ki bodo uporabnikom pomagala pri njihovi ozaveščeni uporabi."
         - url: "1-Mooc/module-3-how-does-AI-work/3-1-ai-in-all-its-forms/3-1-2-1-activity-what-type-of-ai/3-1-2-1-AI-types-relations.html"
           img: "assets/Home-AItypesclassification.jpg"
           title:
@@ -142,7 +142,7 @@ extra:
         si: "Celotno usposabljanje o umetni inteligenci v izobraževanju v okviru programa AI4T Erasmus+"
       url: "path/to/folder"
       cards:
-        - url: "1-Mooc/general-presentation/0-1-what-does-this-training-offer-us/0-1-2-a-full-training-path.en.html"
+        - url: "1-Mooc/general-presentation/0-1-what-does-this-training-offer-us/0-1-2-a-full-training-path.html"
           img: "assets/Home-Full-training-path.png"
           title:
             en: "Training Path"
@@ -156,7 +156,7 @@ extra:
             it: "Un percorso formativo completo per indagare, sperimentare e interrogarsi sull'uso dell'IA nell'istruzione."
             de: "Ein vollständiger Ausbildungsweg, um den Einsatz von KI im Bildungswesen zu untersuchen, zu experimentieren und zu hinterfragen."
             si: "Popolna pot usposabljanja za raziskovanje, eksperimentiranje in preizkušanje uporabe umetne inteligence v izobraževanju."
-        - url: "1-Mooc/general-presentation/0-1-what-does-this-training-offer-us/0-1-0v-why-this-training.en.html"
+        - url: "1-Mooc/general-presentation/0-1-what-does-this-training-offer-us/0-1-0v-why-this-training.html#artificial-intelligence-in-education-understanding-experimenting-developing-digital-and-ethic-skills"
           img: "assets/Home-training-objectives.png"
           title:
             en: "Training Objectives"
@@ -170,7 +170,7 @@ extra:
             it: "Demistificare e comprendere l'IA - Sperimentare risorse educative basate sull'IA - Sensibilizzare sull'uso etico dell'IA nell'istruzione."
             de: "Entmystifizierung und Verständnis von KI - Experimentieren mit KI-basierten Bildungsressourcen - Sensibilisierung für den ethischen Einsatz von KI in der Bildung."
             si: "Demistificirati in razumeti umetno inteligenco - Eksperimentirati z izobraževalnimi viri, ki temeljijo na umetni inteligenci - Ozaveščati o etični uporabi umetne inteligence v izobraževanju.s"
-        - url: "1-Mooc/general-presentation/0-4-Credits/0-4-0-Credits.en.html"
+        - url: "1-Mooc/general-presentation/0-4-Credits/0-4-0-Credits.html"
           img: "assets/Home-Partners.png"
           title:
             en: "AI4T Project Partners"
@@ -179,11 +179,11 @@ extra:
             de: "AI4T-Projektpartner"
             si: "Partnerji projekta AI4T"
           desc:
-            en: "An Erasmus+ K3 project designed by France, Ireland, Italy, Luxembourg and Slovenia to contribute to training on AI in education for and by teachers and school leaders."
-            fr: "Un projet Erasmus+ K3 conçu par la France, l'Irlande, l'Italie, le Luxembourg et la Slovénie pour contribuer à la formation sur l'IA dans l'éducation pour et par les enseignants et les chefs d'établissement."
-            it: "Un progetto Erasmus+ K3 ideato da Francia, Irlanda, Italia, Lussemburgo e Slovenia per contribuire alla formazione sull'IA nell'istruzione per e da parte di insegnanti e dirigenti scolastici."
-            de: "Ein Erasmus+ K3-Projekt, das von Frankreich, Irland, Italien, Luxemburg und Slowenien entwickelt wurde, um einen Beitrag zur Schulung von Lehrern und Schulleitern zum Thema KI in der Bildung zu leisten."
-            si: "Projekt Erasmus+ K3, ki so ga zasnovale Francija, Irska, Italija, Luksemburg in Slovenija z namenom prispevati k usposabljanju o umetni inteligenci v izobraževanju za učitelje in vodstva šol."
+            en: "Erasmus+ K3 project designed by France, Ireland, Italy, Luxembourg and Slovenia for teachers and school leaders."
+            fr: "Un projet Erasmus+ K3 conçu par la France, l'Irlande, l'Italie, le Luxembourg et la Slovénie pour les enseignants et les chefs d'établissement."
+            it: "Progetto Erasmus+ K3 ideato da Francia, Irlanda, Italia, Lussemburgo e Slovenia per insegnanti e dirigenti scolastici."
+            de: "Erasmus+ K3-Projekt, das von Frankreich, Irland, Italien, Luxemburg und Slowenien für Lehrer und Schulleiter entwickelt wurde."
+            si: "Projekt Erasmus+ K3, ki so ga oblikovale Francija, Irska, Italija, Luksemburg in Slovenija za učitelje in vodstva šol."
   # Traductions autres
   trad:
     "See":
