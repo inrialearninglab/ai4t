@@ -1,4 +1,4 @@
-mkdocs
+mkdocs==1.2.3
 mkdocs-material
 mkdocs-jupyter
 mkdocs-macros-plugin
