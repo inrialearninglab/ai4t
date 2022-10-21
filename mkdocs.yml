@@ -87,11 +87,11 @@ extra:
             de: "Ein Spaziergang durch KI"
             si: "Sprehod skozi umetno inteligenco"
           desc:
-            en: "A series of 3 introductory videos to explore the role Artificial Intelligence, and more specifically Learning Analytics in education."
-            fr: "Une série de 3 vidéos introductive pour explorer le rôle que l'intelligence artificielle, et plus particulièrement l'analyse de l'apprentissage dans l'éducation."
-            it: "Una serie di 3 video introduttivi per esplorare il ruolo che l'Intelligenza Artificiale, e più specificamente la Learning Analytics, può svolgere nel settore dell'istruzione."
-            de: "Eine Reihe von 3 Einführungsvideos, die die Rolle der künstlichen Intelligenz und insbesondere von Learning Analytics in der Bildung untersuchen."
-            si: "Serija treh uvodnih videoposnetkov o vlogi umetne inteligence, natančneje analitike učenja, v izobraževanju."
+            en: "A series of 3 introductory videos to explore the role of Artificial Intelligence, and more specifically Learning Analytics in education."
+            fr: "Une série de 3 vidéos d'introduction pour explorer le rôle de l'intelligence artificielle, et plus spécifiquement de l'analytique d'apprentissage dans l'éducation."
+            it: "Una serie di 3 video introduttivi per esplorare il ruolo dell'Intelligenza Artificiale e, nello specifico, della Learning Analytics nell'istruzione."
+            de: "Eine Reihe von 3 Einführungsvideos, die die Rolle der Künstlichen Intelligenz und insbesondere von Learning Analytics im Bildungswesen erkunden."
+            si: "Serija treh uvodnih videoposnetkov o vlogi umetne inteligence in natančneje analitike učenja v izobraževanju."
         - url: "1-Mooc/module-2-what-is-meant-by-ai/2-2-what-is-artificial-intelligence-actually/2-2-2-2-activity-Discover-AI-innovations/2-2-2-2-Origin-of-AI-innovations.html"
           img: "assets/Home-Timeline.png"
           title:
