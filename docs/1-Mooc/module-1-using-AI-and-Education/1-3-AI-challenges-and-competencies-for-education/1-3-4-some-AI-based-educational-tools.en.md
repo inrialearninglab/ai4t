@@ -31,6 +31,8 @@ A lot of other tools can be found on the Web. Here are some of them.
 
 [Photomath](https://photomath.com): Mathematical solver using on mobile phone to scan, recognize and display solving steps of the maths problem.
 
+[Orange](https://orangedatamining.com/): Open source machine learning and data visualization. Build data analysis workflows visually, with a large, diverse toolbox.
+
 ## AI in Education Mapping
 To Discover more AI-based resources, you can visit the International Observatory on the societal impacts of artificial intelligence and digital technology (OBVIA) Wesite[^2]. It collects and displays the tools and projects on the application and scope of artificial intelligence in education. The objective is to enable users to learn more about the numerous educational resources available that rely on artificial intelligence and allows consulting the database "Various initiatives on AI in education".
 
