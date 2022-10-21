@@ -74,7 +74,7 @@ extra:
         en: "Overview of the Mooc contents"
         fr: "Aperçu des contenus du Mooc"
         it: "Panoramica dei contenuti del Mooc"
-        de: "PPanoramica dei contenuti del Mooc"
+        de: "Überblick über die Mooc-Inhalte"
         sl: "Pregled vsebine programa Mooc"
       url: "path/to/folder"
       cards:
