@@ -1,5 +1,5 @@
 ---
-title: 4.3.2 Activity Case study with AI template
+title: "4.3.2 Activity: Case study with AI template"
 description: Use of the AI template to analyse Duolingo for school
 contributor:  Jiajun Pan
               Azim Roussanaly
@@ -36,7 +36,7 @@ These are "official" Duolingo websites. Some interesting information can be foun
 _Click on the image below to uplaod the ready-to-use AI characterisation template and fill it in as much as possible._
 <a href="./AI4T-Template_Ready_to_use.pdf" target="_blank">
 <figure>
-  <img src="images/Ready-To-Use-AI-Template.png" alt="A Ready to Use Template for AI Resources Characterisation"/>
+  <img src="Images/Ready-To-Use-AI-Template.png" alt="A Ready to Use Template for AI Resources Characterisation"/>
 </figure></a>
 
 ## Example of the Completed Template for "Duolingo for Schools"
@@ -46,7 +46,7 @@ If many info is accessible, some other characteristics are difficult to fill in,
 
 <a href="./AI4T-Case_study_on_AI_Features_For_Duolingo.pdf" target="_blank">
 <figure>
-  <img src="images/Template-Duolingo-for-School.png" alt="Completed template for Duolingo for Schools AI-features"/>
+  <img src="Images/Template-Duolingo-for-School.png" alt="Completed template for Duolingo for Schools AI-features"/>
 </figure></a>
 
 [^1]: [Presentation of Duolingo for Schools](https://blog.duolingo.com/duolingo-for-schools/)

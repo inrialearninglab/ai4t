@@ -1,6 +1,6 @@
 ---
-title: 4.1.1 Video What place for human beings?
-description: The anticipated changes due to AI, with an higlight on evolution of work market 
+title: "4.1.1 Video: What place for human beings?"
+description: The anticipated changes due to AI, with an higlight on evolution of work market
 type: video
 ---
 # Video: What place for human beings?

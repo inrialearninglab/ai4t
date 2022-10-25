@@ -1,5 +1,5 @@
 ---
-title: 4.3.1 Video Artificial Intelligence at our Service?
+title: "4.3.1 Video: Artificial Intelligence at our Service?"
 description: Defining explicability in the field of AI and its stakes.
 type: video
 ---

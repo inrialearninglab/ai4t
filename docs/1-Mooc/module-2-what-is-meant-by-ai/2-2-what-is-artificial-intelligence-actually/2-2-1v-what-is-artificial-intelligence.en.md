@@ -1,10 +1,10 @@
 ---
-title: 2.2.1 Video What is Artificial Intelligence?
+title: "2.2.1 Video: What is Artificial Intelligence?"
 description:
 type: video
 ---
 
-# What is Artificial Intelligence?
+# Video: What is Artificial Intelligence?
 
 This video deals with what the biological intelligence is so it is possible to define AI with its symbolic and numerical approaches. It points out that all the artificial intelligences we encounter in real life are just technical and dedicated to specific tasks!
 Its approach is general and it can be used in the classroom.

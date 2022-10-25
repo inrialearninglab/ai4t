@@ -1,5 +1,5 @@
 ---
-title: Video Ethical Use of Artificial Intelligence in Education
+title: "Video: Ethical Use of Artificial Intelligence in Education"
 description: Interview Alain Thillay
 Contributor: Alain Thillay
 type: video
