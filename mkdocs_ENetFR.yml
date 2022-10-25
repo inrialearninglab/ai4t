@@ -1,0 +1,254 @@
+site_name: Artificial Intelligence for and by Teachers
+use_directory_urls: false
+nav:
+  - ...
+extra_css:
+  - assets/extra.css
+extra_javascript:
+  - assets/extra.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+theme:
+  name: material
+  custom_dir: overrides
+  logo: assets/AI4T_simbo_bela.png
+  favicon: assets/AI4T_simbo_barvna.png
+  palette:
+    scheme: preference
+    primary: indigo
+    accent: purple
+  font:
+    text: Open-sans
+  features:
+    - navigation.tabs
+markdown_extensions:
+  - admonition
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - meta
+  - toc:
+      toc_depth: 0
+  - pymdownx.snippets
+  - pymdownx.details
+  - pymdownx.magiclink
+  - pymdownx.tabbed
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.smartsymbols
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+extra:
+  generator: false
+  alternate:
+    - name: English
+      link: ./
+      lang: en
+    - name: Français
+      link: ./fr/
+      lang: fr
+#    - name: Italiano
+#      link: ./it/
+#      lang: it
+#    - name: Deutsch
+#      link: ./de/
+#      lang: de
+#    - name: Slovenščina
+#      link: ./sl/
+#      lang: sl
+  # Liens vers des pages à afficher dans la page d'accueil (cards)
+  parts:
+    - title:
+        en: "Overview of the Mooc contents"
+        fr: "Aperçu des contenus du Mooc"
+#        it: "Panoramica dei contenuti del Mooc"
+#        de: "Überblick über die Mooc-Inhalte"
+#        sl: "Pregled vsebine programa Mooc"
+      url: "path/to/folder"
+      cards:
+        - url: "https://www.youtube.com/embed/QfneXoU-jXM?rel=0&showinfo=0&cc_load_policy=1&hl=fr&modestbranding=1"
+          img: "assets/Home-a-walk-trough-AI.png"
+          title:
+            en: "A Walk Through AI"
+            fr: "Une promenade en intelligence artificielle"
+    #        it: "Una passeggiata nell'IA"
+    #        de: "Ein Spaziergang durch KI"
+    #        sl: "Sprehod skozi umetno inteligenco"
+          desc:
+            en: "A series of 3 introductory videos to explore the role of Artificial Intelligence, and more specifically Learning Analytics in education."
+            fr: "Une série de 3 vidéos d'introduction pour explorer le rôle de l'intelligence artificielle, et plus spécifiquement de l'analytique d'apprentissage dans l'éducation."
+    #        it: "Una serie di 3 video introduttivi per esplorare il ruolo dell'Intelligenza Artificiale e, nello specifico, della Learning Analytics nell'istruzione."
+    #        de: "Eine Reihe von 3 Einführungsvideos, die die Rolle der Künstlichen Intelligenz und insbesondere von Learning Analytics im Bildungswesen erkunden."
+    #        sl: "Serija treh uvodnih videoposnetkov o vlogi umetne inteligence in natančneje analitike učenja v izobraževanju."
+        - url: "1-Mooc/module-2-what-is-meant-by-ai/2-2-what-is-artificial-intelligence-actually/2-2-2-2-activity-Discover-AI-innovations/2-2-2-2-Origin-of-AI-innovations.html"
+          img: "assets/Home-Timeline.png"
+          title:
+            en: "AI Historical Timeline"
+            fr: "Frise historique de l'IA"
+    #        it: "Cronologia storica dell'IA"
+    #        de: "AI Historischer Zeitstrahl"
+    #        sl: "Zgodovinska časovnica umetne inteligence"
+          desc:
+            en: "Milestones of AI developments from the first concept of a programmable machine by Ada Lovelace in 1837 to the most recent advances."
+            fr: "Les grandes étapes du développement de l'IA, depuis le premier concept d'une machine programmable par Ada Lovelace en 1837 jusqu'aux avancées les plus récentes."
+    #        it: "Pietre miliari dello sviluppo dell'IA, dal primo concetto di macchina programmabile di Ada Lovelace nel 1837 ai progressi più recenti."
+    #        de: "Meilensteine der KI-Entwicklung vom ersten Konzept einer programmierbaren Maschine von Ada Lovelace im Jahr 1837 bis zu den jüngsten Fortschritten."
+    #        sl: "Mejniki razvoja umetne inteligence od prvega koncepta programirljivega stroja Ade Lovelace leta 1837 do najnovejših dosežkov."
+        - url: "1-Mooc/module-3-how-does-AI-work/3-1-ai-in-all-its-forms/AI4T-Template_Ready_to_use.pdf"
+          img: "assets/Home-Template.png"
+          title:
+            en: "AI Characterisation"
+            fr: "Caractérisation de l'IA"
+    #        it: "Caratterizzazione dell'IA"
+    #        de: "KI-Charakterisierung"
+    #        sl: "Opredelitev UI"
+          desc:
+            en: "A list of questions to ask about AI-based educational resources to help users make informed use of them."
+            fr: "Une liste de questions à poser sur les ressources éducatives basées sur l'IA pour aider les utilisateurs à en faire un usage éclairé."
+    #        it: "Un elenco di domande da porre sulle risorse educative basate sull'IA per aiutare gli utenti a farne un uso consapevole."
+    #        de: "Eine Liste von Fragen, die man sich bei KI-basierten Bildungsressourcen stellen sollte, um den Nutzern zu helfen, sie sachkundig zu verwenden."
+    #        sl: "Seznam vprašanj o izobraževalnih virih, ki temeljijo na umetni inteligenci, ki bodo uporabnikom pomagala pri njihovi ozaveščeni uporabi."
+        - url: "1-Mooc/module-3-how-does-AI-work/3-1-ai-in-all-its-forms/3-1-2-1-activity-what-type-of-ai/3-1-2-1-AI-types-relations.html"
+          img: "assets/Home-AItypesclassification.jpg"
+          title:
+            en: "Quiz"
+            fr: "Quiz"
+    #        it: "Quiz"
+    #        de: "Quiz"
+    #        sl: "Quiz"
+          desc:
+            en: "Short actions (quizzes, drag-the-word) to be taken following a text to help anchor the concepts presented."
+            fr: "De courtes actions (quiz, glisser les mots) à réaliser à la suite d'un texte pour aider à ancrer les concepts présentés."
+    #        it: "Brevi azioni (quiz, trascinamento della parola) da svolgere dopo un testo per aiutare a radicare i concetti presentati."
+    #        de: "Kurze Aktionen (Quiz, Drag-the-Word), die im Anschluss an einen Text durchgeführt werden können, um die vorgestellten Konzepte zu verankern."
+    #        sl: "Kratke akcije (kvizi, povleci besedo), ki jih je treba izvesti po besedilu, da se predstavljeni pojmi utrdijo."
+    - title:
+        en: "A Full Training on AI in Education of the AI4T Erasmus+ Programme"
+        fr: "Une formation sur l'IA et l'éducation du programme Erasmus+ AI4T"
+#        it: "Una formazione completa sull'intelligenza artificiale nell'istruzione del programma Erasmus+ AI4T"
+#        de: "Eine umfassende Schulung zu KI in der Bildung im Rahmen des AI4T Erasmus+ Programms"
+#        sl: "Celotno usposabljanje o umetni inteligenci v izobraževanju v okviru programa AI4T Erasmus+"
+      url: "path/to/folder"
+      cards:
+        - url: "1-Mooc/general-presentation/0-1-what-does-this-training-offer-us/0-1-2-a-full-training-path.html"
+          img: "assets/Home-Full-training-path.png"
+          title:
+            en: "Training Path"
+            fr: "Parcours de formation"
+    #        it: "Percorso formativo"
+    #        de: "Ausbildungsweg"
+    #        sl: "Pot usposabljanja"
+          desc:
+            en: "A full training path to investigate, experiment and question the use of AI in Education."
+            fr: "Un parcours de formation pour étudier, expérimenter et questionner l'usage de l'IA dans l'éducation."
+    #        it: "Un percorso formativo completo per indagare, sperimentare e interrogarsi sull'uso dell'IA nell'istruzione."
+    #        de: "Ein vollständiger Ausbildungsweg, um den Einsatz von KI im Bildungswesen zu untersuchen, zu experimentieren und zu hinterfragen."
+    #        sl: "Popolna pot usposabljanja za raziskovanje, eksperimentiranje in preizkušanje uporabe umetne inteligence v izobraževanju."
+        - url: "1-Mooc/general-presentation/0-1-what-does-this-training-offer-us/0-1-0v-why-this-training.html#artificial-intelligence-in-education-understanding-experimenting-developing-digital-and-ethic-skills"
+          img: "assets/Home-training-objectives.png"
+          title:
+            en: "Training Objectives"
+            fr: "Objectifs de la formation"
+    #        it: "Obiettivi della formazione"
+    #        de: "Ziele der Ausbildung"
+    #        sl: "Cilji usposabljanja"
+          desc:
+            en: "Demystify and understand AI - Experiment AI educational resources - Raise awareness on the ethical use of AI in Education."
+            fr: "Démystifier et comprendre l'IA - Expérimenter des ressources éducatives basées sur l'IA - Sensibiliser à l'utilisation éthique de l'IA dans l'éducation."
+    #        it: "Demistificare e comprendere l'IA - Sperimentare risorse educative basate sull'IA - Sensibilizzare sull'uso etico dell'IA nell'istruzione."
+    #        de: "Entmystifizierung und Verständnis von KI - Experimentieren mit KI-basierten Bildungsressourcen - Sensibilisierung für den ethischen Einsatz von KI in der Bildung."
+    #        sl: "Demistificirati in razumeti umetno inteligenco - Eksperimentirati z izobraževalnimi viri, ki temeljijo na umetni inteligenci - Ozaveščati o etični uporabi umetne inteligence v izobraževanju.s"
+        - url: "1-Mooc/general-presentation/0-4-Credits/0-4-0-Credits.html"
+          img: "assets/Home-Partners.png"
+          title:
+            en: "AI4T Project Partners"
+            fr: "Partenaires du projet AI4T"
+    #        it: "Partner del progetto AI4T"
+    #        de: "AI4T-Projektpartner"
+    #        sl: "Partnerji projekta AI4T"
+          desc:
+            en: "Erasmus+ K3 project designed by France, Ireland, Italy, Luxembourg and Slovenia for teachers and school leaders."
+            fr: "Un projet Erasmus+ K3 conçu par la France, l'Irlande, l'Italie, le Luxembourg et la Slovénie pour les enseignants et les chefs d'établissement."
+    #        it: "Progetto Erasmus+ K3 ideato da Francia, Irlanda, Italia, Lussemburgo e Slovenia per insegnanti e dirigenti scolastici."
+    #        de: "Erasmus+ K3-Projekt, das von Frankreich, Irland, Italien, Luxemburg und Slowenien für Lehrer und Schulleiter entwickelt wurde."
+    #        sl: "Projekt Erasmus+ K3, ki so ga oblikovale Francija, Irska, Italija, Luksemburg in Slovenija za učitelje in vodstva šol."
+  # Traductions autres
+  trad:
+    "See":
+      en: "See"
+      fr: "Voir"
+#      it: "Voir"
+#      de: "Voir"
+#      sl: "Voir"
+    "See all":
+      en: "See all"
+      fr: "Voir tout"
+#      it: "Voir tout"
+#      de: "Voir tout"
+#      sl: "Voir tout"
+plugins:
+  - search
+  - awesome-pages
+  - macros
+  - exclude:
+      glob: # Cacher des fichiers en mettant le chemin complet depuis "docs/[...]"
+        - "1-Mooc/module-1-using-AI-and-Education/1-3-AI-challenges-and-competencies-for-education/1-3-2-changes-introduced-by-expert-the-use-of-digital-technologies.en.md"
+        - "1-Mooc/module-1-using-AI-and-Education/1-3-AI-challenges-and-competencies-for-education/1-3-3-some-practices-tools-and-feedbacks.en.md"
+  - i18n:
+      default_language: en
+      languages:
+        en:
+          name: English
+          build: false
+        fr:
+          name: Français
+          site_name: "L'intelligence artificielle pour et par les enseignants"
+##        it:
+#          name: Français
+#          site_name: "L'intelligence artificielle pour et par les enseignants"
+##        de:
+##          name: Français
+#          site_name: "L'intelligence artificielle pour et par les enseignants"
+##        sl:
+##          name: Français
+#          site_name: "L'intelligence artificielle pour et par les enseignants"
+      # Traductions manquantes dans la navigation
+      nav_translations:
+        fr:
+          "General Presentation": "Présentation générale"
+#        it:
+          "General Presentation": "Présentation générale"
+#        de:
+#          "General Presentation": "Présentation générale"
+#        sl:
+#          "General Presentation": "Présentation générale"
+  - page-to-pdf:
+      disableOnServe: true
+      displayHeaderFooter: true
+      printBackground: true
+      exclude:
+#        - "index.*"
+        - "cookies.*"
+        - "404.*"
+      headerTemplate: '<header style="width:100%;font-size:10px;font-weight:600;color:white;background:#4051b5;margin-top:-20px;padding:10px;padding-bottom:5px;-webkit-print-color-adjust: exact">
+                    <img class="logo" alt="logo" width="70" style="display:inline-block;vertical-align:middle;" src=" data:image/png;base64,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"/>
+                    <span style="display:inline-block;vertical-align:middle;margin-top:-4px;margin-left:10px;font-family: Verdana,Arial,sans-serif;">{{config["site_name"]}}</span>
+                  </header>'
+      footerTemplate: '<footer style="position:relative;width:100%;font-size:8px;color:#999999;margin:10px 20px;-webkit-print-color-adjust: exact">
+                    <span style="font-family: Courier,monospace;"> CC-BY-NC-NA | 2022</span>
+                    <span class="page" style="position:absolute;bottom:0;right:0;font-family: Courier,monospace;">
+                      <span class="pageNumber"></span>/<span class="totalPages"></span>
+                    </span>
+                  </footer>'
