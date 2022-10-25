@@ -57,8 +57,8 @@ EPRS' study concludes with several recommendations when using AI-based applicati
 
 [^1]: Artificial intelligence: How does it work, why does it matter, and what can we do about it? Panel for the Future of Science and Technology- EPRS/Scientific Foresight Unit- P. Boucher, 2020
 
-[^2]: [[Algorithms, Data and Bias: Public Policy Needed]{.ul}](https://www.institutmontaigne.org/en/analysis/algorithms-data-and-bias-public-policy-needed?_wrapper_format=html), Anne Bouverot, Thierry Delaporte, 2019
+[^2]: [Algorithms, Data and Bias: Public Policy Needed](https://www.institutmontaigne.org/en/analysis/algorithms-data-and-bias-public-policy-needed?_wrapper_format=html), Anne Bouverot, Thierry Delaporte, 2019
 
-[^3]: [[D'où vient le risque ? Des données et des algorithmes]{.ul}](https://www.lemonde.fr/blog/binaire/2020/02/05/les-plateformes-numeriques-un-foyer-pour-les-risques-donnees-et-algorithmes/) - Serge Abiteboul, Thierry Viéville, 2020
+[^3]: [D'où vient le risque ? Des données et des algorithmes](https://www.lemonde.fr/blog/binaire/2020/02/05/les-plateformes-numeriques-un-foyer-pour-les-risques-donnees-et-algorithmes/) - Serge Abiteboul, Thierry Viéville, 2020
 
-[^4]: [[Towards a Standard for Identifying and Managing Bias in Artificial Intelligence]{.ul}](https://doi.org/10.6028/NIST.SP.1270) - Reva Schwartz, Apostol Vassilev, Kristen Greene, Lori Perine, Andrew Burt, NIST Special Publication 1270 , 2022
+[^4]: [Towards a Standard for Identifying and Managing Bias in Artificial Intelligence](https://doi.org/10.6028/NIST.SP.1270) - Reva Schwartz, Apostol Vassilev, Kristen Greene, Lori Perine, Andrew Burt, NIST Special Publication 1270 , 2022

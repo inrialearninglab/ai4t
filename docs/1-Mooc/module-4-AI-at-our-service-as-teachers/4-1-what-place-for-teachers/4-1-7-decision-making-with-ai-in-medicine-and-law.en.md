@@ -33,7 +33,7 @@ If "The application of AI in the field of justice can contribute to improve the 
 
 Organised around 5 principles, it recognises the importance of non-discrimination, respect of fundamental rights, non-discrimination, quality, security, transparency, impartiality and fairness.
 
-It finally stresses out the "under user control" principle: "*precluding a prescriptive approach and ensuring that users are informed actors and in control of their choices*."[^8]
+It finally stresses out the "under user control" principle: "*precluding a prescriptive approach and ensuring that users are informed actors and in control of their choices*."[^7]
 
 In Law as in Education or Medicine, decision support from the AI system can improve the decision made. In regard to the potential consequences of these same decisions, maintaining human oversight is an important issue for AI system development in the coming years.
 
@@ -51,6 +51,4 @@ Any user of those has to be able to keep critical use of the proposition of deci
 
 [^6]: Here it refers to "Decision automation" as mentioned in the previous section on "Decision Making with AI".
 
-[^7]: [Ethical Charter on the Use of Artificial Intelligence in Judicial Systems](https://www.coe.int/en/web/cepej/cepej-european-ethical-charter-on-the-use-of-artificial-intelligence-ai-in-judicial-systems-and-their-environment)- European Commission for the efficiency of justice Web site (consulted 08/29/2022)
-
-[^8]: [Ethical Charter on the Use of Artificial Intelligence in Judicial Systems](https://www.coe.int/en/web/cepej/cepej-european-ethical-charter-on-the-use-of-artificial-intelligence-ai-in-judicial-systems-and-their-environment) - European Commission for the efficiency of justice Web site (consulted 08/29/2022)
+[^7]: [Ethical Charter on the Use of Artificial Intelligence in Judicial Systems](https://www.coe.int/en/web/cepej/cepej-european-ethical-charter-on-the-use-of-artificial-intelligence-ai-in-judicial-systems-and-their-environment)- European Commission for the efficiency of justice Web site (consulted 08/29/2022).

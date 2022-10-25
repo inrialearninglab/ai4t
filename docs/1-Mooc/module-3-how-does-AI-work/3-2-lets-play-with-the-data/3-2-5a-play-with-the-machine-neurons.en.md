@@ -37,6 +37,6 @@ However, understanding why (and how) such good results are obtained is still a f
 _Click on the image below to access the TensorFlow application in a new window_
 
 <a href="https://playground.tensorflow.org/#activation=tanh&amp;batchSize=8&amp;dataset=circle&amp;regDataset=reg-plane&amp;learningRate=0.03&amp;regularizationRate=0&amp;noise=10&amp;networkShape=5,2&amp;seed=0.02708&amp;showTestData=false&amp;discretize=false&amp;percTrainData=50&amp;x=true&amp;y=true&amp;xTimesY=false&amp;xSquared=false&amp;ySquared=false&amp;cosX=false&amp;sinX=false&amp;cosY=false&amp;sinY=false&amp;collectStats=false&amp;problem=classification&amp;initZero=false&amp;hideText=false;" target="_blank"><figure> 
-  <img src="Images/playground-TensorFlow.png" /> 
+  <img src="Images/playground-TensorFlow.png"> 
   <figcaption> TensorFlow playground view </figcaption> 
 </figure></a>
