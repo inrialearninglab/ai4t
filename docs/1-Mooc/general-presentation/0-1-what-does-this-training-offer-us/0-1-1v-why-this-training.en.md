@@ -8,6 +8,7 @@ type: video
 # Video: Why this Training?
 In the following video, Alain Thillay, French National Expert in Digital Education, presents the challenges of Artificial Intelligence in Education and the objectives of the present training about the use of AI in Education for the teachers and school leaders at the European level.
 
+## Introducing the speaker
 *Since October 2021, Alain Thillay has been a Seconded National Expert (SNE) by the French Ministry of Education to the European Commission in the Digital Education Unit of the Directorate for Education, Art and Culture (DG-EAC).*  
 *He has been a history and geography teacher since 1987 in France before joining the Digital Education Directorate 10 years ago, in Paris.*  
 *He is now working on the implementation of the Digital Education Plan 2021-2027 (DEAP) to support the digital transition and innovation in education.*

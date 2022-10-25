@@ -1,6 +1,6 @@
 ---
-titre : Rapports et directives (UE-UNESCO-OCDE)
-description :
+title: Rapports et directives (UE-UNESCO-OCDE)
+description:
 ---
 # Rapports et directives (UE-UNESCO-OCDE)
 

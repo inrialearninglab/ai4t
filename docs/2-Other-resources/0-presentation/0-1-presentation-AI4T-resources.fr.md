@@ -1,6 +1,6 @@
 ---
-titre : Présentation des ressources AI4T
-description :
+title: Présentation des ressources AI4T
+description:
 ---
 # Présentation des ressources AI4T
 Outre le Mooc lui-même et les ressources de formation proposées pour approfondir certains thèmes, vous trouverez ici les documents, ressources et outils qui ont contribué au projet, de sa conception (rédaction du formulaire de candidature) à sa première mise en œuvre (phase pilote).
