@@ -22,13 +22,16 @@ In defining the objectives of the AI4T project, the project promoters drew on a 
 
 On going: Regulatory framework proposal on artificial intelligence[^4]
 
-« *The proposed AI regulation ensures that Europeans can trust what AI has to offer. While most AI systems pose limited to no risk and can contribute to solving many societal challenges, certain AI systems create risks that we must address to avoid undesirable outcomes. »*
+"*The proposed AI regulation ensures that Europeans can trust what AI has to offer. While most AI systems pose limited to no risk and can contribute to solving many societal challenges, certain AI systems create risks that we must address to avoid undesirable outcomes.*"
 
 Notable content: This Regulatory Framework defines 4 levels of risk in AI:
 
-1 - Unacceptable risk / 2 - High risk / 3 - Limited risk/ / 4 - Minimal or no risk
+1 - Unacceptable risk  
+2 - High risk  
+3 - Limited risk  
+4 - Minimal or no risk
 
-**Educational or vocational training** are assessed as 2 - High risk « *as that may determine the access to education and professional course of someone's life (e.g. scoring of exams)* ».
+**Educational or vocational training** are assessed as **2 - High risk** "*as that may determine the access to education and professional course of someone's life (e.g. scoring of exams).*"
 
 #### The Joint Research Centre - JRC[^5]
 
@@ -36,37 +39,37 @@ The European Commission's science and knowledge service, providing scientific ev
 
 ##### Publications
 
-2019: The impact of AI on learning teaching and education[^6]: a report that «*describes the current state of the art in artificial intelligence (AI) and its potential impact for learning, teaching, and education. It provides conceptual foundations for well-informed policy-oriented work, research, and forward-looking activities that address the opportunities and challenges created by recent developments in AI. The report is aimed for policy developers, but it also makes contributions that are of interest for AI technology developers and researchers studying the impact of AI on economy, society, and the future of education and learning* ».
+2019: The impact of AI on learning teaching and education[^6]: a report that "*describes the current state of the art in artificial intelligence (AI) and its potential impact for learning, teaching, and education. It provides conceptual foundations for well-informed policy-oriented work, research, and forward-looking activities that address the opportunities and challenges created by recent developments in AI. The report is aimed for policy developers, but it also makes contributions that are of interest for AI technology developers and researchers studying the impact of AI on economy, society, and the future of education and learning.*"
 
-2020: Emerging technologies and the teaching profession[^7] - Ethical and pedagogical considerations based on near-future scenarios.
+2020: Emerging technologies and the teaching profession [^7] - Ethical and pedagogical considerations based on near-future scenarios.
 
-« *The aim of the scenarios is to see the future as something to shape. These near-future scenarios aim to solve a number of problems that educators of today say prevent them from delivering quality education and training. They take place in classrooms, lecture halls, training centres and digital learning environments in which emerging technologies could be used to support educators in their profession. Key challenges emerging from the scenarios relate to ethical considerations (e.g. balance between human autonomy and machines, datafication of education, pedagogical models) and the evolving competence requirements of teaching professionals* ».
+"*The aim of the scenarios is to see the future as something to shape. These near-future scenarios aim to solve a number of problems that educators of today say prevent them from delivering quality education and training. They take place in classrooms, lecture halls, training centres and digital learning environments in which emerging technologies could be used to support educators in their profession. Key challenges emerging from the scenarios relate to ethical considerations (e.g. balance between human autonomy and machines, datafication of education, pedagogical models) and the evolving competence requirements of teaching professionals.*"
 
 2020: AI Watch - Defining Artificial intelligence[^8]
 
-A proposal for « *an operational definition of artificial intelligence to be adopted in the context of AI Watch* »
+A proposal for "*an operational definition of artificial intelligence to be adopted in the context of AI Watch.*"
 
-Notable content: « *A valuable contribution of this work is the collection of definitions developed between 1955 and 2019, and the summarisation of the main features of the concept of artificial intelligence as reflected in the relevant literature* ».
+Notable content: "*A valuable contribution of this work is the collection of definitions developed between 1955 and 2019, and the summarisation of the main features of the concept of artificial intelligence as reflected in the relevant literature.*"
 
 2021 (new release): AI watch - Defining Artificial intelligence 2.0[^9]
 
-« *The second edition (to) establish an operational definition of artificial intelligence (AI)* ».
+"*The second edition (to) establish an operational definition of artificial intelligence (AI).*"
 
-Notable content: « *These include the classification of AI according to: families of algorithms and the theoretical models behind them; cognitive abilities reproduced by AI; functions performed by AI. Applications of AI may be grouped also according to other dimensions, like the economic sector in which such applications are found, or their business functions*. »
+Notable content: "*These include the classification of AI according to: families of algorithms and the theoretical models behind them; cognitive abilities reproduced by AI; functions performed by AI. Applications of AI may be grouped also according to other dimensions, like the economic sector in which such applications are found, or their business functions.*"
 
 #### High-level Expert Group on Artificial Intelligence
 
-« *A group of experts to provide advice on its artificial intelligence strategy appointed by the European Commission*. »
+"*A group of experts to provide advice on its artificial intelligence strategy appointed by the European Commission.*"
 
 2018: A Definition Of AI: Main Capabilities And Disciplines[^10]
 
 2019: Ethics guidelines for trustworthy AI[^11]
 
-Those guidelines gave way to ALTAI: The Assessment List for Trustworthy Artificial Intelligence[^12], « *a practical tool that helps businesses and organisations to self-assess the trustworthiness of their AI systems under development*. »
+Those guidelines gave way to ALTAI: The Assessment List for Trustworthy Artificial Intelligence[^12], "*a practical tool that helps businesses and organisations to self-assess the trustworthiness of their AI systems under development.*"
 
 ## UNESCO - United Nations Educational, Scientific and Cultural Organisation
 
-« *UNESCO is committed to harness the potential of AI technologies for achieving the Education 2030 Agenda, while ensuring that its application in educational contexts is guided by the core principles of inclusion and equity*. »
+"*UNESCO is committed to harness the potential of AI technologies for achieving the Education 2030 Agenda, while ensuring that its application in educational contexts is guided by the core principles of inclusion and equity*."
 
 Education and artificial intelligence[^13]
 
@@ -80,7 +83,7 @@ The Unesco website in the section devoted to AI and Education
 
 UNESCO IITE[^17] - Institute for Information Technologies in Education
 
-« *The mission of IITE is to promote the innovative use of ICT and serving as facilitator and enabler for achieving Sustainable Development Goal 4 (SDG 4) through ICT-enabled solutions and best practices.* »
+"*The mission of IITE is to promote the innovative use of ICT and serving as facilitator and enabler for achieving Sustainable Development Goal 4 (SDG 4) through ICT-enabled solutions and best practices.*"
 
 It published many report on AI including:
 
@@ -88,13 +91,13 @@ It published many report on AI including:
 
 ## OECD - Organisation for Economic Co-operation and Development
 
-OECD is an « *international organisation that works to build better policies for [better lives](http://www.oecdbetterlifeindex.org/)* ». Its « *goal is to shape policies that foster prosperity, equality, opportunity and well-being for all* ».
+OECD is an "*international organisation that works to build better policies for [better lives](http://www.oecdbetterlifeindex.org/)* ». Its « *goal is to shape policies that foster prosperity, equality, opportunity and well-being for all.*"
 
-The OECD Artificial Intelligence[^19]: « *Provides data and multi-disciplinary analysis on artificial intelligence* ». Its « *diverse global community of partners makes this platform a unique source of information and dialogue on AI* ».
+The OECD Artificial Intelligence[^19]: "*Provides data and multi-disciplinary analysis on artificial intelligence.*" Its "*diverse global community of partners makes this platform a unique source of information and dialogue on AI.*"
 
 The OECD leads many activities around AI. These activities range from: prospective analysis of the effects of AI on the labour market[^20] to recommendations for developing trustworthy AI[^21]. The site also offers a large amount of monitoring work on AI and all areas of public policy around the world[^22]
 
-**Education**: many reports and datasets related to education are gathered by the OECD. It also provides the possibility to visualise «*timely trends about where, how and at what rate AI is being developed and used*» in Education[^23].
+**Education**: many reports and datasets related to education are gathered by the OECD. It also provides the possibility to visualise "*timely trends about where, how and at what rate AI is being developed and used*" in Education[^23].
 
 [^1]: [https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52018DC0022&from=EN](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52018DC0022&from=EN)
 
