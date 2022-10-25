@@ -1,5 +1,5 @@
 ---
-title: 2.1.1 Video Who Is Afraid of AI?
+title: "2.1.1 Video: Who Is Afraid of AI?"
 description: Introduction of video Who is afraid of AI?
 type: video
 ---

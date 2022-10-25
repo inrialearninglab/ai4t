@@ -1,5 +1,5 @@
 ---
-title: 3.3.1 Activity Let's create with AI
+title: "3.3.1 Activity: Let's create with AI"
 description:
 ---
 # Activity: Let's create with AI

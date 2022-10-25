@@ -12,15 +12,15 @@ Many AI types can be found in the literature. Let's see what they refer to.
 - Strong Artificial Intelligence  
   An artificial intelligence that would be capable of copying human aptitudes (learning, understanding, apprehending, reasoning, making decisions, having a conscience, emotions, etc.). A so-called "strong" artificial intelligence, which would be able to be autonomous and versatile in unexpected situations, is a scientific objective. However, at present, there are results that show that this ideal goal of strong artificial intelligence is technically impossible. To date, strong artificial intelligence does not exist, it is a belief.
 
-## Symbolic or Numerical Approach?
+## Symbolic or Machine Learning Approach?
 
-Within Weak Artificial Intelligence, what do the symbolic or numerical approaches refer to?
+Within Weak Artificial Intelligence, what do the symbolic or Machine Learning approaches refer to?
 
 - A symbolic AI approach  
   Also known as "rule-based" or "classical" AI, it is based on logic and a priori knowledge provided by expert humans.
   Historically, the symbolic approach is older, corresponding to expert systems, and more recently to the so-called semantic web.
-- A machine learning approach  
-  Also known as "numerical" approach, it is based on data and learning.
+- A machine learning (or Digital) approach  
+  Also known as "digital" approach, it is based on data and learning.
   The numerical or Machine Learning (ML) approach includes artificial neural networks and deep learning when there are several layers of such computing units[^1]. It has become effective more recently, and it is this approach that allows us to automatically transcribe texts that we dictate, or to recognise objects in images. It requires a lot of data and is based on statistical approaches.
 
 <figure> 

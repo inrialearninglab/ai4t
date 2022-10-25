@@ -1,5 +1,5 @@
 ---
-title: 3.2.1 Video Of Machine Learning and Data
+title: "3.2.1 Video: Of Machine Learning and Data"
 description: A video specifically dedicated to machine learning with highlights on machine learning, supervised and reinforcement learning, neural networks and deep learning.  
 type: video
 ---
