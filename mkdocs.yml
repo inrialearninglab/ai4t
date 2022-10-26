@@ -92,7 +92,7 @@ extra:
             it: "Una serie di 3 video introduttivi per esplorare il ruolo dell'Intelligenza Artificiale e, nello specifico, della Learning Analytics nell'istruzione."
             de: "Eine Reihe von 3 Einführungsvideos, die die Rolle der Künstlichen Intelligenz und insbesondere von Learning Analytics im Bildungswesen erkunden."
             sl: "Serija treh uvodnih videoposnetkov o vlogi umetne inteligence in natančneje analitike učenja v izobraževanju."
-        - url: "1-Mooc/module-2-what-is-meant-by-ai/2-2-what-is-artificial-intelligence-actually/2-2-2-2-activity-Discover-AI-innovations/2-2-2-2-Origin-of-AI-innovations.html"
+        - url: "1-Mooc/module-2-what-is-meant-by-ai/2-2-what-is-artificial-intelligence-actually/2-2-4-Activity-Discover-AI-innovations/2-2-4-Origin-of-AI-innovations.html"
           img: "assets/Home-Timeline.png"
           title:
             en: "AI Historical Timeline"
@@ -120,7 +120,7 @@ extra:
             it: "Un elenco di domande da porre sulle risorse educative basate sull'IA per aiutare gli utenti a farne un uso consapevole."
             de: "Eine Liste von Fragen, die man sich bei KI-basierten Bildungsressourcen stellen sollte, um den Nutzern zu helfen, sie sachkundig zu verwenden."
             sl: "Seznam vprašanj o izobraževalnih virih, ki temeljijo na umetni inteligenci, ki bodo uporabnikom pomagala pri njihovi ozaveščeni uporabi."
-        - url: "1-Mooc/module-3-how-does-AI-work/3-1-ai-in-all-its-forms/3-1-2-1-activity-what-type-of-ai/3-1-2-1-AI-types-relations.html"
+        - url: "1-Mooc/module-3-how-does-AI-work/3-1-ai-in-all-its-forms/3-1-3a-activity-what-type-of-ai/3-1-3a-AI-types-relations.html"
           img: "assets/Home-AItypesclassification.jpg"
           title:
             en: "Quiz"
@@ -142,7 +142,7 @@ extra:
         sl: "Celotno usposabljanje o umetni inteligenci v izobraževanju v okviru programa AI4T Erasmus+"
       url: "path/to/folder"
       cards:
-        - url: "1-Mooc/general-presentation/0-1-what-does-this-training-offer-us/0-1-2-a-full-training-path.html"
+        - url: "1-Mooc/general-presentation/0-1-what-does-this-training-offer-us/0-1-3-a-full-training-path.html"
           img: "assets/Home-Full-training-path.png"
           title:
             en: "Training Path"
@@ -156,7 +156,7 @@ extra:
             it: "Un percorso formativo completo per indagare, sperimentare e interrogarsi sull'uso dell'IA nell'istruzione."
             de: "Ein vollständiger Ausbildungsweg, um den Einsatz von KI im Bildungswesen zu untersuchen, zu experimentieren und zu hinterfragen."
             sl: "Popolna pot usposabljanja za raziskovanje, eksperimentiranje in preizkušanje uporabe umetne inteligence v izobraževanju."
-        - url: "1-Mooc/general-presentation/0-1-what-does-this-training-offer-us/0-1-0v-why-this-training.html#artificial-intelligence-in-education-understanding-experimenting-developing-digital-and-ethic-skills"
+        - url: "https://www.youtube.com/embed/ybYPaPxRcBo?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1"
           img: "assets/Home-training-objectives.png"
           title:
             en: "Training Objectives"
@@ -170,7 +170,7 @@ extra:
             it: "Demistificare e comprendere l'IA - Sperimentare risorse educative basate sull'IA - Sensibilizzare sull'uso etico dell'IA nell'istruzione."
             de: "Entmystifizierung und Verständnis von KI - Experimentieren mit KI-basierten Bildungsressourcen - Sensibilisierung für den ethischen Einsatz von KI in der Bildung."
             sl: "Demistificirati in razumeti umetno inteligenco - Eksperimentirati z izobraževalnimi viri, ki temeljijo na umetni inteligenci - Ozaveščati o etični uporabi umetne inteligence v izobraževanju.s"
-        - url: "1-Mooc/general-presentation/0-4-Credits/0-4-0-Credits.html"
+        - url: "1-Mooc/general-presentation/0-4-Credits/0-4-1-Credits.html"
           img: "assets/Home-Partners.png"
           title:
             en: "AI4T Project Partners"
