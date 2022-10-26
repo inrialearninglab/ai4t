@@ -1,7 +1,7 @@
 ---
 title: "2.3.1 Activity: Tutorial Let's test our first program"
 description: A tutorial to discover image recognition programs, how to train them, how to fool them.
-contributors:   magic makers
+contributor:   magic makers
                 inria
                 S24B
                 Class'code      

@@ -1,7 +1,7 @@
 ---
 title: 4.2.1 Are you ready to trust AI for decision making?
 description: Understand the impact of using decision-making AI tools and the necessary precaution of use
-contributors: AI4T
+contributor: AI4T
               Ikram Chraibi Kaadoud, AI Researcher
 ---
 

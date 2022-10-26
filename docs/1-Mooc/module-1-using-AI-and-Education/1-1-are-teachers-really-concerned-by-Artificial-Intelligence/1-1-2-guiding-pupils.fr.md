@@ -5,7 +5,7 @@ contributor:  Anne Boyer
               Armelle Brun
               Azim Roussanaly
               Guilherme Medeiros-Machado
-type : video
+type: video
 ---
 # Une promenade dans l'IA - Guider les élèves vers la réussite par l'observation des processus d'apprentissage
 ## Vidéo n°2 : Une promenade dans l'IA - Guider les élèves vers la réussite par l'observation des processus d'apprentissage.

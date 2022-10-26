@@ -5,7 +5,7 @@ contributor:  Anne Boyer
               Armelle Brun
               Azim Roussanaly
               Guilherme Medeiros-Machado
-type : video
+type: video
 ---
 # Une promenade à travers l'IA - Le processus d'apprentissage dans l'éducation
 ## Introduction

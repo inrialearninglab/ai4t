@@ -4,7 +4,7 @@ description: Quiz following the diverse definitions of AI and its fields
 type: activity
 ---
 
-# Activity:  
+# Activity: What is the definition of AI?
 
 Now that you have discovered a first definition of AI, let's match some computing tasks to one of the 5 main areas of AI.
 

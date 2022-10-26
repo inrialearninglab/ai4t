@@ -28,7 +28,7 @@ First are the tools that can help in the decision-making process. An AI system c
 
 Then there are tools that can predict decisions. In this case, AI proposes directly to the judge a court decision[^6]. The software analyses a large number of examples of court decisions and "automatically" derives decision rules. The emergence of predictive justice is raising many concerns.
 
-If "The application of AI in the field of justice can contribute to improve the efficiency and quality" [it] "must be implemented in a responsible manner which complies with the fundamental rights"[^7]. On the European level, an Ethical Charter on the Use of Artificial Intelligence in Judicial Systems and their environment was adopted in
+If "*The application of AI in the field of justice can contribute to improve the efficiency and quality*" [it] "*must be implemented in a responsible manner which complies with the fundamental rights*"[^7]. On the European level, an Ethical Charter on the Use of Artificial Intelligence in Judicial Systems and their environment was adopted in
 2018.
 
 Organised around 5 principles, it recognises the importance of non-discrimination, respect of fundamental rights, non-discrimination, quality, security, transparency, impartiality and fairness.

@@ -1,7 +1,7 @@
 ---
 title: "1.2.1 Activité : Concentrons-nous sur vos propres outils d'IA"
 description: Soulever des questions sur nos propres pratiques d'IA
-type : activity
+type: activity
 ---
 
 # Activité : Faisons le point sur vos propres outils d'IA
