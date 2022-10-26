@@ -1,5 +1,5 @@
 ---
-title: 1.1.1 Video A Walk through AI - The Learning Process in Education
+title: "1.1.1 Video: A Walk through AI - The Learning Process in Education"
 description: Video 1 A Walk through AI - The Learning Process in Education
 contributor:  Anne Boyer
               Armelle Brun

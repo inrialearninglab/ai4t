@@ -11,6 +11,8 @@ This short activity proposes to revisit the 3 main degrees of involvement of AI 
 **"Access to the activity"**  
 _Click on the image below_
 
-<a href="4-1-3a-activity-making-decision-with-ai/4-1-3a-decision-making-and-education.html" target="_blank"><figure> 
+<figure> 
   <img src="Images/VisuelQUIZTypologyofAIinvolveddecisionmaking.jpg" alt="Illustration for Decision Making with AI and Education Activity"/>  
-</figure></a>
+</figure>
+
+<center><iframe width="818" height="404" src="4-1-3a-activity-making-decision-with-ai/4-1-3a-decision-making-and-education.html" frameborder="0" allowfullscreen></iframe></center>

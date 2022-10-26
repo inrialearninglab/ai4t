@@ -11,6 +11,8 @@ A short activity to take stock of Symbolic AI, what it can and cannot do.
 **"Access to the activity"**  
 _Click on the image below_
 
-<a href="3-1-5a-activity-what-type-of-ai/3-1-4a-Symbolic-AI.html" target="_blank"><figure> 
+<figure> 
   <img src="Images/VisuelQUIZSymbolicAI.jpg" alt="Symbolic AI"/>  
-</figure></a>
+</figure>
+
+<center><iframe width="818" height="404" src="3-1-5a-activity-what-type-of-ai/3-1-5a-Symbolic-AI.html" frameborder="0" allowfullscreen></iframe></center>
