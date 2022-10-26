@@ -1,5 +1,5 @@
 ---
-title: 1.1.3 Vidéo A Walk through AI - Learning Analytics (en anglais)
+title: "1.1.3 Vidéo : Une promenade à travers l'IA - Learning Analytics"
 description: Vidéo 3 Une promenade à travers l'IA - Learning Analytics
 contributor:  Anne Boyer
               Armelle Brun

@@ -1,5 +1,5 @@
 ---
-title: 1.1.1 Vidéo Une promenade à travers l'IA - Le processus d'apprentissage dans l'enseignement
+title: "1.1.1 Vidéo : Une promenade à travers l'IA - Le processus d'apprentissage dans l'enseignement"
 description: Vidéo 1 Une promenade dans l'IA - Le processus d'apprentissage dans l'éducation
 contributor:  Anne Boyer
               Armelle Brun
@@ -7,7 +7,7 @@ contributor:  Anne Boyer
               Guilherme Medeiros-Machado
 type : video
 ---
-## Une promenade à travers l'IA - Le processus d'apprentissage dans l'éducation
+# Une promenade à travers l'IA - Le processus d'apprentissage dans l'éducation
 ## Introduction
 
 Il est désormais de notoriété publique que de nombreux sites Web sont capables de recommander un film ou un produit en fonction de ce que vous avez vu et aimé précédemment. Certains de ces sites sont également capables de nous dire quels films nous pouvons aller voir en famille et lesquels avec un groupe d'amis.
