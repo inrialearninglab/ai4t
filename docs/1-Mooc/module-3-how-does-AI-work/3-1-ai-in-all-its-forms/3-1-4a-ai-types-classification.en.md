@@ -11,6 +11,8 @@ A short activity to take stock of Digital AI (also called "Machine Learning"), w
 **"Access to the activity"**  
 _Click on the image below_
 
-<a href="3-1-4a-activity-what-type-of-ai/3-1-4a-Digital-AI.html" target="_blank"><figure> 
+<figure> 
   <img src="Images/VisuelQUIZDigitalAI.jpg" alt="Digital AI"/>  
-</figure></a>
+</figure>
+
+<center><iframe width="818" height="404" src="3-1-4a-activity-what-type-of-ai/3-1-4a-Digital-AI.html" frameborder="0" allowfullscreen></iframe></center>

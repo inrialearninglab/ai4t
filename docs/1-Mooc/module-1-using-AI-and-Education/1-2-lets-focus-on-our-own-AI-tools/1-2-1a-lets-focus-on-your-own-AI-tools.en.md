@@ -1,5 +1,5 @@
 ---
-title: 1.2.1 Activity Let's focus on your own AI tools
+title: "1.2.1 Activity: Let's focus on your own AI tools"
 description: Raise questioning on our own AI practices
 type: activity
 ---
@@ -11,8 +11,6 @@ Artificial intelligence has the potential to provide teachers and learners with 
 **Are you already using some of these tools in your professional environment?**  
 _Click on the image below to figure this out!_
 
-<a href="1-2-1-activity-AI-based-tools/story.html" target="_blank"><figure> 
-  <img src="Images/Activity-1-2-AI-tools.jpg" /> 
-</figure></a>
+<center><iframe width="860" height="540" src="2-1-3-Quiz-definition-of-ai/2-1-3-Quiz-5-big-ideas-in-AI.html" frameborder="0" allowfullscreen></iframe></center>
 
 **Note**: This activity does not store any answers or any personal data.

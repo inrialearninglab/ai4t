@@ -1,0 +1,85 @@
+body {
+  margin: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+html,
+body {
+  height: 100%;
+  max-height: 100%;
+}
+
+.genially-embed,
+.genially-lightbox-modal {
+  max-height: 100vh;
+  height: 100% !important;
+}
+
+@media only screen and (orientation: landscape) {
+  body.is-ios {
+    min-height: 101vh;
+  }
+}
+#onetrust-pc-sdk {
+  font-family: Source Sans Pro;
+}
+#onetrust-pc-sdk .ot-pc-footer-logo {
+  display: none;
+}
+
+#onetrust-consent-sdk {
+  font-family: Source Sans Pro;
+}
+#onetrust-consent-sdk #onetrust-policy #onetrust-policy-title {
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0.1px;
+  text-align: left;
+  color: #ffffff;
+  padding-bottom: 8px;
+}
+#onetrust-consent-sdk #onetrust-policy #onetrust-policy-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.2px;
+  color: #ffffff;
+  padding-bottom: 40px;
+}
+#onetrust-consent-sdk #onetrust-button-group #onetrust-accept-btn-handler {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 16px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  color: #ffffff;
+}
+#onetrust-consent-sdk #onetrust-button-group #onetrust-pc-btn-handler {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  text-decoration-line: underline;
+  color: #ffffff;
+  margin: 0;
+  background: rgba(0, 0, 0, 0);
+}
+#onetrust-consent-sdk #onetrust-banner-sdk {
+  background: rgba(0, 15, 51, 0.9);
+  border-radius: 8px;
+  animation-duration: 0.5s !important;
+}
+#onetrust-consent-sdk #onetrust-banner-sdk a {
+  color: white;
+}
+#onetrust-consent-sdk #onetrust-banner-sdk a:hover {
+  color: #f2f4fc;
+}
