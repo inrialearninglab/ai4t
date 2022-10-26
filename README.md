@@ -12,24 +12,27 @@ To download the entire resources package you can use the top right menu:
 
 ![Download](https://user-images.githubusercontent.com/5736114/133274837-b30bf8fa-abb7-4c15-98cc-a6d87d41f6a8.png)
 
-
 ## Files tree
 
 ```bash
-📦ai4t # ------------------------------ Root directory
- ┣ 📂docs # --------------------------- Website sources
- ┃ ┣ 📂assets # ----------------------- General assets (logo, favicon, etc)
- ┃ ┣ 📂general-presentation # --------- Folder Mooc presentation
- ┃ ┣ 📂module-1-what-is-meant-by-AI # - Folder module 1
- ┃ ┣ 📂module-2-how-does-ml-work # ---- Folder module 2
- ┃ ┣ 📂module-3-AI-at-our-service # --- Folder module 3
- ┃ ┃ ┗ 📜.pages # --------------------- Folder website config file
- ┃ ┗ 📜index.md # --------------------- Homepage content file(overriden by home.html)
- ┣ 📂overrides # ---------------------- Custom pages overrides
- ┃ ┗ 📜home.html # -------------------- Homepage override
- ┣ 📜.gitignore # --------------------- Git ignored files
- ┣ 📜README.md # ---------------------- Main readme file (This file you're reading)
- ┗ 📜mkdocs.yml # --------------------- Website main config file
+📦ai4t # ------------------------------------------ Root directory
+ ┣ 📂docs # --------------------------------------- Website sources
+ ┃ ┣ 📂assets # ----------------------------------- General assets (logo, favicon, etc)
+ ┃ ┣ 📂1-Mooc # ----------------------------------- Folder Mooc contents (A. Thillay interview, full training path)
+ ┃ ┃ ┗ 📂general-presentation # ------------------- Folder General presentation of the Mooc (A. Thillay interview, full training path)
+ ┃ ┃ ┗ 📂module-1-using-AI-and-Education # -------- Folder module 1
+ ┃ ┃ ┗ 📂module-2-what-is-meant-by-ai # ----------- Folder module 2
+ ┃ ┃ ┗ 📂module-3-how-does-AI-work # -------------- Folder module 3
+ ┃ ┃ ┗ 📂module-4-AI-at-our-service-as-teachers # - Folder module 4
+ ┃ ┃ ┗ 📂to-conlude # ----------------------------- Folder conclusion
+ ┃ ┃ ┃ ┗ 📜.pages # ------------------------------- Folder website config file
+ ┃ ┣ 📂2-Other-resources # ------------------------ Folder Resources contents
+ ┃ ┗ 📜index.md # --------------------------------- Homepage content file(overriden by home.html)
+ ┣ 📂overrides # ---------------------------------- Custom pages overrides
+ ┃ ┗ 📜home.html # -------------------------------- Homepage override
+ ┣ 📜.gitignore # --------------------------------- Git ignored files
+ ┣ 📜README.md # ---------------------------------- Main readme file (This file you're reading)
+ ┗ 📜mkdocs.yml # --------------------------------- Website main config file
 ```
 --------
 
@@ -38,69 +41,35 @@ To download the entire resources package you can use the top right menu:
 1. **Videos**  
   The videos are hosted with their english subtitles on the [AI4T YouTube Channel](https://www.youtube.com/channel/UCBd_PgP_BdhmgdSzz5d83vQ) of the project created by the WP4 team. Videos files (mp4 format) as well as subtitles files (vtt or srt format) are unlisted (_therefore not visible_) but available if needed.
 
-2. **Quiz**  
-  Each module of the Mooc contains a set of quizzes. They are hosted and presented on the website (https://inrialearninglab.github.io/ai4t/index.html).
-  You can also download them from this repository in 3 formats: pdf, html or Scorm1.2 files (a format commonly used on Learning Management System as Moodle or 360Learning):
-  * Quiz Module 1  
-    [download pdf format](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-1-what-is-meant-by-ai/1-4-quiz-module-1/Quiz-1-ressources/PDF/AI4T-quiz-module3-artificial-intelligence-at-our-service.pdf) / [download html files zip](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-1-what-is-meant-by-ai/1-4-quiz-module-1/Quiz-1-ressources/HTML.zip) / [download Scorm1.2 files zip](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-1-what-is-meant-by-ai/1-4-quiz-module-1/Quiz-1-ressources/SCORM.zip) / [download texts in .xlf files for translation](https://github.com/inrialearninglab/ai4t/raw/main/docs/general-presentation/0-1-conditions-of-use-of-the-mooc-and-its-contents/Quiz-subtitles-xlf-files/Quiz-module-1-who-is-afraid-of-ai.xlf.zip)
+2. **Quizzes and interactive online activities**  
+  Each module of the Mooc contains a set of quizzes and activities. They are hosted and presented on the website (https://inrialearninglab.github.io/ai4t/index.html).
 
-  * Quiz Module 2  
-  [download pdf format](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-2-how-does-ml-work/2-4-quiz-module-2/Quiz-2-ressources/PDF/AI4T-quiz-module2-how-does-machine-learning-works.pdf) / [download html files zip](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-2-how-does-ml-work/2-4-quiz-module-2/Quiz-2-ressources/HTML.zip) / [download Scorm1.2 files zip](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-2-how-does-ml-work/2-4-quiz-module-2/Quiz-2-ressources/SCORM.zip)/[download texts in .xlf files for translation](https://github.com/inrialearninglab/ai4t/raw/main/docs/general-presentation/0-1-conditions-of-use-of-the-mooc-and-its-contents/Quiz-subtitles-xlf-files/Quiz-module-2-how-does-machine-learning-work.xlf.zip)
+  You can download them from this repository in 2 formats: html or h5p files.
 
-  * Quiz Module 3  
-    [download pdf format](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-3-AI-at-our-service/3-4-quiz-module-3/Quiz-3-ressources/PDF/AI4T-quiz-module3-artificial-intelligence-at-our-service.pdf) / [download html files zip](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-3-AI-at-our-service/3-4-quiz-module-3/Quiz-3-ressources/HTML.zip) / [download Scorm1.2 files zip](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-3-AI-at-our-service/3-4-quiz-module-3/Quiz-3-ressources/SCORM.zip)/
-    [download texts in .xlf files for translation](https://github.com/inrialearninglab/ai4t/raw/main/docs/general-presentation/0-1-conditions-of-use-of-the-mooc-and-its-contents/Quiz-subtitles-xlf-files/Quiz-module-3-artificial-intelligence-at-our-service.xlf.zip)
+  * Quizzes for all Modules  
+  [Download a zip file of all EN Quizzes in html format](https://github.com/inrialearninglab/ai4t/raw/main/docs/1-Mooc/Download/Quiz/Quiz-all-in-one-folder-html-EN/Quiz-all-in-one-folder-html-EN.zip) / [Download a zip file of all EN Quizzes in h5p format](https://github.com/inrialearninglab/ai4t/raw/main/docs/1-Mooc/Download/Quiz/Quiz-all-in-one-folder-H5P-EN/Activities-H5P-EN.zip).
 
+  * Activities for all Modules  
+  [Download a zip file of all EN Online Activities in html format](https://github.com/inrialearninglab/ai4t/raw/main/docs/1-Mooc/Download/Activities/Activities.zip).
 
 --------
 
-## How to adapt resources
+## How to translate the Mooc-V2 resources
 
-1. **Text**  
-All texts are accessible in HTML or Markdown format.
+1. **Texts**  
+All texts files are accessible in HTML or Markdown format. Automatic translations (using the DeepL API) from the English Mooc-V2 version into the four languages of the consortium (DE, FR, IT, SL) are scheduled for delivery on November 15, 2022.
 
-2. **Videos**  
-*Translated subtitles will be directly uploaded on the project YouTube channel by Inria.*
+2. **Videos with Voice-Over**  
+- All the videos (the previouly existing ones from Mooc V1 and those produced for Mooc V2) will be provided with voice-over in the 4 languages of the consortium (except German for the Mooc V1 videos as requested by Luxembourg partner).
+The Voice-over videos and their associated subtitles are produced by a sub-contractor (MyGustav). For a more efficient interaction, each partner interacts directly with MyGustav to check and correct the translated voice scripts of each original video before the voice-over is recorded. Each voice-over is produced by a native speaker.
+- All the videos ("Guillaume" character videos, tutorials videos, Mooc V2 new videos) for each language will be uploaded on the AI4T youTube Channel.
 
-How to proceed for translation :
-- step 1 : [download the subtitles in .srt format](https://github.com/inrialearninglab/ai4t/raw/main/docs/general-presentation/0-1-conditions-of-use-of-the-mooc-and-its-contents/Subtitles-EN-09-2021/Videos-SRT.zip)
-- step 2 : propose your translation while taking care on note modifying the timecodes
-- step 3:  send us [mooc-ai4t@inria.fr](mailto:mooc-ai4t@inria.fr) the translated files.
+3. **Videos subtitles**
+- Translated subtitles will be directly uploaded on the project AI4T YouTube channel by Inria as soon as they are produced by MyGustav.
 
-**Note on file naming**  : Respect the file naming that will allow us to insert the resource at the correct place - Only change the -EN at the end of the file into :
-
--DE for the German version,
--IT for the Italian version,
--SI for the Slovenian version.
-
-*exemple.*  for the Italian version of the video of the module 1 - sequence 3 (ie. **What is Artificial Intelligence?**) the file name would be : Module 1-Sequence 3-IT.srt
-
-3. **Tutorials**  
-*Translated subtiles will be directly inserted in the tutorial by Inria.*
-
-How to proceed for the translation :
-- step 1 : [download the subtitles in .vtt format](https://github.com/inrialearninglab/ai4t/raw/main/docs/general-presentation/0-1-conditions-of-use-of-the-mooc-and-its-contents/Subtitles-EN-09-2021/Tutorials-VTT.zip)  
-- step 2 : propose your translation while taking care on note modifying the timecodes or the mentions on the top of the document
-- step 3 : send us [mooc-ai4t@inria.fr](mailto:mooc-ai4t@inria.fr) the translated files
-
-**Note on file naming**: Also respect the file naming that will allow us to insert the resource at the correct place - Only change the -EN at the end of the file into:
-
--DE for the German version,
--IT for the Italian version,
--SI for the Slovenian version.
-
-*example.*  for the German version of the video of the tuto2-activite1-vid7-EN.vtt (ie. the vvt file of the last video in the tutorial **Boosted with AI**) the file name would be: tuto2-activite1-vid7-DE.vtt
-
-4. **Quiz**  
-All quiz texts can be downloaded in .xlf format in the previous section of the README : **How to access specific ressources**
-Quiz have been made using [Rise 36O](https://articulate.com/360/rise). Easy translation process is proposed by the  [Articulate Community](https://community.articulate.com/series/rise-360/articles/rise-360-translate-your-course). An efficient free tool to translate .Xliff version 1.2 files is [Matecat](https://www.matecat.com) - _note_ : _eTranslation only support further versions of .xliff files and can not be used for rise contents_
-
-### General remarks on translation
-Each partner is in charge of the translation of the contents from English to the target language (reminder : a budget has been allocated to every partner for this task).
-You can  use some free online translator such as :
-- [eTranslation](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/Grants+eTranslation)is a UE translation service we can use a member of an Erasmus+ project. Its easy to use and there are many features that can be really helpful for our projet (ie. upload a .pdf or .ppt and receive the formated translation in your mailbox)
-- The [official translation website of the EU presidency](https://presidencymt.eu/#/)
-- [DeepL](https://www.deepl.com/translator) (a german company which traduction service has an interface in 4 of the languages project : DE, EN, FR, IT). If you download the application (it's also free), the use of DeepL is then really quick and easy - we used it to internationalize the french Mooc **Intelligence Artificielle avec Intelligence**)
+4. **Tutorials**  
+- Videos with voice-over will be integrated into the tutorials interface as soon as they are produced by MyGustav.
+- Translated subtitles will be directly inserted in the tutorial by Inria as soon as they are produced by MyGustav.
 
 --------
 
