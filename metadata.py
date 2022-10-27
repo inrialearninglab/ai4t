@@ -39,7 +39,7 @@ for path, dirs, files in os.walk(basepath):
                         module=match_uid.group(2),
                         sequence=match_uid.group(3),
                         unit=match_uid.group(4) if match_uid.group(4) else '0',
-                        type=match_uid.group(5) if match_uid.group(5) else 't'
+                        type=match_uid.group(5) if match_uid.group(5) else md.Meta.get('type', ['t'])[0].replace('"', '')[0]
                     )
                     uid = "EU.AI4T.O1.M{module}.{sequence}.{unit}{type}".format(**parsed_uid)
                 else:
