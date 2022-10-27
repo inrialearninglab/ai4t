@@ -3,6 +3,7 @@ import markdown
 import re
 from datetime import datetime
 
+# Metadata xml template
 xmlTemplate = """<?xml version="1.0"?>
 <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:identifier>{uid}</dc:identifier>
@@ -18,17 +19,21 @@ xmlTemplate = """<?xml version="1.0"?>
 </metadata>
 """
 
+# Walk recursively all files
 basepath = u"./docs/1-Mooc/"
 for path, dirs, files in os.walk(basepath):
     for file in files:
         file_no_ext, file_extension = os.path.splitext(file)
         file_no_lang, lang_extension = os.path.splitext(file_no_ext)
+        # Cleanup old metadata
+        if file_extension == '.xml' and lang_extension:
+            os.remove(os.path.join(path, file))
+        # Generate metadata for every markdown file
         if file_extension == '.md' and file_no_ext != "index":
             with open(os.path.join(path, file), 'r') as i:
                 md = markdown.Markdown(extensions=['meta'])
                 md.convert(i.read())
-                # print(os.path.join(path, file_no_ext))
-                # print(md.Meta)
+                # Extract uid from filename
                 match_uid = re.search(
                     r"docs\/(.[^-]?)[^\/]*\/.*\/(\d)-(\d)-(\d)?([av])?.*",
                     os.path.join(path, file_no_ext)
@@ -46,6 +51,7 @@ for path, dirs, files in os.walk(basepath):
                     print(os.path.join(path, file_no_ext))
                     uid = "EU.AI4T.@todo"
                 contributor = ""
+                # Extract metadata from markdown
                 if 'contributor' in md.Meta:
                     contributor += '\n    <dc:contributor>'
                     contributor += '</dc:contributor>\n    <dc:contributor>'.join(md.Meta['contributor'])
@@ -59,6 +65,6 @@ for path, dirs, files in os.walk(basepath):
                     date=datetime.now().strftime("%Y-%m-%d"),
                     lang=lang_extension[1:]
                 )
-                # print(os.path.join(path, file_no_ext, '.xml'))
+                # Write metadata file
                 with open(os.path.join(path, file_no_ext+'.xml'), 'w+') as o:
                     o.write(xmlTemplate.format(**metadata))
