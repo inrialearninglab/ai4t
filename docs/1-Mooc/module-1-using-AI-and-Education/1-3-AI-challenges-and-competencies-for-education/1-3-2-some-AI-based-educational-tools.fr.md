@@ -3,8 +3,7 @@ title: 1.3.2 Quelques outils pédagogiques basés sur l'IA
 description: Découvrez les fonctionnalités de quelques outils pour l'expérimentation.
 ---
 # Quelques outils éducatifs basés sur l'IA
-De nombreuses entreprises de technologie éducative (Edtech) et des instituts de recherche investissent dans des outils et des logiciels basés sur l'IA pour faciliter l'enseignement et l'apprentissage.
-l'enseignement et l'apprentissage, des systèmes de tutorat intelligents à des applications plus spécifiques comme la génération automatique de tests ou l'apprentissage de langues étrangères.
+De nombreuses entreprises de technologie éducative (Edtech) et des instituts de recherche investissent dans des outils et des logiciels basés sur l'IA pour faciliter l'enseignement et l'apprentissage, des systèmes de tutorat intelligents à des applications plus spécifiques comme la génération automatique de tests ou l'apprentissage de langues étrangères.
 étrangères. Pourtant, la plupart de ces outils d'IA dans l'éducation (AIEd) commencent seulement à être utilisés en classe par les élèves et les enseignants.
 
 ## Outils basés sur l'IA déjà expérimentés en classe
@@ -37,8 +36,7 @@ De nombreux autres outils peuvent être trouvés sur le Web. En voici quelques-u
 Pour découvrir d'autres ressources basées sur l'IA, vous pouvez visiter le site Wesite [^2] de l'Observatoire international sur les impacts sociétaux de l'intelligence artificielle et du numérique (OBVIA). Il rassemble et affiche les outils et les projets sur l'application et la portée de l'intelligence artificielle dans l'éducation. L'objectif est de permettre aux utilisateurs d'en savoir plus sur les nombreuses ressources éducatives disponibles qui s'appuient sur l'intelligence artificielle et permet de consulter la base de données "Initiatives diverses sur l'IA dans l'éducation".
 
 ### Comment s'y retrouver dans la multitude de ressources éducatives proposées ?
-Les outils basés sur l'IA comme ceux mentionnés ci-dessus sont au cœur de l'IA dans l'éducation. Un modèle permettant d'analyser les caractéristiques de ces outils au niveau
-les niveaux scientifique, technique, réglementaire et éthique, sera proposé plus loin dans cette formation. L'objectif est de donner aux enseignants une
+Les outils basés sur l'IA comme ceux mentionnés ci-dessus sont au cœur de l'IA dans l'éducation. Un modèle permettant d'analyser les caractéristiques de ces outils au niveau scientifique, technique, réglementaire et éthique, sera proposé plus loin dans cette formation. L'objectif est de donner aux enseignants une
 meilleure compréhension des ressources qu'ils utilisent ou que leurs élèves utilisent.
 
 [^1]: [European Schoolnet. "Rôle de l'intelligence artificielle dans l'éducation K12 : Agile Collection of Information"](http://resetedu.eu/wp-content/uploads/2021/11/4.-LIDIJA-KRALJ-Group-Discussion.pdf), 2021, Bruxelles, Belgique.

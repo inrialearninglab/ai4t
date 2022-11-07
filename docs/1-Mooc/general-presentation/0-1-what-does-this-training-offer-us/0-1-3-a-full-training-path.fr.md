@@ -6,17 +6,17 @@ description: Description du parcours de formation générique commun à tous les
 
 Le parcours de formation complet est conçu et créé pour que les enseignants et les chefs d'établissement européens puissent enquêter, expérimenter et se questionner sur l'utilisation de l'IA dans l'éducation. Il s'étend sur une période de 3 mois et comprend :
 
-- le présent cours de formation en ligne, conçu comme un Mooc, et composé pour l'instant de 4 modules d'une durée totale de 2 à 3 heures,
+- ce cours de formation en ligne, conçu comme un Mooc, et composé pour l'instant de 4 modules d'une durée totale de 2 à 3 heures,
 
 - des ressources de formation en ligne pour aller plus loin sur l'IA et l'éducation,
 
-- un manuel en ligne,
+- un "manuel en ligne",
 
 - des webinaires pour partager des pratiques et des opinions,
 
-- et des formations guidées, en personne et en ligne, pour permettre aux participants d'interagir avec des experts en IA et en éducation.
+- et des formations guidées, en présentiel et en ligne, pour permettre aux participants d'interagir avec des experts en IA et en éducation.
 
-La durée totale de la formation est prévue pour 3 mois sur une période allant de novembre 2022 à mars 2023 en fonction des pays impliqués dans l'expérience.
+La durée totale de la formation prévue est de 3 mois sur une période allant de novembre 2022 à mars 2023 en fonction des pays impliqués dans l'expérience.
 
 Une représentation graphique aide parfois à comprendre comment cela va fonctionner.
 

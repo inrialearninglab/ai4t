@@ -1,16 +1,16 @@
 ---
-title: "1.1.1 Vidéo : Une promenade à travers l'IA - Le processus d'apprentissage dans l'enseignement"
-description: Vidéo 1 Une promenade dans l'IA - Le processus d'apprentissage dans l'éducation
+title: "1.1.1 Vidéo : Une promenade en Intelligence Artificielle - Le processus d'apprentissage dans l'enseignement"
+description: Vidéo 1 Une promenade en IA - Le processus d'apprentissage dans l'éducation
 contributor:  Anne Boyer
               Armelle Brun
               Azim Roussanaly
               Guilherme Medeiros-Machado
 type: video
 ---
-# Une promenade à travers l'IA - Le processus d'apprentissage dans l'éducation
+# Une promenade en IA - Le processus d'apprentissage dans l'éducation
 ## Introduction
 
-Il est désormais de notoriété publique que de nombreux sites Web sont capables de recommander un film ou un produit en fonction de ce que vous avez vu et aimé précédemment. Certains de ces sites sont également capables de nous dire quels films nous pouvons aller voir en famille et lesquels avec un groupe d'amis.
+Chacun d’entre nous, dans sa vie quotidienne, a pu constater que de nombreux sites Web sont capables de recommander un film ou un produit en fonction de ce que nous avons précédemment vu et aimé. Certains sites sont aussi capables de dire quel film nous pouvons aller voir avec notre famille, et quel autre avec tel groupe d’amis.
 
 La question que nous nous posons est la suivante : *Pourquoi ne pas utiliser les mêmes stratégies pour personnaliser les parcours d'apprentissage en fournissant à l'enseignant des ressources pédagogiques appropriées pour un élève ou un groupe d'élèves ?*
 
@@ -20,7 +20,7 @@ Une autre question que l'on peut se poser est la suivante : *Le suivi de l'activ
 
 Puisque de nombreux capteurs et outils logiciels peuvent fournir des retours, des synthèses, des prédictions, des recommandations et des visualisations de toutes les analyses effectuées, pour optimiser les activités dans divers domaines. Pourquoi ne pas profiter de ces cadres technologiques de l'intelligence artificielle pour optimiser le domaine de l'éducation ?
 
-Dans ce contexte, nous proposons **"A walk through Artificial Intelligence", une série de 3 vidéos d'introduction** pour approfondir ces questions et explorer le rôle que l'intelligence artificielle, et plus spécifiquement l'analytique d'apprentissage, peut jouer dans l'éducation. La Learning Analytics est communément définie comme l'observation, l'analyse et la visualisation des comportements numériques de l'apprenant dans son activité d'apprentissage en ligne.
+Dans ce contexte, nous proposons **"Une promenade en Intelligence artificielle", une série de 3 vidéos d'introduction** pour approfondir ces questions et explorer le rôle que l'intelligence artificielle, et plus spécifiquement l'analytique des apprentissage, peut jouer dans l'éducation. Celles-ci sont communément définies comme l'observation, l'analyse et la visualisation des comportements numériques de l'apprenant dans son activité d'apprentissage en ligne.
 
 ## Vidéo n°1 : Une promenade à travers l'intelligence artificielle : Le processus d'apprentissage dans l'éducation
 

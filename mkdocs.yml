@@ -88,7 +88,7 @@ extra:
             sl: "Sprehod skozi umetno inteligenco"
           desc:
             en: "A series of 3 introductory videos to explore the role of Artificial Intelligence, and more specifically Learning Analytics in education."
-            fr: "Une série de 3 vidéos d'introduction pour explorer le rôle de l'intelligence artificielle, et plus spécifiquement de l'analytique d'apprentissage dans l'éducation."
+            fr: "Une série de 3 vidéos d'introduction pour explorer le rôle de l'intelligence artificielle, et plus spécifiquement de l'analytique des apprentissage dans l'éducation."
             it: "Una serie di 3 video introduttivi per esplorare il ruolo dell'Intelligenza Artificiale e, nello specifico, della Learning Analytics nell'istruzione."
             de: "Eine Reihe von 3 Einführungsvideos, die die Rolle der Künstlichen Intelligenz und insbesondere von Learning Analytics im Bildungswesen erkunden."
             sl: "Serija treh uvodnih videoposnetkov o vlogi umetne inteligence in natančneje analitike učenja v izobraževanju."
@@ -246,7 +246,7 @@ plugins:
           "3.1 AI in all its Forms": "3.1 L'IA sous toutes ses formes"
           "3.2 Let's Play with the Data": "3.2 Jouons avec les données"
           "3.3 Of Machine Learning & Data": "3.3 Apprentissage automatique et données"
-          "M4. AI at our service as teachers?": "M4. AI à notre service en tant qu'enseignants ?"
+          "M4. AI at our service as teachers?": "M4. IA à notre service en tant qu'enseignants ?"
           "4.1 What place for teachers?": "4.1 Quelle place pour les enseignants ?"
           "4.2 Imagine teaching with AI": "4.2 Imaginez enseigner avec l'IA"
           "4.3 Artificial Intelligence at our Service?": "4.3 L'intelligence artificielle à notre service ?"

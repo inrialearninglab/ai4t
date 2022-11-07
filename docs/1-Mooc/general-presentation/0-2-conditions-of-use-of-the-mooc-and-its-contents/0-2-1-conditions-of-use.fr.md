@@ -22,7 +22,7 @@ Les **ressources pédagogiques** sont, sauf indication contraire, distribuées s
   <img src="Images/LogoCoFoundedErasmusProgramEU.png" alt="Logo Co-founded by Erasmus and EU"/>
 </figure>
 
-* Mention à ajouter lors de l'utilisation d'une ressource Mooc.  
+* Mention à ajouter lors de l'utilisation d'une ressource du Mooc.  
   Crédit : AI4T (Auteur) "Titre de la ressource", extrait de "Artificial Intelligence for and by Teachers", AI4T, publié sous [licence CC-BY](https://creativecommons.org/licenses/by/4.0/deed.en).
   N'oubliez pas non plus d'ajouter le logo Erasmus+ :
 <figure>

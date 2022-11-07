@@ -7,15 +7,15 @@ contributor: magic makers
                 Code de la classe      
 type: activity
 ---
-# Activité : Tutorial Testons notre premier programme
+# Activité : Tutoriel Testons notre premier programme
 
-La reconnaissance d'images est un domaine de l'IA qui a connu une croissance considérable. Ce tutoriel propose de tester la reconnaissance d'images et d'entraîner un programme à reconnaître les chats et les docs. Il nous rappelle ensuite que ce programme ne peut faire que ce pour quoi il a été entraîné, et qu'il peut être trompé !
+La reconnaissance d'images est un domaine de l'IA qui a connu une croissance considérable. Ce tutoriel propose de tester la reconnaissance d'images et d'entraîner un programme à reconnaître les chiens et les chats. Il nous rappelle ensuite que ce programme ne peut faire que ce pour quoi il a été entraîné, et qu'il peut être trompé !
 
 Comprenant 7 vidéos pédagogiques très courtes, le tutoriel peut être utilisé avec un public de lycéens ou d'étudiants.
 
 **Note** : Ce tutoriel ne stocke aucune donnée personnelle. Les images sont traitées localement sur la machine de l'utilisateur. Il peut être utilisé avec les navigateurs suivants : Edge, Chrome, Mozilla, Safari, Opera.
 
-Allez-y et formez une IA !
+Allez-y et entrainez une IA !
 
 **Comment fonctionne un programme d'IA ?**
 Cliquez sur l'image ci-dessous et laissez-vous guider !

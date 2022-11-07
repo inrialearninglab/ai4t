@@ -10,7 +10,7 @@ type: activity
 
 L'interaction naturelle, la reconnaissance d'images et la voiture autonome sont les trois technologies communément mentionnées comme des applications de l'IA :
 
-- Les applications d'interaction naturelle sont basées sur les techniques de communication et de traitement du langage naturel (NLP) qui sont utilisées pour : la reconnaissance et la production de la parole, le chatbot, l'assistant vocal, le résumé automatique de texte, l'extraction de termes, la traduction automatique, etc.
+- Les applications d'interaction naturelle sont basées sur les techniques de communication et de traitement du langage naturel (TNL ou NLP en anglais) qui sont utilisées pour : la reconnaissance et la production de la parole, les chatbots, les assistants vocaux, les résumés automatique de texte, l'extraction de termes, la traduction automatique, etc.
 
 - Les applications de reconnaissance d'images sont basées sur des techniques de vision par ordinateur qui sont utilisées pour : la reconnaissance des visages, les diagnostics visuels, la reconnaissance de l'écriture manuscrite, etc.
 
@@ -20,9 +20,9 @@ L'interaction naturelle, la reconnaissance d'images et la voiture autonome sont 
 
 Dans l'activité suivante, vous ferez le lien entre certaines avancées scientifiques et les technologies basées sur l'IA qui pourraient être utilisées dans l'éducation (Interaction naturelle, Reconnaissance d'images). La voiture autonome sera présentée comme un exemple de ce que l'on attend de l'IA.
 
-**Vous voulez en savoir plus sur 3 technologies basées sur l'IA ? 
+**Vous voulez en savoir plus sur 3 technologies basées sur l'IA ?
 Cliquez sur l'image ci-dessous et suivez les instructions.
 
-<a href="2-2-4-Activity-Discover-AI-innovations/2-2-4-Origin-of-AI-innovations.html" target="_blank"><figure> 
-  <img src="Images/AI-historical-timeline.png" alt="Image of AI history" /> 
+<a href="2-2-4-Activity-Discover-AI-innovations/2-2-4-Origin-of-AI-innovations.html" target="_blank"><figure>
+  <img src="Images/AI-historical-timeline.png" alt="Image of AI history" />
 </figure></a>

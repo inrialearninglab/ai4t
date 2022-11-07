@@ -9,17 +9,17 @@ Les technologies de l'intelligence artificielle (IA) ont le potentiel de souteni
 
 - L'apprentissage personnalisé étape par étape
 
-- le regroupement des apprenants pour un travail en classe plus efficace
+- Le regroupement dynamique des apprenants pour un travail en classe plus efficace
 
-- Analyse des écrits des élèves et évaluation automatique
+- L'analyse des écrits des élèves et évaluation automatique
 
-- Chatbots d'assistance aux étudiants
+- Les chatbots d'assistance aux étudiants
 
-- Génération automatique de tests
+- La génération automatique de tests
 
-- Suivi des résultats d'apprentissage des étudiants
+- Le suivi des résultats d'apprentissage des étudiants
 
-- Tâches administratives telles que l'organisation des cours ou la réponse aux questions courantes.
+- La gestion de tâches administratives telles que l'organisation des cours ou la réponse aux questions courantes.
 
 À ces quelques exemples, on pourrait ajouter une longue liste d'outils désormais intégrés dans le quotidien des enseignants et des élèves lorsqu'ils utilisent des services numériques, comme la correction automatique de l'orthographe, les recommandations et les suggestions de lecture, le filtre anti-spam pour les courriels, la reconnaissance automatique de la voix ou du visage, etc.
 
@@ -64,7 +64,7 @@ Ces technologies émergentes de l'IA doivent également être remises en questio
 
 ## Compétences de base requises à l'ère de l'IA
 
-Le déploiement de technologies basées sur l'IA à l'école soulève des questions quant à l'impact de l'utilisation de ces systèmes sur les compétences pédagogiques, comme l'a souligné le Centre commun de recherche (CCR), le service de la science et de la connaissance de la Commission européenne[^8]:
+Le déploiement de technologies basées sur l'IA à l'école soulève des questions quant à l'impact de l'utilisation de ces systèmes sur les compétences pédagogiques, comme l'a souligné le Centre commun de recherche (JRC), le service de la science et de la connaissance de la Commission européenne[^8]:
 
 - Dans quelle mesure l'enseignant ou l'utilisateur doit-il être conscient de la technologie sous-jacente ?
 

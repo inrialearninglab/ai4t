@@ -34,8 +34,8 @@ The third level invites participants not to remain focused solely on technical i
 As in all educational activities, the ethical dimension is a transversal component. AI highlights it even more because its fields of application - in particular in education - are still to be defined and its effects studied.
 
 ---
-<span style="color:#EE147F">**Caution: Guidelines about AI Ethics in Education- not yet available**</span>  
-In line with Research and the development digital literacy, the project proposes to use the guidelines about AI Ethics in Education as a support for a first reflection on the informed uses of AI.
+<span style="color:#EE147F">**Ethical guidelines on the use of Artificial intelligence (AI) and data in teaching and learning for Educators**</span>  
+In line with Research and the development digital literacy, the project proposes to use the Ethical guidelines on the use of Artificial intelligence as a support for a first reflection on the informed uses of AI.
 ---
 <span style="color:#EE147F">**Caution: For the Large Scale Experimentation Phase, some infos may complement this general intro, regarding for example the age of pupils targeted and the selected disciplines**.</span>  
 In order to gain operability and accuracy, the AI4T project had to limit itself to two learning areas: mathematics and foreign language learning. And to address more specifically pupils aged 15 to 17.

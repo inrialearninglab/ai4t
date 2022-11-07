@@ -13,4 +13,4 @@ Cliquez sur l'image ci-dessous pour le savoir !
 
 <center><iframe width="860" height="540" src="1-2-1-activity-AI-based-tools/story.html" frameborder="0" allowfullscreen></iframe></center>
 
-**Note** : Cette activité ne stocke aucune réponse ni aucune donnée personnelle.
+**Note** : Cette activité ne stocke aucune réponse ni donnée personnelle.

@@ -1,13 +1,13 @@
 ---
-title: "1.1.2 Vidéo : Une promenade à travers l'IA - Guider les élèves vers la réussite par l'observation des processus d'apprentissage"
-description: Video 2 Une promenade à travers l'IA - Guider les élèves vers la réussite par l'observation des processus d'apprentissage
+title: "1.1.2 Vidéo : Une promenade en Intelligence Artificielle - Guider les élèves vers la réussite par l'observation des processus d'apprentissage"
+description: Video 2 Une promenade en IA - Guider les élèves vers la réussite par l'observation des processus d'apprentissage
 contributor:  Anne Boyer
               Armelle Brun
               Azim Roussanaly
               Guilherme Medeiros-Machado
 type: video
 ---
-# Une promenade dans l'IA - Guider les élèves vers la réussite par l'observation des processus d'apprentissage
+# Une promenade en IA - Guider les élèves vers la réussite par l'observation des processus d'apprentissage
 ## Vidéo n°2 : Une promenade dans l'IA - Guider les élèves vers la réussite par l'observation des processus d'apprentissage.
 *Regardez la vidéo ci-dessous (3'10")*.
 

@@ -9,7 +9,7 @@ Artificial Intelligence (AI) technologies have the potential to support new teac
 
 -   Step-by-step personalised learning
 
--   Grouping learners for more effective classwork
+-   Dynamic clustering of learners for more effective classwork
 
 -   Analysis of student writing and automatic assessment
 

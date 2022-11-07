@@ -3,8 +3,7 @@ title: 1.3.2 Some AI-based Educational Tools
 description: Discover the functionalities of some tools for experimentation
 ---
 # Some AI-based Educational Tools
-A lot of Educational Technology (Edtech) companies and research institutes invest in AI-based tools and software to facilitate teaching
-and learning, from Intelligent Tutoring Systems to more specific applications like automatic test generation or foreign language
+A lot of Educational Technology (Edtech) companies and research institutes invest in AI-based tools and software to facilitate teaching and learning, from Intelligent Tutoring Systems to more specific applications like automatic test generation or foreign language
 learning. Yet most of these AI in Education (AIEd) tools are only beginning to be used in the classroom by pupils and teachers.
 
 ## AI-based tools already experimented in the classroom
