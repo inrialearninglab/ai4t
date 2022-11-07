@@ -11,7 +11,7 @@ description: Maintenant, voyons ce qu'est réellement l'IA, son potentiel et ses
 - expérimenter les bases de l'IA et ses limites
 - Passer en revue les techniques d'IA existantes, leur potentiel ou leurs utilisations actuelles dans l'éducation.
 
-**Matériel** :
+**Ressources pédagogiques** :
 
 - 2 vidéos
 - 2 activités

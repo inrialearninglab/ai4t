@@ -11,7 +11,7 @@ description: Présentation du module 3
 - Expérimenter le fonctionnement de l'apprentissage automatique et des réseaux neuronaux.
 - Identifier la place cruciale des données et l'importance d'ensembles de données correctement préparés, notamment pour les outils éducatifs basés sur l'IA.
 
-**Matériel** :
+**Ressources pédagogiques** :
 
 - 2 vidéos
 - 4 activités

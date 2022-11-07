@@ -11,7 +11,7 @@ description: Présentation du module 4
 - Identifier les risques liés à l'utilisation de systèmes d'IA dans la prise de décision.
 - Utiliser un modèle pour analyser un outil pédagogique basé sur l'IA.
 
-**Matériel** :
+**Ressources pédagogiques** :
 
 - 2 vidéos
 - 1 activité

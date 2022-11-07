@@ -15,7 +15,7 @@ Dans les prochaines années, le domaine de l'éducation est-il également concer
 - Ces technologies d'IA sont-elles déjà disponibles et quels seraient leurs usages au bénéfice des enseignants, des pratiques professionnelles enseignantes et des apprenants ?
 - Quels sont les défis associés à l'utilisation de ces technologies dans l'éducation ?
 
-**Matériel** :
+**Ressources pédagogiques** :
 
 - 3 vidéos
 - 1 activité
