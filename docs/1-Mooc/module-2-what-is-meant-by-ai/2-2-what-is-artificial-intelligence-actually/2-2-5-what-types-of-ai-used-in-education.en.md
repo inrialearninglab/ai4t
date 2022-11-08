@@ -8,7 +8,7 @@ Among the possible classifications of AI scientific domains, the following table
 <figure> 
   <img src="Images/AI-Taxonomy-Samoli-al-2021.png" alt="Image of AI Taxonomy"/>  
 </figure>
-_Figure: AI taxonomy of AI scientific domains and subdomains (from Samoili & al., 2021 JRC report[^1])._
+_Figure: AI taxonomy -  AI scientific domains and subdomains (from Samoili & al., 2021 JRC report[^1])._
 
 Let's see which AI techniques are used in the AI-based education-oriented applications proposed by Holmes & al. in 2019[^2].
 <figure> 

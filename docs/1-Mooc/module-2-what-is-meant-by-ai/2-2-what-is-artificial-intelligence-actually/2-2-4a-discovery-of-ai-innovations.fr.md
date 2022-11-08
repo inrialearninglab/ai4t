@@ -20,7 +20,7 @@ L'interaction naturelle, la reconnaissance d'images et la voiture autonome sont 
 
 Dans l'activité suivante, vous ferez le lien entre certaines avancées scientifiques et les technologies basées sur l'IA qui pourraient être utilisées en éducation (Interaction naturelle, Reconnaissance d'images). La voiture autonome sera présentée comme un exemple de ce que l'on attend de l'IA.
 
-**Vous voulez en savoir plus sur 3 technologies basées sur l'IA ?
+**Vous voulez en savoir plus sur 3 technologies basées sur l'IA ?**
 Cliquez sur l'image ci-dessous et suivez les instructions.
 
 <a href="2-2-4-Activity-Discover-AI-innovations/2-2-4-Origin-of-AI-innovations.html" target="_blank"><figure>

@@ -31,7 +31,7 @@ As a scientific discipline, AI covers several sub-areas of expertise and their a
 
 -   Machine learning (of which deep learning and reinforcement learning are specific examples),
 -   Machine reasoning (which includes planning, scheduling, knowledge representation and reasoning, search, and optimization),
--   and robotics (which includes control, perception, sensors and actuators, as well as the integration of all other techniques into cyber-physical systems).
+-   And robotics (which includes control, perception, sensors and actuators, as well as the integration of all other techniques into cyber-physical systems).
 
 <figure> 
   <img src="Images/AI-sub-disciplines.png" /> 
