@@ -1,6 +1,6 @@
 ---
-title: 1.3.1 Avenir de l'apprentissage par les experts dans l'éducation
-description: Indiquer les défis liés à l'IA dans l'éducation et les compétences essentielles requises à l'ère de l'IA.
+title: 1.3.1 Avenir de l'apprentissage par les experts en éducation
+description: Indiquer les défis liés à l'IA en éducation et les compétences essentielles requises à l'ère de l'IA.
 ---
 # Futurs de l'apprentissage par des experts de l'éducation
 ## L'intelligence artificielle est déjà présente dans les salles de classe.
@@ -25,13 +25,13 @@ Les technologies de l'intelligence artificielle (IA) ont le potentiel de souteni
 
 Si l'on considère uniquement les tâches spécifiques à l'éducation, un ensemble de quatre catégories d'applications émergentes et potentielles basées sur les besoins a été défini par Fengchun &amp; al. [^1]:
 
-- la gestion et la prestation de l'éducation ;
+- La gestion et la prestation de l'éducation ;
 
-- l'apprentissage et l'évaluation ;
+- L'apprentissage et l'évaluation ;
 
-- l'autonomisation des enseignants et l'amélioration de l'enseignement ;
+- L'autonomisation des enseignants et l'amélioration de l'enseignement ;
 
-- et l'apprentissage tout au long de la vie.
+- Et l'apprentissage tout au long de la vie.
 
 Holmes &amp; al. [^2] ont classé les différents types de systèmes actuels basés sur l'IA pour l'éducation comme indiqué ci-dessous.
 
@@ -42,7 +42,7 @@ Holmes &amp; al. [^2] ont classé les différents types de systèmes actuels bas
 
 ## Défis liés à l'IA et éducation
 
-Ces technologies émergentes de l'IA doivent également être remises en question dans le contexte de l'utilisation de l'éducation. Pour exploiter les opportunités et atténuer les risques potentiels de l'IA dans l'éducation, les défis suivants ont été identifiés dans le rapport de Fengchun &amp; al. UNESCO, 2021 :
+Ces technologies émergentes de l'IA doivent également être remises en question dans le contexte de l'utilisation de l'éducation. Pour exploiter les opportunités et atténuer les risques potentiels de l'IA en éducation, les défis suivants ont été identifiés dans le rapport de Fengchun &amp; al. UNESCO, 2021 :
 
 1.  **Comment l'IA peut-elle être utilisée pour améliorer l'éducation ?**
 
@@ -52,9 +52,9 @@ Ces technologies émergentes de l'IA doivent également être remises en questio
 
     "*De nombreuses applications d'IA destinées aux enseignants visent à aider ces derniers à réduire leur charge de travail en automatisant des tâches telles que l'évaluation, la détection du plagiat, l'administration et le retour d'information. Cela, dit-on souvent, devrait permettre aux enseignants de libérer du temps qu'ils pourront investir dans d'autres tâches, telles que l'apport d'un soutien plus efficace à chaque élève.*" [Traduction Deepl]
 
-2.  **Comment pouvons-nous garantir l'utilisation éthique, inclusive et équitable de l'IA dans l'éducation?**.
+2.  **Comment pouvons-nous garantir l'utilisation éthique, inclusive et équitable de l'IA en éducation?**.
 
-    "*L'utilisation éthique, inclusive et équitable de l'IA dans l'éducation a un impact sur chacun des Objectifs de développement durable. Il existe des questions centrées sur les données et les algorithmes, sur les choix pédagogiques, sur l'inclusion et la "fracture numérique", sur le droit des enfants à la vie privée, à la liberté et au développement sans entrave, et sur l'équité en termes de genre, de handicap, de statut social et économique, d'origine ethnique et culturelle, et de localisation géographique.*" [Traduction Deepl]
+    "*L'utilisation éthique, inclusive et équitable de l'IA en éducation a un impact sur chacun des Objectifs de développement durable. Il existe des questions centrées sur les données et les algorithmes, sur les choix pédagogiques, sur l'inclusion et la "fracture numérique", sur le droit des enfants à la vie privée, à la liberté et au développement sans entrave, et sur l'équité en termes de genre, de handicap, de statut social et économique, d'origine ethnique et culturelle, et de localisation géographique.*" [Traduction Deepl]
 
 3.  **Comment l'éducation peut-elle préparer les humains à vivre et à travailler avec l'IA?**
 
@@ -78,27 +78,27 @@ Les auteurs du rapport du Centre commun de recherche soulignent qu'en plus des c
 
 - et de compétences permettant de faire un usage éducatif valable de ces technologies numériques.
 
-Un défi spécifique d'introduction de l'IA dans l'éducation et de préparation des étudiants à un contexte alimenté par l'IA a été présenté par l'UNESCO en 2019[^10]:
+Un défi spécifique d'introduction de l'IA en éducation et de préparation des étudiants à un contexte alimenté par l'IA a été présenté par l'UNESCO en 2019[^10]:
 "*Préparer les enseignants à une éducation alimentée par l'IA tout en préparant l'IA à comprendre l'éducation, ce qui doit néanmoins être un chemin à double sens : les enseignants doivent acquérir de nouvelles compétences numériques pour utiliser l'IA de manière pédagogique et significative et les développeurs d'IA doivent apprendre comment les enseignants travaillent et créer des solutions durables dans des environnements réels.*" [Traduction Deepl]
 
 Dans les modules suivants de ce cours en ligne, nous entendons aider à comprendre ce qu'est l'IA et ses technologies sous-jacentes, à prendre conscience des avantages et des risques pour agir de manière informée et efficace en tant qu'enseignant et à s'interroger sur l'impact des systèmes d'IA sur l'apprentissage, l'enseignement et l'éducation.
 
 [^1]: L'IA et l'éducation : Guide pour les décideurs - Miao Fengchun, Holmes Wayne, Ronghuai Huang, Hui Zhang - ISBN : 978-92-3-100447-6 - UNESCO, 2021
 
-[^2]: L'intelligence artificielle dans l'éducation : Promesses et implications pour l'enseignement et l'apprentissage - Wayne Holmes, Maya Bialik, Charles Fadel - Boston, MA, Center for Curriculum Redesign, 2019.
+[^2]: Artificial Intelligence In Education: Promises and Implications for Teaching and Learning - Wayne Holmes, Maya Bialik, Charles Fadel - Boston, MA, Center for Curriculum Redesign, 2019
 
-[^3]: L'intelligence artificielle dans l'éducation : Promesses et implications pour l'enseignement et l'apprentissage - Wayne Holmes, Maya Bialik, Charles Fadel - Boston, MA, Center for Curriculum Redesign, 2019
+[^3]: Artificial Intelligence In Education: Promises and Implications for Teaching and Learning - Wayne Holmes, Maya Bialik, Charles Fadel - Boston, MA, Center for Curriculum Redesign, 2019
 
-[^4]: Zawacki-Richter, O., Marín, V. I., Bond, M. et Gouverneur, F. 2019. Examen systématique de la recherche sur les applications de l'intelligence artificielle dans l'enseignement supérieur -- où sont les éducateurs ? Journal international des technologies éducatives dans l'enseignement supérieur, vol. 16, n° 1, p. 1--27.
+[^4]: Zawacki-Richter, O., Marín, V. I., Bond, M. and Gouverneur, F. 2019. Systematic review of research on artificial intelligence applications in higher education -- where are the educators? International Journal of Educational Technology in Higher Education, Vol. 16, No. 1, pp. 1--27.
 
-[^5]: Luckin, R. 2017. Vers des systèmes d'évaluation basés sur l'intelligence artificielle. Nat Hum Behav 1, 0028.
+[^5]: Luckin, R. 2017. Towards artificial intelligence-based assessment systems. Nat Hum Behav 1, 0028
 
-[^6]: Holmes, W., Bektik, D., Whitelock, D. et Woolf, B. P. 2018b. L'éthique dans l'AIED : qui s'en soucie ? C. Penstein Rosé, R. Martínez- Maldonado, H. U. Hoppe, R. Luckin, M. Mavrikis, K. Porayska-Pomsta, B. McLaren, et B. du Boulay (eds.), Lecture Notes in Computer Science. Londres, Springer International Publishing, vol. 10948, pp. 551--553.
+[^6]: Holmes, W., Bektik, D., Whitelock, D. and Woolf, B. P. 2018b. Ethics in AIED: Who cares? C. Penstein Rosé, R. Martínez- Maldonado, H. U. Hoppe, R. Luckin, M. Mavrikis, K. Porayska-Pomsta, B. McLaren, and B. du Boulay (eds.), Lecture Notes in Computer Science. London, Springer International Publishing, vol. 10948, pp. 551--553.
 
-[^7]: Artificial Intelligence In Education : Promesses et implications pour l'enseignement et l'apprentissage - Wayne Holmes, Maya Bialik, Charles Fadel - Boston, MA, Center for Curriculum Redesign, 2019.
+[^7]: Artificial Intelligence In Education: Promises and Implications for Teaching and Learning - Wayne Holmes, Maya Bialik, Charles Fadel - Boston, MA, Center for Curriculum Redesign, 2019
 
-[^8]: Les technologies émergentes et la profession d'enseignant : Considérations éthiques et pédagogiques basées sur des scénarios du futur proche- Vuorikari Riina, Punie Yves,Marcelino Cabrera - Rapport du Centre Commun de Recherche - 2020
+[^8]: Emerging technologies and the teaching profession: Ethical and pedagogical considerations based on near-future scenarios- Vuorikari Riina, Punie Yves,Marcelino Cabrera - Joint Research Center report - 2020
 
-[^9]: DigComp 2.2 : The Digital Competence Framework for Citizens - With new examples of knowledge, skills and attitudes, Vuorikari, R., Kluzer, S. and Punie, Y., EUR 31006 FR, Office des publications de l'Union européenne, Luxembourg, 2022, ISBN 978-92-76-48883-5, doi:10.2760/490274, JRC128415.
+[^9]:  DigComp 2.2: The Digital Competence Framework for Citizens - With new examples of knowledge, skills and attitudes, Vuorikari, R., Kluzer, S. and Punie, Y., EUR 31006 EN, Publications Office of the European Union, Luxembourg, 2022, ISBN 978-92-76-48883-5, doi:10.2760/490274, JRC128415.
 
-[^10]: L'intelligence artificielle dans l'éducation : défis et opportunités pour le développement durable- Pedró Francesc, Subosa Miguel, Rivas Axel, Valverde Paula, ED-2019/WS/8, UNESCO, 2019.
+[^10]: Artificial intelligence in education: challenges and opportunities for sustainable development- Pedró Francesc, Subosa Miguel, Rivas Axel, Valverde Paula, ED-2019/WS/8, UNESCO, 2019.

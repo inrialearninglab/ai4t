@@ -9,11 +9,11 @@ Dans le domaine professionnel, la liste des métiers qui seront les plus touché
 
 Dans les prochaines années, le domaine de l'éducation est-il également concerné par le développement de ces technologies ?
 
-**L'objectif du module 1 : Utiliser l'IA dans l'éducation** est de tenter de répondre à ces premières questions :
+**L'objectif du module 1 : Utiliser l'IA en éducation** est de tenter de répondre à ces premières questions :
 
 - Les enseignants sont-ils réellement concernés par l'IA ?
 - Ces technologies d'IA sont-elles déjà disponibles et quels seraient leurs usages au bénéfice des enseignants, des pratiques professionnelles enseignantes et des apprenants ?
-- Quels sont les défis associés à l'utilisation de ces technologies dans l'éducation ?
+- Quels sont les défis associés à l'utilisation de ces technologies en éducation ?
 
 **Ressources pédagogiques** :
 

@@ -14,7 +14,7 @@ Le laboratoire de recherche LORIA[^1] a spécifiquement conçu un modèle de car
 
 Il est organisé en différentes couches qui couvrent toutes les caractéristiques de l'IA, des scénarios d'utilisation au mécanisme de transparence pour expliquer la décision proposée par l'IA.
 
-**Vous voulez savoir quelles sont les questions à poser lors de l'utilisation d'outils d'IA dans l'éducation ?**
+**Vous voulez savoir quelles sont les questions à poser lors de l'utilisation d'outils d'IA en éducation ?**
 
 Cliquez sur l'image ci-dessous et découvrez le format prêt à l'emploi du modèle d'analyse des ressources pédagogiques de l'IA.
 
@@ -24,7 +24,7 @@ Cliquez sur l'image ci-dessous et découvrez le format prêt à l'emploi du mod�
 
 Le modèle dans un format prêt à l'emploi [^3] peut également être téléchargé et rempli pour vos propres outils et ressources pédagogiques en IA.
 
-[^1]: Le Loria (Laboratoire Lorrain de Recherche en Informatique et ses Applications) fait partie d'une unité de recherche (UMR 7503), commune au [CNRS](http://www.cnrs.fr/index.php), à l'[Université de Lorraine](http://vers.univ-lorraine.fr/) et à l'[INRIA](http://www.inria.fr/en/). Elle est membre du consortium AI4T et apporte son expertise en IA dans l'éducation (et sur l'analyse de l'apprentissage) au projet Erasmus+ AI4T.
+[^1]: Le Loria (Laboratoire Lorrain de Recherche en Informatique et ses Applications) fait partie d'une unité de recherche (UMR 7503), commune au [CNRS](http://www.cnrs.fr/index.php), à l'[Université de Lorraine](http://vers.univ-lorraine.fr/) et à l'[INRIA](http://www.inria.fr/en/). Elle est membre du consortium AI4T et apporte son expertise en IA en éducation (et sur l'analyse de l'apprentissage) au projet Erasmus+ AI4T.
 
 [^2]: [Report on template for analyzing AI-related features in learning resources](./REPORT_ON_THE_TEMPLATE_1.0.pdf) - Jiajun PAN, Azim ROUSSANALY, Anne BOYER - Projet AI4T Erasmus+, 2022.
 

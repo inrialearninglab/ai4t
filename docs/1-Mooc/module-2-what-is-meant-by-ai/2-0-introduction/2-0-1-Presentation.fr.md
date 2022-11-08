@@ -9,7 +9,7 @@ description: Maintenant, voyons ce qu'est réellement l'IA, son potentiel et ses
 
 - Acquérir une première compréhension de ce qu'est réellement l'IA et d'où vient-elle ?
 - expérimenter les bases de l'IA et ses limites
-- Passer en revue les techniques d'IA existantes, leur potentiel ou leurs utilisations actuelles dans l'éducation.
+- Passer en revue les techniques d'IA existantes, leur potentiel ou leurs utilisations actuelles en éducation.
 
 **Ressources pédagogiques** :
 

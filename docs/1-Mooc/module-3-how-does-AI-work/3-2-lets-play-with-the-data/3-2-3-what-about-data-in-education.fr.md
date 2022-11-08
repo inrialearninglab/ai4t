@@ -1,9 +1,9 @@
 ---
-title : 3.2.3 Qu'en est-il des données dans l'éducation ?
+title : 3.2.3 Qu'en est-il des données en éducation ?
 description: Identifier la place des données éducatives dans les outils AIEd.
 ---
-# Qu'en est-il des données dans l'éducation ?
-Pour examiner le rôle des données dans l'éducation, prenons l'exemple de l'apprentissage personnalisé qui est identifié comme l'une des principales promesses des services basés sur l'IA dans le domaine de l'éducation[^1] :
+# Qu'en est-il des données en éducation ?
+Pour examiner le rôle des données en éducation, prenons l'exemple de l'apprentissage personnalisé qui est identifié comme l'une des principales promesses des services basés sur l'IA dans le domaine de l'éducation[^1] :
 
 "*L'IA jouera un rôle central pour aider à réaliser la promesse d'un apprentissage personnalisé (c'est-à-dire la capacité d'adapter la prestation, le contenu et le rythme de l'apprentissage aux besoins spécifiques de chaque élève). La capacité d'ingérer des données provenant de sources multiples, d'interroger ces données et d'en tirer des enseignements (à l'aide d'outils tels que l'analyse prédictive et l'apprentissage automatique) est ce qui fait de l'IA une avancée si passionnante dans la technologie de l'éducation et la raison pour laquelle son utilisation s'avérera transformatrice pour toutes les parties prenantes, des étudiants individuels aux ministères de l'éducation*." [Traduction Deepl]
 
@@ -19,6 +19,6 @@ Plusieurs préoccupations concernant les données éducatives et les application
 
 Et du point de vue du cadre du règlement général sur la protection des données (RGPD) : "*Il convient de préserver un équilibre entre la collecte de données numériques et l'intrusion dans la sphère personnelle de chacun dans le cadre de l'éducation et de la formation.*" [Traduction Deepl]
 
-[^1]: UNESCO ITIE. (2020). L'IA dans l'éducation : Le changement à la vitesse de l'apprentissage. Note d'orientation de l'ITIE-UNESCO. Auteur : Steven Duggan. Rédacteur : Svetlana Knyazeva.
+[^1]: UNESCO ITIE. (2020). L'IA en éducation : Le changement à la vitesse de l'apprentissage. Note d'orientation de l'ITIE-UNESCO. Auteur : Steven Duggan. Rédacteur : Svetlana Knyazeva.
 
 [^2]: Les technologies émergentes et la profession d'enseignant : Ethical and pedagogical considerations based on near-future scenarios- Vuorikari Riina, Punie Yves,Marcelino Cabrera - Joint Research Center report - 2020

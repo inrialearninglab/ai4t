@@ -1,14 +1,14 @@
 ---
-title : 2.2.5 Quels types d'applications de l'IA dans l'éducation ?
-description: Les systèmes d'IA existants, leurs utilisations potentielles ou existantes dans l'éducation.
+title : 2.2.5 Quels types d'applications de l'IA en éducation ?
+description: Les systèmes d'IA existants, leurs utilisations potentielles ou existantes en éducation.
 ---
-# Quels types d'applications de l'IA dans l'éducation
+# Quels types d'applications de l'IA en éducation
 
 Parmi les classifications possibles des domaines scientifiques de l'IA, le tableau suivant présente une taxonomie de l'IA[^1] en fonction des fonctions de la famille que peut remplir l'IA.
 <figure>
   <img src="Images/AI-Taxonomy-Samoli-al-2021.png" alt="Image of AI Taxonomy"/>  
 </figure>
-Figure : Taxonomie AI des domaines et sous-domaines scientifiques de l'IA (d'après Samoili &amp; al., 2021 JRC report[^1]).
+Figure : Taxonomie de l'IA - domaines et sous-domaines scientifiques de l'IA (d'après Samoili &amp; al., 2021 JRC report[^1]).
 
 Voyons quelles techniques d'IA sont utilisées dans les applications orientées éducation basées sur l'IA proposées par Holmes &amp; al. en 2019[^2].
 <figure>
@@ -30,6 +30,6 @@ Comme pour les offres commerciales personnalisées et les fonctions de recommand
 Un tel système est susceptible d'utiliser des techniques de **perception** (vision par ordinateur pour la reconnaissance faciale, par exemple) et des techniques d'**apprentissage automatique** pour analyser les expressions faciales ou le comportement de l'étudiant, si ces informations sont collectées et analysées.
 
 
-[^1]: AI Watch - Defining Artificial Intelligence - 2.0. Vers une définition opérationnelle et une taxonomie du paysage de l'IA - Samoili, S., López Cobo, M., Delipetrev, B., Martínez-Plumed, F., Gómez, E., et De Prato, G. - EUR 30873 FR, Office des publications de l'Union européenne, Luxembourg, 2021, ISBN 978-92-76-42648-6, doi:10.2760/019901, JRC126426.
+[^1]: AI Watch - Defining Artificial Intelligence - 2.0. Towards an operational definition and taxonomy for the AI landscape - Samoili, S., López Cobo, M., Delipetrev, B., Martínez-Plumed, F., Gómez, E., and De Prato, G. - EUR 30873 EN, Publications Office of the European Union, Luxembourg, 2021, ISBN 978-92-76-42648-6, doi:10.2760/019901, JRC126426.
 
-[^2]: L'intelligence artificielle dans l'éducation : Promises and Implications for Teaching and Learning - Wayne Holmes, Maya Bialik, Charles Fadel - Boston, MA, Center for Curriculum Redesign, 2019.
+[^2]: Artificial Intelligence In Education: Promises and Implications for Teaching and Learning - Wayne Holmes, Maya Bialik, Charles Fadel - Boston, MA, Center for Curriculum Redesign, 2019.

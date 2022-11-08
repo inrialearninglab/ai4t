@@ -5,7 +5,7 @@ description: Comprendre comment les outils décisionnels modifient les pratiques
 
 # Prise de décision avec l'IA
 
-Dans l'éducation et dans de nombreux autres domaines, l'IA modifie la façon dont les décisions sont prises. Par exemple, un outil d'IA dédié à l'enseignement des langues étrangères
+en éducation et dans de nombreux autres domaines, l'IA modifie la façon dont les décisions sont prises. Par exemple, un outil d'IA dédié à l'enseignement des langues étrangères
 peut aider à proposer le bon exercice au bon moment.
 L'outil d'IA décide de la tâche la plus pertinente pour la prochaine étape d'apprentissage d'un élève en combinant la "courbe d'oubli" de Hermann Ebbinghaus et le modèle de l'élève (obtenu en suivant les statistiques de chaque mot déjà enseigné). C'est ainsi que fonctionne *Duolingo for Schools*, par exemple.
 

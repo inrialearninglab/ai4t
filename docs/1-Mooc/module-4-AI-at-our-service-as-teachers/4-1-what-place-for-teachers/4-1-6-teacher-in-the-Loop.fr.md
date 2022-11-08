@@ -1,11 +1,11 @@
 ---
 title: 4.1.6 Enseignant dans la boucle
-description: Comprendre le modèle de l'enseignant dans la boucle et l'utiliser comme un outil pour promouvoir "les utilisateurs aux commandes" pour les systèmes d'IA dans l'éducation.
+description: Comprendre le modèle de l'enseignant dans la boucle et l'utiliser comme un outil pour promouvoir "les utilisateurs aux commandes" pour les systèmes d'IA en éducation.
 ---
 # Enseignant dans la boucle
 
 Dans le domaine de l'éducation et de la formation, "*Toutes les parties prenantes devraient considérer les implications de la cession de pouvoirs aux technologies émergentes pour prendre des décisions pédagogiques, qui autrement seraient prises par un professionnel de l'enseignement ayant une connaissance adéquate de la pédagogie et du contenu spécifique à la matière*" "Accès à l'activité " [Traduction Deepl] [^1].  
-Pour que les systèmes d'IA dans l'éducation soient dignes de confiance, une analyse adéquate est nécessaire en utilisant **le modèle de l'enseignant dans la boucle**.
+Pour que les systèmes d'IA en éducation soient dignes de confiance, une analyse adéquate est nécessaire en utilisant **le modèle de l'enseignant dans la boucle**.
 
 Dans son rapport [^1], le Centre commun de recherche propose ce qui suit : "*Pour les applications et services éducatifs qui reposent sur une prise de décision autonome, trois approches différentes peuvent être envisagées pour traiter de la répartition des responsabilités entre les humains et un algorithme/une machine*" [Traduction Deepl] [^1], à savoir l'enseignant dans la boucle, l'enseignant hors de la boucle et l'enseignant au-dessus de la boucle :
 

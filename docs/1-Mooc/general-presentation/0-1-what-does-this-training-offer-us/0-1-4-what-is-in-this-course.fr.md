@@ -19,7 +19,7 @@ De manière plus concrète, ce cours a été conçu pour aider les enseignants �
 
 Le cours est organisé en 4 modules :
 
-- M1. Utilisation de l'IA dans l'éducation
+- M1. Utilisation de l'IA en éducation
 - M2. Qu'est-ce que l'IA ?
 - M3. Comment fonctionne l'IA ?
 - M4. L'IA à notre service en tant qu'enseignants ?

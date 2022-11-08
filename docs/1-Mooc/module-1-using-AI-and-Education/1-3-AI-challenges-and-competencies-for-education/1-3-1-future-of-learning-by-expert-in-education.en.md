@@ -25,13 +25,13 @@ To these few examples, could be added a long list of tools now integrated in the
 
 If we consider the only specific education-oriented tasks, a set of four needs-based categories of emerging and potential applications have been defined by Fengchun & al.[^1]:
 
--   education management and delivery;
+-   Education management and delivery;
 
--   learning and assessment;
+-   Learning and assessment;
 
--   empowering teachers and enhancing teaching;
+-   Empowering teachers and enhancing teaching;
 
--   and lifelong learning.
+-   And lifelong learning.
 
 Holmes & al.[^2] classified the different types of current AI-based systems for Education as shown below.
 

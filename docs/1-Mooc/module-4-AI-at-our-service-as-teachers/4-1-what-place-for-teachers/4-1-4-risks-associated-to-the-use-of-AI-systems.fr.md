@@ -14,14 +14,15 @@ Quatre niveaux de risque ont été identifiés, de minimal à inacceptable :
 1. **Risque inacceptable** : Tous les systèmes d'IA considérés comme une menace claire pour la sécurité, les moyens de subsistance et les droits des personnes seront interdits, du marquage social par les gouvernements aux jouets utilisant une assistance vocale qui encourage les comportements dangereux.  
 
 2. **Risque élevé** : Les systèmes d'IA identifiés comme étant à haut risque comprennent les technologies d'IA utilisées dans :
-    - les infrastructures critiques (par exemple, les transports), qui pourraient mettre en danger la vie et la santé des citoyens ;
-    - **la formation éducative ou professionnelle, qui peut déterminer l'accès à l'éducation et le parcours professionnel d'une personne (par exemple, la notation des examens)** ;
-    - les composants de sécurité des produits (par exemple, l'application de l'IA dans la chirurgie assistée par robot) ;
-    - l'emploi, la gestion des travailleurs et l'accès au travail indépendant (par exemple, un logiciel de tri des CV pour les procédures de recrutement) ;
-    - les services privés et publics essentiels (par exemple, l'évaluation du crédit qui prive les citoyens de la possibilité d'obtenir un prêt) ;
-    - l'application de la loi qui peut interférer avec les droits fondamentaux des personnes (par exemple, l'évaluation de la fiabilité des preuves) ;
-    - la gestion des migrations, de l'asile et des contrôles aux frontières (par exemple, la vérification de l'authenticité des documents de voyage) ;
-    - l'administration de la justice et les processus démocratiques (par exemple, l'application de la loi à un ensemble concret de faits).
+
+    - Les infrastructures critiques (par exemple, les transports), qui pourraient mettre en danger la vie et la santé des citoyens ;
+    - **La formation éducative ou professionnelle, qui peut déterminer l'accès à l'éducation et le parcours professionnel d'une personne (par exemple, la notation des examens)** ;
+    - Les composants de sécurité des produits (par exemple, l'application de l'IA dans la chirurgie assistée par robot) ;
+    - L'emploi, la gestion des travailleurs et l'accès au travail indépendant (par exemple, un logiciel de tri des CV pour les procédures de recrutement) ;
+    - Les services privés et publics essentiels (par exemple, l'évaluation du crédit qui prive les citoyens de la possibilité d'obtenir un prêt) ;
+    - L'application de la loi qui peut interférer avec les droits fondamentaux des personnes (par exemple, l'évaluation de la fiabilité des preuves) ;
+    - La gestion des migrations, de l'asile et des contrôles aux frontières (par exemple, la vérification de l'authenticité des documents de voyage) ;
+    - L'administration de la justice et les processus démocratiques (par exemple, l'application de la loi à un ensemble concret de faits).
 
 3. **Risque limité** : Le risque limité fait référence aux systèmes d'IA ayant des obligations de transparence spécifiques. Lors de l'utilisation de systèmes d'IA tels que les chatbots, les utilisateurs doivent être conscients qu'ils interagissent avec une machine afin de pouvoir prendre une décision éclairée de poursuivre ou de prendre du recul.  
 

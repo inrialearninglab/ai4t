@@ -7,6 +7,7 @@ type: video
 Cette vidéo Forth est plus spécifiquement dédiée à l'apprentissage automatique. Elle reste une vidéo généraliste, avec un ton humoristique, qui peut être utilisée en classe.
 
 La vidéo propose également un aperçu de certains concepts d'apprentissage automatique sous la forme d'un dessin animé :
+
 - L'apprentissage automatique : de 0'55" à 1'50".
 
 - L'apprentissage supervisé : de 2'03" à 2'41".

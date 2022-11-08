@@ -10,7 +10,7 @@ Vous êtes en formation continue ou l'avez terminée et avez compris pourquoi l'
 
 Vous voulez en savoir un peu plus sur le fonctionnement des outils AIED ? Vous voulez comprendre pourquoi la langue est un sujet si important pour l'IA ?
 
-Vous avez peut-être compris que les conséquences de l'IA dans l'éducation vont bien au-delà de l'arrivée de quelques nouvelles applications fantaisistes : comment faire pour les examiner ? Comment s'assurer que l'enseignant est dans la boucle ?
+Vous avez peut-être compris que les conséquences de l'IA en éducation vont bien au-delà de l'arrivée de quelques nouvelles applications fantaisistes : comment faire pour les examiner ? Comment s'assurer que l'enseignant est dans la boucle ?
 
 Si ce sont quelques-unes des questions que vous aimeriez voir abordées, venez explorer le manuel AI4T préparé par l'équipe AI4T.  
 Mais ne soyez pas déçu si, une fois de plus, vous vous retrouvez avec encore plus de questions ! Si vous avez le sentiment d'avoir mieux compris vos questions, nous pensons que nous aurons réussi quelque chose.
@@ -44,7 +44,7 @@ Le langage est au cœur de ce chapitre. L'IA est de plus en plus performante dan
 
 ### L'avenir
 
-Lors de la préparation du manuel, les auteurs ont constaté qu'il y avait tellement de choses au-delà des outils accessibles actuellement. Le véritable impact de l'IA ne se situe peut-être pas dans la technologie, mais dans l'éducation elle-même. Si nous voulons réfléchir à des questions complexes comme la tricherie, les examens, la motivation, nous devons absolument lire ce chapitre.
+Lors de la préparation du manuel, les auteurs ont constaté qu'il y avait tellement de choses au-delà des outils accessibles actuellement. Le véritable impact de l'IA ne se situe peut-être pas dans la technologie, mais en éducation elle-même. Si nous voulons réfléchir à des questions complexes comme la tricherie, les examens, la motivation, nous devons absolument lire ce chapitre.
 
 #### Ressources et bibliographie
 
