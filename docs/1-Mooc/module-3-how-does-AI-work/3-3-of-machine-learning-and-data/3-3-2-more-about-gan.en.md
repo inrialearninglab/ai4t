@@ -1,6 +1,7 @@
 ---
 title: 3.3.2 Generative Adversarial Networks (GAN)
-description:
+description: More about GAN
+contributor:  Mooc IAI
 ---
 # Generative Adversarial Networks (GAN)
 Generative Adversarial Networks fall between supervised learning based on the provision of input data, the corresponding desired output of which is known in order to estimate the input-output relationship beyond the samples provided for training, and unsupervised learning.

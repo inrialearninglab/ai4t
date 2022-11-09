@@ -1,7 +1,7 @@
 ---
 title: 3.2.2 Qu'est-ce qu'une donnée ?
-description: Obtenir une première compréhension de ce qu'est une donnée et comment elle est utilisée en IA.
-contributor: Laurent Romary
+description: Une première compréhension de ce qu'est une donnée et comment elle est utilisée en IA.
+contributor: Laurent Romary, Inria
 ---
 # Qu'est-ce qu'une donnée ?
 
@@ -19,11 +19,11 @@ La durabilité des systèmes d'intelligence artificielle dépend donc étroiteme
 
 ## Données pour les systèmes d'IA supervisés et non supervisés
 
-Comme nous l'avons déjà vu, les systèmes d'IA sont de deux types, selon la façon dont les données sont utilisées pour les former. Les systèmes supervisés reposent sur la fourniture d'entrées et de sorties correspondantes. L'apprentissage consiste donc à apprendre au système à générer la sortie la plus probable à partir d'entrées inconnues. Il existe plusieurs façons d'obtenir de telles données. Par exemple, une base de données d'images où chaque image est associée à des mots-clés ou une collection de documents numérisés qui ont été transcrits par des annotateurs (cf. figure 1).
+Comme nous l'avons déjà vu, les systèmes d'IA sont de deux types, selon la façon dont les données sont utilisées pour l'apprentissage. Les systèmes supervisés reposent sur la fourniture d'entrées et des sorties correspondantes. L'apprentissage consiste donc à apprendre au système à générer la sortie la plus probable à partir d'entrées inconnues. Il existe plusieurs façons d'obtenir de telles données. Par exemple, une base de données d'images où chaque image est associée à des mots-clés ou une collection de documents numérisés qui ont été transcrits par des annotateurs (cf. figure ci-dessous).
 
 <figure>
 	 <img src="Images/3-2-2-Automatic-transcription-of-a-letter.png" />
-	 <figcaption>Figure 1 : Transcription automatique d'une lettre de Paul D'Estournelles (avec l'aimable autorisation de F. Chiffoleau, Coll. Archives de la Sarthe)</figcaption>
+	 <figcaption>Figure : Transcription automatique d'une lettre de Paul D'Estournelles (avec l'aimable autorisation de F. Chiffoleau, Coll. Archives de la Sarthe).</figcaption>
 </figure>
 
 Les systèmes d'IA basés sur l'apprentissage non supervisé ne seront pas conçus pour un comportement spécifique mais conçus pour supporter la propriété statistique des données d'apprentissage. C'est le cas par exemple des modèles de langage tels que BERT qui tendent à associer des positions similaires dans un espace mathématique à des mots ayant le même comportement syntaxique ou sémantique, observé à partir de la fourniture d'un grand nombre de phrases échantillons pour chaque mot. De tels modèles sont par exemple très efficaces pour prédire les synonymes ou les mots suivants d'une séquence donnée.
@@ -54,10 +54,10 @@ Les ensembles de données et les modèles ouverts peuvent être hébergés dans 
 
 Dans le cas de tâches complexes, où plusieurs équipes travaillent en parallèle sur l'annotation d'une variété d'échantillons de données, certaines initiatives font office de catalogues pour les sources de données correspondantes. C'est le cas par exemple de l'initiative HTR United[^4] qui rassemble les métadonnées des documents annotés pour la reconnaissance de textes (manuscrits).
 
-[^1]: Corpus OSCAR : [https://oscar-corpus.com/](https://oscar-corpus.com/)
+[^1]: Site en anglais Corpus OSCAR : [https://oscar-corpus.com/](https://oscar-corpus.com/)
 
-[^2]: ressource de données d'images : [https://idr.openmicroscopy.org/](https://idr.openmicroscopy.org/)
+[^2]: Site en anglais de ressources de données d'images : [https://idr.openmicroscopy.org/](https://idr.openmicroscopy.org/)
 
-[^3]: Zenodo : [https://zenodo.org/](https://zenodo.org/)
+[^3]: Site en anglais Zenodo : [https://zenodo.org/](https://zenodo.org/)
 
-[^4]: HTR United : [https://htr-united.github.io](https://htr-united.github.io)
+[^4]: Site en anglais HTR United : [https://htr-united.github.io](https://htr-united.github.io)

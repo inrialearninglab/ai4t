@@ -1,19 +1,20 @@
 ---
 title: "3.2.5 Activité : Jouer avec les neurones de la machine"
-description: Comprendre comment fonctionne un réseau neuronal artificiel
+description: Comprendre comment fonctionne un réseau de neurones artificiel
 type: activity
+contributor:  Site Web Pixees 
 ---
 # Activité :  Jouez avec les neurones de la machine
 Le logiciel en ligne **[TensorFlow](https://www.tensorflow.org/overview/)** permet de construire des réseaux de neurones artificiels et de tester leurs réponses pour différents types de problèmes et sur différents types de données. Dans le type de problème "Classification", l'objectif est de séparer les points de couleur bleue et orange. Une application de ce type de problème est, par exemple, un algorithme de classification de photos. Dans l'exemple ci-dessous, il y a une entrée (caractéristique) qui sépare les points horizontalement et une autre qui les sépare verticalement. En combinant ces deux entrées, on obtient une séparation oblique. Le résultat (sortie) est bien adapté au type de données choisi.
 
 <figure>
   <img src="Images/tensor-flow.png" />
-  <figcaption> Vue du terrain de jeu du flux tensoriel </figcaption>
+  <figcaption> Vue de l'interface de TensorFlow </figcaption>
 </figure>
 
 ## TensorFlow : Quelques explications avant d'essayer la simulation d'un réseau de neurones
 
-*Source : traduction du [site web français de Pixees](https://pixees.fr/jouez-avec-les-neurones-de-la-machine/)*
+*Source : [Site web Pixees](https://pixees.fr/jouez-avec-les-neurones-de-la-machine/)*
 
 **Qu'est-ce qu'un réseau de neurones et comment fonctionne-t-il?**
 Un réseau de neurones est un mécanisme générique composé de petites unités (pseudo-neurones) connectées les unes aux autres. Chaque unité effectue une opération très simple : elle prend des valeurs en entrée, les combine très simplement (une simple moyenne avec des coefficients) et applique une transformation sur le résultat (par exemple, ne garder que les valeurs positives).

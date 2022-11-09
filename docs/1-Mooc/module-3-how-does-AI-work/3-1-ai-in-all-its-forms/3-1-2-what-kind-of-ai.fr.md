@@ -1,10 +1,10 @@
 ---
 title : 3.1.2 Quel type d'IA ?
-description: Obtenez une première compréhension des types d'IA
+description: Pour une première compréhension des types d'IA
 ---
 
 # Quel type d'IA ?  
-On trouve de nombreux types d'IA dans la littérature. Voyons à quoi ils font référence.
+On trouve de nombreux types d'IA dans la littérature scientifique. Voyons à quoi ils font référence.
 
 ## Intelligence artificielle faible ou forte ?
 - Intelligence artificielle faible  
@@ -30,7 +30,7 @@ Au sein de l'intelligence artificielle faible, à quoi font référence les appr
 
 ## Approche d'apprentissage supervisé ou non supervisé ?
 
-Au sein des approches d'apprentissage automatique, les systèmes d'IA sont de deux types, selon la manière dont les données sont utilisées pour les former : [^2].
+Au sein des approches d'apprentissage automatique, les systèmes d'IA sont de deux types, selon la manière dont les données sont utilisées pour les former[^2] :
 
 - Apprentissage supervisé  
   "*L'apprentissage supervisé fait référence à l'utilisation de données étiquetées - telles que des photos indiquant si elles contiennent ou non des chats - pour former des algorithmes. Ces approches conçoivent leurs propres méthodes pour prédire comment les images doivent être étiquetées.*" [Traduction Deepl]
@@ -45,6 +45,6 @@ Le mécanisme de calcul doit donc ajuster des paramètres internes (comme les bo
 
 En fait, de nombreuses applications d'IA utilisent l'apprentissage automatique et presque toujours de l'IA symbolique en arrière-plan. Par exemple, de nombreuses applications de chatbot sont préprogrammées avec des règles définies par l'homme sur la façon de répondre à des questions anticipées. Et c'est un sujet de recherche actuel que de voir comment combiner les approches symboliques et d'apprentissage automatique.
 
-[^1]: [L'IA et l'éducation : Guide pour les décideurs](https://unesdoc.unesco.org/ark:/48223/pf0000376709) - Miao Fengchun, Holmes Wayne, Ronghuai Huang, Hui Zhang - ISBN : 978-92-3-100447-6 - UNESCO, 2021
+[^1]: [IA et éducation: guide pour les décideurs politiques](https://unesdoc.unesco.org/ark:/48223/pf0000380006) - Miao Fengchun, Holmes Wayne, Ronghuai Huang, Hui Zhang - ISBN : 978-92-3-200244-0 - UNESCO, 2021
 
-[^2]: [L'intelligence artificielle : How does it work, why does it matter, and what can we do about it ?](https://www.europarl.europa.eu/thinktank/en/document/EPRS_STU(2020)641547) - Philip Boucher, Unité de prospective scientifique (STOA) - ISBN : 978-92-846-6770-3 - Union européenne, 2020
+[^2]: Etude en anglais: [Artificial intelligence: How does it work, why does it matter, and what can we do about it ?](https://www.europarl.europa.eu/thinktank/en/document/EPRS_STU(2020)641547) - Philip Boucher, Scientific Foresight Unit (STOA) - ISBN: 978-92-846-6770-3 - Union Européenne, 2020

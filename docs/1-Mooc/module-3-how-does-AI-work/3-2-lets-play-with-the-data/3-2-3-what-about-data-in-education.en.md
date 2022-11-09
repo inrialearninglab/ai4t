@@ -19,6 +19,6 @@ Several concerns about educational data and decision-making applications have be
 
 And from a General Data Protection Regulation (GDPR) framework point of view: "*A balance between collecting digital data and intruding into one's personal sphere in education and training should be safeguarded.*"
 
-[^1]: UNESCO IITE. (2020). AI in Education: Change at the Speed of Learning. UNESCO IITE Policy Brief. Author: Steven Duggan. Editor: Svetlana Knyazeva.
+[^1]: "AI in Education: Change at the Speed of Learning". UNESCO IITE Policy Brief. Author: Steven Duggan. Editor: Svetlana Knyazeva - ISBN : 978-5-6046449-2-8.
 
-[^2]: Emerging technologies and the teaching profession: Ethical and pedagogical considerations based on near-future scenarios- Vuorikari Riina, Punie Yves,Marcelino Cabrera - Joint Research Center report - 2020
+[^2]: "Emerging technologies and the teaching profession: Ethical and pedagogical considerations based on near-future scenarios"- Vuorikari Riina, Punie Yves, Marcelino Cabrera - Joint Research Center report - 2020.

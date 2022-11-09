@@ -24,7 +24,7 @@ _Click on the image below and have a look at the ready-to-use format of The Temp
 
 The Template in a ready-to-use format[^3] can also be uploaded and filled in for your own AI Educational tools and resources.
 
-[^1]: Loria (Lorraine Research Laboratory in Computer Science and its Applications) is part of a research unit (UMR 7503), common to [CNRS](http://www.cnrs.fr/index.php), the [University of Lorraine](http://vers.univ-lorraine.fr/) and [INRIA](http://www.inria.fr/en/). It is a member of the AI4T consortium and brings its expertise in AI in education (and on learning analysis) to AI4T Erasmus+ project.
+[^1]: Loria [Lorraine Research Laboratory in Computer Science and its Applications](https://www.loria.fr/en/) is part of a research unit (UMR 7503), common to [CNRS](https://www.cnrs.fr/en), the [University of Lorraine](https://welcome.univ-lorraine.fr/en/) and [INRIA](http://www.inria.fr/en/). It is a member of the AI4T consortium and brings its expertise in AI in education (and on learning analysis) to AI4T Erasmus+ project.
 
 [^2]: [Report on template for analyzing AI-related features in learning resources](./REPORT_ON_THE_TEMPLATE_1.0.pdf) - Jiajun PAN, Azim ROUSSANALY, Anne BOYER - AI4T Erasmus+ project, 2022.
 

@@ -9,7 +9,7 @@ type: activity
 Une courte activité pour faire le point sur l'IA numérique (aussi appelée "Machine Learning"), ce qu'elle peut et ne peut pas faire.
 
 **"Accès à l'activité"**  
-Cliquez sur l'image ci-dessous
+_Cliquez sur l'image ci-dessous_
 
 <figure>
   <img src="Images/VisuelQUIZDigitalAI.jpg" alt="Digital AI"/>  
