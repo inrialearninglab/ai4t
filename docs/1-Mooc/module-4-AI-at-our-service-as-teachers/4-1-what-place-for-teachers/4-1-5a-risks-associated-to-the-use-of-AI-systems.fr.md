@@ -1,5 +1,5 @@
 ---
-title: "4.1.5 Activité : La prise de décision basée sur l'IA "
+title: "4.1.5 Activité : Prise de décision avec l'IA "
 description: Qu'est-ce qu'une IA digne de confiance ? 7 exigences à respecter pour les systèmes d'IA
 type: activity
 ---
@@ -10,7 +10,7 @@ Il existe 7 exigences qu'un système d'IA doit respecter pour être considéré 
 Associons ces exigences à leurs définitions.
 
 **"Accès à l'activité"**  
-Cliquez sur l'image ci-dessous
+_Cliquez sur l'image ci-dessous_
 
 <figure><img src="Images/VisuelQUIZThe7keyrequirementsfortrustworthyAI.jpg" alt="Illustration for AI-based decision making Activity"/>  
 </figure>

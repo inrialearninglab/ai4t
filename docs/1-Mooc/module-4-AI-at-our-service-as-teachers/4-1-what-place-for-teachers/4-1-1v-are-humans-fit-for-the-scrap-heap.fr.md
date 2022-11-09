@@ -1,11 +1,11 @@
 ---
 title: "4.1.1 Vidéo : Quelle place pour l'être humain ?"
-description: Les changements anticipés dus à l'IA, avec un accent sur l'évolution du marché du travail.
+description: Prévision des changements dus à l'IA, notamment sur l'évolution du travail.
 type: video
 ---
 # Vidéo : Quelle place pour l'être humain ?
 
-Cette vidéo met en avant les changements anticipés dus à l'IA dans le travail (et notamment l'évolution de certains métiers) sans aborder spécifiquement le domaine de l'éducation.  
+Cette vidéo met en avant les changements que l'IA pourrait induire dans le travail (et notamment par l'évolution de certains métiers) sans aborder spécifiquement le domaine de l'éducation.  
 La question de "l'humain dans la boucle" - c'est-à-dire quelle place donner à l'être humain dans les systèmes d'aide à la décision - est posée.
 Cette vidéo humoristique peut être utilisée en classe.  
 

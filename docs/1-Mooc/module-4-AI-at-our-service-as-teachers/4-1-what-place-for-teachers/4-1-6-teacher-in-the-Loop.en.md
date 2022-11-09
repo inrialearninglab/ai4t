@@ -24,4 +24,4 @@ _Click on the image below to go further on the "Teacher in the Loop" model!_
   <figcaption>Figure 1: Different degrees of human oversight when dealing with autonomous decision-making in Education and Training. (Adapted from "Emerging technologies and the teaching profession" report).</figcaption> 
 </figure></a>  
 
-[^1]: [Emerging technologies and the teaching profession](https://publications.jrc.ec.europa.eu/repository/handle/JRC120183): Ethical and pedagogical considerations based on near-future scenarios - Vuorikari Riina, Punie Yves, Marcelino Cabrera - Joint Research Center report - 2020.
+[^1]: ["Emerging technologies and the teaching profession: Ethical and pedagogical considerations based on near-future scenarios"](https://publications.jrc.ec.europa.eu/repository/handle/JRC120183) - Vuorikari Riina, Punie Yves, Marcelino Cabrera - Joint Research Center report - European Commission, 2020.

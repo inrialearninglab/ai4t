@@ -4,7 +4,7 @@ description: Understand how decision-making tools change practices, can improve 
 type: activity
 ---
 
-# Activity: Decision Making with AI and Education
+# Activity: Decision Making with AI in Education
 
 This short activity proposes to revisit the 3 main degrees of involvement of AI in decision making with a feedback illustrating each type of decision in the field of education.
 

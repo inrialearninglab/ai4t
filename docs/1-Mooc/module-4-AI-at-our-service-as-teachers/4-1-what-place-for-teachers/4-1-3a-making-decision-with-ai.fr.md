@@ -4,12 +4,12 @@ description: Comprendre comment les outils de prise de décision modifient les p
 type: activity
 ---
 
-# Activité : Prise de décision avec l'IA et l'éducation
+# Activité : Prise de décision avec l'IA en Éducation
 
 Cette courte activité propose de revenir sur les 3 principaux degrés d'implication de l'IA dans la prise de décision avec un retour d'expérience illustrant chaque type de décision dans le domaine de l'éducation.
 
 **"Accès à l'activité"**  
-Cliquez sur l'image ci-dessous
+_Cliquez sur l'image ci-dessous_
 
 <figure>
   <img src="Images/VisuelQUIZTypologyofAIinvolveddecisionmaking.jpg" alt="Illustration for Decision Making with AI and Education Activity"/>  

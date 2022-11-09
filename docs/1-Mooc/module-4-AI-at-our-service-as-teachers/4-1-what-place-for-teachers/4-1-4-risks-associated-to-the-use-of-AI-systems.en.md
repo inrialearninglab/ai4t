@@ -14,14 +14,14 @@ Four levels of risk were identified, from minimal to unacceptable:
 1. **Unacceptable risk**: All AI systems considered a clear threat to the safety, livelihoods and rights of people will be banned, from social scoring by governments to toys using voice assistance that encourages dangerous behaviour.  
 
 2. **High risk**: AI systems identified as high-risk include AI technology used in:
-    - critical infrastructures (e.g. transport), that could put the life and health of citizens at risk;  
-    - **educational or vocational training, that may determine the access to education and professional course of someone's life (e.g. scoring of exams)**;  
-    - safety components of products (e.g. AI application in robot-assisted surgery);  
-    - employment, management of workers and access to self-employment (e.g. CV-sorting software for recruitment procedures);  
-    - essential private and public services (e.g. credit scoring denying citizens opportunity to obtain a loan);  
-    - law enforcement that may interfere with people's fundamental rights (e.g. evaluation of the reliability of evidence);  
-    - migration, asylum and border control management (e.g. verification of authenticity of travel documents);  
-    - administration of justice and democratic processes (e.g. applying the law to a concrete set of facts).
+    - Critical infrastructures (e.g. transport), that could put the life and health of citizens at risk;  
+    - **Educational or vocational training, that may determine the access to education and professional course of someone's life (e.g. scoring of exams)**;  
+    - Safety components of products (e.g. AI application in robot-assisted surgery);  
+    - Employment, management of workers and access to self-employment (e.g. CV-sorting software for recruitment procedures);  
+    - Essential private and public services (e.g. credit scoring denying citizens opportunity to obtain a loan);  
+    - Law enforcement that may interfere with people's fundamental rights (e.g. evaluation of the reliability of evidence);  
+    - Migration, asylum and border control management (e.g. verification of authenticity of travel documents);  
+    - Administration of justice and democratic processes (e.g. applying the law to a concrete set of facts).
 
 3. **Limited risk**: Limited risk refers to AI systems with specific transparency obligations. When using AI systems such as chatbots, users should be aware that they are interacting with a machine so they can take an informed decision to continue or step back.  
 
@@ -52,6 +52,6 @@ AI systems used in education must be trustworthy i.e. complies with the 7 follow
 
 - and **Human agency and oversight**: "*AI systems should empower human beings, allowing them to make informed decisions and fostering their fundamental rights. At the same time, proper oversight mechanisms need to be ensured, which can be achieved through human-in-the-loop, human-on-the-loop, and human-in-command approaches".*
 
-[^1]: [Laying down Harmonised Rules on Artificial Intelligence](https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonised-rules-artificial-intelligence) (Artificial Intelligence Act) and Amending certain Union Legislatives Acts - Regulatory Framework Proposal on Artificial Intelligence, European Commission - 2021
+[^1]: ["Laying down Harmonised Rules on Artificial Intelligence (Artificial Intelligence Act) and Amending certain Union Legislatives Acts"](https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonised-rules-artificial-intelligence) - Regulatory Framework Proposal on Artificial Intelligence, European Commission - 2021
 
-[^2]: [Ethics guidelines for trustworthy AI](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai), European Commission, High-Level Expert Group on AI - 2019.
+[^2]: ["Ethics guidelines for trustworthy AI"](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai), European Commission, High-Level Expert Group on AI - 2019.

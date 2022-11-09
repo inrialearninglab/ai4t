@@ -5,8 +5,7 @@ description: Understand how decision-making tools change practices, can improve 
 
 # Decision Making with AI
 
-In education and in many other fields, AI is changing the way decisions are made. For example, an AI tool dedicated to foreign language teaching
-can help to propose the right exercise at the right time.
+In education and in many other fields, AI is changing the way decisions are made. For example, an AI tool dedicated to foreign language teaching can help to propose the right exercise at the right time.
 The task likely to be most relevant to a student 's next stage of learning is decided by the AI tool using a combination of Hermann Ebbinghaus' "forgetting curve" and the student's model (obtained by tracking the statistics of each word already taught). It's how *Duolingo for Schools* works, for example.
 
 In order to better understand how AI can transform the way decisions are made, it should be remembered that there are three main degrees of involvement of AI in decision making[^1]:

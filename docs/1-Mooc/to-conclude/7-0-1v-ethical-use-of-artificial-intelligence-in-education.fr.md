@@ -1,5 +1,5 @@
 ---
-title: "Interview : L'utilisation éthique de l'intelligence artificielle en éducation"
+title: "Interview : Utilisation éthique de l'intelligence artificielle en éducation"
 description : Interview d'Alain Thillay
 contributor: Alain Thillay
 type: video
@@ -15,12 +15,12 @@ Dans la vidéo suivante, Alain Thillay, expert national français en éducation 
 
 ## Présentation de l'intervenant
 
-*Depuis octobre 2021, Alain Thillay est expert national détaché (END) par le ministère français de l'Éducation nationale auprès de la Commission européenne dans l'unité Éducation numérique de la Direction de l'éducation, de l'art et de la culture (DG-EAC).*  
-*Il a été professeur d'histoire et de géographie depuis 1987 en France avant de rejoindre la Direction du numérique éducatif il y a 10 ans, à Paris.*  
-*Il travaille aujourd'hui à la mise en œuvre du Plan numérique pour l'éducation 2021-2027 (PNE) pour soutenir la transition numérique et l'innovation en éducation.*
+*Depuis octobre 2021, Alain Thillay est expert national détaché (END) par le Ministère Français de l'Éducation Nationale auprès de la Commission Européenne dans l'unité Éducation Numérique de la Direction de l'Éducation, de l'Art et de la Culture (DG-EAC).*  
+*Il a été professeur d'histoire et de géographie depuis 1987 en France avant de rejoindre la Direction du Numérique pour l'Éducation à Paris, il y a 10 ans.*  
+*Il travaille aujourd'hui à la mise en œuvre du Plan Numérique pour l'Éducation 2021-2027 (PNE) pour soutenir la transition numérique et l'innovation en éducation.*
 
-## L'utilisation éthique de l'intelligence artificielle en éducation : Défis européens  
-Regardez la vidéo ci-dessous (6'14")
+## Utilisation éthique de l'intelligence artificielle en éducation : Défis européens  
+_Regardez la vidéo ci-dessous (6'14")_
 ____________________
 
 <center><iframe width="640" height="360" src="https://www.youtube.com/embed/Gfzvo1bGkyI?rel=0&showinfo=0&cc_load_policy=1&hl=fr&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
@@ -28,7 +28,7 @@ ____________________
 
 ## Lignes directrices éthiques sur l'utilisation de l'IA et des données dans l'enseignement et l'apprentissage.
 
-En octobre 2022, la Commission européenne, dans le cadre du plan d'action pour l'éducation numérique (action 6)[^1], a publié des lignes directrices éthiques sur l'utilisation de l'IA et des données afin d'aider les enseignants et les éducateurs à comprendre le potentiel que les applications de l'IA et de l'utilisation des données peuvent avoir en éducation et de les sensibiliser aux risques possibles.
+En octobre 2022, la Commission Européenne, dans le cadre du plan d'action pour l'éducation numérique (action 6)[^1], a publié des lignes directrices éthiques sur l'utilisation de l'IA et des données afin d'aider les enseignants et les éducateurs à comprendre le potentiel que les applications de l'IA et de l'utilisation des données peuvent avoir en éducation et de les sensibiliser aux risques possibles.
 
 Cliquez sur l'image ci-dessous pour télécharger les "Lignes directrices éthiques sur l'utilisation de l'intelligence artificielle (IA) et des données dans l'enseignement et l'apprentissage pour les éducateurs".
 

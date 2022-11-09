@@ -1,7 +1,7 @@
 ---
-title: 4.2.1 Are you ready to trust AI for decision making?
+title: 4.2.1 Ready to trust AI for decision making?
 description: Understand the impact of using decision-making AI tools and the necessary precaution of use
-contributor: AI4T
+contributor:  AI4T
               Ikram Chraibi Kaadoud, AI Researcher
 ---
 
@@ -41,12 +41,12 @@ Thus, the decision support provided by tools with low interpretability can be mo
 
 ## From description to prescription
 
-Here is a representation that relates the technology used, the results achieved and the strategic outcomes.
+Here is a representation that relates the technology used, its complexity and its strategic outcome.
 
 <figure> 
   <img src="Images/Data-analysis-uses-from-description-to-prescription-HQ.jpg" alt="Representation of Data analysis uses from description to prescription." /> 
 </figure>
-_Figure 2: Classification of data analysis use from description to prescription[^3] (Adapted from the "Learning Analytics" video of this Mooc)._
+_Figure 2: Classification of data analysis use from description to prescription[^3] (Adapted from the "Learning Analytics" video of this course)._
 
 In the following 4 categories the correlation between the complexity of the methods used and the strategic results can be noted.
 
@@ -74,14 +74,14 @@ Prescriptive Analytics answers the question "What should be done?" or "How can w
 In summary, the more relevant the tools can be as an aid to decision making, the more complex the information technologies are and the more difficult they can be to explain.
 But in terms of the assistance provided, attention must be maintained on explicability and any vigilance required in the use of the IA tool in an area where the consequences of decisions are significant and lasting.
 
-[^1]: "*Moreover, trade-offs might have to be made between enhancing a system's explainability (which may reduce its accuracy) or increasing its accuracy (at the cost of explainability). Whenever an AI system has a significant impact on people's lives, it should be possible to demand a suitable explanation of the AI system's decision-making process. Such explanation should be timely and adapted to the expertise of the stakeholder concerned (e.g. layperson, regulator or researcher). In addition, explanations of the degree to which an AI system influences and shapes the organisational decision-making process, design choices of the system, and the rationale for deploying it, should be available (hence ensuring business model transparency).*" From "[Ethics Guidelines for Trustworthy AI](https://ec.europa.eu/futurium/en/ai-alliance-consultation/guidelines/1.html#Transparency)" (consulted 10/16/2022).
+[^1]: "*Moreover, trade-offs might have to be made between enhancing a system's explainability (which may reduce its accuracy) or increasing its accuracy (at the cost of explainability). Whenever an AI system has a significant impact on people's lives, it should be possible to demand a suitable explanation of the AI system's decision-making process. Such explanation should be timely and adapted to the expertise of the stakeholder concerned (e.g. layperson, regulator or researcher). In addition, explanations of the degree to which an AI system influences and shapes the organisational decision-making process, design choices of the system, and the rationale for deploying it, should be available (hence ensuring business model transparency).*" From ["Ethics Guidelines for Trustworthy AI"](https://ec.europa.eu/futurium/en/ai-alliance-consultation/guidelines/1.html#Transparency) (consulted 10/16/2022).
 
-[^2]: [Explainable artificial intelligence](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence) in Wikipedia (consulted 10/16/2022).
+[^2]: From wikipedia article on ["Explainable artificial intelligence"](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence) (consulted 10/16/2022).  
 
-[^3]: See this Mooc/section 1.1.3. on Learning analytics (video).
+[^3]: See in this course the section 1.1.3. on Learning analytics (video).  
 
-[^4]: From "[Descriptive statistics](https://en.wikipedia.org/wiki/Descriptive_statistics)" wikipedia article.
+[^4]: From wikipedia article on ["Descriptive statistics"](https://en.wikipedia.org/wiki/Descriptive_statistics) (consulted 10/16/2022).  
 
-[^5]: From "[Predictive Analytics](https://en.wikipedia.org/wiki/Predictive_analytics)"wikipedia article.
+[^5]: From wikipedia article on ["Predictive Analytics"](https://en.wikipedia.org/wiki/Predictive_analytics) (consulted 10/16/2022).  
 
-[^6]: From "[Prescriptive Analytics](https://en.wikipedia.org/wiki/Prescriptive_analytics)" wikipedia article.
+[^6]: From wikipedia article on ["Prescriptive Analytics"](https://en.wikipedia.org/wiki/Prescriptive_analytics) (consulted 10/16/2022).

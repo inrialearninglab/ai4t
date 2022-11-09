@@ -16,7 +16,7 @@ About 50 years ago, it's in the field of diagnosis that one of the most well-kno
 
 Developed from 1972, MYCIN was able, 6 years later, to outperform doctors in establishing accurate diagnoses. In a full-scale test, MYCIN and 9 doctors, interns and academics, are asked to carry out diagnoses and perform prescriptions on 80 patients with meningitis. The diagnoses and prescriptions were then blindly evaluated by 8 meningitis specialists and meningitis specialists and ... MYCIN scored higher than the human experts.
 
-Today, one important field of machine learning use for medical purpose is the image analysis for medical diagnoses[^3]. In a few words, let's see how it works as explained by Gaël Varoquaux, AI researcher:
+Today, one important field of machine learning use for medical purpose is the image analysis for medical diagnoses[^3]. In a few words, let's see how it works as explained by Gaël Varoquaux, AI Inria researcher:
 
 "*Machine learning is a branch of Artificial Intelligence (AI). In a nutshell, it involves feeding software thousands of examples so that it learns to carry out identification tasks, e.g. looking through images to identify dogs or cats. Beauty spots or malignant melanomas. In theory, this should open up a wide range of applications in medicine. For example, x-rays are collected from thousands of patients suffering from the same condition - what is known as a cohort. Then, using this machine learning data, the computer will detect the same visual characteristics in any new images taken during screening for other individuals. This becomes the target data*."[^4]
 
@@ -28,8 +28,7 @@ First are the tools that can help in the decision-making process. An AI system c
 
 Then there are tools that can predict decisions. In this case, AI proposes directly to the judge a court decision[^6]. The software analyses a large number of examples of court decisions and "automatically" derives decision rules. The emergence of predictive justice is raising many concerns.
 
-If "*The application of AI in the field of justice can contribute to improve the efficiency and quality*" [it] "*must be implemented in a responsible manner which complies with the fundamental rights*"[^7]. On the European level, an Ethical Charter on the Use of Artificial Intelligence in Judicial Systems and their environment was adopted in
-2018.
+If "*The application of AI in the field of justice can contribute to improve the efficiency and quality*" [it] "*must be implemented in a responsible manner which complies with the fundamental rights*"[^7]. On the European level, an Ethical Charter on the Use of Artificial Intelligence in Judicial Systems and their environment was adopted in 2018.
 
 Organised around 5 principles, it recognises the importance of non-discrimination, respect of fundamental rights, non-discrimination, quality, security, transparency, impartiality and fairness.
 
@@ -51,4 +50,4 @@ Any user of those has to be able to keep critical use of the proposition of deci
 
 [^6]: Here it refers to "Decision automation" as mentioned in the previous section on "Decision Making with AI".
 
-[^7]: [Ethical Charter on the Use of Artificial Intelligence in Judicial Systems](https://www.coe.int/en/web/cepej/cepej-european-ethical-charter-on-the-use-of-artificial-intelligence-ai-in-judicial-systems-and-their-environment)- European Commission for the efficiency of justice Web site (consulted 08/29/2022).
+[^7]: From [Ethical Charter on the Use of Artificial Intelligence in Judicial Systems](https://www.coe.int/en/web/cepej/cepej-european-ethical-charter-on-the-use-of-artificial-intelligence-ai-in-judicial-systems-and-their-environment)- European Commission for the efficiency of justice Web site (consulted 08/29/2022).

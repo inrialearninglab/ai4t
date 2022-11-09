@@ -9,7 +9,7 @@ description: Présentation du module 4
 
 - Comprendre comment les outils décisionnels peuvent modifier les pratiques des enseignants, éventuellement les améliorer et doivent être remis en question.
 - Identifier les risques liés à l'utilisation de systèmes d'IA dans la prise de décision.
-- Utiliser un modèle pour analyser un outil pédagogique basé sur l'IA.
+- Utiliser un modèle pour analyser les caractéristiques d'un outil pédagogique basé sur l'IA.
 
 **Ressources pédagogiques** :
 

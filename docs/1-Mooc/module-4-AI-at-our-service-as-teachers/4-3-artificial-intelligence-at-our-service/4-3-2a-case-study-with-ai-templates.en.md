@@ -1,5 +1,5 @@
 ---
-title: "4.3.2 Activity: Case study with AI template"
+title: "4.3.2 Activity: Case study with the AI template"
 description: Use of the AI template to analyse Duolingo for school
 contributor:  Jiajun Pan
               Azim Roussanaly
@@ -24,9 +24,9 @@ Here is the official presentation of Duolingo for Schools on its blog[^1]: "*Duo
 
 ## Some resources that can be used to analyse the AI features of Duolingo for Schools:
 
-1. Duolingo for School (part of the Duolingo Website): [https://schools.duolingo.com/](https://schools.duolingo.com/)
-2. Duolingo for school - Help centre: [https://duolingoschools.zendesk.com/hc/en-us](https://duolingoschools.zendesk.com/hc/en-us)
-3. Duolingo official Website: [https://schools.duolingo.com](https://schools.duolingo.com)
+1. Duolingo for Schools (part of the Duolingo Website): [https://schools.duolingo.com/](https://schools.duolingo.com/)
+2. Duolingo for Schools - Help centre: [https://duolingoschools.zendesk.com/hc/en-us](https://duolingoschools.zendesk.com/hc/en-us)
+3. Duolingo official Website: [https://www.duolingo.com/](https://www.duolingo.com/)
 4. Duolingo blog: [https://blog.duolingo.com](https://blog.duolingo.com)
 5. Duolingo research website (scientific article / data set sharing): [https://research.duolingo.com/](https://research.duolingo.com/)
 
