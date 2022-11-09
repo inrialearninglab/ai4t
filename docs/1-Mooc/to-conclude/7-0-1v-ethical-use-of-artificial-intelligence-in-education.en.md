@@ -22,7 +22,7 @@ In the following video, Alain Thillay, French National Expert in Digital Educati
 Watch the video below (6'14")
 ____________________
 
-<center><iframe width="640" height="360" src="https://www.youtube.com/embed/Gfzvo1bGkyI?rel=0&showinfo=0&cc_load_policy=1&hl=fr&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="640" height="360" src="https://www.youtube.com/embed/VmejJrfcwxU?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
 ____________________
 
 ## Ethical guidelines on the use of AI and data in teaching and learning
