@@ -1,7 +1,7 @@
 ---
 title: "0.1.1 Interview : Les défis de l'IA en éducation"
 description: Interview d'Alain Thillay - l'un des initiateurs du projet
-contributeur: Alain Thillay
+contributor: Alain Thillay
 type: video
 ---
 
