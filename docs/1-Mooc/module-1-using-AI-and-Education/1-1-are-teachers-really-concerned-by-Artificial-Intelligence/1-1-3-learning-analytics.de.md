@@ -1,6 +1,6 @@
 ---
-title: "1.1.3 Video: Ein Spaziergang durch AI - Learning Analytics"
-description: Video 3 Ein Spaziergang durch AI - Learning Analytics
+title: "1.1.3 Video: Ein Spaziergang durch KI - Learning Analytics"
+description: Video 3 Ein Spaziergang durch KI - Learning Analytics
 contributor:  Anne Boyer
               Armelle Brun
               Azim Roussanaly
@@ -8,8 +8,8 @@ contributor:  Anne Boyer
 type: video
 ---
 
-# Ein Spaziergang durch die Künstliche Intelligenz: Learning Analytics
-## Video Nr. 3: Ein Rundgang durch die Künstliche Intelligenz: Learning Analytics
+# Ein Spaziergang durch  KI: Learning Analytics
+## Video Nr. 3: Ein Spaziergang durch KI: Learning Analytics
 *Sehen Sie sich das Video unten an (2'40")*
 
 

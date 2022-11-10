@@ -1,5 +1,5 @@
 ---
-title: "1.1.2 Video: Una passeggiata nell'IA - Guidare gli alunni al successo".
+title: "1.1.2 Video: Una passeggiata attraverso l'IA - Guidare gli alunni al successo".
 description: Video 2 Una passeggiata attraverso l'IA - Guidare gli alunni al successo attraverso l'osservazione dei processi di apprendimento
 contributor:  Anne Boyer
               Armelle Brun
@@ -7,8 +7,8 @@ contributor:  Anne Boyer
               Guilherme Medeiros-Machado
 type: video
 ---
-# A Walk through AI - Guidare gli studenti al successo attraverso l'osservazione dei processi di apprendimento
-## Video n°2: A Walk through AI - Guidare gli alunni al successo attraverso l'osservazione dei processi di apprendimento
+# Una passeggiata attraverso l'IA - Guidare gli studenti al successo attraverso l'osservazione dei processi di apprendimento
+## Video n°2: Una passeggiata attraverso l'IA - Guidare gli alunni al successo attraverso l'osservazione dei processi di apprendimento
 *Guarda il video qui sotto (3'10")*
 
 ----------

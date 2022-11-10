@@ -1,5 +1,5 @@
 ---
-title: 1.3.2 Some AI-based Educational Tools
+title: "1.3.2 Some AI-based Educational Tools"
 description: Discover the functionalities of some tools for experimentation
 ---
 # Some AI-based Educational Tools

@@ -1,5 +1,5 @@
 ---
-title: 2.1.2 Quelle est la définition de l'IA ?
+title: "2.1.2 Quelle est la définition de l'IA ?"
 description: Présenter les diverses définitions de l'IA et de ses domaines
 ---
 # Quelle est la définition de l'IA ?

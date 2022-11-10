@@ -1,5 +1,5 @@
 ---
-title: 1.3.1 Futures of learning by experts in Education
+title: "1.3.1 Futures of learning by experts in Education"
 description: Point out the AI-related challenges in education and core competencies required in the AI era.
 ---
 # Futures of learning by experts in Education

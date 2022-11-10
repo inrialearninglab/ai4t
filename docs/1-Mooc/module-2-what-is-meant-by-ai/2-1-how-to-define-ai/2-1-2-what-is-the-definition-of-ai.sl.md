@@ -1,5 +1,5 @@
 ---
-title: 2.1.2 Kakšna je opredelitev umetne inteligence?
+title: "2.1.2 Kakšna je opredelitev umetne inteligence?"
 description: 2.2.1: Predstavite različne opredelitve umetne inteligence in njenih področij
 ---
 # Kaj je opredelitev umetne inteligence?
@@ -16,7 +16,7 @@ Od takrat se izraz "umetna inteligenca" pogosto uporablja za označevanje algori
 
 Na evropski ravni skupina strokovnjakov na visoki ravni za umetno inteligenco predlaga naslednjo podrobno opredelitev, na katero se običajno sklicujejo dela Evropske komisije[^4]:
 
-*"Sistemi umetne inteligence (UI) so* ***programska oprema*** *(in po možnosti tudi strojna oprema) sistemi, ki so jih zasnovali ljudje in ki ob kompleksnem cilju delujejo v fizični ali digitalni razsežnosti tako, da zaznavajo svoje okolje s pridobivanjem podatkov, razlagajo zbrane strukturirane ali nestrukturirane podatke, utemeljujejo znanje ali obdelujejo informacije, pridobljene iz teh podatkov, in se odločajo o najboljšem(ih) ukrepu(ih) za doseganje danega cilja. Sistemi umetne inteligence lahko uporabljajo simbolna pravila ali se naučijo numeričnega modela, svoje obnašanje pa lahko prilagodijo tudi z analizo, kako na okolje vplivajo njihova prejšnja dejanja. "* [deepl translation] 
+*"Sistemi umetne inteligence (UI) so* ***programska oprema*** *(in po možnosti tudi strojna oprema) sistemi, ki so jih zasnovali ljudje in ki ob kompleksnem cilju delujejo v fizični ali digitalni razsežnosti tako, da zaznavajo svoje okolje s pridobivanjem podatkov, razlagajo zbrane strukturirane ali nestrukturirane podatke, utemeljujejo znanje ali obdelujejo informacije, pridobljene iz teh podatkov, in se odločajo o najboljšem(ih) ukrepu(ih) za doseganje danega cilja. Sistemi umetne inteligence lahko uporabljajo simbolna pravila ali se naučijo numeričnega modela, svoje obnašanje pa lahko prilagodijo tudi z analizo, kako na okolje vplivajo njihova prejšnja dejanja. "* [deepl translation]
 
 Ta opis umetne inteligence je prikazan na naslednji sliki[^3].
 

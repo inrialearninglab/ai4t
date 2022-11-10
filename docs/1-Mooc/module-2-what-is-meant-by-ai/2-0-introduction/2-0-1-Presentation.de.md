@@ -1,5 +1,5 @@
 ---
-title: 2.0.1 Präsentation von Modul 2
+title: "2.0.1 Präsentation von Modul 2"
 description: Jetzt wollen wir sehen, was KI wirklich ist, ihr Potenzial und ihre Grenzen für die Bildung
 ---
 

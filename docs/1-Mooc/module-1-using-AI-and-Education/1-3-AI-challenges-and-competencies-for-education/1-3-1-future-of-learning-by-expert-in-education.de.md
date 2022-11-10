@@ -1,8 +1,8 @@
 ---
-title: 1.3.1 Die Zukunft des Lernens durch Experten im Bildungswesen
+title: "1.3.1 Die Zukunft des Lernens durch Experten im Bildungswesen"
 description: Aufzeigen der KI-bezogenen Herausforderungen im Bildungswesen und der im KI-Zeitalter erforderlichen Kernkompetenzen.
 ---
-# Futures of learning by experts in Education
+# Die Zukunft des Lernens von Experten im Bildungswesen
 ## Künstliche Intelligenz ist bereits im Klassenzimmer
 
 Technologien der Künstlichen Intelligenz (KI) haben das Potenzial, neue Lehr- und Berufspraktiken zum Nutzen von Lehrern und Schülern zu unterstützen. Beispiele für Aktivitäten im Bildungsbereich, die bereits im Klassenzimmer erprobt und durch KI-Technologien unterstützt werden, sind

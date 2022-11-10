@@ -1,5 +1,5 @@
 ---
-title: 1.3.2 Quelques outils pédagogiques basés sur l'IA
+title: "1.3.2 Quelques outils pédagogiques basés sur l'IA"
 description: Découvrez les fonctionnalités de quelques outils pour l'expérimentation.
 ---
 # Quelques outils éducatifs basés sur l'IA

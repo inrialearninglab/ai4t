@@ -1,7 +1,7 @@
 ---
 title: "1.2.1 Aktivität: Konzentrieren Sie sich auf Ihre eigenen KI-Tools"
 description: Hinterfragen wir unsere eigenen KI-Praktiken
-type: Aktivität
+type: activity
 ---
 
 # Aktivität: Konzentrieren wir uns auf Ihre eigenen KI-Tools

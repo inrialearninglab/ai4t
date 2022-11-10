@@ -1,6 +1,6 @@
 ---
 title: "1.1.1 Video: Sprehod skozi umetno inteligenco - učni proces v izobraževanju"
-description: Video 1 Sprehod po umetni inteligenci - učni proces v izobraževanju
+description: Video 1 Sprehod skozi umetno inteligenco - učni proces v izobraževanju
 contributor:  Anne Boyer, avtorica: Anne Boyer
               Armelle Brun
               Azim Roussanaly

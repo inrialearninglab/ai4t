@@ -1,6 +1,6 @@
 ---
-title: "1.1.3 Video: Una passeggiata attraverso l'IA - Apprendimento analitico"
-description: Video 3 Una passeggiata attraverso l'IA - Analisi dell'apprendimento
+title: "1.1.3 Video: Una passeggiata attraverso l'IA - I learning analytics"
+description: Video 3 Una passeggiata attraverso l'IA - I learning analytics
 contributor:  Anne Boyer
               Armelle Brun
               Azim Roussanaly
@@ -8,8 +8,8 @@ contributor:  Anne Boyer
 type: video
 ---
 
-# Una passeggiata nell'Intelligenza Artificiale: Apprendimento analitico
-## Video n°3: Una passeggiata nell'Intelligenza Artificiale: Analisi dell'apprendimento
+# Una passeggiata attraverso l'IA: I learning analytics
+## Video n°3: Una passeggiata attraverso l'IA: I learning analytics
 *Guarda il video qui sotto (2'40")*
 
 

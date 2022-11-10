@@ -1,6 +1,6 @@
 ---
 title: "2.2.1 Video: Kaj je umetna inteligenca?"
-opis:
+description: Uvod v videoposnetek Kaj je umetna inteligenca
 type: video
 ---
 

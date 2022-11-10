@@ -1,7 +1,7 @@
 ---
 title: "2.3.1 Aktivität: Tutorial Testen wir unser erstes Programm"
 description: Ein Tutorium zum Kennenlernen von Bilderkennungsprogrammen, wie man sie trainiert und wie man sie überlisten kann.
-Mitwirkende: magic makers
+contibutor: magic makers
                 inria
                 S24B
                 Klasse'code      

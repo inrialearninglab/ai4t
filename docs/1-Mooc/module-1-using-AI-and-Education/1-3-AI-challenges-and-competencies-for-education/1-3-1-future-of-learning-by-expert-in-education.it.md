@@ -1,5 +1,5 @@
 ---
-title: 1.3.1 Futuro dell'apprendimento da parte di esperti nell'istruzione
+title: "1.3.1 Futuro dell'apprendimento da parte di esperti nell'istruzione"
 description: Indicare le sfide legate all'IA nell'istruzione e le competenze fondamentali richieste nell'era dell'IA.
 ---
 # Futuri dell'apprendimento da parte di esperti nel campo dell'istruzione

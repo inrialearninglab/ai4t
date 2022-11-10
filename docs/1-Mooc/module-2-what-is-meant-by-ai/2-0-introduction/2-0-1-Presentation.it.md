@@ -1,5 +1,5 @@
 ---
-title: 2.0.1 Presentazione del modulo 2
+title: "2.0.1 Presentazione del modulo 2"
 description: Ora vediamo cos'è veramente l'IA, il suo potenziale e i suoi limiti per l'istruzione.
 ---
 

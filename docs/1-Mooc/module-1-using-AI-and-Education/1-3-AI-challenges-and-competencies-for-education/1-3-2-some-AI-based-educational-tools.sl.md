@@ -1,5 +1,5 @@
 ---
-title: 1.3.2 Nekatera izobraževalna orodja, ki temeljijo na umetni inteligenci
+title: "1.3.2 Nekatera izobraževalna orodja, ki temeljijo na umetni inteligenci"
 description: Odkrivajte funkcionalnosti nekaterih orodij za eksperimentiranje.
 ---
 # Nekatera izobraževalna orodja, ki temeljijo na UI

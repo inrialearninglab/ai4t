@@ -1,6 +1,6 @@
 ---
 title: "2.2.1 Video: What is Artificial Intelligence?"
-description:
+description: Introduction of video Who is afraid of AI?
 type: video
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 2.1.2 Was ist die Definition von KI?
+title: "2.1.2 Was ist die Definition von KI?"
 description: Vorstellung der verschiedenen Definitionen von KI und ihrer Bereiche
 ---
 # Was ist die Definition von KI?

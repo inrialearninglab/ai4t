@@ -1,5 +1,5 @@
 ---
-title: 1.3.2 Alcuni strumenti didattici basati sull'intelligenza artificiale
+title: "1.3.2 Alcuni strumenti didattici basati sull'intelligenza artificiale"
 description: Scoprire le funzionalità di alcuni strumenti per la sperimentazione.
 ---
 # Alcuni strumenti didattici basati sull'intelligenza artificiale

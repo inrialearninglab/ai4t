@@ -1,7 +1,7 @@
 ---
 title: "2.3.1 Dejavnost: Preizkusimo naš prvi program"
 description: Učna naloga za odkrivanje programov za prepoznavanje slik, kako jih usposobiti, kako jih prevarati.
-avtor: Magic Makers
+contributor: Magic Makers
                 inria
                 S24B
                 Koda razreda      

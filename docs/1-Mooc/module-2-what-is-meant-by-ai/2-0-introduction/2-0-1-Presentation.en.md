@@ -1,5 +1,5 @@
 ---
-title: 2.0.1 Presentation of Module 2
+title: "2.0.1 Presentation of Module 2"
 description: Now, let's see what is really AI, its potential and limitations for education
 ---
 

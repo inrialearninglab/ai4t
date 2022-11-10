@@ -1,5 +1,5 @@
 ---
-title: 1.3.2 Einige KI-basierte Bildungswerkzeuge
+title: "1.3.2 Einige KI-basierte Bildungswerkzeuge"
 description: Entdecken Sie die Funktionalitäten einiger Werkzeuge zum Experimentieren
 ---
 # Einige KI-basierte Bildungswerkzeuge

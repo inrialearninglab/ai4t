@@ -1,5 +1,5 @@
 ---
-title: 2.1.2 Qual è la definizione di IA?
+title: "2.1.2 Qual è la definizione di IA?"
 description: Presentare le diverse definizioni di IA e dei suoi campi
 ---
 # Qual è la definizione di IA?
@@ -16,7 +16,7 @@ Da allora, l'espressione "intelligenza artificiale" è spesso usata per riferirs
 
 A livello europeo, il gruppo di esperti di alto livello sull'intelligenza artificiale propone la seguente definizione dettagliata, a cui si fa comunemente riferimento nei lavori della Commissione europea[^4]:
 
-*"I sistemi di intelligenza artificiale (IA) sono sistemi* ***software*** *(ed eventualmente anche hardware) progettati dall'uomo che, dato un obiettivo complesso, agiscono nella dimensione fisica o digitale percependo l'ambiente circostante attraverso l'acquisizione di dati, interpretando i dati strutturati o non strutturati raccolti, ragionando sulla conoscenza o elaborando le informazioni derivate da questi dati e decidendo le azioni migliori da intraprendere per raggiungere l'obiettivo dato. I sistemi di intelligenza artificiale possono utilizzare regole simboliche o apprendere un modello numerico, e possono anche adattare il loro comportamento analizzando come l'ambiente è stato influenzato dalle loro azioni precedenti "*. [deepl translation] 
+*"I sistemi di intelligenza artificiale (IA) sono sistemi* ***software*** *(ed eventualmente anche hardware) progettati dall'uomo che, dato un obiettivo complesso, agiscono nella dimensione fisica o digitale percependo l'ambiente circostante attraverso l'acquisizione di dati, interpretando i dati strutturati o non strutturati raccolti, ragionando sulla conoscenza o elaborando le informazioni derivate da questi dati e decidendo le azioni migliori da intraprendere per raggiungere l'obiettivo dato. I sistemi di intelligenza artificiale possono utilizzare regole simboliche o apprendere un modello numerico, e possono anche adattare il loro comportamento analizzando come l'ambiente è stato influenzato dalle loro azioni precedenti "*. [deepl translation]
 
 Questa descrizione dell'IA è rappresentata nella figura seguente[^3].
 

@@ -1,5 +1,5 @@
 ---
-title: 2.0.1 Présentation du module 2
+title: "2.0.1 Présentation du module 2"
 description: Maintenant, voyons ce qu'est réellement l'IA, son potentiel et ses limites pour l'éducation.
 ---
 

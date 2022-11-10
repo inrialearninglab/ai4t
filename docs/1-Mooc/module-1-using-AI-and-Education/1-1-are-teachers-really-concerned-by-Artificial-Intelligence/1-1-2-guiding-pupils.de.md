@@ -1,14 +1,14 @@
 ---
-title: "1.1.2 Video: Ein Spaziergang durch AI - Schüler zum Erfolg führen"
-description: Video 2 A Walk through AI - Schüler durch Beobachtung von Lernprozessen zum Erfolg führen
+title: "1.1.2 Video: Ein Spaziergang durch KI - Schüler zum Erfolg führen"
+description: Video 2 Ein Spaziergang durch KI - Schüler durch Beobachtung von Lernprozessen zum Erfolg führen
 contributor:  Anne Boyer
               Armelle Brun
               Azim Roussanaly
               Guilherme Medeiros-Machado
 type: video
 ---
-# A Walk through AI - Schüler durch die Beobachtung von Lernprozessen zum Erfolg führen
-## Video Nr. 2: Ein Spaziergang durch AI - Schüler durch die Beobachtung von Lernprozessen zum Erfolg führen
+# Ein Spaziergang durch KI - Schüler durch die Beobachtung von Lernprozessen zum Erfolg führen
+## Video Nr. 2: Ein Spaziergang durch KI - Schüler durch die Beobachtung von Lernprozessen zum Erfolg führen
 *Sehen Sie sich das Video unten an (3'10")*
 
 ----------

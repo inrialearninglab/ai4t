@@ -1,6 +1,6 @@
 ---
-title: 1.3.1 Prihodnost učenja s strokovnjaki v izobraževanju
-description: "V okviru projekta je bilo na voljo več informacij o izobraževanju, ki jih je mogoče pridobiti v okviru izobraževanja: Izpostavite izzive v izobraževanju, povezane z umetno inteligenco, in ključne kompetence, ki so potrebne v dobi umetne inteligence."
+title: "1.3.1 Prihodnost učenja s strokovnjaki v izobraževanju"
+description: Izpostavite izzive v izobraževanju, povezane z umetno inteligenco, in ključne kompetence, potrebne v dobi UI
 ---
 
 # Prihodnost učenja po mnenju strokovnjakov s področja izobraževanja

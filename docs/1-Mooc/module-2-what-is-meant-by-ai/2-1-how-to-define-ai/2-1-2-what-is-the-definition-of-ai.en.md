@@ -1,5 +1,5 @@
 ---
-title: 2.1.2 What is the definition of AI?
+title: "2.1.2 What is the definition of AI?"
 description: Present the diverse definitions of AI and its fields
 ---
 # What is the definition of AI?

@@ -1,5 +1,5 @@
 ---
-title: 2.0.1 Predstavitev modula 2
+title: "2.0.1 Predstavitev modula 2"
 description: Zdaj si oglejmo, kaj je v resnici umetna inteligenca, njene možnosti in omejitve za izobraževanje.
 ---
 

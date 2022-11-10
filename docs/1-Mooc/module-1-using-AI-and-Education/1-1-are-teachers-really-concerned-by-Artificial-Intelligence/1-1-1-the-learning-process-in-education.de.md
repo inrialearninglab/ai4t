@@ -1,5 +1,5 @@
 ---
-title: "1.1.1 Video: Ein Spaziergang durch AI - Der Lernprozess in der Bildung"
+title: "1.1.1 Video: Ein Spaziergang durch KI - Der Lernprozess in der Bildung"
 description: Video 1 Ein Spaziergang durch KI - Der Lernprozess in der Bildung
 contributor:  Anne Boyer
               Armelle Brun
@@ -7,7 +7,7 @@ contributor:  Anne Boyer
               Guilherme Medeiros-Machado
 type: video
 ---
-# A Walk through AI - Der Lernprozess in der Bildung
+# Ein Spaziergang durch KI - Der Lernprozess in der Bildung
 ## Einleitung
 
 Es ist mittlerweile allgemein bekannt, dass viele Websites in der Lage sind, einen Film oder ein Produkt auf der Grundlage dessen zu empfehlen, was man zuvor gesehen und gemocht hat. Einige dieser Websites sind auch in der Lage zu sagen, welche Filme wir uns mit unserer Familie und welche mit einer Gruppe von Freunden ansehen können.
@@ -20,9 +20,9 @@ Eine weitere Frage, die wir uns stellen können, ist: *Wäre die Aktivitätsübe
 
 Da viele Erfassungsgeräte und Softwaretools Feedback, Synthese, Vorhersagen, Empfehlungen und Visualisierungen aller durchgeführten Analysen liefern können, um die Aktivitäten in verschiedenen Bereichen zu optimieren. Warum sollte man sich diese technologischen Rahmenbedingungen der künstlichen Intelligenz nicht zunutze machen, um den Bereich der Bildung zu optimieren?
 
-In diesem Zusammenhang schlagen wir **"Ein Spaziergang durch die künstliche Intelligenz" vor, eine Serie von 3 Einführungsvideos**, um diese Fragen zu vertiefen und die Rolle der künstlichen Intelligenz, insbesondere der Learning Analytics, im Bildungsbereich zu erkunden. Learning Analytics ist allgemein definiert als die Beobachtung, Analyse und Visualisierung des digitalen Verhaltens der Lernenden bei ihren Online-Lernaktivitäten.
+In diesem Zusammenhang schlagen wir **"Ein Spaziergang durch KI" vor, eine Serie von 3 Einführungsvideos**, um diese Fragen zu vertiefen und die Rolle der künstlichen Intelligenz, insbesondere der Learning Analytics, im Bildungsbereich zu erkunden. Learning Analytics ist allgemein definiert als die Beobachtung, Analyse und Visualisierung des digitalen Verhaltens der Lernenden bei ihren Online-Lernaktivitäten.
 
-## Video Nr. 1: Ein Spaziergang durch die Künstliche Intelligenz: Der Lernprozess im Bildungswesen
+## Video Nr. 1: Ein Spaziergang durch KI: Der Lernprozess in der Bildung
 
 *Sehen Sie sich das Video unten an (2'50")*
 

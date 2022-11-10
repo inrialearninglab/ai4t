@@ -1,7 +1,7 @@
 ---
 title: "2.3.1 Attività: Esercitazione Testiamo il nostro primo programma".
 description: Un tutorial per scoprire i programmi di riconoscimento delle immagini, come addestrarli e come ingannarli.
-contributore: magic makers
+contributor: magic makers
                 inria
                 S24B
                 Codice della classe      

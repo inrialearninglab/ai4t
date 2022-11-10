@@ -1,6 +1,6 @@
 ---
 title: "2.2.1 Video: Was ist künstliche Intelligenz?"
-description:
+description: Einleitung des Videos Was ist künstliche Intelligenz
 type: video
 ---
 
