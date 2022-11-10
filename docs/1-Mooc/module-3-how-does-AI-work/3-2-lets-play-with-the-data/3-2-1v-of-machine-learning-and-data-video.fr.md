@@ -1,10 +1,10 @@
 ---
-title: "3.2.1 Vidéo : De l'apprentissage automatique et des données"
+title: "3.2.1 Vidéo : L'apprentissage automatique et les données"
 description: Une vidéo spécifiquement dédiée à l'apprentissage automatique avec des points forts sur l'apprentissage automatique, l'apprentissage supervisé et par renforcement, les réseaux neuronaux et l'apprentissage profond.  
 type: video
 ---
 # Vidéo : De l'apprentissage automatique et des données
-Cette vidéo Forth est plus spécifiquement dédiée à l'apprentissage automatique. Elle reste une vidéo généraliste, avec un ton humoristique, qui peut être utilisée en classe.
+Cette vidéo est plus spécifiquement dédiée à l'apprentissage automatique. Elle reste une vidéo généraliste, avec un ton humoristique, et peut être utilisée en classe.
 
 La vidéo propose également un aperçu de certains concepts d'apprentissage automatique sous la forme d'un dessin animé :
 
@@ -16,8 +16,8 @@ La vidéo propose également un aperçu de certains concepts d'apprentissage aut
 
 - Réseaux neuronaux et apprentissage profond : de 3'23" à 5'12".
 
-**Explication**  
-Regardez la vidéo ci-dessous (9'35").
+**Explications ?**  
+_Regardez la vidéo ci-dessous (9'35")._
 
 <center><iframe width="640" height="360" src="https://www.youtube.com/embed/XD6fvv7ldA8?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
 

@@ -10,7 +10,7 @@ Let's see where the subjectivity of an AI comes from and what are the associated
 
 ## The bias in data and in algorithms
 
-As for any digital system, the data used in AI-based platforms come from different sources and have multiple formats. They carry different types of bias[^2]. Data bias is mainly statistical. Let's list a few of them[^3].
+As for any digital system, the data used in AI-based platforms come from different sources and have multiple formats. They carry different types of bias[^2]. Data bias is mainly statistical. Let's list a few of them.
 
 -   **Sample bias** is typically present in data values. For example, this is the case for a recruitment algorithm trained on a database in which men are overrepresented will exclude women.
 
@@ -22,13 +22,13 @@ As for any digital system, the data used in AI-based platforms come from differe
 
 The algorithmic bias is mainly a matter of reasoning. Such bias is introduced by AI engineers deliberately or not.
 
-The previously mentioned European Parliamentary Research Service study gives two concrete examples:   "*Consider a symbolic AI algorithm for examining job applications. It might evaluate candidates by assigning scores only on the basis of their education and experience. Yet, if it fails to take account of factors such as maternity leave or to appropriately recognise education in foreign institutions in ways that human selection committees would, the algorithm might discriminate against women and foreign candidates.*"
+The previously mentioned European Parliamentary Research Service study gives two concrete examples: "*Consider a symbolic AI algorithm for examining job applications. It might evaluate candidates by assigning scores only on the basis of their education and experience. Yet, if it fails to take account of factors such as maternity leave or to appropriately recognise education in foreign institutions in ways that human selection committees would, the algorithm might discriminate against women and foreign candidates.*"
 
 "*Now, consider a similar AI tool within the ML (Machine Learning) paradigm. Such algorithms find their own ways of identifying which kind of candidates were selected in their training data. Where there is a history of structural biases in these selections -- for example racial discrimination -- the algorithm can learn these. Even where data about nationality or ethnicity is removed from the data, ML is adept at finding proxies for underlying patterns in other data such as languages, postcodes or schools that can be good predictors of ethnicity.*"
 
 ## The three facets of algorithmic risk
 
-The algorithmic risk can be characterised in three ways.
+The algorithmic risk can be characterised in three ways[^3].
 
 -   Firstly, there is **algorithmic confinement**, which can also relate to opinions, cultural knowledge or even commercial practices. Indeed, the algorithms confront the Internet user with the same content, depending on his profile and the integrated parameters, despite the respect of the principle of fairness. This is the case on news recommendation sites such as Facebook or product recommendation sites such as Amazon.
 
@@ -55,10 +55,10 @@ EPRS' study concludes with several recommendations when using AI-based applicati
 
 -   Consider what we really want from AI
 
-[^1]: Artificial intelligence: How does it work, why does it matter, and what can we do about it? Panel for the Future of Science and Technology- EPRS/Scientific Foresight Unit- P. Boucher, 2020
+[^1]: [Artificial intelligence: How does it work, why does it matter, and what can we do about it ?](https://www.europarl.europa.eu/thinktank/en/document/EPRS_STU(2020)641547) - Philip Boucher, Scientific Foresight Unit (STOA) - ISBN: 978-92-846-6770-3 - Union Européenne, 2020
 
 [^2]: [Algorithms, Data and Bias: Public Policy Needed](https://www.institutmontaigne.org/en/analysis/algorithms-data-and-bias-public-policy-needed?_wrapper_format=html), Anne Bouverot, Thierry Delaporte, 2019
 
-[^3]: [D'où vient le risque ? Des données et des algorithmes](https://www.lemonde.fr/blog/binaire/2020/02/05/les-plateformes-numeriques-un-foyer-pour-les-risques-donnees-et-algorithmes/) - Serge Abiteboul, Thierry Viéville, 2020
+[^3]: Article in French: [D'où vient le risque ? Des données et des algorithmes](https://www.lemonde.fr/blog/binaire/2020/02/05/les-plateformes-numeriques-un-foyer-pour-les-risques-donnees-et-algorithmes/) - Serge Abiteboul, Thierry Viéville, 2020
 
 [^4]: [Towards a Standard for Identifying and Managing Bias in Artificial Intelligence](https://doi.org/10.6028/NIST.SP.1270) - Reva Schwartz, Apostol Vassilev, Kristen Greene, Lori Perine, Andrew Burt, NIST Special Publication 1270 , 2022

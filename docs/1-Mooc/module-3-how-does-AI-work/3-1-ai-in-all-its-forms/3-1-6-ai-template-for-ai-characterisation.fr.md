@@ -16,16 +16,16 @@ Il est organisé en différentes couches qui couvrent toutes les caractéristiqu
 
 **Vous voulez savoir quelles sont les questions à poser lors de l'utilisation d'outils d'IA en éducation ?**
 
-Cliquez sur l'image ci-dessous et découvrez le format prêt à l'emploi du modèle d'analyse des ressources pédagogiques de l'IA.
+_Cliquez sur l'image ci-dessous et découvrez le format prêt à l'emploi du modèle d'analyse des ressources pédagogiques de l'IA._
 
 <a href="./AI4T-Template_Ready_to_use.pdf" target="_blank"><figure>
   <img src="Images/AI4T-Template-Detective-visual.jpg" alt="A Ready to Use template for AI resources Characterisation"/>
 </figure></a>
 
-Le modèle dans un format prêt à l'emploi [^3] peut également être téléchargé et rempli pour vos propres outils et ressources pédagogiques en IA.
+Le modèle dans un format prêt à l'emploi [^3] peut également être téléchargé et complété pour vos propres outils et ressources pédagogiques en IA.
 
-[^1]: Le Loria (Laboratoire Lorrain de Recherche en Informatique et ses Applications) fait partie d'une unité de recherche (UMR 7503), commune au [CNRS](http://www.cnrs.fr/index.php), à l'[Université de Lorraine](http://vers.univ-lorraine.fr/) et à l'[INRIA](http://www.inria.fr/en/). Elle est membre du consortium AI4T et apporte son expertise en IA en éducation (et sur l'analyse de l'apprentissage) au projet Erasmus+ AI4T.
+[^1]: Le Loria [Laboratoire Lorrain de Recherche en Informatique et ses Applications](https://www.loria.fr) fait partie d'une unité de recherche (UMR 7503), commune au [CNRS](http://www.cnrs.fr), à l'[Université de Lorraine](https://welcome.univ-lorraine.fr/fr/) et à [Inria](http://www.inria.fr/). Il est membre du consortium AI4T et apporte son expertise en IA et éducation ainsi que sur l'analyse de l'apprentissage.
 
-[^2]: [Report on template for analyzing AI-related features in learning resources](./REPORT_ON_THE_TEMPLATE_1.0.pdf) - Jiajun PAN, Azim ROUSSANALY, Anne BOYER - Projet AI4T Erasmus+, 2022.
+[^2]: Document en anglais : [Report on template for analyzing AI-related features in learning resources](./REPORT_ON_THE_TEMPLATE_1.0.pdf) - Jiajun PAN, Azim ROUSSANALY, Anne BOYER - Projet AI4T Erasmus+, 2022.
 
-[^3]: [Modèle prêt à l'emploi pour la caractérisation des ressources en IA](./AI4T-Template_Ready_to_use.pdf) - Inria Learning Lab, Jiajun PAN, Azim ROUSSANALY, Anne BOYER - Projet Erasmus+ AI4T - 2022.
+[^3]: Document en anglais : [Ready to Use template for AI resources Characterisation](./AI4T-Template_Ready_to_use.pdf) - Inria Learning Lab, Jiajun PAN, Azim ROUSSANALY, Anne BOYER - Projet Erasmus+ AI4T - 2022.

@@ -1,7 +1,7 @@
 ---
 title: 3.2.2 What is data?
 description: Get a first understanding of what data is and how it is used in AI.
-contributor: Laurent Romary
+contributor: Laurent Romary, Inria
 ---
 # What is data?
 
@@ -19,11 +19,11 @@ The sustainability of AI systems is thus closely dependent upon the data managem
 
 ## Data for supervised and unsupervised AI system
 
-As we have already seen, AI systems come in two flavors depending on the way data is used to train them. Supervised systems rely on the provision of inputs together with the corresponding intended outputs. The training thus consists in teaching the system to generate the most probable output out of unknown inputs. There can be various ways to obtain such data. For instance, an image database where each image is associated with keywords or a collection of digitized documents which have been transcribed by annotators (cf. figure 1).
+As we have already seen, AI systems come in two flavors depending on the way data is used to train them. Supervised systems rely on the provision of inputs together with the corresponding intended outputs. The training thus consists in teaching the system to generate the most probable output out of unknown inputs. There can be various ways to obtain such data. For instance, an image database where each image is associated with keywords or a collection of digitized documents which have been transcribed by annotators (cf. figure below).
 
 <figure>
 	 <img src="Images/3-2-2-Automatic-transcription-of-a-letter.png" />
-	 <figcaption>Figure 1: Automatic transcription of a letter by Paul D'Estournelles (courtesy of F. Chiffoleau, Coll. Archives de la Sarthe)</figcaption>
+	 <figcaption>Figure: Automatic transcription of a letter by Paul D'Estournelles (courtesy of F. Chiffoleau, Coll. Archives de la Sarthe)</figcaption>
 </figure>
 
 AI systems based on unsupervised training will not be designed for a specific behavior but designed to bear the statistical property of the training data. This is the case for instance of language models such as BERT which tend to associate similar positions in a mathematical space to words having the same syntactic or semantic behavior, observed from the provision of a large number of sample sentences for each word. Such models are for instance very good at predicting synonyms or the follow-up words of a given sequence.
@@ -56,7 +56,7 @@ In the case of complex tasks, where various teams work in parallel on annotating
 
 [^1]: OSCAR corpus: [https://oscar-corpus.com/](https://oscar-corpus.com/)
 
-[^2]: image data resource: [https://idr.openmicroscopy.org/](https://idr.openmicroscopy.org/)
+[^2]: Image data resource: [https://idr.openmicroscopy.org/](https://idr.openmicroscopy.org/)
 
 [^3]: Zenodo: [https://zenodo.org/](https://zenodo.org/)
 

@@ -19,6 +19,6 @@ Plusieurs préoccupations concernant les données éducatives et les application
 
 Et du point de vue du cadre du règlement général sur la protection des données (RGPD) : "*Il convient de préserver un équilibre entre la collecte de données numériques et l'intrusion dans la sphère personnelle de chacun dans le cadre de l'éducation et de la formation.*" [Traduction Deepl]
 
-[^1]: UNESCO ITIE. (2020). L'IA en éducation : Le changement à la vitesse de l'apprentissage. Note d'orientation de l'ITIE-UNESCO. Auteur : Steven Duggan. Rédacteur : Svetlana Knyazeva.
+[^1]: "AI in Education: Change at the Speed of Learning". Note d'orientation en anglais de l'UNESCO-IITE - Auteur : Steven Duggan ; Editeur : Svetlana Knyazeva - ISBN : 978-5-6046449-2-8.
 
-[^2]: Les technologies émergentes et la profession d'enseignant : Ethical and pedagogical considerations based on near-future scenarios- Vuorikari Riina, Punie Yves,Marcelino Cabrera - Joint Research Center report - 2020
+[^2]: "Emerging technologies and the teaching profession: Ethical and pedagogical considerations based on near-future scenarios"- Vuorikari Riina, Punie Yves, Marcelino Cabrera - Rapport en anglais du Joint Research Center - 2020.

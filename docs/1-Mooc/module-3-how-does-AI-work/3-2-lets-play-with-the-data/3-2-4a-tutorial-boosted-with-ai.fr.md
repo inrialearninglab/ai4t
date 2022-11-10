@@ -2,9 +2,9 @@
 title: "3.2.4 Activité : Boosté par l'IA ?"
 description: Expérimentez le fonctionnement de l'apprentissage automatique et de l'entraînement des programmes et testez l'importance de jeux de données correctement préparés.
 contributor:  Magic Makers
-                Inria
-                S24B
-                Code de la classe     
+              Inria
+              S24B
+              Class'Code   
 type: activity
 ---
 
@@ -20,8 +20,8 @@ Dans ce tutoriel sont insérées 7 vidéos pédagogiques très courtes qui rende
 - Téléchargez le [jeu d'images de William Shakespear](Images/Images-set-of-William-Shakespear.zip).
 
 
-**C'est votre tour!**  
-Cliquez sur l'image ci-dessous et laissez-nous vous guider !
+**À votre tour!**
+_Cliquez sur l'image ci-dessous et laissez-nous vous guider !_
 
 <a href="https://pixees.fr/classcodeiai/app/tuto2?lang=en" target="_blank"><figure>
   <img src="Images/IA-M.2.1.2.png" />
