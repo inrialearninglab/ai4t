@@ -5,7 +5,7 @@ contributor:  Anne Boyer
               Armelle Brun
               Azim Roussanaly
               Guilherme Medeiros-Machado
-type: Video
+type: video
 ---
 # A Walk through AI - Schüler durch die Beobachtung von Lernprozessen zum Erfolg führen
 ## Video Nr. 2: Ein Spaziergang durch AI - Schüler durch die Beobachtung von Lernprozessen zum Erfolg führen

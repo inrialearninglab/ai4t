@@ -5,7 +5,7 @@ contributor:  Anne Boyer
               Armelle Brun
               Azim Roussanaly
               Guilherme Medeiros-Machado
-type: Video
+type: video
 ---
 # A Walk through AI - Der Lernprozess in der Bildung
 ## Einleitung

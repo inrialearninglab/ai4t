@@ -2,7 +2,7 @@
 title: "0.1.1 Intervju: Izzivi umetne inteligence v izobraževanju"
 description: Alain Thillay Intervju - eden od pobudnikov projekta
 contributor: Alain Thillay
-type: videoposnetek
+type: video
 ---
 
 # Video: Zakaj to usposabljanje?

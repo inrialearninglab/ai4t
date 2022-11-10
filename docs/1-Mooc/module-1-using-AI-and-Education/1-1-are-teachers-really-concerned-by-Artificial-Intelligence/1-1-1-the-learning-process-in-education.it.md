@@ -1,5 +1,5 @@
 ---
-title: "1.1.1 Video: Una passeggiata attraverso l'intelligenza artificiale - Il processo di apprendimento nell'istruzione".
+title: "1.1.1 Video: Una passeggiata attraverso l'intelligenza artificiale - Il processo di apprendimento nell'istruzione"
 description: Video 1 Una passeggiata attraverso l'IA - Il processo di apprendimento nell'educazione
 contributor:  Anne Boyer
               Armelle Brun

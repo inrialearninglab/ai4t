@@ -5,7 +5,7 @@ contributor:  Anne Boyer
               Armelle Brun
               Azim Roussanaly
               Guilherme Medeiros-Machado
-type: Video
+type: video
 ---
 
 # Ein Spaziergang durch die Künstliche Intelligenz: Learning Analytics

@@ -1,7 +1,7 @@
 ---
 title: "1.2.1 Dejavnost: Osredotočimo se na lastna orodja umetne inteligence"
 description: Dvignite vprašanja o naših lastnih praksah umetne inteligence
-type: dejavnost
+type: activity
 ---
 
 # Dejavnost: Osredotočimo se na lastna orodja umetne inteligence

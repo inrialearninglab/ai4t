@@ -1,6 +1,6 @@
 ---
-title:  Vodenje učencev do uspeha"
-description: 1.1.1.1. Video 2: Sprehod po UI - vodenje učencev do uspeha z opazovanjem učnih procesov
+title:  "Vodenje učencev do uspeha"
+description: Video 2 Sprehod po UI - vodenje učencev do uspeha z opazovanjem učnih procesov
 contributor:   Anne Boyer
               Armelle Brun
               Azim Roussanaly

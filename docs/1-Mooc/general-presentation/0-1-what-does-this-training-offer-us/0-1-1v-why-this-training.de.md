@@ -2,7 +2,7 @@
 title: "0.1.1 Interview: Herausforderungen der KI im Bildungswesen"
 description: Alain Thillay Interview - einer der Initiatoren des Projekts
 contributor: Alain Thillay
-Typ: Video
+type: video
 ---
 
 # Video: Warum diese Fortbildung?

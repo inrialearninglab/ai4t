@@ -1,6 +1,6 @@
 ---
 title:  1.3.1: Sprehod skozi umetno inteligenco - analitika učenja"
-description: 1.1.1. Video: Sprehod skozi umetno inteligenco - učna analitika.
+description: Video 3 Sprehod skozi umetno inteligenco - učna analitika.
 contributor:  Anne Boyer
               Armelle Brun
               Azim Roussanaly
