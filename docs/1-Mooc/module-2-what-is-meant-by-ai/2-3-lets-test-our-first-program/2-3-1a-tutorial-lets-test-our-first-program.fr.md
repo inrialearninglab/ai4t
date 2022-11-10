@@ -18,7 +18,7 @@ Comprenant 7 vidéos pédagogiques très courtes, le tutoriel peut être utilis�
 Allez-y et entrainez une IA !
 
 **Comment fonctionne un programme d'IA ?**
-Cliquez sur l'image ci-dessous et laissez-vous guider !
+_Cliquez sur l'image ci-dessous et laissez-vous guider !_
 
 <a href="https://pixees.fr/classcodeiai/app/tuto1?lang=en" target="_blank"><figure>
   <img src="Images/Tuto-M1-FirstProgram.png" />

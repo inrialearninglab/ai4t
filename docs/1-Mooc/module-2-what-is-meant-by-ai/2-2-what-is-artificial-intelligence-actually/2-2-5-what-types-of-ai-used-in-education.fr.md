@@ -8,7 +8,7 @@ Parmi les classifications possibles des domaines scientifiques de l'IA, le table
 <figure>
   <img src="Images/AI-Taxonomy-Samoli-al-2021.png" alt="Image of AI Taxonomy"/>  
 </figure>
-Figure : Taxonomie de l'IA - domaines et sous-domaines scientifiques de l'IA (d'après Samoili &amp; al., 2021 JRC report[^1]).
+_Figure : Taxonomie de l'IA - domaines et sous-domaines scientifiques de l'IA (d'après Samoili &amp; al., 2021 JRC report[^1])._
 
 Voyons quelles techniques d'IA sont utilisées dans les applications orientées éducation basées sur l'IA proposées par Holmes &amp; al. en 2019[^2].
 <figure>
