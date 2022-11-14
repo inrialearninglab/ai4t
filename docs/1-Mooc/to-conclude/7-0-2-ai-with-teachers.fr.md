@@ -49,6 +49,7 @@ Lors de la préparation du manuel, les auteurs ont constaté qu'il y avait telle
 #### Ressources et bibliographie
 
 Nous espérons que vous apprécierez cette lecture.  
+
 - Lien d'accès au manuel: https://ai4t.eu/book/
 - Login : chaireunescorelia@univ-nantes.fr
 - Mot de passe : 12345

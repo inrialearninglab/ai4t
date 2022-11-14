@@ -51,5 +51,6 @@ When preparing the textbook the authors found that there was so much beyond the 
 We hope you enjoy the reading.
 
 Here is the link to the textbook: https://ai4t.eu/book/
+
 - sign in Name: chaireunescorelia@univ-nantes.fr
 - password: _12345_.

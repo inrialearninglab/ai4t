@@ -8,6 +8,7 @@ type: video
 # Video: Introduction to Ethical Concerns of AI Use in Education
 
 In the following video, Alain Thillay, French National Expert in Digital Education, presents the challenges and ethical concerns of learning with AI at the European level:
+
 - Define a common approach and, at the same time, be able to adapt it to the variety of education systems and to the priorities set by the Member States;
 - Ensure an ethical and reasoned approach, experimenting and analysing the areas, contexts and use cases in which the use of AI in learning or in educational pathways is relevant and brings improvement in the classroom, in the school or at the different levels of organisation and construction of educational paths;
 - Develop the professional practice of teachers and school leaders that enables them to analyse the relevance of AI feedback and recommendations and then decide on learning strategies in which they can take account of these analyses and suggestions - or not.
