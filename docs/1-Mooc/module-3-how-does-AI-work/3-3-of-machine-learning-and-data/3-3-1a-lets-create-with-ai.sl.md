@@ -11,7 +11,7 @@ type: activity
 ## Odkrivanje umetne inteligence: umetna inteligenca ali človek?
 
 Naslednja dejavnost je namenjena ugotavljanju, ali je slika resnična ali jo je ustvarila umetna inteligenca. Ta eksperimentalna dejavnost je uvod v razumevanje GAN (Generative Adversarial Networks). Predlaga razlikovanje pravih portretov od portretov, ustvarjenih z GAN.
-* Vir slik iz GAN: https://thispersondoesnotexist.com*
+*Vir slik iz GAN: https://thispersondoesnotexist.com*
 *Izvir slik resničnih oseb: https://pixabay.com/en/*
 
 To vodilo se lahko uporablja v učilnici.

@@ -1,6 +1,7 @@
 ---
 title: "3.1.3 Activité : Classification des types d'IA"
 description: Identifier les types d'IA et comment ils sont liés les uns aux autres.
+type: activity
 ---
 
 # Activité : Classification des types d'IA  

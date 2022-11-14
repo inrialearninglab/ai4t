@@ -1,6 +1,7 @@
 ---
 title: "3.1.3 Tätigkeit: Klassifizierung von KI-Typen"
-description: Identifizierung von KI-Typen und deren Beziehung zueinander
+description: Identifizierung von KI-Typen und deren Beziehung zueinander.
+type: activity
 ---
 
 # Aktivität: Klassifizierung von KI-Typen  

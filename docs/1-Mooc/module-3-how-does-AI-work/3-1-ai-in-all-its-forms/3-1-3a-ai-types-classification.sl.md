@@ -1,6 +1,7 @@
 ---
 title: "3.1.3 Dejavnost: Razvrstitev tipov umetne inteligence"
 description: Opredelite vrste umetne inteligence in njihovo medsebojno povezanost.
+type: activity
 ---
 
 # Dejavnost: Razvrstitev tipov umetne inteligence  
