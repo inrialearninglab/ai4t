@@ -1,5 +1,5 @@
 ---
-title: "To Go Further: AI with Teachers textbook"
+title: "To Go Further: AI for Teachers - on open textbook"
 description: Presentation and access to the textbook - Colin de la Higuera, Jotsna Iyer
 contributor:   Colin de la Higuera
                 Jotsna Iyer
