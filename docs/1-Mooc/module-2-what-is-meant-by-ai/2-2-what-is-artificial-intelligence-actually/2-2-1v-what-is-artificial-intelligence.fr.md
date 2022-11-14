@@ -1,6 +1,6 @@
 ---
 title: "2.2.1 Vidéo : Qu'est-ce que l'intelligence artificielle ?"
-description: Introduction de la vidéo : Qu'est-ce que l'intelligence artificielle ? 
+description: "Introduction de la vidéo : Qu'est-ce que l'intelligence artificielle ?"
 type: video
 ---
 
