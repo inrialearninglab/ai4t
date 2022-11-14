@@ -24,7 +24,7 @@ In diesem Zusammenhang schlagen wir **"Ein Spaziergang durch KI" vor, eine Serie
 
 ## Video Nr. 1: Ein Spaziergang durch KI: Der Lernprozess in der Bildung
 
-*Sehen Sie sich das Video unten an (2'50")*
+_Sehen Sie sich das Video unten an (2'50")_
 
 ----------
 

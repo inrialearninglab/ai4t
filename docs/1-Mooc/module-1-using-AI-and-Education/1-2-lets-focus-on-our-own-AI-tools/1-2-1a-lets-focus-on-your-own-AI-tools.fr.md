@@ -9,7 +9,7 @@ type: activity
 L'intelligence artificielle a le potentiel de fournir aux enseignants et aux apprenants des outils pour aider, soutenir et faciliter l'apprentissage.
 
 **Utilisez-vous déjà certains de ces outils dans votre environnement professionnel ?**
-Cliquez sur l'image ci-dessous pour le savoir !
+_Cliquez sur l'image ci-dessous pour le savoir !_
 
 <center><iframe width="860" height="540" src="1-2-1-activity-AI-based-tools/story.html" frameborder="0" allowfullscreen></iframe></center>
 

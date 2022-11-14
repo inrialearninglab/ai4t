@@ -20,7 +20,7 @@ Alain Thillay, francoski nacionalni strokovnjak za digitalno izobraževanje, v n
 *Zdaj se ukvarja z izvajanjem načrta za digitalno izobraževanje za obdobje 2021-2027 (DEAP) v podporo digitalnemu prehodu in inovacijam v izobraževanju.*
 
 ## Etična uporaba umetne inteligence v izobraževanju: Evropski izzivi  
-Oglejte si spodnji videoposnetek (6'14")
+_Oglejte si spodnji videoposnetek (6'14")_
 ____________________
 
 <center><iframe width="640" height="360" src="https://www.youtube.com/embed/VmejJrfcwxU?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>

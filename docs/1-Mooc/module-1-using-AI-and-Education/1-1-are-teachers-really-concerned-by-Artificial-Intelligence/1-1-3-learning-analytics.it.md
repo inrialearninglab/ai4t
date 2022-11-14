@@ -10,7 +10,7 @@ type: video
 
 # Una passeggiata attraverso l'IA: I learning analytics
 ## Video n°3: Una passeggiata attraverso l'IA: I learning analytics
-*Guarda il video qui sotto (2'40")*
+_Guarda il video qui sotto (2'40")_
 
 
 ----------

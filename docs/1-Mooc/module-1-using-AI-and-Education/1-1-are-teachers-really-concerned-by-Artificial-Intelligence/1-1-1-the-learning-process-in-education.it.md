@@ -24,7 +24,7 @@ In questo contesto, proponiamo **"A walk through Artificial Intelligence", una s
 
 ## Video n°1: Una passeggiata nell'Intelligenza Artificiale: Il processo di apprendimento nell'istruzione
 
-*Guarda il video qui sotto (2'50")*
+_Guarda il video qui sotto (2'50")_
 
 ----------
 

@@ -7,7 +7,7 @@ description: V tem poglavju se seznanite s področji zunaj izobraževanja, kjer 
 Ko gre za pomoč pri sprejemanju odločitev, sta dve področji, ki že imata zgodovino uporabe umetne inteligence v pravu in medicini.  
 Glede na pomembnost odločitev, ki se sprejemajo na teh področjih, sta to zanimiva primera.
 
-## UI in medicina
+## UI in Medicina
 
 "*I je dejansko v središču medicine prihodnosti z asistiranimi operacijami, spremljanjem bolnikov na daljavo, inteligentnimi protezami ali celo personaliziranim zdravljenjem zaradi navzkrižnega povezovanja podatkov (bigdata)*." [deepl translation] [^1]
 
@@ -20,7 +20,7 @@ Danes je eno od pomembnih področij uporabe strojnega učenja v medicinske namen
 
 "*Strojno učenje je veja umetne inteligence (UI). Na kratko povedano, gre za to, da se programski opremi posreduje na tisoče primerov, tako da se nauči izvajati naloge prepoznavanja, npr. pregledovanje slik za prepoznavanje psov ali mačk. lepotnih madežev ali malignih melanomov. Teoretično naj bi to omogočilo široko paleto aplikacij v medicini. Na primer, rentgenske slike se zbirajo od tisočih bolnikov, ki trpijo za isto boleznijo - kar imenujemo kohorta. Nato bo računalnik na podlagi teh podatkov strojnega učenja zaznal enake vizualne značilnosti na vseh novih posnetkih, posnetih med pregledom drugih posameznikov. To postanejo ciljni podatki*." [deepl translation] [^4]
 
-## Umetna inteligenca in pravosodje
+## UI in Pravosodje
 
 Na področju pravosodja sta opredeljeni dve glavni uporabi sistemov umetne inteligence.
 

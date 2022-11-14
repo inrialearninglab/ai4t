@@ -20,7 +20,7 @@ Im folgenden Video stellt Alain Thillay, französischer Nationaler Experte für 
 *Jetzt arbeitet er an der Umsetzung des Plans für digitale Bildung 2021-2027 (DEAP), um den digitalen Wandel und die Innovation im Bildungswesen zu unterstützen.*
 
 ## Ethischer Einsatz von künstlicher Intelligenz in der Bildung: Europäische Herausforderungen  
-Sehen Sie sich das folgende Video an (6'14")
+_Sehen Sie sich das folgende Video an (6'14")_
 ____________________
 
 <center><iframe width="640" height="360" src="https://www.youtube.com/embed/VmejJrfcwxU?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>

@@ -10,7 +10,7 @@ type: video
 
 # Ein Spaziergang durch  KI: Learning Analytics
 ## Video Nr. 3: Ein Spaziergang durch KI: Learning Analytics
-*Sehen Sie sich das Video unten an (2'40")*
+_Sehen Sie sich das Video unten an (2'40")_
 
 
 ----------

@@ -20,7 +20,7 @@ Aujourd'hui, un domaine important de l'utilisation de l'apprentissage automatiqu
 
 "*Le machine learning est l'une des branches de l'intelligence artificielle (IA). On le traduit en français par apprentissage automatique. En résumant à l'extrême, la technique consiste à nourrir le logiciel de milliers d'exemples pour qu'il apprenne à effectuer des tâches de classement. Par exemple, dans des images, savoir trouver des chiens ou des chats. Des grains de beauté ou des mélanomes malins. En théorie, cela ouvre un boulevard d'applications pour la médecine. On collecte par exemple les radiographies de milliers de patients souffrant de la même maladie dans ce qu'on appelle une cohorte. Puis, grâce à ces données d'apprentissage, l'ordinateur va ensuite détecter les mêmes caractéristiques visuelles dans de nouvelles images prises lors de dépistage chez d'autres personnes. Ce sont alors les données cibles*." [Traduction Deepl] [^4]
 
-## AI et justice
+## AI et Justice
 
 Dans le domaine de la justice, deux utilisations principales des systèmes d'IA sont identifiées.
 

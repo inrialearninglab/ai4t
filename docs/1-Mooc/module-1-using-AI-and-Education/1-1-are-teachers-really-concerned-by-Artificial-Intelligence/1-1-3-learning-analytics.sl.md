@@ -10,7 +10,7 @@ type: video
 
 # Sprehod skozi umetno inteligenco: Učna analitika
 ## Video št. 3: Sprehod skozi umetni inteligenco: Učna analitika
-*Glejte spodnji videoposnetek (2'40")*
+_Glejte spodnji videoposnetek (2'40")_
 
 
 ----------

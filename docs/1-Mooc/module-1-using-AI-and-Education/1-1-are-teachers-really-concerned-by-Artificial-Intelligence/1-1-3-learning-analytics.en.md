@@ -10,7 +10,7 @@ type: video
 
 # A walk through Artificial Intelligence: Learning Analytics
 ## Video n°3: A walk through Artificial Intelligence: Learning Analytics
-*Watch the video below (2'40")*
+_Watch the video below (2'40")_
 
 
 ----------

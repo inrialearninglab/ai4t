@@ -7,7 +7,7 @@ contributor:  Jiajun Pan
 type: activity
 ---
 
-# Activité : Étude de cas avec le modèle AI pour analyser Duolingo pour l'école
+# Activité : Étude de cas avec le modèle AI pour analyser Duolingo for Schools
 
 Le consortium AI4T a identifié "*Duolingo for Schools*" comme un outil d'IA pertinent à expérimenter par les enseignants pendant le projet.
 

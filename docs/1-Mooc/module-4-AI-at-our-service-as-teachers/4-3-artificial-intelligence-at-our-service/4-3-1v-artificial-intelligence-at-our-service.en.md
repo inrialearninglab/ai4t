@@ -13,7 +13,7 @@ The video also provides an overview on the notion of "explainability" in the for
 Designed with a humorous tone, the video can bee used in the classroom.
 
 ## Artificial Intelligence at our Service?  
-Watch the video below (4'36")
+_Watch the video below (4'36")_
 
 <center><iframe width="640" height="360" src="https://www.youtube.com/embed/b3ljE6erMkY?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
 

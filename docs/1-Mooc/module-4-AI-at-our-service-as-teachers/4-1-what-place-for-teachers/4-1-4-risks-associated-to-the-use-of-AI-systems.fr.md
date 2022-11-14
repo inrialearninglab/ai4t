@@ -53,6 +53,6 @@ Les systèmes d'IA utilisés dans le domaine de l'éducation doivent être digne
 
 - et **Agence humaine et surveillance** : "*Les systèmes d'IA devraient donner du pouvoir aux êtres humains, en leur permettant de prendre des décisions éclairées et en favorisant leurs droits fondamentaux. Dans le même temps, des mécanismes de surveillance appropriés doivent être mis en place, ce qui peut être réalisé par des approches de type "humain dans la boucle", "humain sur la boucle" et "humain au commandement*" [Traduction Deepl].
 
-[^1]: [Établissement de règles harmonisées en matière d'intelligence artificielle] (https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonised-rules-artificial-intelligence) (Loi sur l'intelligence artificielle) et modifiant certains actes législatifs de l'Union - Proposition de cadre réglementaire sur l'intelligence artificielle, Commission européenne - 2021
+[^1]: [Laying down Harmonised Rules on Artificial Intelligence (Artificial Intelligence Act) and Amending certain Union Legislatives Acts"] (https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonised-rules-artificial-intelligence) - Proposition de cadre réglementaire sur l'intelligence artificielle, Commission européenne - 2021
 
 [^2]: [Lignes directrices en matière d'éthique pour une IA digne de confiance](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai), Commission européenne, Groupe d'experts de haut niveau sur l'IA - 2019.

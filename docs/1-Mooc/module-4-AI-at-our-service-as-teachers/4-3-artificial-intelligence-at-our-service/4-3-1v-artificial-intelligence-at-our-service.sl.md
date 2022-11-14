@@ -13,7 +13,7 @@ Videoposnetek vsebuje tudi pregled pojma "razložljivost" v obliki risanke (od 3
 Videoposnetek je zasnovan v humornem tonu, zato ga je mogoče uporabiti v razredu.
 
 ## Umetna inteligenca v naše storitve?  
-Oglejte si spodnji videoposnetek (4'36")
+_Oglejte si spodnji videoposnetek (4'36")_
 
 <center><iframe width="640" height="360" src="https://www.youtube.com/embed/b3ljE6erMkY?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
 

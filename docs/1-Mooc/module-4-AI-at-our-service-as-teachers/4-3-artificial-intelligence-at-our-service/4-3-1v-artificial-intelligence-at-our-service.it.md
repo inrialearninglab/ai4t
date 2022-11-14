@@ -13,7 +13,7 @@ Il video fornisce anche una panoramica sulla nozione di "spiegabilità" sotto fo
 Progettato con un tono umoristico, il video può essere utilizzato in classe.
 
 ## L'intelligenza artificiale al nostro servizio?  
-Guarda il video qui sotto (4'36")
+_Guarda il video qui sotto (4'36")_
 
 <center><iframe width="640" height="360" src="https://www.youtube.com/embed/b3ljE6erMkY?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
 

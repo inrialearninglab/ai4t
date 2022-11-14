@@ -20,7 +20,7 @@ Nel video che segue, Alain Thillay, esperto nazionale francese di educazione dig
 *Si sta occupando dell'attuazione del Piano per l'istruzione digitale 2021-2027 (DEAP) per sostenere la transizione digitale e l'innovazione nell'istruzione.*
 
 ## Uso etico dell'intelligenza artificiale nell'istruzione: Sfide europee  
-Guarda il video qui sotto (6'14")
+_Guarda il video qui sotto (6'14")_
 ____________________
 
 <center><iframe width="640" height="360" src="https://www.youtube.com/embed/VmejJrfcwxU?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>

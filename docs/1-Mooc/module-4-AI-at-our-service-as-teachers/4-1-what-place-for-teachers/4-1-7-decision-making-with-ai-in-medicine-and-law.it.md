@@ -20,7 +20,7 @@ Oggi, un importante campo di utilizzo dell'apprendimento automatico per scopi me
 
 "*L'apprendimento automatico è una branca dell'intelligenza artificiale (AI). In poche parole, consiste nel fornire al software migliaia di esempi in modo che impari a svolgere compiti di identificazione, ad esempio guardando le immagini per identificare cani o gatti. Macchie di bellezza o melanomi maligni. In teoria, questo dovrebbe aprire una vasta gamma di applicazioni in medicina. Ad esempio, si raccolgono le radiografie di migliaia di pazienti affetti dalla stessa patologia - la cosiddetta coorte. Quindi, utilizzando questi dati di apprendimento automatico, il computer rileverà le stesse caratteristiche visive in tutte le nuove immagini scattate durante lo screening di altri individui. Questi diventano i dati target*" [deepl translation] [^4].
 
-## IA e giustizia
+## IA e Giustizia
 
 Nel campo della giustizia, sono stati identificati due usi principali dei sistemi di IA.
 

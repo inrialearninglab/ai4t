@@ -20,7 +20,7 @@ In the following video, Alain Thillay, French National Expert in Digital Educati
 *He is now working on the implementation of the Digital Education Plan 2021-2027 (DEAP) to support the digital transition and innovation in education.*
 
 ## Ethical Use of Artificial Intelligence in Education: European Challenges  
-Watch the video below (6'14")
+_Watch the video below (6'14")_
 ____________________
 
 <center><iframe width="640" height="360" src="https://www.youtube.com/embed/VmejJrfcwxU?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>

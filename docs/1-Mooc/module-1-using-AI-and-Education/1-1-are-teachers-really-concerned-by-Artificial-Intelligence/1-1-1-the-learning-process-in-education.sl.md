@@ -24,7 +24,7 @@ V tem okviru predlagamo **"Sprehod skozi umetno inteligenco", serijo treh uvodni
 
 ## Video št. 1: Sprehod skozi umetno inteligenco: Učni proces v izobraževanju
 
-*Glejte spodnji videoposnetek (2'50")*
+_Glejte spodnji videoposnetek (2'50")_
 
 ----------
 

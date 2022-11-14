@@ -24,7 +24,7 @@ Dans ce contexte, nous proposons **"Une promenade en Intelligence artificielle",
 
 ## Vidéo n°1 : Une promenade à travers l'intelligence artificielle : Le processus d'apprentissage en éducation
 
-*Voir la vidéo ci-dessous (2'50")*
+_Voir la vidéo ci-dessous (2'50")_
 
 ----------
 
