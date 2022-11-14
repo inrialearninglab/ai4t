@@ -1,10 +1,10 @@
 ---
-title: "Manuel : l'IA avec les enseignants"
-description : Présentation et accès au manuel "l'IA avec les enseignants".
+title: "IA pour les enseignants : un manuel ouvert"
+description : Présentation et accès au manuel ouvert " L'IA pour les enseignants".
 contributor:  Colin de la Higuera
               Jotsna Iyer
 ---
-# L'IA avec les enseignants
+# L'IA pour les enseignants
 
 Vous parcourez la formation en ligne ou bien vous l'avez terminée et avez compris en quoi l'IA est utile pour l'éducation. Peut-être est-ce suffisant pour vous ou, peut-être, avez-vous encore plus de questions maintenant.
 
@@ -15,7 +15,7 @@ Vous avez peut-être compris que les conséquences de l'IA en éducation vont bi
 Si ce sont quelques-unes des questions que vous aimeriez voir abordées, venez explorer le manuel "l'IA avec les enseignants" préparé par l'équipe AI4T.  
 Mais ne soyez pas déçu si, une fois de plus, vous vous retrouvez avec encore plus de questions ! Si vous avez le sentiment d'avoir mieux compris vos questions, nous pensons que nous aurons réussi quelque chose.
 
-## Le Manuel "l'IA avec les enseignants"
+## Le Manuel "l'IA pour les enseignants"
 
 L'objectif du manuel "l'IA avec les enseignants est de faire un pas de plus pour la sensibilisation des enseignants à l'IA et à son rôle dans votre classe : de toutes les bonnes choses qu'elle pourrait faire, de l'impact qu'elle aura probablement et, tout aussi important, de la prudence dont nous devons faire preuve.
 
