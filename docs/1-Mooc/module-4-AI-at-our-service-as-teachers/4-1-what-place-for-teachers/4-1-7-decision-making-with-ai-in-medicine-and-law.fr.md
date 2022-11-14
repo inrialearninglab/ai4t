@@ -9,7 +9,7 @@ Compte tenu de l'importance des décisions prises dans ces domaines, ce sont des
 
 ## AI et médecine
 
-"*L’IA est en effet au cœur de la médecine du futur avec les opérations assistées, le suivi des patients à distance, les prothèses intelligentes, ou encore les traitements personnalisés grâce au recoupement de données (big data)*." [^1]
+"*L’IA est en effet au cœur de la médecine du futur avec les opérations assistées, le suivi des patients à distance, les prothèses intelligentes, ou encore les traitements personnalisés grâce au recoupement de données (big data)*." [Traduction Deepl] [^1]
 
 Il y a une cinquantaine d'années, c'est dans le domaine du diagnostic qu'a été développé l'un des systèmes experts les plus connus : MYCIN.  
 "*C'était un des premiers systèmes experts qui utilisait l'intelligence artificielle pour identifier les bactéries responsables d'infections graves, telles que la bactériémie et la méningite, et pour recommander des antibiotiques, dont la dose était ajustée en fonction du poids corporel du patient*" [Traduction Deepl] [^2].
@@ -18,7 +18,7 @@ Développé à partir de 1972, MYCIN a été capable, 6 ans plus tard, de surpas
 
 Aujourd'hui, un domaine important de l'utilisation de l'apprentissage automatique à des fins médicales est l'analyse d'images pour les diagnostics médicaux [^3]. En quelques mots, voyons comment cela fonctionne, comme l'explique Gaël Varoquaux, chercheur Inria en IA :
 
-"*Le machine learning est l'une des branches de l'intelligence artificielle (IA). On le traduit en français par apprentissage automatique. En résumant à l'extrême, la technique consiste à nourrir le logiciel de milliers d'exemples pour qu'il apprenne à effectuer des tâches de classement. Par exemple, dans des images, savoir trouver des chiens ou des chats. Des grains de beauté ou des mélanomes malins. En théorie, cela ouvre un boulevard d'applications pour la médecine. On collecte par exemple les radiographies de milliers de patients souffrant de la même maladie dans ce qu'on appelle une cohorte. Puis, grâce à ces données d'apprentissage, l'ordinateur va ensuite détecter les mêmes caractéristiques visuelles dans de nouvelles images prises lors de dépistage chez d'autres personnes. Ce sont alors les données cibles*." [^4]
+"*Le machine learning est l'une des branches de l'intelligence artificielle (IA). On le traduit en français par apprentissage automatique. En résumant à l'extrême, la technique consiste à nourrir le logiciel de milliers d'exemples pour qu'il apprenne à effectuer des tâches de classement. Par exemple, dans des images, savoir trouver des chiens ou des chats. Des grains de beauté ou des mélanomes malins. En théorie, cela ouvre un boulevard d'applications pour la médecine. On collecte par exemple les radiographies de milliers de patients souffrant de la même maladie dans ce qu'on appelle une cohorte. Puis, grâce à ces données d'apprentissage, l'ordinateur va ensuite détecter les mêmes caractéristiques visuelles dans de nouvelles images prises lors de dépistage chez d'autres personnes. Ce sont alors les données cibles*." [Traduction Deepl] [^4]
 
 ## AI et justice
 

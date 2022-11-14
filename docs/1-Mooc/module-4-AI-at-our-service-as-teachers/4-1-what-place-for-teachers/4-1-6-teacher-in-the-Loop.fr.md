@@ -21,7 +21,7 @@ Cliquez sur l'image ci-dessous pour aller plus loin sur le modèle "Enseignant d
 <a href="https://view.genial.ly/6336f61021d012001891e5f2" target="_blank">
 <figure>
   <img src="Images/Teacher-in-the-Loop.jpeg" alt="Teacher in the Loop Model representation" />
-  <figcaption>Figure 1: Different degrees of human oversight when dealing with autonomous decision-making in Education and Training. (Adapted from "Emerging technologies and the teaching profession" report).</figcaption>
+  <figcaption>Figure 1 : Différents degrés de contrôle humain lorsqu'il s'agit de prise de décision autonome dans l'enseignement et la formation. (Adapté du rapport "Emerging technologies and the teaching profession").</figcaption>
 </figure></a>  
 
 [^1]: Document en anglais ["Emerging technologies and the teaching profession: Ethical and pedagogical considerations based on near-future scenarios"](https://publications.jrc.ec.europa.eu/repository/handle/JRC120183) - Vuorikari Riina, Punie Yves, Marcelino Cabrera - Rapport du Joint Research Center - Commission Européenne 2020.

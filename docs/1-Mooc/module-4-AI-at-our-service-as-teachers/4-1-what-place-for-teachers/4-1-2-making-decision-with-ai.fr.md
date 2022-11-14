@@ -12,7 +12,7 @@ Afin de mieux comprendre comment l'IA peut transformer la façon dont les décis
 
 - **Dans l'automatisation des décisions,** le **système prend la décision** en utilisant l'analytique prescriptive ou l'analytique prédictive. Ses avantages sont la rapidité, l'évolutivité et la cohérence de la prise de décision.
 
-- Dans l'augmentation de la décision**, le **système recommande une décision** ou plusieurs alternatives de décision aux acteurs humains en utilisant des analyses prescriptives ou prédictives. Ses avantages résident dans la synergie entre les connaissances humaines et la capacité de l'IA à analyser rapidement de grands volumes de données et à gérer la complexité.
+- **Dans l'augmentation de la décision**, le **système recommande une décision** ou plusieurs alternatives de décision aux acteurs humains en utilisant des analyses prescriptives ou prédictives. Ses avantages résident dans la synergie entre les connaissances humaines et la capacité de l'IA à analyser rapidement de grands volumes de données et à gérer la complexité.
 
 - **En aide à la décision, la personne humaine prend la décision**, soutenue par des analyses descriptives, diagnostiques ou prédictives. Son principal avantage réside dans l'application combinée d'informations fondées sur des données et de connaissances, d'expertise et de bon sens humains, y compris le "feeling" et les émotions.
 

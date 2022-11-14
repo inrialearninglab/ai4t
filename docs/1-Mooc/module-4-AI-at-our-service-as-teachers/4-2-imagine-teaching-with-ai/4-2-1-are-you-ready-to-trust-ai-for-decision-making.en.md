@@ -19,11 +19,11 @@ Let's see some criteria that are used to "evaluate" the decision-making process 
 
 ## Explainability
 
-Explainability - one of the 7 key requirements for trustworthy AI: "_Explainability concerns the ability to explain both the technical processes of an AI system and the related human decisions (e.g. application areas of a system). Technical explainability requires that the decisions made by an AI system can be understood and traced by human beings.[^1]_"
+Explainability - one of the 7 key requirements for trustworthy AI: "_Explainability concerns the ability to explain both the technical processes of an AI system and the related human decisions (e.g. application areas of a system). Technical explainability requires that the decisions made by an AI system can be understood and traced by human beings._"[^1]
 
 In the field of education, this means that in any AI decision-making tool, the way a decision is proposed and the human interaction involved are elements that need to be accessed.
 
-This requirement is more or less easy to meet, but for some AI technologies the explainability is not so simple to provide. For example, in the case of neural networks with many layers, explanations can be difficult to render. So that a new area of AI is now developing: eXplainable AI or XAI defined as an _artificial intelligence in which humans can understand the decisions or predictions made by the AI. It contrasts with the "black box" concept in machine learning where even its designers cannot explain why an AI arrived at a specific decision.[^2]_"
+This requirement is more or less easy to meet, but for some AI technologies the explainability is not so simple to provide. For example, in the case of neural networks with many layers, explanations can be difficult to render. So that a new area of AI is now developing: eXplainable AI or XAI defined as an _artificial intelligence in which humans can understand the decisions or predictions made by the AI. It contrasts with the "black box" concept in machine learning where even its designers cannot explain why an AI arrived at a specific decision._"[^2]
 
 ## Interpretability
 

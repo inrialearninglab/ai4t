@@ -6,7 +6,7 @@ description: Understand the classification of risks linked to the use of AI syst
 
 ## The 4 levels of risk in AI
 
-The **Regulatory Framework Proposal on Artificial Intelligence**[^1] set up by the European Commission (EC) in 2021 identifies four levels of risk linked to the use of AI systems. It is reminded that "*While most AI systems pose limited to no risk and can contribute to solving many societal challenges, certain AI systems create risks that we must address to avoid undesirable outcomes*".
+The **Regulatory Framework Proposal on Artificial Intelligence**[^1] set up by the European Commission (EC) in 2021 identifies four levels of risk linked to the use of AI systems. It is reminded that "*While most AI systems pose limited to no risk and can contribute to solving many societal challenges, certain AI systems create risks that we must address to avoid undesirable outcomes*".  
 With a focus on the fact that "*it is often not possible to find out why an AI system has made a decision or prediction and taken a particular action. So, it may become difficult to assess whether someone has been unfairly disadvantaged, such as in a hiring decision or in an application for a public benefit scheme"*.
 
 Four levels of risk were identified, from minimal to unacceptable:  

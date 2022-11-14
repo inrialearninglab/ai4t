@@ -19,11 +19,11 @@ Voyons quelques critères utilisés pour "évaluer" le processus de décision de
 
 ## Explicabilité
 
-Explicabilité - l'une des 7 exigences clés pour une IA digne de confiance : "_L'explicabilité concerne la capacité à expliquer à la fois les processus techniques d'un système d'IA et les décisions humaines correspondantes (par exemple, les domaines d'application d'un système). L'explicabilité technique exige que les décisions prises par un système d'IA puissent être comprises et retracées par des êtres humains[^1]_". [Traduction Deepl]
+Explicabilité - l'une des 7 exigences clés pour une IA digne de confiance : "_L'explicabilité concerne la capacité à expliquer à la fois les processus techniques d'un système d'IA et les décisions humaines correspondantes (par exemple, les domaines d'application d'un système). L'explicabilité technique exige que les décisions prises par un système d'IA puissent être comprises et retracées par des êtres humains_". [Traduction Deepl] [^1]
 
 Dans le domaine de l'éducation, cela signifie que dans tout outil décisionnel d'IA, la manière dont une décision est proposée et le degré d'implication humaine sont des éléments auxquels il faut avoir accès.
 
-Cette exigence est plus ou moins facile à satisfaire, mais pour certaines technologies d'IA, l'explicabilité n'est pas si simple à obtenir. Par exemple, dans le cas des réseaux neuronaux comportant de nombreuses couches, les explications peuvent être difficiles à fournir. C'est pourquoi un nouveau domaine de l'IA se développe actuellement : l'IA eXplicable ou XAI, définie comme une "_intelligence artificielle dans laquelle les humains peuvent comprendre les décisions ou les prédictions faites par l'IA. Elle contraste avec le concept de "boîte noire" de l'apprentissage automatique, où même les concepteurs ne peuvent expliquer pourquoi l'IA est parvenue à une décision spécifique[^2]_" [Traduction Deepl].
+Cette exigence est plus ou moins facile à satisfaire, mais pour certaines technologies d'IA, l'explicabilité n'est pas si simple à obtenir. Par exemple, dans le cas des réseaux neuronaux comportant de nombreuses couches, les explications peuvent être difficiles à fournir. C'est pourquoi un nouveau domaine de l'IA se développe actuellement : l'IA eXplicable ou XAI, définie comme une "_intelligence artificielle dans laquelle les humains peuvent comprendre les décisions ou les prédictions faites par l'IA. Elle contraste avec le concept de "boîte noire" de l'apprentissage automatique, où même les concepteurs ne peuvent expliquer pourquoi l'IA est parvenue à une décision spécifique_" [Traduction Deepl] [^2].
 
 ## Interprétabilité
 
