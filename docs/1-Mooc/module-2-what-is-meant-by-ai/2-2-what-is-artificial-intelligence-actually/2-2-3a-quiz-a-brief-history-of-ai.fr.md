@@ -1,10 +1,10 @@
 ---
-title: "2.2.3 Activité : Un peu d'histoire "
+title: "2.2.3 Activité : Un peu d'histoire"
 description: Quiz sur l'histoire de l'IA
 type: activity
 ---
 
-# Activité :
+# Activité : Un peu d'histoire
  Pour conclure cette unité, quelques questions sur l'histoire de l'IA.
 
 
