@@ -1,5 +1,5 @@
 ---
-type: "Če želite nadaljevati: Umetna inteligenca za učitelje - o odprtem učbeniku"
+type: "Umetna inteligenca za učitelje: interaktivni spletni priročnik za učitelje"
 description: Predstavitev in dostop do učbenika - Colin de la Higuera, Jotsna Iyer
 contributor: Colin de la Higuera
                 Jotsna Iyer
