@@ -189,15 +189,15 @@ extra:
     "See":
       en: "See"
       fr: "Voir"
-      it: "Voir"
-      de: "Voir"
-      sl: "Voir"
+      it: "Vedi"
+      de: "Sehen"
+      sl: "Oglejte si"
     "See all":
       en: "See all"
       fr: "Voir tout"
-      it: "Voir tout"
-      de: "Voir tout"
-      sl: "Voir tout"
+      it: "Vedi tutti"
+      de: "Alle sehen"
+      sl: "Oglejte si vse"
 plugins:
   - search
   - awesome-pages
