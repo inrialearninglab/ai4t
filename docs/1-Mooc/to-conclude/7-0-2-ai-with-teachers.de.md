@@ -1,5 +1,5 @@
 ---
-title: "To Go Further: KI für Lehrer - ein offenes Lehrbuch"
+title: "Künstliche Intelligenz & Lehrende: ein OpenTextbook"
 description: Präsentation und Zugriff auf das Lehrbuch - Colin de la Higuera, Jotsna Iyer
 contributor:   Colin de la Higuera
                 Jotsna Iyer

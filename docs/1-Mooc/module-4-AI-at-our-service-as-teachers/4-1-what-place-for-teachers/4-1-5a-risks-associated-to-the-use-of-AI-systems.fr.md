@@ -1,5 +1,5 @@
 ---
-title: "4.1.5 Activité : Prise de décision avec l'IA "
+title: "4.1.5 Activité : IA digne de confiance "
 description: Qu'est-ce qu'une IA digne de confiance ? 7 exigences à respecter pour les systèmes d'IA
 type: activity
 ---

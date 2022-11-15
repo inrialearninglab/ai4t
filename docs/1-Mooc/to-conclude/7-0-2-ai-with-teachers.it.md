@@ -1,5 +1,5 @@
 ---
-title: "Per andare oltre: AI per gli insegnanti - su libro di testo aperto".
+title: "L'intelligenza artificiale per gli insegnanti: Un libro aperto".
 description: Presentazione e accesso al libro di testo - Colin de la Higuera, Jotsna Iyer
 contributor:   Colin de la Higuera
                 Jotsna Iyer
