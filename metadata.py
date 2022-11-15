@@ -28,6 +28,10 @@ for path, dirs, files in os.walk(basepath):
         # Cleanup old metadata
         if file_extension == '.xml' and lang_extension:
             os.remove(os.path.join(path, file))
+for path, dirs, files in os.walk(basepath):
+    for file in files:
+        file_no_ext, file_extension = os.path.splitext(file)
+        file_no_lang, lang_extension = os.path.splitext(file_no_ext)
         # Generate metadata for every markdown file
         if file_extension == '.md' and file_no_ext != "index":
             with open(os.path.join(path, file), 'r') as i:
