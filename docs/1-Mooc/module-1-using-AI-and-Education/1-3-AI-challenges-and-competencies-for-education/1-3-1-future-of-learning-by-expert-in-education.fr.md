@@ -1,5 +1,5 @@
 ---
-title: 1.3.1 Avenir de l'apprentissage par les experts en éducation
+title: 1.3.1 L'avenir de l'apprentissage par les experts en éducation
 description: Indiquer les défis liés à l'IA en éducation et les compétences essentielles requises à l'ère de l'IA.
 ---
 # Futurs de l'apprentissage par des experts de l'éducation
