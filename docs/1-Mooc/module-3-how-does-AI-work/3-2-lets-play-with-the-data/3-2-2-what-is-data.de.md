@@ -1,5 +1,5 @@
 ---
-title: 3.2.2 Was sind Daten?
+title: "3.2.2 Was sind Daten?"
 description: Verschaffen Sie sich ein erstes Verständnis dafür, was Daten sind und wie sie in der KI verwendet werden.
 contributor: Laurent Romary, Inria
 ---

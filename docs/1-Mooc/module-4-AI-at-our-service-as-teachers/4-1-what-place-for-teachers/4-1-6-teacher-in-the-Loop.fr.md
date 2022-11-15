@@ -1,5 +1,5 @@
 ---
-title: 4.1.6 L'enseignant dans la boucle
+title: "4.1.6 L'enseignant dans la boucle"
 description: Comprendre le modèle de l'enseignant dans la boucle et l'utiliser comme un outil pour promouvoir "les utilisateurs aux commandes" pour les systèmes d'IA en éducation.
 ---
 # L'enseignant dans la boucle

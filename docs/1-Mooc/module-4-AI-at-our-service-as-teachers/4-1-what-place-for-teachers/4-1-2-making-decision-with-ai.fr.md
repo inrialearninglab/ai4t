@@ -1,5 +1,5 @@
 ---
-title: 4.1.2 Prise de décision avec l'IA
+title: "4.1.2 Prise de décision avec l'IA"
 description: Comprendre comment les outils décisionnels modifient les pratiques, peuvent les améliorer mais doivent être remis en question.
 ---
 

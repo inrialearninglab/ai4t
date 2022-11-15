@@ -1,5 +1,5 @@
 ---
-title: 4.1.4 Risks and AI-based decision making
+title: "4.1.4 Risks and AI-based decision making"
 description: Understand the classification of risks linked to the use of AI systems in decision
 ---
 # Risks associated to the use of AI systems in decision making

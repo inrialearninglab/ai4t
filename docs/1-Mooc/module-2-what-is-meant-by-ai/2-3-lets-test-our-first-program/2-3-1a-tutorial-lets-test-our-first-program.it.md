@@ -1,5 +1,5 @@
 ---
-title: "2.3.1 Attività: Esercitazione Testiamo il nostro primo programma".
+title: "2.3.1 Attività: Esercitazione Testiamo il nostro primo programma"
 description: Un tutorial per scoprire i programmi di riconoscimento delle immagini, come addestrarli e come ingannarli.
 contributor: magic makers
                 inria

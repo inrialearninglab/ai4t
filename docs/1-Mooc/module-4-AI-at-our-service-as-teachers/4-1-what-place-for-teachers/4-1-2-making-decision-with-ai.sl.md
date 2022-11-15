@@ -1,5 +1,5 @@
 ---
-title: 4.1.2 Odločanje z umetno inteligenco
+title: "4.1.2 Odločanje z umetno inteligenco"
 description: Razumeti, kako orodja za odločanje spreminjajo prakse, jih lahko izboljšajo, vendar jih je treba postaviti pod vprašaj
 ---
 

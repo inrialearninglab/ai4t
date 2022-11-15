@@ -1,5 +1,5 @@
 ---
-title: 3.1.2 Welche Art von KI?
+title: "3.1.2 Welche Art von KI?"
 description: Ein erstes Verständnis von KI-Typen gewinnen
 ---
 

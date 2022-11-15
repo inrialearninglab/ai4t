@@ -1,5 +1,5 @@
 ---
-title: 3.3.2 Reti avversarie generative (GAN)
+title: "3.3.2 Reti avversarie generative (GAN)"
 description: Ulteriori informazioni su GAN
 contributor:  Mooc IAI
 ---

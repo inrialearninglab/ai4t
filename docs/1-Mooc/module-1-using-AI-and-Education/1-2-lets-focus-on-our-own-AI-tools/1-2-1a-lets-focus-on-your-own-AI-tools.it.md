@@ -1,5 +1,5 @@
 ---
-title: "1.2.1 Attività: Concentriamoci sui propri strumenti di IA".
+title: "1.2.1 Attività: Concentriamoci sui propri strumenti di IA"
 description: Porre domande sulle nostre pratiche di IA
 type: activity
 ---

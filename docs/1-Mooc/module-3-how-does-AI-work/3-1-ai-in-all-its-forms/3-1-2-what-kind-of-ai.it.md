@@ -1,5 +1,5 @@
 ---
-title: 3.1.2 Che tipo di IA?
+title: "3.1.2 Che tipo di IA?"
 description: Ottenere una prima comprensione dei tipi di IA
 ---
 

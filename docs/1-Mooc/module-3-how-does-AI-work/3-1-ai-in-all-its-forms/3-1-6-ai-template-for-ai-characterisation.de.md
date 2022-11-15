@@ -1,5 +1,5 @@
 ---
-title: 3.1.6 Vorlage für die Charakterisierung von AI
+title: "3.1.6 Vorlage für die Charakterisierung von AI"
 description: Ein erstes Verständnis der KI-Eigenschaften gewinnen
 contributor:  Jiajun Pan
               Azim Roussanaly

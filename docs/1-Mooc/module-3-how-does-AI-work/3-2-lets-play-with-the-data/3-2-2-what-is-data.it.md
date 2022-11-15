@@ -1,5 +1,5 @@
 ---
-title: 3.2.2 Cosa sono i dati?
+title: "3.2.2 Cosa sono i dati?"
 description: Una prima comprensione di cosa sono i dati e di come vengono utilizzati nell'IA.
 contributor: Laurent Romary, Inria
 ---

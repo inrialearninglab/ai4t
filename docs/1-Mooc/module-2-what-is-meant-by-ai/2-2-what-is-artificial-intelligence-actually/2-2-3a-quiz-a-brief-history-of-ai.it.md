@@ -1,5 +1,5 @@
 ---
-title: "2.2.3 Attività: Un po' di storia".
+title: "2.2.3 Attività: Un po' di storia"
 description: Quiz sulla storia dell'IA
 type: activity
 ---

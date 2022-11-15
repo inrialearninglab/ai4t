@@ -1,5 +1,5 @@
 ---
-title: 3.3.2 Réseaux Antagonistes Génératifs (GAN)
+title: "3.3.2 Réseaux Antagonistes Génératifs (GAN)"
 description: Pour en savoir plus sur les GAN
 contributor:  Mooc IAI
 ---

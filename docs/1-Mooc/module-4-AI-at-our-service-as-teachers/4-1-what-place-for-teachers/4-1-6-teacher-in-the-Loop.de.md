@@ -1,5 +1,5 @@
 ---
-title: 4.1.6 Lehrer in der Schleife (Teacher-in-the-Loop)
+title: "4.1.6 Lehrer in der Schleife (Teacher-in-the-Loop)"
 description: Das "Teacher-in-the-Loop"-Modell verstehen und als Werkzeug nutzen, um "Nutzer in der Kontrolle" für KI-Systeme in der Bildung zu fördern
 ---
 # Teacher-in-the-Loop

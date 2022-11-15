@@ -1,5 +1,5 @@
 ---
-title: 4.1.4 Risques et prise de décision basée sur l'IA
+title: "4.1.4 Risques et prise de décision basée sur l'IA"
 description: Comprendre la classification des risques liés à l'utilisation de systèmes d'IA dans la prise de décision.
 ---
 # Risques liés à l'utilisation de systèmes d'IA dans la prise de décision

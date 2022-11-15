@@ -1,5 +1,5 @@
 ---
-title: "Attività 3.2.4: Potenziata con l'intelligenza artificiale?"
+title: "3.2.4 Attività : Potenziata con l'intelligenza artificiale?"
 description: Sperimentare come funziona l'apprendimento automatico e l'addestramento dei programmi e verificare l'importanza di set di dati preparati correttamente
 contributor:  Magic Makers
               Inria

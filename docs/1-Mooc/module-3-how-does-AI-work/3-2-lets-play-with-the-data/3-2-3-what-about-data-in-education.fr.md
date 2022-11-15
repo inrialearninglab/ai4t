@@ -1,5 +1,5 @@
 ---
-title : 3.2.3 Qu'en est-il des données en éducation ?
+title : "3.2.3 Qu'en est-il des données en éducation ?"
 description: Identifier la place des données éducatives dans les outils AIEd.
 ---
 # Qu'en est-il des données en éducation ?

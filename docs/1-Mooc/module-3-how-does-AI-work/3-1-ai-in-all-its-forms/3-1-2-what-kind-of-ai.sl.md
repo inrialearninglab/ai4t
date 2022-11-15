@@ -1,5 +1,5 @@
 ---
-title: 3.1.2 Kakšna umetna inteligenca?
+title: "3.1.2 Kakšna umetna inteligenca?"
 description: Prvo razumevanje vrst umetne inteligence
 ---
 

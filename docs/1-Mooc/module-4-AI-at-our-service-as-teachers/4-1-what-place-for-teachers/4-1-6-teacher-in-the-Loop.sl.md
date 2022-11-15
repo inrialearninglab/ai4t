@@ -1,5 +1,5 @@
 ---
-title: 4.1.6 Učitelj v zanki (Teacher-in-the-loop)
+title: "4.1.6 Učitelj v zanki (Teacher-in-the-loop)"
 description: Razumeti model učitelja v zanki in ga uporabiti kot orodje za spodbujanje "uporabnikov pri nadzoru" za sisteme umetne inteligence v izobraževanju
 ---
 # Učitelj v zanki

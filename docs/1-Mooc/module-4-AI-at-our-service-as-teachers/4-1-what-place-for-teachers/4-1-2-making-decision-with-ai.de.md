@@ -1,5 +1,5 @@
 ---
-title: 4.1.2 Entscheidungsfindung mit AI
+title: "4.1.2 Entscheidungsfindung mit AI"
 description: Verstehen, wie Entscheidungsfindungswerkzeuge Praktiken verändern, verbessern können, aber auch in Frage gestellt werden müssen
 ---
 

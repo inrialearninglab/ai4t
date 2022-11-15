@@ -1,5 +1,5 @@
 ---
-title: 3.1.2 What kind of AI?
+title: "3.1.2 What kind of AI?"
 description: Get a first understanding of AI types
 ---
 

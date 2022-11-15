@@ -1,0 +1,46 @@
+{% extends "main.html" %}
+{% block tabs %}
+{{ super() }}
+<section class="home-container">
+<div class="md-grid md-typeset">
+  <div class="home-hero">
+    <div class="home-hero-content">
+      <h1>Artificial Intelligence for and by teachers</h1>
+      <p>Explorer et soutenir l'utilisation de l'IA dans l'éducation.</p>
+    </div>
+  </div>
+</div>
+</section>
+{% if config.extra.parts %}
+  {% for part in config.extra.parts %}
+  <section>
+    <div class="md-grid md-typeset">
+      <div class="home-section">
+        <h2>{{part.title[i18n_page_locale]}}</h2>
+        <div class="md-flex">
+          {% for card in part.cards %}
+          <div class="md-card">
+            <img src="{{card.img}}" alt="{{card.desc[i18n_page_locale]}}"/>
+            <div class="md-card-body">
+              <h3>{{card.title[i18n_page_locale]}}</h3>
+              <p>{{card.desc[i18n_page_locale]}}</p>
+              <a href="{{ card.url|url }}" target="_blank" title="{{card.title[i18n_page_locale]}}" class="md-button">
+                {{config.extra.trad['See'][i18n_page_locale]}}
+              </a>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+        <!-- <a href="{{part.url}}" title="{{config.extra.trad['See all'][i18n_page_locale]}}" class="md-button md-button--primary">
+          {{config.extra.trad['See all'][i18n_page_locale]}}
+        </a> -->
+      </div>
+    </div>
+  </section>
+  {% endfor %}
+{% endif %}
+
+{% endblock %}
+{% block content %}
+{{ page.content }}
+{% endblock %}

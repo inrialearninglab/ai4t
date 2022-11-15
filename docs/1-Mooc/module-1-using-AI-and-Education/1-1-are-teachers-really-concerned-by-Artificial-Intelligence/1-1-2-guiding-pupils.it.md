@@ -1,5 +1,5 @@
 ---
-title: "1.1.2 Video: Una passeggiata attraverso l'IA - Guidare gli alunni al successo".
+title: "1.1.2 Video: Una passeggiata attraverso l'IA - Guidare gli alunni al successo"
 description: Video 2 Una passeggiata attraverso l'IA - Guidare gli alunni al successo attraverso l'osservazione dei processi di apprendimento
 contributor:  Anne Boyer
               Armelle Brun

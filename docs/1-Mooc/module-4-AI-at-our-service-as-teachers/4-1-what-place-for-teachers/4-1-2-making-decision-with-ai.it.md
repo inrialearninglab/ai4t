@@ -1,5 +1,5 @@
 ---
-title: 4.1.2 Processo decisionale con l'IA
+title: "4.1.2 Processo decisionale con l'IA"
 description: Capire come gli strumenti decisionali cambiano le pratiche, possono migliorarle ma devono essere messi in discussione.
 ---
 

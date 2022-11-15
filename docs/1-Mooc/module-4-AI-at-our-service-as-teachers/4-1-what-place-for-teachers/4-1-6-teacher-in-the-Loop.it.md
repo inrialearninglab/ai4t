@@ -1,6 +1,6 @@
 ---
-title: 4.1.6 "Teacher-in-the-Loop"
-description: Comprendere il modello "Teacher-in-the-Loop" e utilizzarlo come strumento per promuovere gli "utenti in controllo" per i sistemi di IA nell'istruzione.
+title: "4.1.6 Insegnante nel cerchio (Teacher-in-the-Loop)"
+description: Comprendere il modello "Teacher-in-the-Loop" e utilizzarlo come strumento per promuovere gli "utenti in controllo" per i sistemi di IA nell'istruzione
 ---
 # Insegnante nel loop
 

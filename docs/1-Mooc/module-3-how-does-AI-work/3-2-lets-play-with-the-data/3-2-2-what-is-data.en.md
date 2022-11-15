@@ -1,5 +1,5 @@
 ---
-title: 3.2.2 What is data?
+title: "3.2.2 What is data?"
 description: Get a first understanding of what data is and how it is used in AI.
 contributor: Laurent Romary, Inria
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2.3.1 Activité : Tutoriel Testons notre premier programme".
+title: "2.3.1 Activité : Tutoriel Testons notre premier programme"
 description: Un tutoriel pour découvrir les programmes de reconnaissance d'images, comment les entraîner, comment les tromper.
 contributor: magic makers
                 inria

@@ -1,5 +1,5 @@
 ---
-title: 3.2.3 Kaj pa podatki v izobraževanju?
+title: "3.2.3 Kaj pa podatki v izobraževanju?"
 description: Opredelite mesto podatkov o izobraževanju v orodjih AIEd.
 ---
 # What about data in Education?

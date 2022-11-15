@@ -1,5 +1,5 @@
 ---
-title: 3.2.3 Was ist mit Daten im Bildungswesen?
+title: "3.2.3 Was ist mit Daten im Bildungswesen?"
 description: Identifizieren Sie den Platz von Bildungsdaten in AIEd-Tools.
 ---
 # Was ist mit Daten in der Bildung?

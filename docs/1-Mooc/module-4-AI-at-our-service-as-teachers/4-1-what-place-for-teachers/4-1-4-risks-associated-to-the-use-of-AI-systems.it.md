@@ -1,5 +1,5 @@
 ---
-title: 4.1.4 Rischi e processo decisionale basato sull'IA
+title: "4.1.4 Rischi e processo decisionale basato sull'IA"
 description: Comprendere la classificazione dei rischi legati all'uso dei sistemi di IA nel processo decisionale.
 ---
 # Rischi associati all'uso dei sistemi di IA nel processo decisionale

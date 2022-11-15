@@ -1,5 +1,5 @@
 ---
-title: 3.1.6 Predloga za opredelitev umetne inteligence
+title: "3.1.6 Predloga za opredelitev umetne inteligence"
 description: Prvo razumevanje značilnosti umetne inteligence
 contributor:  Jiajun Pan
               Azim Roussanaly

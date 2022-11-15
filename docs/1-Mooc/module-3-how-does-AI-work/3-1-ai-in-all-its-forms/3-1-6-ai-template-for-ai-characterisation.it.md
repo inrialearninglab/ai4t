@@ -1,5 +1,5 @@
 ---
-title: 3.1.6 Modello per la caratterizzazione dell'IA
+title: "3.1.6 Modello per la caratterizzazione dell'IA"
 description: Ottenere una prima comprensione delle caratteristiche dell'IA
 contributor:  Jiajun Pan
               Azim Roussanaly

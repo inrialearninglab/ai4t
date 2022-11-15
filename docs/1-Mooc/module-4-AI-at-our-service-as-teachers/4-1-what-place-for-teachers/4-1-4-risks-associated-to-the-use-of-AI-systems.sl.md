@@ -1,5 +1,5 @@
 ---
-title: 4.1.4 Tveganja in odločanje na podlagi umetne inteligence
+title: "4.1.4 Tveganja in odločanje na podlagi umetne inteligence"
 description: Razumeti razvrstitev tveganj, povezanih z uporabo sistemov umetne inteligence pri odločanju.
 ---
 # Tveganja, povezana z uporabo sistemov umetne inteligence pri odločanju

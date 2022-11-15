@@ -1,5 +1,5 @@
 ---
-title: 4.1.4 Risiken und KI-gestützte Entscheidungsfindung
+title: "4.1.4 Risiken und KI-gestützte Entscheidungsfindung"
 description: Verstehen der Klassifizierung von Risiken im Zusammenhang mit dem Einsatz von KI-Systemen bei der Entscheidungsfindung
 ---
 # Risiken im Zusammenhang mit dem Einsatz von KI-Systemen in der Entscheidungsfindung

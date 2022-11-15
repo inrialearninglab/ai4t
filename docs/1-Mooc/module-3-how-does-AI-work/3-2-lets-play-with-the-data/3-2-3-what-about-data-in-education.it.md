@@ -1,5 +1,5 @@
 ---
-title: 3.2.3 E i dati nell'istruzione?
+title: "3.2.3 E i dati nell'istruzione?"
 description: Identificare il posto dei dati educativi negli strumenti AIEd.
 ---
 # Che ne è dei dati nell'istruzione?

@@ -1,5 +1,5 @@
 ---
-title: 3.1.6 Modèle de caractérisation de l'IA
+title: "3.1.6 Modèle de caractérisation de l'IA"
 description: Obtenir une première compréhension des caractéristiques de l'IA
 contributor:  Jiajun Pan
               Azim Roussanaly
