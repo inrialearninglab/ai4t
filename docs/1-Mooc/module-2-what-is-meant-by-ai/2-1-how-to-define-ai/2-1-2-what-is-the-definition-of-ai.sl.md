@@ -1,6 +1,6 @@
 ---
 title: "2.1.2 Kakšna je opredelitev umetne inteligence?"
-description: 2.2.1: Predstavite različne opredelitve umetne inteligence in njenih področij
+description: Predstavite različne opredelitve umetne inteligence in njenih področij
 ---
 # Kaj je opredelitev umetne inteligence?
 
