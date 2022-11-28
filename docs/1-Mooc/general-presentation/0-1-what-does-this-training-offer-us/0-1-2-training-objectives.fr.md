@@ -38,5 +38,5 @@ Comme dans toute action éducative, la dimension éthique est une composante tra
 Dans le cadre de la recherche et du développement de la culture numérique, le projet propose d'utiliser les Lignes directrices  éthique sur l'utilisation de l'intelligence artificielle comme support pour une première réflexion sur les usages éclairés de l'IA.
 ---
 <span style="color:#EE147F">**Attention : Pour la phase d'expérimentation à grande échelle, certaines informations peuvent compléter cette introduction générale, concernant par exemple l'âge des élèves visés et les disciplines sélectionnées**.</span>
-Afin de gagner en opérabilité et en précision, le projet AI4T a dû se limiter à deux domaines d'apprentissage : les mathématiques et les langues étrangères. Et s'adresse plus spécifiquement aux élèves de 15 à 17 ans.
+Pour être plus opérationnel, le projet AI4T a dû se limiter à deux domaines d'apprentissage : les mathématiques et les langues étrangères. Et il s'adresse plus spécifiquement aux élèves de 15 à 17 ans.
 ---
