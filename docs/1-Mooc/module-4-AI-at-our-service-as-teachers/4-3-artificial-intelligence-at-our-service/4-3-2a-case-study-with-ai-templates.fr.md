@@ -9,18 +9,18 @@ type: activity
 
 # Activité : Étude de cas avec le modèle AI pour analyser Duolingo for Schools
 
-Le consortium AI4T a identifié "*Duolingo for Schools*" comme un outil d'IA pertinent à expérimenter par les enseignants pendant le projet.
+Les partenaires européens d'AI4T ont identifié "*Duolingo for Schools*" comme un outil d'IA pertinent à expérimenter par les enseignants au cours du projet.
 
-Il s'agit d'une application d'apprentissage des langues, certes, mais les questions qu'elle soulève en tant qu'IA sont pertinentes dans toutes les disciplines.
+Il s'agit d'une application d'apprentissage des langues, certes, mais les questions qu'elle soulève quant à son IA sont pertinentes pour toutes les disciplines.
 
 Au cours de cette activité, Duolingo for Schools est proposé comme étude de cas pour expérimenter le modèle de caractérisation de l'IA. Il y a deux particularités de Duolingo for Schools qui en font une bonne étude de cas :
 
 1. Duolingo partage beaucoup d'informations sur son fonctionnement,
-2. Utilisé par de nombreux apprenants, il a fait l'objet de nombreuses questions de la part de personnes extérieures préoccupées par le respect de la vie privée, par exemple. Il est donc plus facile d'avoir un aperçu de certaines questions qui ne sont généralement pas si faciles à avoir sur les AIERs, comme la protection des données.
+2. Utilisé par de nombreux apprenants, il a fait l'objet de nombreuses questions de la part de personnes extérieures préoccupées par le respect de la vie privée, par exemple. Il est donc plus facile d'avoir un aperçu de certaines questions qui ne sont généralement pas si faciles à avoir sur les AIER, comme la protection des données.
 
 ## Duolingo for Schools en ses propres termes
 
-Voici la présentation de Duolingo for Schools sur son blog en anglais[^1] : "*Duolingo for Schools est un tableau de bord, à l'intérieur même du compte Duolingo d'un enseignant, qui lui permet de créer des classes et des devoirs, et de suivre l'activité des élèves. Nous sommes ravis de collaborer avec les éducateurs pour apporter l'application numéro un au monde d'apprentissage des langues dans les salles de classe, avec des fonctionnalités conçues pour optimiser l'efficacité des enseignants et l'apprentissage des élèves*". [Traduction Deepl]
+Voici la présentation de Duolingo for Schools sur son blog en anglais[^1] : "*Duolingo for Schools possède un tableau de bord, à l'intérieur même du compte Duolingo d'un enseignant, qui lui permet de créer des classes et des devoirs, et de suivre l'activité des élèves. Nous sommes ravis de collaborer avec les éducateurs pour apporter l'application numéro un au monde d'apprentissage des langues dans les salles de classe, avec des fonctionnalités conçues pour optimiser l'efficacité des enseignants et l'apprentissage des élèves*". [Traduction Deepl]
 
 ## Quelques ressources utilisables pour analyser les caractéristiques de l'IA de Duolingo for Schools :
 
