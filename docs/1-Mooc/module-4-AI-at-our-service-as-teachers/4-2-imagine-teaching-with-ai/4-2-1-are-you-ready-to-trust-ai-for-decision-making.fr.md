@@ -13,7 +13,7 @@ Pour certaines décisions automatisées, telles que les "étapes de résolution"
 
 D'autres décisions, au contraire, présentent un préjudice et/ou un risque potentiel.
 
-Il y a alors un maximum de précautions à prendre. Tout d'abord la décision doit être explicable : pourquoi cette décision est proposée pour cette situation particulière, pour cet élève ou ce groupe d'élèves particulier ?
+Il y a alors un maximum de précautions à prendre. Tout d'abord la décision doit être explicable : pourquoi cette décision est proposée pour cette situation particulière, pour cet élève ou ce groupe d'élèves en particulier ?
 
 Voyons quelques critères utilisés pour "évaluer" le processus de décision des systèmes basés sur l'IA.
 
@@ -58,7 +58,7 @@ Les résultats peuvent être fournis sous la forme de "*résumés simples sur l'
 ### Analyse diagnostique
 
 L'analyse diagnostique répond à la question "Pourquoi est-ce arrivé ?".
-Elle conduit à l'identification de la nature et de la cause d'un phénomène pour déterminer les atténuations, et les solutions. Quelques techniques utilisées pour l'analyse diagnostique : Des méthodes statistiques comme la découverte de données, l'exploration de données et les corrélations. Ces méthodes peuvent faire appel à l'IA.
+Elle conduit à l'identification de la nature et de la cause d'un phénomène pour déterminer les atténuations, et les solutions. Quelques techniques utilisées pour l'analyse diagnostique : des méthodes statistiques comme la découverte de données, l'exploration de données et les corrélations. Ces méthodes peuvent faire appel à l'IA.
 
 ### Analyse prédictive
 
