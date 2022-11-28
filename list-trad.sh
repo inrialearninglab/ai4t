@@ -1,0 +1,5 @@
+echo "URL,CHECKED,COMMENT" > en-files.csv && find ./docs/1-Mooc -name "*.en.md" | sed 's|\./|https://github.com/inrialearninglab/ai4t/blob/main/|' | sed 's|$|,,|' >> en-files.csv
+echo "URL,CHECKED,COMMENT" > fr-files.csv && find ./docs/1-Mooc -name "*.fr.md" | sed 's|\./|https://github.com/inrialearninglab/ai4t/blob/main/|' | sed 's|$|,,|' >> fr-files.csv
+echo "URL,CHECKED,COMMENT" > de-files.csv && find ./docs/1-Mooc -name "*.de.md" | sed 's|\./|https://github.com/inrialearninglab/ai4t/blob/main/|' | sed 's|$|,,|' >> de-files.csv
+echo "URL,CHECKED,COMMENT" > it-files.csv && find ./docs/1-Mooc -name "*.it.md" | sed 's|\./|https://github.com/inrialearninglab/ai4t/blob/main/|' | sed 's|$|,,|' >> it-files.csv
+echo "URL,CHECKED,COMMENT" > sl-files.csv && find ./docs/1-Mooc -name "*.sl.md" | sed 's|\./|https://github.com/inrialearninglab/ai4t/blob/main/|' | sed 's|$|,,|' >> sl-files.csv

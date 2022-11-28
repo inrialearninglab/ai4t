@@ -16,7 +16,7 @@ Les **ressources pédagogiques** sont, sauf indication contraire, distribuées s
 **Attribution**. Le titulaire des droits autorise toute exploitation de l'œuvre, y compris à des fins commerciales, ainsi que la création d'œuvres dérivées, dont la diffusion est également autorisée sans restriction, à condition que l'auteur soit nommément cité.
 
 * Mention à ajouter lors de l'utilisation du Mooc pour une formation
-  Crédit : "Artificial Intelligence for and by Teachers", AI4T, publié sous [licence CC-BY](https://creativecommons.org/licenses/by/4.0/deed.en)
+  : "Artificial Intelligence for and by Teachers", AI4T, publié sous [licence CC-BY](https://creativecommons.org/licenses/by/4.0/deed.en)
   En outre, n'oubliez pas d'ajouter le logo Erasmus+ :
 <figure>
   <img src="Images/LogoCoFoundedErasmusProgramEU.png" alt="Logo Co-founded by Erasmus and EU"/>

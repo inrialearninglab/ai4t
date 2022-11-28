@@ -1,13 +1,13 @@
 ---
-title : 4.1.7 Décider avec l'IA en médecine et justice
+title : 4.1.7 Décider avec l'IA dans les domaines de la médecine et de la justice
 description: Découvrez des domaines au-delà de l'éducation où les systèmes d'IA ont déjà profondément changé la façon dont les décisions sont prises.
 ---
-# Prise de décision avec l'IA en médecine et en justice
+# Prise de décision avec l'IA dans les domaines de la médecine et de la justice
 
 Lorsqu'il s'agit d'aide à la prise de décision, deux domaines ont déjà une histoire avec l'utilisation de l'IA : le droit et la médecine.  
-Compte tenu de l'importance des décisions prises dans ces domaines, ce sont des exemples intéressants à examiner.
+Compte tenu de l'importance des décisions prises dans ces domaines, ce sont des exemples intéressants à étudier.
 
-## AI et médecine
+## IA et médecine
 
 "*L’IA est en effet au cœur de la médecine du futur avec les opérations assistées, le suivi des patients à distance, les prothèses intelligentes, ou encore les traitements personnalisés grâce au recoupement de données (big data)*." [Traduction Deepl] [^1]
 
@@ -20,7 +20,7 @@ Aujourd'hui, un domaine important de l'utilisation de l'apprentissage automatiqu
 
 "*Le machine learning est l'une des branches de l'intelligence artificielle (IA). On le traduit en français par apprentissage automatique. En résumant à l'extrême, la technique consiste à nourrir le logiciel de milliers d'exemples pour qu'il apprenne à effectuer des tâches de classement. Par exemple, dans des images, savoir trouver des chiens ou des chats. Des grains de beauté ou des mélanomes malins. En théorie, cela ouvre un boulevard d'applications pour la médecine. On collecte par exemple les radiographies de milliers de patients souffrant de la même maladie dans ce qu'on appelle une cohorte. Puis, grâce à ces données d'apprentissage, l'ordinateur va ensuite détecter les mêmes caractéristiques visuelles dans de nouvelles images prises lors de dépistage chez d'autres personnes. Ce sont alors les données cibles*." [Traduction Deepl] [^4]
 
-## AI et Justice
+## IA et justice
 
 Dans le domaine de la justice, deux utilisations principales des systèmes d'IA sont identifiées.
 
