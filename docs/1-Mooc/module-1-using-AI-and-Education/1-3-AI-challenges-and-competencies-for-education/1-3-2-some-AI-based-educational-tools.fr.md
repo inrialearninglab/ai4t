@@ -3,7 +3,7 @@ title: "1.3.2 Quelques outils pédagogiques basés sur l'IA"
 description: Découvrez les fonctionnalités de quelques outils pour l'expérimentation.
 ---
 # Quelques outils pédagogiques basés sur l'IA
-De nombreuses entreprises de technologie éducative (Edtech) et des instituts de recherche investissent dans des outils et des logiciels basés sur l'IA pour faciliter l'enseignement et l'apprentissage, des systèmes de tutorat intelligents à des applications plus spécifiques comme la génération automatique de tests ou l'apprentissage de langues étrangères. Pourtant, la plupart de ces outils d'IA en éducation (AIEd) commencent seulement à être utilisés en classe par les élèves et les enseignants.
+De nombreuses entreprises de technologie éducative (EdTech) et des instituts de recherche investissent dans des outils et des logiciels basés sur l'IA pour faciliter l'enseignement et l'apprentissage, des systèmes de tutorat intelligents à des applications plus spécifiques comme la génération automatique de tests ou l'apprentissage de langues étrangères. Pourtant, la plupart de ces outils d'IA en éducation (AIEd) commencent seulement à être utilisés en classe par les enseignants et leurs élèves.
 
 ## Outils basés sur l'IA déjà expérimentés en classe
 
