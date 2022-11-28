@@ -8,8 +8,8 @@ contributor:  Anne Boyer
 type: video
 ---
 
-# Une promenade en Intelligence Artificielle : L'analytique des apprentissages
-## Vidéo n°3 : Une promenade en intelligence artificielle : L'analytique des apprentissages
+# Une promenade en intelligence artificielle : Learning analytics
+## Vidéo n°3 : Une promenade en intelligence artificielle : Learning analytics
 _Voir la vidéo ci-dessous (2'40")_
 
 
