@@ -6,7 +6,7 @@ description: Présenter les diverses définitions de l'IA et de ses domaines
 
 ## Une évolution dans la définition
 
-Donner une définition de l'IA est une tâche complexe car il n'existe pas de définition ou de taxonomie mutuellement acceptée de l'IA[^1].
+Donner une définition de l'IA est une tâche complexe car il n'existe pas de définition ou de taxonomie communément acceptée de l'IA[^1].
 
 Le terme "intelligence artificielle" a été utilisé pour la première fois en 1955 par McCarthy &amp; al.[^2] pour décrire la "*science et l'ingénierie de la fabrication de machines intelligentes, en particulier de programmes informatiques intelligents*".
 
