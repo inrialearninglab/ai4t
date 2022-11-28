@@ -1,5 +1,5 @@
 ---
-title: "1.1.2 Vidéo : Une promenade en Intelligence Artificielle - Guider les élèves vers la réussite par l'observation des processus d'apprentissage"
+title: "1.1.2 Vidéo : Une promenade en intelligence artificielle - Guider les élèves vers la réussite par l'observation des processus d'apprentissage"
 description: Video 2 Une promenade en IA - Guider les élèves vers la réussite par l'observation des processus d'apprentissage
 contributor:  Anne Boyer
               Armelle Brun
