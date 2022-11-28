@@ -6,7 +6,7 @@ type: activity
 
 # Activité : Les 7 conditions requises pour une IA digne de confiance
 
-Il existe 7 conditions qu'un système d'IA doit respecter pour être considéré comme digne de confiance.
+Il y a 7 conditions requises qu'un système d'IA doit respecter pour être considéré comme digne de confiance.
 Associons ces conditions à leurs définitions.
 
 **"Accès à l'activité"**  
