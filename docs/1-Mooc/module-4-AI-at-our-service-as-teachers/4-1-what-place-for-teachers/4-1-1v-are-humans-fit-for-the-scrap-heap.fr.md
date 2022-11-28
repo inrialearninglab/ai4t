@@ -9,11 +9,12 @@ Cette vidéo met en avant les changements que l'IA pourrait induire dans le trav
 La question de "l'humain dans la boucle" - c'est-à-dire quelle place donner à l'être humain dans les systèmes d'aide à la décision - est posée.
 Cette vidéo humoristique peut être utilisée en classe.  
 
+####Synopsis
+Le personnage principal, _Guillaume_, appelle la hotline après avoir lu un article sur la possible disparition de nombreux emplois, dont le travail serait à l'avenir effectué par des IA. Il mentionne des projections qui, dans 10 ou 20 ans, prévoient la disparition de nombreux emplois, notamment de cols blancs, dont les tâches pourraient être automatisées. _La Hotline_ relativise cette évolution et fait le lien avec les transformations survenues au XIXe siècle lors de la révolution industrielle. Elle rappelle que toute innovation conduit au remplacement de certaines activités par d'autres. Elle souligne également qu'aujourd'hui, il n'est pas vraiment possible de savoir exactement quels emplois seront automatisés.  
+La discussion entre _Guillaume_ et _La Hotline_ se recentre alors sur une nouvelle question : non pas quelles activités peuvent être réalisées par les IA mais quelles décisions doivent ou non être prises par celles-ci.
+
+
 **Avez-vous aussi des questions ?**  
 _Regardez la vidéo ci-dessous (1 minute 51):_
 
 <center><iframe width="640" height="360" src="https://www.youtube.com/embed/CpS2_IsY2EI?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
-
-####Synopsis
-Le personnage principal, _Guillaume_, appelle la hotline après avoir lu un article sur la possible disparition de nombreux emplois, dont le travail serait à l'avenir effectué par des IA. Il mentionne des projections qui, dans 10 ou 20 ans, prévoient la disparition de nombreux emplois, notamment de cols blancs, dont les tâches pourraient être automatisées. _La Hotline_ relativise cette évolution et fait le lien avec les transformations survenues au XIXe siècle lors de la révolution industrielle. Elle rappelle que toute innovation conduit au remplacement de certaines activités par d'autres. Elle souligne également qu'aujourd'hui, il n'est pas vraiment possible de savoir exactement quels emplois seront automatisés.  
-La discussion entre _Guillaume_ et _La Hotline_ se recentre alors sur une nouvelle question : non pas quelles activités peuvent être réalisées par les IA mais quelles décisions doivent ou non être prises par celles-ci.

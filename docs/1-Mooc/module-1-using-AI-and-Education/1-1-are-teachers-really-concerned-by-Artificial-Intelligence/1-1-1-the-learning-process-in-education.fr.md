@@ -1,6 +1,6 @@
 ---
 title: "1.1.1 Vidéo : Une promenade en Intelligence Artificielle - Le processus d'apprentissage en éducation"
-description: Vidéo 1 Une promenade en IA - Le processus d'apprentissage en éducation
+description: "Vidéo 1 Une promenade en IA - Le processus d'apprentissage en éducation"
 contributor:  Anne Boyer
               Armelle Brun
               Azim Roussanaly

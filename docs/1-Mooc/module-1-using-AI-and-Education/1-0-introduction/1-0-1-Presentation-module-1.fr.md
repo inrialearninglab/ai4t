@@ -1,5 +1,5 @@
 ---
-title: 1.0.1 Présentation du module 1
+title: "1.0.1 Présentation du module 1"
 description: Présentation du module 1
 ---
 # Présentation du module 1
