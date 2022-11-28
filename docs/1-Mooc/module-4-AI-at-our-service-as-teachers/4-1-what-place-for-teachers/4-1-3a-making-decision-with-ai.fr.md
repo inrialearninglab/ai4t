@@ -4,7 +4,7 @@ description: Comprendre comment les outils de prise de décision modifient les p
 type: activity
 ---
 
-# Activité : Prise de décision avec l'IA en Éducation
+# Activité : Prise de décision avec l'IA en éducation
 
 Cette courte activité propose de revenir sur les 3 principaux degrés d'implication de l'IA dans la prise de décision avec un retour d'expérience illustrant chaque type de décision dans le domaine de l'éducation.
 
