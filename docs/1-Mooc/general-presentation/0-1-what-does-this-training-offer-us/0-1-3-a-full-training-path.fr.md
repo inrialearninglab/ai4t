@@ -16,7 +16,7 @@ Le parcours de formation complet est conçu et créé pour que les enseignants e
 
 - et des formations guidées, en présentiel et en ligne, pour permettre aux participants d'interagir avec des experts en IA et en éducation.
 
-La durée totale de la formation prévue est de 3 mois sur une période allant de novembre 2022 à mars 2023 en fonction des pays impliqués dans l'expérience.
+La durée totale de la formation prévue est de 3 mois sur une période allant de janvier 2023 à mars 2023 en fonction des pays impliqués dans l'expérience.
 
 Une représentation graphique aide parfois à comprendre comment cela va fonctionner.
 
