@@ -5,7 +5,7 @@ contributor: Alain Thillay
 type: video
 ---
 
-# Vidéo : Pourquoi cette formation ?
+# Interview : Les défis de l'IA en éducation
 Dans la vidéo suivante, Alain Thillay, expert national français en éducation numérique, présente les défis de l'intelligence artificielle en éducation et les objectifs de la présente formation sur l'utilisation de l'IA en éducation pour les enseignants et les chefs d'établissement au niveau européen.
 
 ## Présentation de l'intervenant
