@@ -10,9 +10,9 @@ type: activity
 
 L'interaction naturelle, la reconnaissance d'images et la voiture autonome sont les trois technologies communément mentionnées comme des applications de l'IA :
 
-- Les applications d'interaction naturelle sont basées sur les techniques de communication et de traitement du langage naturel (TNL ou NLP en anglais) qui sont utilisées pour : la reconnaissance et la production de la parole, les chatbots, les assistants vocaux, les résumés automatique de texte, l'extraction de termes, la traduction automatique, etc.
+- Les applications d'interaction naturelle sont basées sur les techniques de communication et de traitement du langage naturel (TNL ou NLP en anglais) qui sont utilisées pour : la reconnaissance et la production de la parole, les chatbots, les assistants vocaux, les résumés automatiques de texte, l'extraction de termes, la traduction automatique, etc.
 
-- Les applications de reconnaissance d'images sont basées sur des techniques de vision par ordinateur qui sont utilisées pour : la reconnaissance des visages, les diagnostics visuels, la reconnaissance de l'écriture manuscrite, etc.
+- Les applications de reconnaissance d'images sont basées sur des techniques de vision par ordinateur qui sont utilisées pour la reconnaissance des visages, les diagnostics visuels, la reconnaissance de l'écriture manuscrite, etc.
 
 - Les voitures autonomes sont le résultat des technologies d'intégration et d'interaction et combinent plusieurs techniques : perception, raisonnement, action, apprentissage et interaction avec l'environnement.
 
