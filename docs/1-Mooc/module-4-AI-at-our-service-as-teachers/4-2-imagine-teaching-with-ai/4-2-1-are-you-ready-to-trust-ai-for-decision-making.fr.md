@@ -9,7 +9,7 @@ contributor: AI4T
 
 Toutes les décisions prises avec des outils basés sur l'IA n'ont pas toutes le même impact.
 
-Pour certaines décisions automatisées, telles que les "étapes de résolution" suggérées à un étudiant par une application de résolution de problèmes mathématiques, le risque et le préjudice à long terme peuvent être *considérés* comme plutôt faibles.
+Pour certaines décisions automatisées, telles que les "étapes de résolution" suggérées à un élève par une application de résolution de problèmes mathématiques, le risque et le préjudice à long terme peuvent être *considérés* comme plutôt faibles.
 
 D'autres décisions, au contraire, présentent un préjudice et/ou un risque potentiel.
 
@@ -19,11 +19,11 @@ Voyons quelques critères utilisés pour "évaluer" le processus de décision de
 
 ## Explicabilité
 
-Explicabilité - l'une des 7 exigences clés pour une IA digne de confiance : "_L'explicabilité concerne la capacité à expliquer à la fois les processus techniques d'un système d'IA et les décisions humaines correspondantes (par exemple, les domaines d'application d'un système). L'explicabilité technique exige que les décisions prises par un système d'IA puissent être comprises et retracées par des êtres humains_". [Traduction Deepl] [^1]
+Explicabilité - l'une des 7 conditions requises pour une IA digne de confiance : "_L'explicabilité concerne la capacité à expliquer à la fois les processus techniques d'un système d'IA et les décisions humaines correspondantes (par exemple, les domaines d'application d'un système). L'explicabilité technique exige que les décisions prises par un système d'IA puissent être comprises et retracées par des êtres humains_". [Traduction Deepl] [^1]
 
 Dans le domaine de l'éducation, cela signifie que dans tout outil décisionnel d'IA, la manière dont une décision est proposée et le degré d'implication humaine sont des éléments auxquels il faut avoir accès.
 
-Cette exigence est plus ou moins facile à satisfaire, mais pour certaines technologies d'IA, l'explicabilité n'est pas si simple à obtenir. Par exemple, dans le cas des réseaux neuronaux comportant de nombreuses couches, les explications peuvent être difficiles à fournir. C'est pourquoi un nouveau domaine de l'IA se développe actuellement : l'IA eXplicable ou XAI, définie comme une "_intelligence artificielle dans laquelle les humains peuvent comprendre les décisions ou les prédictions faites par l'IA. Elle contraste avec le concept de "boîte noire" de l'apprentissage automatique, où même les concepteurs ne peuvent expliquer pourquoi l'IA est parvenue à une décision spécifique_" [Traduction Deepl] [^2].
+Cette condition est plus ou moins facile à satisfaire, mais pour certaines technologies d'IA, l'explicabilité n'est pas si simple à obtenir. Par exemple, dans le cas des réseaux neuronaux comportant de nombreuses couches, les explications peuvent être difficiles à fournir. C'est pourquoi un nouveau domaine de l'IA se développe actuellement : l'IA eXplicable ou XAI, définie comme une "_intelligence artificielle dans laquelle les humains peuvent comprendre les décisions ou les prédictions faites par l'IA. Elle contraste avec le concept de "boîte noire" de l'apprentissage automatique, où même les concepteurs ne peuvent expliquer pourquoi l'IA est parvenue à une décision spécifique_" [Traduction Deepl] [^2].
 
 ## Interprétabilité
 
@@ -53,7 +53,7 @@ Dans les 4 catégories suivantes, on peut noter la corrélation entre la complex
 ### Analytique descriptive
 
 L'analyse descriptive examine les données pour répondre à la question "Que s'est-il passé ?".
-Les résultats peuvent être fournis sous la forme de "*résumés simples sur l'échantillon et sur les observations qui ont été faites. Ces résumés peuvent être quantitatifs ou visuels, c'est-à-dire des graphiques simples à comprendre*" [Traduction Deepl] [^4]. Il est basé sur des outils traditionnels sans IA.
+Les résultats peuvent être fournis sous la forme de "*résumés simples sur l'échantillon et sur les observations qui ont été faites. Ces résumés peuvent être quantitatifs ou visuels, c'est-à-dire des graphiques simples à comprendre*" [Traduction DeepL] [^4]. Il est basé sur des outils traditionnels sans IA.
 
 ### Analyse diagnostique
 
@@ -63,18 +63,18 @@ Elle conduit à l'identification de la nature et de la cause d'un phénomène po
 ### Analyse prédictive
 
 L'analyse prédictive examine des données ou des événements pour répondre à la question "Que va-t-il se passer ?" ou plus précisément, "Que risque-t-il de se passer ?".
-"*L'analyse prédictive est prospective, elle utilise les événements passés pour anticiper l'avenir. Les techniques statistiques de l'analyse prédictive comprennent la modélisation des données, l'apprentissage automatique, l'IA, les algorithmes d'apprentissage profond et l'exploration de données.*" [Traduction Deepl] [^5]
+"*L'analyse prédictive est prospective, elle utilise les événements passés pour anticiper l'avenir. Les techniques statistiques de l'analyse prédictive comprennent la modélisation des données, l'apprentissage automatique, l'IA, les algorithmes d'apprentissage profond et l'exploration de données.*" [Traduction DeepL] [^5]
 
 ### L'analyse prescriptive
 
 L'analytique prescriptive répond à la question "Que faut-il faire ?" ou "Comment faire pour que cela se produise ?".
 
-"*L'analyse prescriptive anticipe non seulement ce qui va se produire et quand cela va se produire, mais aussi pourquoi cela va se produire. De plus, l'analytique prescriptive suggère des options de décision sur la façon de profiter d'une opportunité future ou d'atténuer un risque futur et montre l'implication de chaque option de décision*." [Traduction Deepl] [^6]
+"*L'analyse prescriptive anticipe non seulement ce qui va se produire et quand cela va se produire, mais aussi pourquoi cela va se produire. De plus, l'analytique prescriptive suggère des options de décision sur la façon de profiter d'une opportunité future ou d'atténuer un risque futur et montre l'implication de chaque option de décision*." [Traduction DeepL] [^6]
 
 En résumé, plus les outils peuvent être pertinents en tant qu'aide à la prise de décision, plus les technologies de l'information sont complexes et plus elles peuvent être difficiles à expliquer.
 Mais en termes d'aide apportée, l'attention doit être maintenue sur l'explicabilité et la vigilance éventuellement requise dans l'utilisation de l'outil d'AI dans un domaine où les conséquences des décisions sont importantes et durables.
 
-[^1]: "*En outre, des compromis pourraient devoir être faits entre l'amélioration de l'explicabilité d'un système (ce qui pourrait réduire sa précision) ou l'augmentation de sa précision (au prix de l'explicabilité). Chaque fois qu'un système d'IA a un impact significatif sur la vie des gens, il devrait être possible d'exiger une explication appropriée du processus décisionnel du système d'IA. Cette explication devrait être fournie en temps utile et adaptée à l'expertise de la partie prenante concernée (par exemple, un profane, un régulateur ou un chercheur). En outre, des explications sur la mesure dans laquelle un système d'IA influence et façonne le processus décisionnel de l'organisation, les choix de conception du système et les raisons de son déploiement devraient être disponibles (ce qui garantit la transparence du modèle d'entreprise)*". [Traduction Deepl] - Extrait de "[Ethics Guidelines for Trustworthy AI (document en anglais) au sujet de "Explainability"](https://ec.europa.eu/futurium/en/ai-alliance-consultation/guidelines/1.html#Transparency)" (consulté le 16/10/2022).
+[^1]: "*En outre, des compromis pourraient devoir être faits entre l'amélioration de l'explicabilité d'un système (ce qui pourrait réduire sa précision) ou l'augmentation de sa précision (au prix de l'explicabilité). Chaque fois qu'un système d'IA a un impact significatif sur la vie des gens, il devrait être possible d'exiger une explication appropriée du processus décisionnel du système d'IA. Cette explication devrait être fournie en temps utile et adaptée à l'expertise de la partie prenante concernée (par exemple, un profane, un régulateur ou un chercheur). En outre, des explications sur la mesure dans laquelle un système d'IA influence et façonne le processus décisionnel de l'organisation, les choix de conception du système et les raisons de son déploiement devraient être disponibles (ce qui garantit la transparence du modèle d'entreprise)*". [Traduction DeepL] - Extrait de "[Ethics Guidelines for Trustworthy AI (document en anglais) au sujet de "Explainability"](https://ec.europa.eu/futurium/en/ai-alliance-consultation/guidelines/1.html#Transparency)" (consulté le 16/10/2022).
 
 [^2]: Extrait de l'article en anglais de wikipedia ["Explainable artificial intelligence"](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence) (consulté le 16/10/2022).
 
