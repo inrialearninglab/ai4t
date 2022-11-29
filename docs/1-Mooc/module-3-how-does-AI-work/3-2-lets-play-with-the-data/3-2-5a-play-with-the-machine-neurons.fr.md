@@ -21,7 +21,7 @@ Un réseau de neurones est un mécanisme générique composé de petites unités
 
 Les coefficients utilisés pour pondérer la moyenne sont les paramètres de cet algorithme. C'est la combinaison d'un très, très grand nombre de ces unités qui permet de réaliser des opérations très complexes. Un réseau de tels "neurones" est obtenu en accumulant plusieurs couches de ces unités. L'entrée est constituée des données que l'on veut traiter. Elles sont transformées à travers toutes les couches et la dernière couche donne en sortie une prédiction sur ces données, par exemple pour détecter s'il y a un visage dans une image. Le réseau de neurones est donc une fonction paramétrée avec de nombreux coefficients (appelés "poids") et c'est le choix de ces poids qui définit le traitement effectué.
 
-**Où sont les neurones dans TensorFlow?**
+**Où sont les neurones dans TensorFlow ?**
 Sur l'interface web de TensorFlow, on peut facilement créer un réseau d'une dizaine de neurones, chacun ayant entre 3 et 10 paramètres. La sortie calculée dépend donc de centaines de paramètres en plus des deux coordonnées (x,y) du point d'entrée. Sur l'interface, chaque carré représente un neurone et la couleur du pixel de coordonnées (x,y) dans le carré représente la sortie du neurone lorsqu'on met (x,y) en entrée du réseau. S'il n'y a qu'un seul neurone en sortie, il est représenté par un carré plus grand à droite du réseau. Les paramètres du réseau sont initialisés avec des valeurs aléatoires.
 
 **Mais comment apprendre ces poids ?**
