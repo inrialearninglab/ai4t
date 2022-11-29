@@ -6,7 +6,7 @@ type: video
 
 # Vidéo : L'intelligence artificielle à notre service ?
 
-Cette vidéo vise à définir ce qu'est l'explicabilité dans le domaine de l'IA et de ses enjeux. └ savoir, comment une réponse est construite dans un outil d'aide à la décision. Au vu des enjeux de certaines décisions, que ce soit dans le domaine médical ou pour l'orientation des élèves par exemple, la vidéo ouvre le débat sur la question du cadre juridique de l'IA et des informations nécessaires aux utilisateurs pour faire des choix éclairés.
+Cette vidéo vise à définir ce qu'est l'explicabilité dans le domaine de l'IA et de ses enjeux. Savoir, comment une réponse est construite dans un outil d'aide à la décision. Au vu des enjeux de certaines décisions, que ce soit dans le domaine médical ou pour l'orientation des élèves par exemple, la vidéo ouvre le débat sur la question du cadre juridique de l'IA et des informations nécessaires aux utilisateurs pour faire des choix éclairés.
 
 La vidéo propose également un aperçu de la notion d'"explicabilité" sous la forme d'un dessin animé (de 3'45" à 4'30").
 
