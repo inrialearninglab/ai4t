@@ -4,13 +4,13 @@ description: Identifier les différents types de risques
 ---
 
 # D'où vient le risque ?
-Dans son étude sur l'Intelligence Artificielle [^1], le Service de Recherche du Parlement Européen (Scientific Foresight Unit - STOA) a déclaré : "*Il est important de noter que les algorithmes d'IA ne peuvent pas être objectifs parce que, tout comme les gens, au cours de leur formation, ils développent une façon de donner un sens à ce qu'ils ont vu auparavant, et utilisent cette "vision du monde" pour catégoriser les nouvelles situations qui leur sont présentées.*" [Traduction Deepl]
+Dans son étude sur l'intelligence artificielle [^1], le Service de Recherche du Parlement Européen (Scientific Foresight Unit - STOA) a déclaré : "*Il est important de noter que les algorithmes d'IA ne peuvent pas être objectifs parce que, tout comme les gens, au cours de leur formation, ils développent une façon de donner un sens à ce qu'ils ont vu auparavant, et utilisent cette "vision du monde" pour catégoriser les nouvelles situations qui leur sont présentées.*" [Traduction Deepl]
 
 Voyons d'où vient la subjectivité d'une IA et quels sont les risques associés.
 
 ## Le biais dans les données et dans les algorithmes
 
-Comme pour tout système numérique, les données utilisées dans les plateformes basées sur l'IA proviennent de différentes sources et ont des formats multiples. Elles sont porteuses de différents types de biais[^2]. Les biais des données sont principalement d'ordre statistique. Nous allons en énumérer quelques-uns.
+Comme pour tout système numérique, les données utilisées dans les plateformes basées sur de l'IA proviennent de différentes sources et ont des formats multiples. Elles sont porteuses de différents types de biais[^2]. Les biais des données sont principalement d'ordre statistique. Nous allons en énumérer quelques-uns.
 
 - **Le biais de données** est généralement présent dans les valeurs des données. Par exemple, c'est le cas d'un algorithme de recrutement entraîné sur une base de données dans laquelle les hommes sont surreprésentés qui exclura les femmes.
 
