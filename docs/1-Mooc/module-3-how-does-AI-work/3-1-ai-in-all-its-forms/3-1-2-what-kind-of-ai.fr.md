@@ -10,7 +10,7 @@ On trouve de nombreux types d'IA dans la littérature scientifique. Voyons à qu
 - Intelligence artificielle faible  
   C'est l'intelligence artificielle que nous connaissons aujourd'hui : c'est un algorithme qui "apprend", en adaptant ses paramètres aux données d'apprentissage, et qui n'est pas doté de capacités mentales et cognitives, mais qui est capable d'effectuer une tâche spécifique de manière beaucoup plus efficace parfois qu'un être humain.
 - Intelligence artificielle forte  
-  Une intelligence artificielle qui serait capable de copier les aptitudes humaines (apprendre, comprendre, appréhender, raisonner, prendre des décisions, avoir une conscience, des émotions...). Une intelligence artificielle dite "forte", qui serait capable d'être autonome et polyvalente dans des situations inattendues, est un objectif scientifique. Cependant, à l'heure actuelle, certains résultats montrent que cet objectif idéal d'intelligence artificielle forte est techniquement impossible. A ce jour, l'intelligence artificielle forte n'existe pas, c'est une croyance.
+  Une intelligence artificielle qui serait capable de copier les aptitudes humaines (apprendre, comprendre, appréhender, raisonner, prendre des décisions, avoir une conscience, des émotions...). Développer une intelligence artificielle dite "forte", qui serait capable d'être autonome et polyvalente dans des situations inattendues, est un objectif scientifique. Cependant, à l'heure actuelle, certains résultats montrent que cet objectif idéal d'intelligence artificielle forte est techniquement impossible. À ce jour, l'intelligence artificielle forte n'existe pas.
 
 ## Approche symbolique ou apprentissage automatique ?
 
@@ -33,9 +33,9 @@ Au sein de l'intelligence artificielle faible, à quoi font référence les appr
 Au sein des approches d'apprentissage automatique, les systèmes d'IA sont de deux types, selon la manière dont les données sont utilisées pour les former[^2] :
 
 - Apprentissage supervisé  
-  "*L'apprentissage supervisé fait référence à l'utilisation de données étiquetées - telles que des photos indiquant si elles contiennent ou non des chats - pour former des algorithmes. Ces approches conçoivent leurs propres méthodes pour prédire comment les images doivent être étiquetées.*" [Traduction Deepl]
+  "*L'apprentissage supervisé fait référence à l'utilisation de données étiquetées - telles que des photos indiquant si elles contiennent ou non des chats - pour former des algorithmes. Ces approches conçoivent leurs propres méthodes pour prédire comment les images doivent être étiquetées.*" [Traduction DeepL]
 - Apprentissage non supervisé  
-  "*L'apprentissage non supervisé peut être utilisé lorsque des données étiquetées de bonne qualité ne sont pas disponibles. Il excelle dans la découverte de nouveaux groupes et associations au sein de données qui n'auraient pas été identifiées ou étiquetées par des humains. Les étiquettes étant souvent incomplètes ou imprécises, de nombreuses applications, telles que les systèmes de recommandation de contenu, combinent les approches d'apprentissage supervisé et non supervisé*" [Traduction Deepl].
+  "*L'apprentissage non supervisé peut être utilisé lorsque des données étiquetées de bonne qualité ne sont pas disponibles. Il excelle dans la découverte de nouveaux groupes et associations au sein de données qui n'auraient pas été identifiées ou étiquetées par des humains. Les étiquettes étant souvent incomplètes ou imprécises, de nombreuses applications, telles que les systèmes de recommandation de contenu, combinent les approches d'apprentissage supervisé et non supervisé*" [Traduction DeepL].
 
 De nombreux mécanismes d'intelligence artificielle fonctionnent aujourd'hui par apprentissage supervisé. Pour décrire comment cela fonctionne, imaginons que nous voulons apprendre à une intelligence artificielle à reconnaître un chat dans une image.
 
@@ -47,4 +47,4 @@ En fait, de nombreuses applications d'IA utilisent l'apprentissage automatique e
 
 [^1]: [IA et éducation: guide pour les décideurs politiques](https://unesdoc.unesco.org/ark:/48223/pf0000380006) - Miao Fengchun, Holmes Wayne, Ronghuai Huang, Hui Zhang - ISBN : 978-92-3-200244-0 - UNESCO, 2021
 
-[^2]: Etude en anglais: [Artificial intelligence: How does it work, why does it matter, and what can we do about it ?](https://www.europarl.europa.eu/thinktank/en/document/EPRS_STU(2020)641547) - Philip Boucher, Scientific Foresight Unit (STOA) - ISBN: 978-92-846-6770-3 - Union Européenne, 2020
+[^2]: Etude en anglais: [Artificial intelligence: How does it work, why does it matter, and what can we do about it ?](https://www.europarl.europa.eu/thinktank/en/document/EPRS_STU(2020)641547) - Philip Boucher, Scientific Foresight Unit (STOA) - ISBN: 978-92-846-6770-3 - Union européenne, 2020
