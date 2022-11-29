@@ -10,7 +10,7 @@ type: activity
 # Activité : Créons avec l'IA
 ## Détection de l'IA : IA ou humain ?
 
-L'activité suivante consiste à identifier si une image est réelle ou produite par une IA. Cette activité expérimentale est une introduction à la compréhension des GANs (Réseaux Antagonistes Génératifs ou "Generative Adversarial Networks" en anglais). Elle propose de discriminer les vrais portraits des portraits générés par une technologie GAN.
+L'activité suivante consiste à identifier si une image est réelle ou produite par une IA. Cette activité expérimentale est une introduction à la compréhension des GAN (Réseaux Antagonistes Génératifs ou "Generative Adversarial Networks" en anglais). Elle propose de discriminer les vrais portraits des portraits générés par une technologie GAN.
 *Source des images du GAN : https://thispersondoesnotexist.com*
 *Source des images des personnes réelles : https://pixabay.com/en/*
 
