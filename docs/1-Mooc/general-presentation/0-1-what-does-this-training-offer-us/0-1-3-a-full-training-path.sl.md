@@ -21,7 +21,7 @@ Skupno trajanje usposabljanja je načrtovano za 3 mesece v obdobju od novembra 2
 Grafični prikaz včasih pomaga razumeti, kako bo to delovalo.
 
 <figure>
-  <img src="Images/AI4T-Training-pathway.png" alt="AI4T total project duration"/>
+  <img src="Images/AI4T-Training-pathway-en.png" alt="AI4T total project duration"/>
 </figure>
 
 Dobrodošli!

@@ -21,7 +21,7 @@ Die Gesamtdauer der Schulung ist für drei Monate geplant und erstreckt sich üb
 Manchmal hilft eine grafische Darstellung, um zu verstehen, wie es funktionieren wird.
 
 <figure>
-  <img src="Images/AI4T-Training-pathway.png" alt="AI4T total project duration"/>
+  <img src="Images/AI4T-Training-pathway-en.png" alt="AI4T total project duration"/>
 </figure>
 
 Herzlich willkommen!

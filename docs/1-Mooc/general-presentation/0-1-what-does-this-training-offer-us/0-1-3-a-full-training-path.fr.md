@@ -21,7 +21,7 @@ La durée totale de la formation prévue est de 3 mois sur une période allant d
 Une représentation graphique aide à mieux comprendre comment cela va fonctionner.
 
 <figure>
-  <img src="Images/AI4T-Training-pathway.png" alt="AI4T total project duration"/>
+  <img src="Images/AI4T-Training-pathway-fr.png" alt="AI4T total project duration"/>
 </figure>
 
 Bienvenue !

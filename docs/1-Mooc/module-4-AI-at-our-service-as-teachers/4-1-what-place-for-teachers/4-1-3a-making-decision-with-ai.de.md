@@ -12,7 +12,7 @@ Diese kurze Aktivität schlägt vor, die 3 Hauptstufen der Einbeziehung von KI i
 _Klicken Sie auf das Bild unten_
 
 <figure>
-  <img src="Images/VisuelQUIZTypologyofAIinvolveddecisionmaking.jpg" alt="Illustration for Decision Making with AI and Education Activity"/>  
+  <img src="Images/VisuelQUIZTypologyofAIinvolveddecisionmaking-DE.jpg" alt="Illustration for Decision Making with AI and Education Activity"/>  
 </figure>
 
 <center><iframe width="818" height="404" src="4-1-3a-activity-making-decision-with-ai/4-1-3a-decision-making-and-education.html" frameborder="0" allowfullscreen></iframe></center>

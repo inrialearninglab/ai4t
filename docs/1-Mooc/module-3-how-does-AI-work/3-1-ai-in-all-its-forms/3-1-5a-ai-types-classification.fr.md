@@ -12,7 +12,7 @@ Une courte activité pour faire le point sur l'IA symbolique, ce qu'elle peut et
 _Cliquez sur l'image ci-dessous._
 
 <figure>
-  <img src="Images/VisuelQUIZSymbolicAI.jpg" alt="Symbolic AI"/>  
+  <img src="Images/VisuelQUIZSymbolicAI-FR.jpg" alt="Symbolic AI"/>  
 </figure>
 
 <center><iframe width="818" height="404" src="3-1-5a-activity-what-type-of-ai/3-1-5a-Symbolic-AI.html" frameborder="0" allowfullscreen></iframe></center>

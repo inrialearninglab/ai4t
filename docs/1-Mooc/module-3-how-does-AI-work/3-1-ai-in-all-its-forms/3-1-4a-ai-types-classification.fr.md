@@ -12,7 +12,7 @@ Une courte activité pour faire le point sur l'IA numérique (aussi appelée "Ma
 _Cliquez sur l'image ci-dessous_
 
 <figure>
-  <img src="Images/VisuelQUIZDigitalAI.jpg" alt="Digital AI"/>  
+  <img src="Images/VisuelQUIZDigitalAI-FR.jpg" alt="Digital AI"/>  
 </figure>
 
 <center><iframe width="818" height="404" src="3-1-4a-activity-what-type-of-ai/3-1-4a-Digital-AI.html" frameborder="0" allowfullscreen></iframe></center>

@@ -11,7 +11,7 @@ Maintenant que vous avez découvert une première définition de l'IA, faisons c
 **"Accès à l'activité"**  
 Cliquez sur l'image ci-dessous
 <figure>
-  <img src="Images/VisuelQUIZComputerstasksandthe5bigsareasinAI.jpg" alt="Illustration of AI definition quiz"/>  
+  <img src="Images/VisuelQUIZComputerstasksandthe5bigsareasinAI-FR.jpg" alt="Illustration of AI definition quiz"/>  
 </figure>
 
 <center><iframe width="818" height="404" src="2-1-3-Quiz-definition-of-ai/2-1-3-Quiz-5-big-ideas-in-AI.html" frameborder="0" allowfullscreen></iframe></center>

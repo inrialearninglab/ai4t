@@ -12,7 +12,7 @@ Una breve attività per fare il punto sull'IA digitale (chiamata anche "Machine 
 _Clicca sull'immagine qui sotto_
 
 <figure>
-  <img src="Images/VisuelQUIZDigitalAI.jpg" alt="Digital AI"/>  
+  <img src="Images/VisuelQUIZDigitalAI-IT.jpg" alt="Digital AI"/>  
 </figure>
 
 <center><iframe width="818" height="404" src="3-1-4a-activity-what-type-of-ai/3-1-4a-Digital-AI.html" frameborder="0" allowfullscreen></iframe></center>

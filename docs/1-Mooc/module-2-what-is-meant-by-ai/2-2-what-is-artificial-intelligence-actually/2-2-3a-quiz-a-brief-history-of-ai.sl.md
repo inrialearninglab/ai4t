@@ -12,7 +12,7 @@ type: activity
 _Kliknite na spodnjo sliko_
 
 <figure>
-  <img src="Images/VisuelQUIZAbitofHistory.jpg" alt="Illustration to access the Quiz on AI History"/>  
+  <img src="Images/VisuelQUIZAbitofHistory-SI.jpg" alt="Illustration to access the Quiz on AI History"/>  
 </figure>
 
 <center><iframe width="818" height="404" src="2-2-3-Activity-A-bit-of-history/2-2-3-activity-quiz-AI-history.html" frameborder="0" allowfullscreen></iframe></center>

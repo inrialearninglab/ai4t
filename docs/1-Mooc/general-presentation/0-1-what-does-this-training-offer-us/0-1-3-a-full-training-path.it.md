@@ -21,7 +21,7 @@ La durata complessiva della formazione è prevista per 3 mesi in un periodo comp
 Una rappresentazione grafica a volte aiuta a capire come funzionerà.
 
 <figure>
-  <img src="Images/AI4T-Training-pathway.png" alt="AI4T total project duration"/>
+  <img src="Images/AI4T-Training-pathway-en.png" alt="AI4T total project duration"/>
 </figure>
 
 Benvenuti!

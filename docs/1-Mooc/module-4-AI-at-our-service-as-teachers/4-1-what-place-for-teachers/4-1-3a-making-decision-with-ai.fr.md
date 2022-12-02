@@ -12,7 +12,7 @@ Cette courte activité propose de revenir sur les 3 principaux degrés d'implica
 _Cliquez sur l'image ci-dessous_
 
 <figure>
-  <img src="Images/VisuelQUIZTypologyofAIinvolveddecisionmaking.jpg" alt="Illustration for Decision Making with AI and Education Activity"/>  
+  <img src="Images/VisuelQUIZTypologyofAIinvolveddecisionmaking-FR.jpg" alt="Illustration for Decision Making with AI and Education Activity"/>  
 </figure>
 
 <center><iframe width="818" height="404" src="4-1-3a-activity-making-decision-with-ai/4-1-3a-decision-making-and-education.html" frameborder="0" allowfullscreen></iframe></center>

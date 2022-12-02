@@ -21,7 +21,7 @@ The total duration of the training is planned for 3 months over a period from No
 A graphical representation sometimes helps to understand how it is going to work.
 
 <figure>
-  <img src="Images/AI4T-Training-pathway.png" alt="AI4T total project duration"/>
+  <img src="Images/AI4T-Training-pathway-en.png" alt="AI4T total project duration"/>
 </figure>
 
 Welcome!
