@@ -36,7 +36,7 @@ Ces sites sont les sites "officiels" de Duolingo. Certaines informations intére
 Cliquez sur l'image ci-dessous pour télécharger le modèle de caractérisation de l'IA prêt à l'emploi et remplissez-le autant que possible.
 <a href="Documents/AI4T-Template-Ready-to-use-fr.pdf" target="_blank">
 <figure>
-  <img src="Images/Ready-To-Use-AI-Template-FR.png" alt="Un modèle de caractérisation d'IA prêt à l'emploi"/>
+  <img src="Images/Ready-To-Use-AI-Template-FR.jpg" alt="Un modèle de caractérisation d'IA prêt à l'emploi"/>
 </figure></a>
 
 ## Exemple de modèle de caractérisation d'IA complété pour "Duolingo for Schools".
@@ -46,7 +46,7 @@ Si beaucoup d'informations sont accessibles, certaines autres caractéristiques 
 
 <a href="Documents/AI4T-Template-Case-study-Duolingo-fr.pdf" target="_blank">
 <figure>
-  <img src="Images/Template-Duolingo-for-School-FR.png" alt="Completed template for Duolingo for Schools AI-features"/>
+  <img src="Images/Template-Duolingo-for-School-FR.jpg" alt="Completed template for Duolingo for Schools AI-features"/>
 </figure></a>
 
 [^1]: [Présentation en anglais de Duolingo for Schools](https://blog.duolingo.com/duolingo-for-schools/)
