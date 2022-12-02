@@ -36,7 +36,7 @@ To so "uradna" spletna mesta Duolingo. Nekaj zanimivih informacij je mogoče naj
 _Cvrknite na spodnjo sliko, da naložite pripravljeno predlogo za opis značilnosti umetne inteligence in jo čim bolj izpolnite._
 <a href="Documents/AI4T-Template-Ready-to-use-si.pdf" target="_blank">
 <figure>
-  <img src="Images/Ready-To-Use-AI-Template.png" alt="A Ready to Use Template for AI Resources Characterisation"/>
+  <img src="Images/Ready-To-Use-AI-Template-SI.png" alt="A Ready to Use Template for AI Resources Characterisation"/>
 </figure></a>
 
 ## Primer izpolnjene predloge za "Duolingo for Schools"
@@ -46,7 +46,7 @@ Tukaj je primer izpolnjevanja predloge z uporabo informacij, zbranih na zgornjih
 
 <a href="Documents/AI4T-Template-Case-study-Duolingo-si.pdf" target="_blank">
 <figure>
-  <img src="Images/Template-Duolingo-for-School.png" alt="Completed template for Duolingo for Schools AI-features"/>
+  <img src="Images/Template-Duolingo-for-School-SI.png" alt="Completed template for Duolingo for Schools AI-features"/>
 </figure></a>
 
 [^1]: [Presentation of Duolingo for Schools](https://blog.duolingo.com/duolingo-for-schools/)
