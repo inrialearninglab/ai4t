@@ -19,7 +19,7 @@ Il est organisé en différentes couches qui couvrent toutes les caractéristiqu
 _Cliquez sur l'image ci-dessous et découvrez le format prêt à l'emploi du modèle d'analyse des ressources pédagogiques de l'IA._
 
 <a href="./AI4T-Template_Ready_to_use.pdf" target="_blank"><figure>
-  <img src="Images/AI4T-Template-Detective-visual.jpg" alt="A Ready to Use template for AI resources Characterisation"/>
+  <img src="Images/AI4T-Template-Detective-visual-FR.jpg" alt="A Ready to Use template for AI resources Characterisation"/>
 </figure></a>
 
 Le modèle dans un format prêt à l'emploi [^3] peut également être téléchargé et complété pour vos propres outils et ressources pédagogiques en IA.

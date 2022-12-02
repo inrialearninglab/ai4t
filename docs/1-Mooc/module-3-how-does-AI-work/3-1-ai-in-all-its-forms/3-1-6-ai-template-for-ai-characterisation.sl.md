@@ -19,7 +19,7 @@ Organizirana je v različnih plasteh, ki zajemajo vse značilnosti UI, od scenar
 _Cvrknite na spodnjo sliko in si oglejte za uporabo pripravljeno obliko Predloge za analizo izobraževalnih virov umetne inteligence._
 
 <a href="./AI4T-Template_Ready_to_use.pdf" target="_blank"><figure>
-  <img src="Images/AI4T-Template-Detective-visual.jpg" alt="A Ready to Use template for AI resources Characterisation"/>
+  <img src="Images/AI4T-Template-Detective-visual-SI.jpg" alt="A Ready to Use template for AI resources Characterisation"/>
 </figure></a>
 
 Predlogo v obliki, pripravljeni za uporabo[^3], lahko naložite in izpolnite tudi za svoja lastna izobraževalna orodja in vire umetne inteligence.

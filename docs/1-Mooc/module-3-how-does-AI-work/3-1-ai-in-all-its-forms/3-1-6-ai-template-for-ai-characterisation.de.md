@@ -19,7 +19,7 @@ Sie ist in verschiedene Ebenen gegliedert, die alle Merkmale der AIER abdecken, 
 _Klicken Sie auf das Bild unten und sehen Sie sich das gebrauchsfertige Format der Vorlage für die Analyse von KI-Bildungsressourcen an._
 
 <a href="./AI4T-Template_Ready_to_use.pdf" target="_blank"><figure>
-  <img src="Images/AI4T-Template-Detective-visual.jpg" alt="A Ready to Use template for AI resources Characterisation"/>
+  <img src="Images/AI4T-Template-Detective-visual-DE.jpg" alt="A Ready to Use template for AI resources Characterisation"/>
 </figure></a>
 
 Die Vorlage in einem gebrauchsfertigen Format[^3] kann auch hochgeladen und für Ihre eigenen KI-Bildungsinstrumente und -ressourcen ausgefüllt werden.

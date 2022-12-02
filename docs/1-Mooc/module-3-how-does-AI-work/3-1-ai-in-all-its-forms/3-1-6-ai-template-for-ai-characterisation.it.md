@@ -19,7 +19,7 @@ Il Laboratorio di ricerca LORIA[^1] ha progettato un modello per la caratterizza
 _Cliccate sull'immagine qui sotto e date un'occhiata al formato pronto all'uso del Template per l'analisi delle risorse educative di IA._
 
 <a href="./AI4T-Template_Ready_to_use.pdf" target="_blank"><figure>
-  <img src="Images/AI4T-Template-Detective-visual.jpg" alt="A Ready to Use template for AI resources Characterisation"/>
+  <img src="Images/AI4T-Template-Detective-visual-IT.jpg" alt="A Ready to Use template for AI resources Characterisation"/>
 </figure></a>
 
 Il modello in formato pronto all'uso[^3] può anche essere caricato e compilato per i propri strumenti e risorse educative di IA.
