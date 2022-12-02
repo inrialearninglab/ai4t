@@ -21,9 +21,9 @@ In diesem Tutorial sind 7 sehr kurze pädagogische Videos eingefügt, die die Tu
 
 
 **Sie sind dran!**  
-_Klicken Sie auf das Bild unten und lassen Sie sich von uns führen!_ 
+_Klicken Sie auf das Bild unten und lassen Sie sich von uns führen!_
 
-<a href="https://pixees.fr/classcodeiai/app/tuto2?lang=en" target="_blank"><figure>
+<a href="https://pixees.fr/classcodeiai/app/tuto2?lang=de" target="_blank"><figure>
   <img src="Images/IA-M.2.1.2.png" />
   <figcaption> Tutorial2: Boosted with AI </figcaption>
 </figure></a>

@@ -23,7 +23,7 @@ In questo tutorial sono inseriti 7 brevissimi video pedagogici che rendono le es
 **È il tuo turno!**  
 _Cliccate sull'immagine qui sotto e lasciatevi guidare!_
 
-<a href="https://pixees.fr/classcodeiai/app/tuto2?lang=en" target="_blank"><figure>
+<a href="https://pixees.fr/classcodeiai/app/tuto2?lang=it" target="_blank"><figure>
   <img src="Images/IA-M.2.1.2.png" />
   <figcaption> Tutorial2: Boosted with AI </figcaption>
 </figure></a>

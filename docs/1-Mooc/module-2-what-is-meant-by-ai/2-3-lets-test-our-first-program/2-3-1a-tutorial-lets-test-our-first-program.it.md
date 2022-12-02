@@ -20,6 +20,6 @@ Addestrate un'intelligenza artificiale!
 **Come funziona un programma AI?**  
 _Cliccate sull'immagine sottostante e lasciatevi guidare!_
 
-<a href="https://pixees.fr/classcodeiai/app/tuto1?lang=en" target="_blank"><figure>
+<a href="https://pixees.fr/classcodeiai/app/tuto1?lang=it" target="_blank"><figure>
   <img src="Images/Tuto-M1-FirstProgram.png" />
 </figure></a>
