@@ -20,14 +20,14 @@ Chaque outil ou ressource pédagogique spécifique basé sur l'IA possède ses p
 
 Prenons quelques exemples :
 
-- **Système de tutorat basé sur le dialogue**, en tant que service d'enseignement aux étudiants.
+- **Système de tutorat basé sur le dialogue**, en tant que service d'enseignement aux apprenants.
 De tels systèmes sont susceptibles d'utiliser : des techniques de **communication** telles que le traitement du langage naturel pour la compréhension et la génération de la parole et du langage et des techniques de **raisonnement** à des fins de tutorat.
 
-- **Recommandation de cours**, en tant que service de soutien aux étudiants.
+- **Recommandation de cours**, en tant que service de soutien aux apprenants.
 Comme pour les offres commerciales personnalisées et les fonctions de recommandation que l'on peut trouver sur Internet, les systèmes de recommandation de cours sont probablement basés sur des techniques d'apprentissage automatique en analysant les données actuelles pertinentes liées au parcours d'apprentissage de l'étudiant et en identifiant les similitudes avec des parcours d'apprentissage généralisés antérieurs.
 
 - **Détection de l'attention et des émotions de l'étudiant**, en tant que service d'aide à l'enseignant.
-Un tel système est susceptible d'utiliser des techniques de **perception** (vision par ordinateur pour la reconnaissance faciale, par exemple) et des techniques d'**apprentissage automatique** pour analyser les expressions faciales ou le comportement de l'étudiant, si ces informations sont collectées et analysées.
+Un tel système est susceptible d'utiliser des techniques de **perception** (vision par ordinateur pour la reconnaissance faciale, par exemple) et des techniques d'**apprentissage automatique** pour analyser les expressions faciales ou le comportement de l'apprenant, si ces informations sont collectées et analysées.
 
 
 [^1]: AI Watch - Defining Artificial Intelligence - 2.0. Towards an operational definition and taxonomy for the AI landscape - Samoili, S., López Cobo, M., Delipetrev, B., Martínez-Plumed, F., Gómez, E., and De Prato, G. - EUR 30873 EN, Publications Office of the European Union, Luxembourg, 2021, ISBN 978-92-76-42648-6, doi:10.2760/019901, JRC126426.
