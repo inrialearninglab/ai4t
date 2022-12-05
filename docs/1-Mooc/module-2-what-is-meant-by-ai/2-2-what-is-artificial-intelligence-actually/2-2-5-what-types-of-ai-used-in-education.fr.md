@@ -4,7 +4,7 @@ description: Les systèmes d'IA existants, leurs utilisations potentielles ou ex
 ---
 # Quels types d'applications de l'IA en éducation ?
 
-Parmi les classifications possibles des domaines scientifiques de l'IA, le tableau suivant présente une taxonomie de l'IA[^1] en fonction des fonctions de la famille que peut remplir l'IA.
+Parmi les classifications possibles des domaines scientifiques de l'IA, le tableau suivant présente une taxonomie de l'IA[^1] par rapport aux fonctions de la famille que peut remplir l'IA.
 <figure>
   <img src="Images/AI-Taxonomy-Samoli-al-2021.png" alt="Image of AI Taxonomy"/>  
 </figure>
