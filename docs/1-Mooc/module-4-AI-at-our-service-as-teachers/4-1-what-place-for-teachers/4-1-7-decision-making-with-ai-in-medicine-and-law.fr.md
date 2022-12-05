@@ -4,7 +4,7 @@ description: Découvrez des domaines au-delà de l'éducation où les systèmes 
 ---
 # Prise de décision avec l'IA dans les domaines de la médecine et de la justice
 
-Lorsqu'il s'agit d'aide à la prise de décision, deux domaines ont déjà une histoire avec l'utilisation de l'IA : le droit et la médecine.  
+Lorsqu'il s'agit d'aide à la prise de décision, deux domaines ont déjà une histoire avec l'utilisation de l'IA : la médecine et le droit.  
 Compte tenu de l'importance des décisions prises dans ces domaines, ce sont des exemples intéressants à étudier.
 
 ## IA et médecine
