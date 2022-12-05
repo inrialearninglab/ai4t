@@ -9,7 +9,7 @@ description: Comprendre la classification des risques liés à l'utilisation de 
 La **proposition de cadre réglementaire sur l'intelligence artificielle**[^1] mise en place par la Commission européenne (CE) en 2021 identifie quatre niveaux de risque liés à l'utilisation des systèmes d'IA. Il est rappelé que "*Si la plupart des systèmes d'IA présentent un risque limité, voire nul, et peuvent contribuer à résoudre de nombreux défis sociétaux, certains systèmes d'IA créent des risques que nous devons traiter pour éviter des résultats indésirables*". [Traduction Deepl]  
 En mettant l'accent sur le fait que "*il n'est souvent pas possible de savoir pourquoi un système d'IA a pris une décision ou fait une prédiction et entrepris une action particulière. Il peut donc s'avérer difficile de déterminer si une personne a été injustement désavantagée, par exemple lors d'une décision d'embauche ou d'une demande de prestations publiques "*. [Traduction Deepl]
 
-Quatre niveaux de risque ont été identifiés, de minimal à inacceptable :
+Quatre niveaux de risque ont été identifiés, de inacceptable à minimal:
 
 1. **Risque inacceptable** : Tous les systèmes d'IA considérés comme une menace claire pour la sécurité, les moyens de subsistance et les droits des personnes seront interdits, du marquage social par les gouvernements aux jouets utilisant une assistance vocale qui encourage les comportements dangereux.  
 
