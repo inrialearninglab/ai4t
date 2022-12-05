@@ -8,7 +8,7 @@ type: video
 # Vidéo : Qu'est-ce que l'intelligence artificielle ?
 
 Cette vidéo traite l'intelligence biologique afin d'aider à définir l'intelligence artificielle dans ses approches symboliques et numériques. Elle souligne que toutes les intelligences artificielles que nous rencontrons dans la vie réelle ne sont que techniques et dédiées à des tâches spécifiques !
-La vidéo a une approche est générale et elle peut être utilisée en classe.
+La vidéo a une approche générale et elle peut être utilisée en classe.
 
 #### Synopsis
 Le personnage principal _Guillaume_ énumère les nombreuses applications ou outils qui utilisent des algorithmes et souligne leur place dans notre vie quotidienne. Il commence par s'interroger sur les ordinateurs et l'informatique, ce qui l'amène à poser la question suivante : "*Nos ordinateurs sont-ils devenus intelligents ou non ?*".  
