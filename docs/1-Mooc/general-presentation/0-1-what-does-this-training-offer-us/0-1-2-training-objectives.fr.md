@@ -29,7 +29,7 @@ L'idée est d'offrir aux enseignants la possibilité d'identifier, de tester et 
 
 Il s'agit également d'apprécier l'intégration des outils d'IA dans le cadre plus large et plus complexe du parcours d'apprentissage de l'élève. Comme nous le savons tous, l'ajout du micro-learning n'est pas automatique. L'utilisation de l'IA pour l'apprentissage spécifique est utile. Elle permet d'analyser des traces d'apprentissage sur des objets assez simples, ou d'utiliser de manière optimale les courbes d'oubli par exemple, mais elle ne remplace pas le contact et l'appréciation de l'enseignant dans sa relation quotidienne avec les élèves, qui joue aussi un rôle dans l'apprentissage dans la durée.
 
-Le troisième niveau invite les participants à ne pas rester focalisés uniquement sur les questions techniques ou l'apprentissage des enseignements, mais aussi à **échanger au sein de son établissement avec ses collègues et la direction**, et à partager les missions de l'École, dont la première est le vivre ensemble, l'équité et le respect des droits humains.
+Le troisième niveau invite les participants à ne pas rester focalisés uniquement sur les questions techniques ou l'apprentissage des enseignements, mais aussi à **échanger au sein de son établissement avec ses collègues et la direction**, et à partager autour des évolutions générées par l'IA dans les missions de l'École.
 
 Comme dans toute action éducative, la dimension éthique est une composante transversale. L'IA la met d'autant plus en exergue que ses champs d'application - en particulier en éducation - restent à définir et ses effets à étudier.
 
