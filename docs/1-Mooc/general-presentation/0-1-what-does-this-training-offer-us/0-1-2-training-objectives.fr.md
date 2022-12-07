@@ -34,7 +34,7 @@ Le troisième niveau invite les participants à ne pas rester focalisés uniquem
 Comme dans toute action éducative, la dimension éthique est une composante transversale. L'IA la met d'autant plus en exergue que ses champs d'application - en particulier en éducation - restent à définir et ses effets à étudier.
 
 ---
-<span style="color:#EE147F">**Les Lignes directrices  éthique sur l'utilisation de l'intelligence artificielle (IA) et des données dans l'enseignement à destination des éducateurs**</span>.  
+<span style="color:#EE147F">**Les Lignes directrices européennes concernant l'éthique sur l'utilisation de l'intelligence artificielle (IA) et des données dans l'enseignement à destination des éducateurs**</span>.  
 Dans le cadre de la recherche et du développement de la culture numérique, le projet propose d'utiliser les Lignes directrices  éthique sur l'utilisation de l'intelligence artificielle comme support pour une première réflexion sur les usages éclairés de l'IA.
 ---
 <span style="color:#EE147F">**Attention : Pour la phase d'expérimentation à grande échelle, certaines informations peuvent compléter cette introduction générale, concernant par exemple l'âge des élèves visés et les disciplines sélectionnées**.</span>
