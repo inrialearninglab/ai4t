@@ -7,6 +7,6 @@ Sur les différentes plateformes d'apprentissage (LMS ou CMS) utilisées par les
 
 Toutes les traces collectées liées aux parcours d'apprentissage sont pseudo-anonymisées afin d'empêcher l'identification des apprenants, conformément aux principes du RGPD.
 
-Par ailleurs, ce suivi n'est jamais réalisé dans le but d'évaluer les participants mais est utilisé uniquement à des fins d'expérimentation et de recherche dans le cadre de la présente expérimentation.
+Par ailleurs, ce suivi n'est jamais réalisé dans le but d'évaluer les participants mais est utilisé uniquement à des fins d'amélioration et de recherche dans le cadre de la présente expérimentation.
 
 Cette expérimentation est menée pendant la phase d'expérimentation à grande échelle du projet AI4T de janvier 2023 à mars 2023.
