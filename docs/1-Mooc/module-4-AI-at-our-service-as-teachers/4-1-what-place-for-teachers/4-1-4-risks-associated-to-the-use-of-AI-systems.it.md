@@ -28,7 +28,7 @@ Sono stati individuati quattro livelli di rischio, da minimo a inaccettabile:
 4. **Rischio minimo o nullo**: La proposta consente il libero utilizzo dell'IA a rischio minimo. Ciò include applicazioni come i videogiochi abilitati all'IA o i filtri antispam. La grande maggioranza dei sistemi di IA attualmente utilizzati nell'UE rientra in questa categoria.
 
 <figure>
-<img src="Images/AI-Risks-EC.png" alt="Representation of AI Risks by the European Commission.">
+<img src="Images/AI-Risks-EC-EN.png" alt="Representation of AI Risks by the European Commission.">
 <figcaption>I 4 livelli di rischio dell'intelligenza artificiale proposti dalla legge sull'intelligenza artificiale della CE.</figcaption>
 </figure>
 
