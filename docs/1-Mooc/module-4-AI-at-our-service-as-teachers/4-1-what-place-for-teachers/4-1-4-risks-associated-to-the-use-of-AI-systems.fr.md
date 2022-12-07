@@ -30,7 +30,7 @@ Quatre niveaux de risque ont été identifiés, de inacceptable à minimal:
 
 <figure>
 <img src="Images/AI-Risks-EC-FR.jpg" alt="Adapation de la representation des risque de l'IA (AI Risks) propoposé la Commission Européenne.">
-<figcaption>The proposed 4 levels of Artificial Intelligence risks of the AI Act of the EC.</figcaption>
+<figcaption>Les 4 niveaux risques liés à l'intelligence artificielle exposés dans la législation sur l'IA de la Commission européenne.</figcaption>
 </figure>
 
 Le classement de l'enseignement et de la formation professionnelle dans la catégorie à haut risque ne signifie pas qu'aucun système d'IA ne doit être utilisé dans ces domaines, mais que des précautions supplémentaires doivent être prises. Le cadre mentionné précédemment indique que "*les systèmes d'IA à haut risque seront soumis à des obligations strictes avant de pouvoir être mis sur le marché "*. [Traduction Deepl]
