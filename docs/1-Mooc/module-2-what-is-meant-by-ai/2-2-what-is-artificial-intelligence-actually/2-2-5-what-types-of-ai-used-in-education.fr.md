@@ -26,7 +26,7 @@ De tels systèmes sont susceptibles d'utiliser : des techniques de **communicati
 - **Recommandation de cours**, en tant que service de soutien aux apprenants.
 Comme pour les offres commerciales personnalisées et les fonctions de recommandation que l'on peut trouver sur Internet, les systèmes de recommandation de cours sont probablement basés sur des techniques d'apprentissage automatique en analysant les données actuelles pertinentes liées au parcours d'apprentissage de l'étudiant et en identifiant les similitudes avec des parcours d'apprentissage généralisés antérieurs.
 
-- **Détection de l'attention et des émotions de l'étudiant**, en tant que service d'aide à l'enseignant.
+- **Détection de l'attention et des émotions de l'étudiant**, en tant que service d'aide à l'enseignant. << ce point doit être repris et délimité au seul maintien de l'engagement de l'élève >>
 Un tel système est susceptible d'utiliser des techniques de **perception** (vision par ordinateur pour la reconnaissance faciale, par exemple) et des techniques d'**apprentissage automatique** pour analyser les expressions faciales ou le comportement de l'apprenant, si ces informations sont collectées et analysées.
 
 
