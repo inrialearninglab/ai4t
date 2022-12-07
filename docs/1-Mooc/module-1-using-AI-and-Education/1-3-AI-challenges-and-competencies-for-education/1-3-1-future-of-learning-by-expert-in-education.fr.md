@@ -42,7 +42,7 @@ Holmes &amp; al. [^2] ont classé les différents types de systèmes actuels bas
 
 ## Défis liés à l'IA et éducation
 
-Ces technologies émergentes de l'IA doivent également être remises en question dans le contexte de l'utilisation de l'éducation. Pour exploiter les opportunités et atténuer les risques potentiels de l'IA en éducation, les défis suivants ont été identifiés dans le rapport de Fengchun &amp; al. UNESCO, 2021 :
+Ces technologies émergentes de l'IA doivent également être questionnées dans le contexte de l'utilisation de l'éducation. Pour exploiter les opportunités et atténuer les risques potentiels de l'IA en éducation, les défis suivants ont été identifiés dans le rapport de Fengchun &amp; al. UNESCO, 2021 :
 
 1.  **Comment l'IA peut-elle être utilisée pour améliorer l'éducation ?**
 
