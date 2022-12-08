@@ -22,7 +22,7 @@ Dans ce tutoriel sont insérées 7 vidéos pédagogiques très courtes qui rende
 
 **À votre tour!**
 _Cliquez sur l'image ci-dessous et laissez-nous vous guider !_
-
+ 
 <a href="https://pixees.fr/classcodeiai/app/tuto2/" target="_blank"><figure>
   <img src="Images/IA-M.2.1.2.png" />
   <figcaption> Tutorial2: Boosted with AI </figcaption>
