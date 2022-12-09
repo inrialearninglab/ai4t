@@ -50,7 +50,7 @@ Figure 2 : Classification de l'utilisation de l'analyse des données, de la desc
 
 Dans les 4 catégories suivantes, on peut noter la corrélation entre la complexité des méthodes utilisées et les résultats stratégiques.
 
-### Analytique descriptive
+### Analyse descriptive
 
 L'analyse descriptive examine les données pour répondre à la question "Que s'est-il passé ?".
 Les résultats peuvent être fournis sous la forme de "*résumés simples sur l'échantillon et sur les observations qui ont été faites. Ces résumés peuvent être quantitatifs ou visuels, c'est-à-dire des graphiques simples à comprendre*" [Traduction DeepL] [^4]. Il est basé sur des outils traditionnels sans IA.
