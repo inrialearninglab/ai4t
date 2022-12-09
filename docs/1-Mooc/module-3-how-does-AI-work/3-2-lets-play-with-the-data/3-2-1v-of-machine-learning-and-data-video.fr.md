@@ -17,7 +17,7 @@ La vidéo propose également un aperçu de certains concepts d'apprentissage aut
 - Réseaux neuronaux et apprentissage profond : de 3'23" à 5'12".
 
 ####Synopsis
-La vidéo présente les différentes approches de l'apprentissage. D'une part l'approche symbolique et d'autre part l'approche numérique.
+La vidéo présente les différentes approches de l'apprentissage machine. D'une part l'approche symbolique et d'autre part l'approche numérique.
 La vidéo décrit ensuite l'apprentissage automatique avec ses deux principaux modes de fonctionnement : l'apprentissage supervisé et l'apprentissage par renforcement. On aborde ensuite l'apprentissage profond (ou réseau de neurones profonds), qui est l'une des modalités de l'apprentissage automatique et qui s'inspire du fonctionnement du cerveau.  
 En plus des algorithmes, évoqués au début de la vidéo, _Guillaume_ rappelle l'importance des données. Car ces données doivent être nombreuses, et correctement étiquetées, pour permettre aux IA d'apprendre correctement, et de faire des prédictions satisfaisantes. C'est l'occasion de revenir sur la " fabrication" des données et ses enjeux.
 Dans sa dernière partie, la vidéo aborde enfin l'impact environnemental de l'IA.

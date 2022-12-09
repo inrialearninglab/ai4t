@@ -21,10 +21,9 @@ Dans la vidéo suivante, Alain Thillay, expert national français en éducation 
 
 ## Utilisation éthique de l'intelligence artificielle en éducation : défis européens  
 _Regardez la vidéo ci-dessous (6'14")_
-____________________
 
 <center><iframe width="640" height="360" src="https://www.youtube.com/embed/Gfzvo1bGkyI?rel=0&showinfo=0&cc_load_policy=1&hl=fr&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
-____________________
+
 
 ## Lignes directrices éthiques sur l'utilisation de l'IA et des données dans l'enseignement et l'apprentissage.
 

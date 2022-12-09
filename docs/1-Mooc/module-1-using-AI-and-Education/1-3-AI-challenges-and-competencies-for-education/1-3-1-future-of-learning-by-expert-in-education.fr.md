@@ -81,7 +81,7 @@ Les auteurs du rapport du Centre commun de recherche soulignent qu'en plus des c
 Un défi spécifique d'introduction de l'IA en éducation et de préparation des étudiants à un contexte alimenté par l'IA a été présenté par l'UNESCO en 2019[^10]:
 "*Préparer les enseignants à une éducation alimentée par l'IA tout en préparant l'IA à comprendre l'éducation, ce qui doit néanmoins être un chemin à double sens : les enseignants doivent acquérir de nouvelles compétences numériques pour utiliser l'IA de manière pédagogique et significative et les développeurs d'IA doivent apprendre comment les enseignants travaillent et créer des solutions durables dans des environnements réels.*"
 
-Dans les modules suivants de ce cours nous entendons aider à comprendre ce qu'est l'IA et ses technologies sous-jacentes, à prendre conscience des avantages et des risques pour agir de manière informée et efficace en tant qu'enseignant et à s'interroger sur l'impact des systèmes d'IA sur l'apprentissage, l'enseignement et l'éducation.
+Dans les modules suivants de ce cours nous entendons aider à comprendre ce qu'est l'IA et ses technologies sous-jacentes, à prendre conscience des avantages et des limites pour agir de manière informée et efficace en tant qu'enseignant et à s'interroger sur l'impact des systèmes d'IA sur l'apprentissage, l'enseignement et l'éducation.
 
 [^1]: L'IA et l'éducation : Guide pour les décideurs - Miao Fengchun, Holmes Wayne, Ronghuai Huang, Hui Zhang - ISBN : 978-92-3-100447-6 - UNESCO, 2021
 
