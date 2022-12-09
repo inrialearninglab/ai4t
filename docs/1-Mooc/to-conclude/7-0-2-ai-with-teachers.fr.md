@@ -8,16 +8,16 @@ contributor:  Colin de la Higuera
 
 Vous parcourez la formation en ligne ou bien vous l'avez terminée et avez compris en quoi l'IA est utile pour l'éducation. Peut-être est-ce suffisant pour vous ou, peut-être, avez-vous encore plus de questions maintenant.
 
-Voulez-vous en savoir un peu plus sur le fonctionnement des outils de l'IA pour l'Education ? Vous voulez comprendre pourquoi la langue est un sujet important pour l'IA ?
+Voulez-vous en savoir un peu plus sur le fonctionnement des outils de l'IA pour l'éducation ? Vous voulez comprendre pourquoi la langue est un sujet important pour l'IA ?
 
-Vous avez peut-être compris que les conséquences de l'IA en éducation vont bien au-delà de l'arrivée de quelques nouvelles applications fantaisistes : comment faire pour les examiner ? Comment s'assurer que l'enseignant est dans la boucle ?
+Vous avez peut-être compris que les conséquences de l'IA en éducation vont bien au-delà de l'arrivée de quelques nouvelles applications fantaisistes : comment faire pour les analyser ? Comment s'assurer que l'enseignant est dans la boucle ?
 
 Si ce sont quelques-unes des questions que vous aimeriez voir abordées, venez explorer le manuel "l'IA avec les enseignants" préparé par l'équipe AI4T.  
-Mais ne soyez pas déçu si, une fois de plus, vous vous retrouvez avec encore plus de questions ! Si vous avez le sentiment d'avoir mieux compris vos questions, nous pensons que nous aurons réussi quelque chose.
+Mais ne soyez pas déçu si, une fois de plus, vous vous retrouvez avec encore plus de questions ! Si vous avez le sentiment d'avoir trouvé des réponses à vos questions, nous pensons que nous aurons réussi quelque chose.
 
 ## Le Manuel "l'IA pour les enseignants"
 
-L'objectif du manuel "l'IA avec les enseignants est de faire un pas de plus pour la sensibilisation des enseignants à l'IA et à son rôle dans votre classe : de toutes les bonnes choses qu'elle pourrait faire, de l'impact qu'elle aura probablement et, tout aussi important, de la prudence dont nous devons faire preuve.
+L'objectif du manuel "l'IA avec les enseignants est de faire un pas de plus pour la sensibilisation des enseignants à l'IA et au rôle  que celle-ci peut jouer dans votre classe : de toutes les bonnes choses qu'elle pourrait apporter, de l'impact qu'elle aura probablement et, tout aussi important, de la prudence dont nous devons faire preuve.
 
 Le manuel est organisé autour de 6 chapitres principaux. En voici une brève description :
 
