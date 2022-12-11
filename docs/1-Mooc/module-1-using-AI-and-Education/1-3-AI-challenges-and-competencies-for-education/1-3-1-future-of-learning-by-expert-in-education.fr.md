@@ -52,11 +52,11 @@ Ces technologies émergentes de l'IA doivent également être questionnées dans
 
     "*De nombreuses applications d'IA destinées aux enseignants visent à aider ces derniers à réduire leur charge de travail en automatisant des tâches telles que l'évaluation, la détection du plagiat, l'administration et le retour d'information. Il est souvent dit que cela devrait permettre aux enseignants de libérer du temps qu'ils pourront investir dans d'autres tâches, telles que l'apport d'un soutien plus efficace à chaque élève.*"
 
-2.  **Comment pouvons-nous garantir l'utilisation éthique, inclusive et équitable de l'IA en éducation?**.
+2.  **Comment pouvons-nous garantir l'utilisation éthique, inclusive et équitable de l'IA en éducation ?**
 
     "*L'utilisation éthique, inclusive et équitable de l'IA en éducation a un impact sur chacun des objectifs de développement durable. Il existe des questions centrées sur les données et les algorithmes, sur les choix pédagogiques, sur l'inclusion et la "fracture numérique", sur le droit des enfants à la vie privée, à la liberté et au développement sans entrave, et sur l'équité en termes de genre, de handicap, de statut social et économique, d'origine ethnique et culturelle, et de localisation géographique.*"
 
-3.  **Comment l'éducation peut-elle préparer les humains à vivre et à travailler avec l'IA?**
+3.  **Comment l'éducation peut-elle préparer les humains à vivre et à travailler avec l'IA ?**
 
     "*Si le monde veut s'assurer que l'IA n'exacerbe pas les inégalités existantes, il sera de plus en plus important que chaque citoyen ait la possibilité de développer une solide compréhension de l'IA - ce qu'elle est, comment elle fonctionne et comment elle pourrait avoir un impact sur sa vie. C'est ce qu'on appelle parfois la "culture de l'IA". Pour cela, les enseignants joueront un rôle clé.*"
 
