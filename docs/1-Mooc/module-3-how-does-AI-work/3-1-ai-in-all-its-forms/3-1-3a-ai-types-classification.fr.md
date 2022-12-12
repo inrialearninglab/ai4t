@@ -6,7 +6,7 @@ type: activity
 
 # Activité : Classification des types d'IA  
 
-Dans l'activité suivante, vous devrez identifier les différents types d'IA et les relations entre eux.
+Dans l'activité suivante, vous devrez identifier les différents types d'IA et leurs relations.
 
 **"Accès à l'activité"**  
 Cliquez sur l'image ci-dessous

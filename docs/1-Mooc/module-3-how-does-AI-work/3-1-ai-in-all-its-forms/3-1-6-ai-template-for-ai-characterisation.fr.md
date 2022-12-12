@@ -10,7 +10,7 @@ contributor:  Jiajun Pan
 
 Bien que les ressources éducatives en intelligence artificielle -AIERs- soient de plus en plus courantes, il n'existe actuellement aucun outil permettant de cartographier de manière exhaustive les caractéristiques des AIERs et d'aider les utilisateurs à faire un usage éclairé de ces ressources.
 
-Le laboratoire de recherche LORIA[^1] a spécifiquement conçu un modèle de caractérisation de l'IA[^2] aux niveaux scientifique, technique, réglementaire et éthique pour aider les enseignants à mieux comprendre les ressources qu'ils ou leurs élèves utilisent.
+Le laboratoire de recherche LORIA[^1] a spécifiquement conçu un modèle de caractérisation de l'IA[^2] aux niveaux scientifique, technique, réglementaire et éthique pour aider les enseignants à mieux comprendre les ressources basées sur IA utilisables par les professeurs et les élèves.
 
 Il est organisé en différentes couches qui couvrent toutes les caractéristiques de l'IA, des scénarios d'utilisation au mécanisme de transparence pour expliquer la décision proposée par l'IA.
 
