@@ -5,7 +5,7 @@ type: video
 ---
 # Vidéo : Boosté par l'IA !
 
-Cette vidéo généraliste donne un aperçu de toutes les utilisations que l'on peut faire de l'IA, dont certaines sont plutôt inattendues.
+Cette vidéo généraliste donne un aperçu des utilisations que l'on peut faire de l'IA, dont certaines sont plutôt inattendues.
 Avec une approche générale sur un ton humoristique, cette ressource peut être utilisée en classe.
 
 #### Synopsis
