@@ -4,9 +4,9 @@ description: Une vidéo spécifiquement dédiée à l'apprentissage automatique 
 type: video
 ---
 # Vidéo : De l'apprentissage automatique et des données
-Cette vidéo est plus spécifiquement dédiée à l'apprentissage automatique. Elle reste une vidéo généraliste, avec un ton humoristique, et peut être utilisée en classe.
+Cette vidéo est plus spécifiquement dédiée à l'apprentissage automatique. En restant généraliste et avec un ton humoristique cette vidéo peut être utilisée en classe.
 
-La vidéo propose également un aperçu de certains concepts d'apprentissage automatique sous la forme d'un dessin animé :
+La vidéo propose un aperçu de certains concepts d'apprentissage automatique sous la forme d'un dessin animé :
 
 - L'apprentissage automatique : de 0'55" à 1'50".
 
@@ -19,8 +19,8 @@ La vidéo propose également un aperçu de certains concepts d'apprentissage aut
 Synopsis
 
 La vidéo présente les différentes approches de l'apprentissage machine. D'une part l'approche symbolique et d'autre part l'approche numérique.
-La vidéo décrit ensuite l'apprentissage automatique avec ses deux principaux modes de fonctionnement : l'apprentissage supervisé et l'apprentissage par renforcement. On aborde ensuite l'apprentissage profond (ou réseau de neurones profonds), qui est l'une des modalités de l'apprentissage automatique et qui s'inspire du fonctionnement du cerveau.  
-En plus des algorithmes, évoqués au début de la vidéo, _Guillaume_ rappelle l'importance des données. Car ces données doivent être nombreuses, et correctement étiquetées, pour permettre aux IA d'apprendre correctement, et de faire des prédictions satisfaisantes. C'est l'occasion de revenir sur la " fabrication" des données et ses enjeux.
+La vidéo décrit ensuite l'apprentissage automatique avec ses deux principaux modes de fonctionnement : l'apprentissage supervisé et l'apprentissage par renforcement. On aborde ensuite l'apprentissage profond (ou réseau de neurones profonds), qui est l'une des modalités de l'apprentissage automatique et qui s'inspire d'une modélisation du fonctionnement du cerveau.  
+En plus des algorithmes, évoqués au début de la vidéo, _Guillaume_ rappelle l'importance des données. Ces données doivent être nombreuses, et correctement étiquetées, pour permettre aux IA d'apprendre correctement, et pour réaliser des prédictions satisfaisantes. C'est l'occasion de revenir sur la " fabrication" des données et ses enjeux.
 Dans sa dernière partie, la vidéo aborde enfin l'impact environnemental de l'IA.
 
 
