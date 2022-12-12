@@ -9,9 +9,9 @@ type: activity
 ---
 
 # Activité : Boosté par l'IA ?
-Il n'y a pas de meilleure façon de comprendre le fonctionnement de l'apprentissage automatique et de l'entraînement des programmes que de comprendre comment préparer correctement votre ensemble de données.
+Il n'y a pas de meilleure façon de comprendre le fonctionnement de l'apprentissage automatique et de l'entraînement des programmes qu'en étudiant comment préparer correctement votre ensemble de données.
 
-Dans ce tutoriel sont insérées 7 vidéos pédagogiques très courtes qui rendent le tutoriel utilisable avec un public de lycéens (ou d'étudiants) si on le souhaite.
+Dans ce tutoriel sont insérées sept courtes vidéos pédagogiques qui rendent le tutoriel utilisable avec un public de lycéens (ou d'étudiants) si on le souhaite.
 
 **_Note1_** : Ce tutoriel ne stocke aucune donnée personnelle. Les images sont traitées localement sur la machine de l'utilisateur. Il peut être utilisé avec les navigateurs suivants : Edge, Chrome, Mozilla, Safari, Opera.
 
