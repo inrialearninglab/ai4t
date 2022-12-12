@@ -13,7 +13,7 @@ xmlTemplate = """<?xml version="1.0"?>
     <dc:description>{description}</dc:description>
     <dc:publisher>AI4T</dc:publisher>
     <dc:contributor>AI4T</dc:contributor>{contributor}
-    <dc:date>{date}</dc:date>
+    <dc:date>2022-11-15</dc:date>
     <dc:rights>cc by 4.0</dc:rights>
     <dc:language>{lang}</dc:language>
 </metadata>
