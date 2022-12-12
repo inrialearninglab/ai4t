@@ -4,7 +4,7 @@ description: Identifier les différents types de risques
 ---
 
 # D'où vient le risque ?
-Dans son étude sur l'intelligence artificielle [^1], le Service de Recherche du Parlement Européen (Scientific Foresight Unit - STOA) a déclaré : "*Il est important de noter que les algorithmes d'IA ne peuvent pas être objectifs parce que, tout comme les gens, au cours de leur formation, ils développent une façon de donner un sens à ce qu'ils ont vu auparavant, et utilisent cette "vision du monde" pour catégoriser les nouvelles situations qui leur sont présentées.*" [Traduction Deepl]
+Dans son étude sur l'intelligence artificielle [^1], le Service de Recherche du Parlement Européen (Scientific Foresight Unit - STOA) a déclaré : "*Il est important de noter que les algorithmes d'IA ne peuvent pas être objectifs parce que, tout comme les gens, au cours de leur formation, ils développent une façon de donner un sens à ce qu'ils ont vu auparavant, et utilisent cette "vision du monde" pour catégoriser les nouvelles situations qui leur sont présentées.*"
 
 Voyons d'où vient la subjectivité d'une IA et quels sont les risques associés.
 
@@ -22,15 +22,15 @@ Comme pour tout système numérique, les données utilisées dans les plateforme
 
 Le biais algorithmique est principalement une question de raisonnement. Ce biais est introduit par les ingénieurs en IA, délibérément ou non.
 
-L'étude du Service de recherche du Parlement européen, mentionnée précédemment, donne deux exemples concrets : "*Considérez un algorithme d'IA symbolique pour examiner les demandes d'emploi. Il pourrait évaluer les candidats en leur attribuant des notes uniquement sur la base de leur formation et de leur expérience. Pourtant, s'il ne parvient pas à prendre en compte des facteurs tels que le congé de maternité ou à reconnaître de manière appropriée les études suivies dans des établissements étrangers, comme le feraient des comités de sélection humains, l'algorithme pourrait pratiquer une discrimination à l'encontre des femmes et des candidats étrangers.*" [Traduction Deepl]
+L'étude du Service de recherche du Parlement européen, mentionnée précédemment, donne deux exemples concrets : "*Considérez un algorithme d'IA symbolique pour examiner les demandes d'emploi. Il pourrait évaluer les candidats en leur attribuant des notes uniquement sur la base de leur formation et de leur expérience. Pourtant, s'il ne parvient pas à prendre en compte des facteurs tels que le congé de maternité ou à reconnaître de manière appropriée les études suivies dans des établissements étrangers, comme le feraient des comités de sélection humains, l'algorithme pourrait pratiquer une discrimination à l'encontre des femmes et des candidats étrangers.*"
 
-"*Considérons maintenant un outil d'IA similaire dans le cadre du paradigme ML (Machine Learning). Ces algorithmes trouvent leurs propres moyens d'identifier les types de candidats sélectionnés dans leurs données d'apprentissage. Lorsqu'il existe un historique de biais structurels dans ces sélections - par exemple la discrimination raciale - l'algorithme peut les apprendre. Même lorsque les données relatives à la nationalité ou à l'origine ethnique sont supprimées des données, le ML est capable de trouver des substituts pour des modèles sous-jacents dans d'autres données telles que les langues, les codes postaux ou les écoles qui peuvent être de bons prédicteurs de l'origine ethnique.*" [Traduction Deepl]
+"*Considérons maintenant un outil d'IA similaire dans le cadre du paradigme ML (Machine Learning). Ces algorithmes trouvent leurs propres moyens d'identifier les types de candidats sélectionnés dans leurs données d'apprentissage. Lorsqu'il existe un historique de biais structurels dans ces sélections - par exemple la discrimination raciale - l'algorithme peut les apprendre. Même lorsque les données relatives à la nationalité ou à l'origine ethnique sont supprimées des données, le ML est capable de trouver des substituts pour des modèles sous-jacents dans d'autres données telles que les langues, les codes postaux ou les écoles qui peuvent être de bons prédicteurs de l'origine ethnique.*"
 
 ## Les trois facettes du risque algorithmique
 
 Le risque algorithmique peut être caractérisé de trois façons[^3].
 
-- Tout d'abord, il y a l' **enfermement algorithmique**, qui peut également concerner les opinions, les connaissances culturelles ou encore les pratiques commerciales. En effet, les algorithmes confrontent l'internaute au même contenu, en fonction de son profil et des paramètres intégrés, malgré le respect du principe d'équité. C'est le cas sur les sites de recommandation d'actualités comme Facebook ou de produits comme Amazon.
+- Tout d'abord, il y a l' **enfermement algorithmique**, qui peut également concerner les opinions, les connaissances culturelles ou encore les pratiques commerciales. En effet, les algorithmes confrontent l'internaute au même contenu, en fonction de son profil et des paramètres intégrés, malgré le respect du principe d'équité. C'est le cas sur les sites de recommandation d'actualités de certains réseaux sociaux ou de produits comme ceux des entreprises de vente en ligne.
 
 - La deuxième facette du risque algorithmique est liée à **la maîtrise de tous les aspects de la vie d’un individu**, de la régulation de l'information à destination des investisseurs jusqu’à ses habitudes alimentaires, ses hobbies, ou encore son état de santé. Ce traçage de l'individu suggère une forme de surveillance qui contrevient à l'essence même de la liberté individuelle.
 
@@ -38,8 +38,8 @@ Le risque algorithmique peut être caractérisé de trois façons[^3].
 
 ### Comment gérer les risques liés aux données et aux algorithmes ?
 
-Pour R. Schwartz &amp; al.[^4], "*Les biais ne sont ni nouveaux ni propres à l'IA et il n'est pas possible d'atteindre un risque zéro de biais dans un système d'IA*". [Traduction Deepl]  
-En attendant, reconnaître que les agents d'IA sont intrinsèquement subjectifs est une condition préalable cruciale pour garantir qu'ils ne sont appliqués qu'à des tâches pour lesquelles ils sont bien équipés.
+Pour R. Schwartz &amp; al.[^4], "*Les biais ne sont ni nouveaux ni propres à l'IA et il n'est pas possible d'atteindre un risque zéro de biais dans un système d'IA*".  
+En attendant, reconnaître que les agents d'IA sont intrinsèquement subjectifs est une condition préalable cruciale pour garantir qu'ils ne sont appliqués qu'à des tâches pour lesquelles ils sont bien adaptés.
 
 L'étude de l'EPRS se conclut par plusieurs recommandations lors de l'utilisation d'applications basées sur l'IA :
 
