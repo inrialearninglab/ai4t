@@ -4,7 +4,7 @@ description: Crédits, financement et clause de non-responsabilité
 ---
 
 # Crédits
-Le Mooc AI4T est financé par la subvention n° 626154-EPP-1-2020-2-FR-EPPKA3-PI-POLICY de l'Agence CE EACEA dans le cadre du projet Erasmus+ K3 : Intelligence artificielle pour et par les enseignants.
+Le Mooc AI4T est financé par la subvention n° 626154-EPP-1-2020-2-FR-EPPKA3-PI-POLICY de l'Agence CE EACEA dans le cadre du projet Erasmus+ KA3 : Intelligence artificielle pour et par les enseignants.
 
 <figure>
   <img src="Images/LogoCoFoundedErasmusProgramEU.png" alt="Logo Co-founded by Erasmus and EU"/>
