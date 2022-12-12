@@ -9,16 +9,16 @@ Compte tenu de l'importance des décisions prises dans ces domaines, ce sont des
 
 ## IA et médecine
 
-"*L’IA est en effet au cœur de la médecine du futur avec les opérations assistées, le suivi des patients à distance, les prothèses intelligentes, ou encore les traitements personnalisés grâce au recoupement de données (big data)*." [Traduction Deepl] [^1]
+"*L’IA est en effet au cœur de la médecine du futur avec les opérations assistées, le suivi des patients à distance, les prothèses intelligentes, ou encore les traitements personnalisés grâce au recoupement de données (big data)*."[^1]
 
 Il y a une cinquantaine d'années, c'est dans le domaine du diagnostic qu'a été développé l'un des systèmes experts les plus connus : MYCIN.  
-"*C'était un des premiers systèmes experts qui utilisait l'intelligence artificielle pour identifier les bactéries responsables d'infections graves, telles que la bactériémie et la méningite, et pour recommander des antibiotiques, dont la dose était ajustée en fonction du poids corporel du patient*" [Traduction Deepl] [^2].
+"*C'était un des premiers systèmes experts qui utilisait l'intelligence artificielle pour identifier les bactéries responsables d'infections graves, telles que la bactériémie et la méningite, et pour recommander des antibiotiques, dont la dose était ajustée en fonction du poids corporel du patient*" [^2].
 
 Développé à partir de 1972, MYCIN a été capable, 6 ans plus tard, de surpasser les médecins dans l'établissement de diagnostics précis. Dans un test grandeur nature, il est demandé à MYCIN et à 9 médecins, internes et universitaires, de réaliser des diagnostics et d'exécuter des prescriptions sur 80 patients atteints de méningite. Les diagnostics et les prescriptions ont ensuite été évalués en aveugle par 8 spécialistes de la méningite et .... MYCIN a obtenu un meilleur score que les experts humains.
 
 Aujourd'hui, un domaine important de l'utilisation de l'apprentissage automatique à des fins médicales est l'analyse d'images pour les diagnostics médicaux [^3]. En quelques mots, voyons comment cela fonctionne, comme l'explique Gaël Varoquaux, chercheur Inria en IA :
 
-"*Le machine learning est l'une des branches de l'intelligence artificielle (IA). On le traduit en français par apprentissage automatique. En résumant à l'extrême, la technique consiste à nourrir le logiciel de milliers d'exemples pour qu'il apprenne à effectuer des tâches de classement. Par exemple, dans des images, savoir trouver des chiens ou des chats. Des grains de beauté ou des mélanomes malins. En théorie, cela ouvre un boulevard d'applications pour la médecine. On collecte par exemple les radiographies de milliers de patients souffrant de la même maladie dans ce qu'on appelle une cohorte. Puis, grâce à ces données d'apprentissage, l'ordinateur va ensuite détecter les mêmes caractéristiques visuelles dans de nouvelles images prises lors de dépistage chez d'autres personnes. Ce sont alors les données cibles*." [Traduction Deepl] [^4]
+"*Le machine learning est l'une des branches de l'intelligence artificielle (IA). On le traduit en français par apprentissage automatique. En résumant à l'extrême, la technique consiste à nourrir le logiciel de milliers d'exemples pour qu'il apprenne à effectuer des tâches de classement. Par exemple, dans des images, savoir trouver des chiens ou des chats. Des grains de beauté ou des mélanomes malins. En théorie, cela ouvre un boulevard d'applications pour la médecine. On collecte par exemple les radiographies de milliers de patients souffrant de la même maladie dans ce qu'on appelle une cohorte. Puis, grâce à ces données d'apprentissage, l'ordinateur va ensuite détecter les mêmes caractéristiques visuelles dans de nouvelles images prises lors de dépistage chez d'autres personnes. Ce sont alors les données cibles*."[^4]
 
 ## IA et justice
 
@@ -28,11 +28,11 @@ Il s'agit tout d'abord des outils d'aide à la décision. Un système d'IA peut 
 
 Il existe ensuite des outils capables de prédire les décisions. Dans ce cas, l'IA propose directement au juge une décision de justice[^6]. Le logiciel analyse un grand nombre d'exemples de décisions de justice et en déduit "automatiquement" des règles de décision. L'émergence de la justice prédictive suscite de nombreuses inquiétudes.
 
-Si "*l'application de l'IA dans le domaine de la justice peut contribuer à en améliorer l'efficacité et la qualité*" [elle] "*doit être mise en œuvre d'une manière responsable et conforme aux droits fondamentaux*" [Traduction Deepl] [^7]. Au niveau européen, une Charte éthique sur l'utilisation de l'intelligence artificielle dans les systèmes judiciaires et leur environnement a été adoptée en 2018.
+Si "*l'application de l'IA dans le domaine de la justice peut contribuer à en améliorer l'efficacité et la qualité*" [elle] "*doit être mise en œuvre d'une manière responsable et conforme aux droits fondamentaux*"[^7]. Au niveau européen, une Charte éthique sur l'utilisation de l'intelligence artificielle dans les systèmes judiciaires et leur environnement a été adoptée en 2018.
 
 Organisée autour de 5 principes, elle reconnaît l'importance de la non-discrimination, du respect des droits fondamentaux, de la qualité, de la sécurité, de la transparence, de l'impartialité et de l'équité.
 
-Elle souligne enfin le principe "sous le contrôle de l'utilisateur" : "*en excluant une approche prescriptive et en veillant à ce que les utilisateurs soient des acteurs informés et maîtres de leurs choix*" [Traduction Deepl] [^7].
+Elle souligne enfin le principe "sous le contrôle de l'utilisateur" : "*en excluant une approche prescriptive et en veillant à ce que les utilisateurs soient des acteurs informés et maîtres de leurs choix*" [^7].
 
 En droit comme en éducation ou en médecine, l'aide à la décision fournie par le système d'IA peut améliorer la décision prise. Au regard des conséquences potentielles de ces mêmes décisions, le maintien d'un contrôle humain est un enjeu important pour le développement des systèmes d'IA dans les années à venir.
 
