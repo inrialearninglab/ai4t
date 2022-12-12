@@ -1,6 +1,6 @@
 ---
 title: "4.1.3 Activité : Prise de décision avec l'IA"
-description: Comprendre comment les outils de prise de décision modifient les pratiques, peuvent les améliorer mais doivent être remis en question.
+description: Comprendre comment les outils de prise de décision modifient les pratiques, peuvent les améliorer mais doivent être questionnés.
 type: activity
 ---
 
