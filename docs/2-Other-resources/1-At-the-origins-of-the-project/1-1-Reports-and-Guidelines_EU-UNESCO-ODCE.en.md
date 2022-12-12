@@ -2,11 +2,15 @@
 title: Reports and Guidelines (EU-UNESCO-OCDE)
 description:
 ---
+??? note " Bibliography information "
+    - Submitted on: July 2021-review for English version May 2022
+    - The resources are classified by type and then by decreasing date
+
 # Reports and Guidelines (EU-UNESCO-OCDE)
 
 In defining the objectives of the AI4T project, the project promoters drew on a range of reports and contributions from different institutions. Those documents are presented below. The publications are organised by issuing institutions. If there have been any updates or new developments since 2020 when the project was written, these have also been listed on this page.
 
-## European Union Publication
+## European Union Publications
 
 ### About AI & Education
 
@@ -22,7 +26,8 @@ In defining the objectives of the AI4T project, the project promoters drew on a 
 
 On going: Regulatory framework proposal on artificial intelligence[^4]
 
-"*The proposed AI regulation ensures that Europeans can trust what AI has to offer. While most AI systems pose limited to no risk and can contribute to solving many societal challenges, certain AI systems create risks that we must address to avoid undesirable outcomes.*"
+!!! Note "Extract"
+    *The proposed AI regulation ensures that Europeans can trust what AI has to offer. While most AI systems pose limited to no risk and can contribute to solving many societal challenges, certain AI systems create risks that we must address to avoid undesirable outcomes.*
 
 Notable content: This Regulatory Framework defines 4 levels of risk in AI:
 
