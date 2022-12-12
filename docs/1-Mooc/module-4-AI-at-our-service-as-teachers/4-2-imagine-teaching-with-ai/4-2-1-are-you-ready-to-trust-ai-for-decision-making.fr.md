@@ -27,7 +27,7 @@ Cette condition est plus ou moins facile à satisfaire, mais pour certaines tech
 
 ## Interprétabilité
 
-Les prédictions réalisées avec certaines techniques d'IA sont plus faciles à interpréter que d'autres. Une prédiction faite à partir d'un arbre de décision, par exemple, est explicable. Mais il ne s'agit pas toujours des prédictions les plus intéressantes à réaliser.
+Les prédictions réalisées avec certaines techniques d'IA sont plus faciles à interpréter que d'autres. Une prédiction faite à partir d'un arbre de décision, par exemple, est explicable. Mais, il ne s'agit pas toujours des prédictions les plus intéressantes à réaliser.
 
 À l'opposé du spectre de l'explicabilité, il y a le Deep learning, qui peut être difficile à expliquer, mais dont les résultats peuvent être beaucoup plus significatifs que ceux réalisés avec une IA hautement explicable.
 
