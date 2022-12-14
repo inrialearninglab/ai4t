@@ -97,6 +97,43 @@
     font-size: 0.8em;
 }
 
+.md-typeset figure{
+    margin-bottom: 1em;
+    break-inside: avoid;
+}
+
+.md-typeset h1, .md-typeset h2, .md-typeset h3 {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 0.9em;
+    color:var(--md-primary-fg-color);
+    margin-top: 0;
+    -webkit-print-color-adjust: exact
+}
+
+.md-typeset h1 {
+    font-size: 1.6em;
+    margin-bottom: .7em;
+}
+
+.md-typeset h2 {
+    font-size: 1.2em;
+}
+
+.md-typeset h3 {
+    font-size: 1em;
+}
+
+h1:before, h2:before, .h3:before, .h4:before, .h5:before {
+    content:"";
+    display:block;
+    clear:left;
+}
+
+.md-typeset ol li, .md-typeset ul li {
+    margin-bottom:0;
+}
+
 
 @media (max-width: 960px) {
     .md-card{
@@ -113,4 +150,45 @@
         width: 100%;
     }
 
+}
+
+@media print {
+    @page {
+     }
+
+    hr{
+        clear: both;
+    }
+
+    .md-typeset figure{
+        margin-bottom: 1em;
+        break-inside: avoid;
+    }
+
+    .md-typeset .admonition, details {
+        display: block;
+        page-break-inside: avoid;
+    }
+
+    .md-typeset .admonition-title, .md-typeset summary{
+        padding: .4em 1em;
+    }
+
+    .md-typeset .admonition-title:before, .md-typeset summary:before,
+    .md-typeset .admonition-title:after, .md-typeset summary:after {
+        content:none;
+    }
+
+    .md-typeset .codehilitetable .linenos {
+        display: none;
+    }
+
+    .md-typeset .footnote-ref {
+        display: inline-block;
+    }
+
+    .md-typeset a.footnote-backref {
+        transform: translateX(0);
+        opacity: 1;
+    }
 }
