@@ -5,37 +5,35 @@ description:
 # Moocs and Online resources
 The subject of artificial intelligence is so fascinating that many Massive Open Online Courses are dedicated to it.
 
+
 Here is a selection of Moocs organised as follows
 
 1 - AI in general
 
 2 - and AI in education
 
-Then a selection of online resources on AI and education are presented. This is a partial selection, linked to the context and interest of the AI4T project and the promises of the project. This list should therefore evolve and be enriched. Most of the resources are available in English, some are also available in other European languages. We have also mentioned two resources that are not available in English as they play a key role in the AI4T project.
+Then a selection of online resources on AI and education are presented. This is a partial selection, linked to the context and interest of the AI4T project and the premices of the project. This list should therefore evolve and be enriched. Most of the resources are available in English, some are also available in other European languages. We have also mentioned two resources that are not available in English as they play a key role in the AI4T project.
 
 ## 1 - Moocs About AI in general
 
-### Elements of AI
+### **Elements of AI**
+<figure>
+	 <img src="Images/Elements-of-AI-visual-2.png" />
+	 <figcaption> </figcaption>
+</figure>
 
--   By: MinnaLearn and the University of Helsinki
-
--   Info about the Mooc: « *The Elements of AI is a series of free online courses created by MinnaLearn and the University of Helsinki. We want to encourage as broad a group of people as possible to learn what AI is, what can (and can't) be done with AI, and how to start creating AI methods. The courses combine theory with practical exercises* »
-
-
--   Language: DE, FR, IT, IE, SI, GB (and many other european languages)
-
--   Registration: free
-
--   Certificate: yes
-
--   Accessibility: unlimited
-
--   Access to the mooc:
-
-    -   Part 1 - Introduction to AI (accessible from
+!!! info
+    -   **By**: MinnaLearn and the University of Helsinki
+    -   **Info about the Mooc**: « *The Elements of AI is a series of free online courses created by MinnaLearn and the University of Helsinki. We want to encourage as broad a group of people as possible to learn what AI is, what can (and can't) be done with AI, and how to start creating AI methods. The courses combine theory with practical exercises* »
+    -   **Language**: DE, FR, IT, IE, SI, GB (and many other european languages)
+    -   **Registration**: Free
+    -   **Certification**: Yes
+    -   **Accessibility**: unlimited
+    -   **Access to the Mooc**:
+        -   Part 1 - Introduction to AI (accessible from
         > course.elementsofai.com[^1])
 
-    -   Part 2 - Building AI (accessible from
+        -   Part 2 - Building AI (accessible from
         > buildingai.elementsofai.com[^2])
 
 Element of AI, a success story: launched in 2018, « with the aim of
@@ -44,167 +42,129 @@ intelligence », The Mooc has been a huge success and is now an
 established benchmark for AI training with 750,000 registered students
 from 170 countries.
 
-### L'Intelligence Artificielle... avec intelligence ! (Artificial Intelligence ...with intelligence!)
 
--   By: Inria and Class'Code
 
--   Info about the Mooc: Class'Code IAI is a citizen MOOC accessible to everyone from 7 to 107 years old to question, experiment and understand what Artificial Intelligence is... with intelligence! - *(Class'Code IAI est un MOOC citoyen accessible à toutes et à tous de 7 à 107 ans pour se questionner, expérimenter et comprendre ce qu'est l'Intelligence Artificielle... avec intelligence ! )*
+### L'Intelligence Artificielle... avec intelligence ! *(Artificial Intelligence ...with intelligence!)*
 
--   🚀Ressource of the Mooc are used in the AI4T project Mooc
+!!! info
+    -   **By**: Inria and Class'Code
+    -   **Info about the Mooc**: Class'Code IAI is a citizen MOOC accessible to everyone from 7 to 107 years old to question, experiment and understand what Artificial Intelligence is... with intelligence! - *(Class'Code IAI est un MOOC citoyen accessible à toutes et à tous de 7 à 107 ans pour se questionner, expérimenter et comprendre ce qu'est l'Intelligence Artificielle... avec intelligence ! )*
+    -   **Language**: FR
+    -   **Registration**: Free
+    -   **Certification**: Yes
+    -   **Accessibility**: unlimited
+    -   **Access to the Mooc**: fun-mooc platform
+		- 	🚀 Resource of the Mooc are used in the AI4T project Mooc
 
--   Certificate: Yes
-
--   Registration: free
-
--   Language: FR
-
--   Accessibility: unlimited
-
--   Accessible from fun-mooc platform to the Mooc[^3]
 
 ### AI for everyone
+!!! info
+    -   **By**: Andrew Ng (DeepLearning AI - Stanford University)
+    -   **Info about the Mooc**:   « *AI is not only for engineers. If you want your organisation to become better at using AI, this is the course to tell everyone--especially your non-technical colleagues--to take*. »
+		- 	**DeepLearning.AI** offers many AI related Moocs on Coursera, from general to very technical - registration, certificats and availability are to be check on the coursera platform
+    -   **Language**: EN
+    -   **Registration**: Free
+    -   **Certification**: Yes
+    -   **Accessibility**: Third Quater 2022
+    -   **Access to the Mooc**: Coursera platform[^4]
 
--   By Andrew Ng (DeepLearning AI - Stanford University)
 
--   Info about the Mooc:
-
-    -   « *AI is not only for engineers. If you want your organisation to become better at using AI, this is the course to tell everyone--especially your non-technical colleagues--to take*. »
-
-    -   DeepLearning.AI proposes many AI related Moocs on Coursera, from general to very technical - registration, certificats and availability are to be check on the coursera platform
-
--   Certificate: Yes
-
--   Registration: free
-
--   Language: EN
-
--   Accessibility: Third Quater 2022
-
--   Accessible from coursera platform[^4]
 
 ### Artificial Intelligence
+!!! info
+    -   **By**: Accenture
+    -   **Info about the Mooc**:   « *learn about the past, present, and future of artificial intelligence and explore its potential in the workplace*. »
+    -   **Language**: EN
+    -   **Registration**: Free
+    -   **Certification**: Yes
+    -   **Accessibility**: unlimited
+    -   **Access to the Mooc**: Future Learn platform[^5]
 
--   By: Accenture
 
--   Info about the Mooc: « *learn about the past, present, and future of artificial intelligence and explore its potential in the workplace*. »
 
--   Certificate: Yes
+### AI Goal: Learn about artificial intelligence *(Objectif IA: Initiez-vous à l'intelligence artificielle)*
 
--   Registration: free
+!!! info
+    -   **By**: Institut Montaigne (a french Think Tank) and The Fondation Abenoa
+    -   **Info about the Mooc**:   « *We present artificial intelligence from A to Z, to give you the keys to understanding and thinking about it » -* « *Nous vous présentons l'intelligence artificielle de A à Z, pour vous donner des clés de compréhension et des pistes de réflexion »*
+    -   **Language**: EN, FR
+    -   **Registration**: Free
+    -   **Certification**: Yes
+    -   **Accessibility**: Unlimited
+    -   **Access to the Mooc**: Openclassroom platform
 
--   Language: EN
+### The tool : My Mooc: A tool keep in touch with all available Moocs[^8]
 
--   Accessibility: unlimited
-
--   Accessible from future learn platform[^5]
-
-### AI Goal: Learn about artificial intelligence (Objectif IA: Initiez-vous à l'intelligence artificielle)
-
--   By: Institut Montaigne (a french Think Tank) and The Fondation Abenoa
-
--   Info about the Mooc: « *We present artificial intelligence from A to Z, to give you the keys to understanding and thinking about it » -* « *Nous vous présentons l'intelligence artificielle de A à Z, pour vous donner des clés de compréhension et des pistes de réflexion »*
-
--   Certificate: Yes
-
--   Registration: free
-
--   Language: EN, FR
-
--   Accessibility: unlimited
-
--   Access to the Mooc from Openclassroom platform EN[^6] / FR[^7]
-
-### My Mooc[^8]: A tool to keep in touch with all available Moocs:
-
-« *A powerful and innovative solutionWith more than 10,000 MOOCs available, My Mooc delivers the best free trainings available on the web. Our mission? To make training accessible to as many people as possible! With an account on My Mooc, you can continually follow the latest MOOC news and be ensured that you do not miss any topics or content from your favorite universities across the globe. »*
-
-And for example you can follow up with all Moocs delivered about AI at the following adresse: [https://www.my-mooc.com/en/categorie/artificial-intelligence](https://www.my-mooc.com/en/categorie/artificial-intelligence)
-
-Language: EN, FR
+!!! Tips
+    -   « *A powerful and innovative solutionWith more than 10,000 MOOCs available, My Mooc delivers the best free trainings available on the web. Our mission? To make training accessible to as many people as possible! With an account on My Mooc, you can continually follow the latest MOOC news and be ensured that you do not miss any topics or content from your favorite universities across the globe. »*
+		- And for example you can follow up with all Moocs delivered about AI at the following adresse: [https://www.my-mooc.com/en/categorie/artificial-intelligence](https://www.my-mooc.com/en/categorie/artificial-intelligence)
+		- **Language**: EN, FR
 
 ## 2 - Moocs about AI and Education
 
 ###  **Artificial Intelligence (AI) Education for Teachers:**
 
--   ### By: Macquarie University (AUS) and **IBM (based on AI Curriculum Framework)**
-
--   Info about the Mooc: « *This course is based on the IBM AI Curriculum Framework*[^9] *and provides theory plus applied examples of the components that make up AI. As teachers, you can work your way through the entire course, or you can focus on key areas as you need. There are knowledge, skills and attitudes related to AI that are transferable to multiple disciplines and learning areas from early childhood, primary, secondary, and post-secondary*. »
-
--   Plateforme: Coursera
-
--   Certificate: no
-
--   Registration: free
-
--   Language: EN
-
--   Accessibility: Third quarter of 2022
-
--   Access to the Mooc from Coursera platform[^10]
-
-#### **AI Basics for School**
-
--   ### By: European School Network - part of EU Code Week 2021
-
--   Info about the Mooc: « *A Mooc that* guides teachers to explore the potential and limitations of AI, and discover how AI may enable them to implement new ways of teaching and learning in the classroom. 'AI Basics for Schools' provides teachers with an opportunity to gain basic understanding about AI and how to integrate AI resources into their teaching with the aim to enhance student learning experience. »
-
--   Certificate: no
-
--   Registration: free
-
--   Language: EN
-
--   Accessibility: not accessible in 2022
-
--   Access to the Mooc from European School Network platform[^11]
-
-**A inteligencia artificial vai transformar a escola** (Artificial
-Intelligence will transform schools)
-
--   By: Equipa de Recursos e Tecnologias Educativas (ERTE) - Portugal, Educational Resources and Technology Team (ERTE),
-
--   Info about the Mooc: « *A Inteligência Artificial já faz parte do nosso dia a dia e está em constante evolução! Saiba como preparar os estudantes a enfrentar novos desafios e a desenvolver competências digitais.(Artificial Intelligence is already part of our daily lives and is constantly evolving! Learn how to prepare students to face new challenges and develop digital skills).* »
-
--   🚀This Mooc was mentioned several times at the launch of the AI4T project.
-
--   Registration: free
-
--   Language: PT
-
--   Accessibility: not accessible in 2022
-
--   Access to the Mooc from nau.edu platform[^12]
-
-## On-line resource about AI and Education
-
-**That's AI**
-
--   By: EPL (Ecole Polytechnique de Lausanne) Extension school: The EPFL Extension School teaches applied digital skills, online. We believe that everyone should gain digital knowledge and skills to be able to make the most of the opportunities in today's world.
-
--   Info about the Mooc: « That's AI » is your introduction to the world's most important technological development. Find out how AI is transforming everything around us and learn how to become an active participant in this exciting new world.
-
--   Certificate: no
-
--   Registration: free
-
--   Language: DE, EN, FR (some article ares solely in English)
-
--   Accessibility: unlimited
+!!! info
+    -   **By**: Macquarie University (AUS) and **IBM (based on AI Curriculum Framework)**
+    -   **Info about the Mooc**:  « *This course is based on the IBM AI Curriculum Framework*[^9] *and provides theory plus applied examples of the components that make up AI. As teachers, you can work your way through the entire course, or you can focus on key areas as you need. There are knowledge, skills and attitudes related to AI that are transferable to multiple disciplines and learning areas from early childhood, primary, secondary, and post-secondary*. »
+    -   **Language**: EN
+    -   **Registration**: Free
+    -   **Certification**: No
+    -   **Accessibility**: Third quarter of 2022
+    -   **Access to the Mooc**: Coursera platform[^10]
 
 
-### AI in Education
+### **AI Basics for School**
 
--   By: University of Oxford - [IT Learning Centre](https://skills.it.ox.ac.uk/)
+!!! info
+    -   **By**: European School Network - part of EU Code Week 2021
+    -   **Info about the Mooc**:  « *A Mooc that* guides teachers to explore the potential and limitations of AI, and discover how AI may enable them to implement new ways of teaching and learning in the classroom. 'AI Basics for Schools' provides teachers with an opportunity to gain basic understanding about AI and how to integrate AI resources into their teaching with the aim to enhance student learning experience. »
+    -   **Language**: EN
+    -   **Registration**: Free
+    -   **Certification**: No
+    -   **Accessibility**: Not accessible in 2022
+    -   **Access to the Mooc**: European School Network platform[^11]
 
--   Info about the Mooc: « *Series of lunch-time talks on Artificial Intelligence (AI) in Education that were co-organised with the Centre for Teaching and Learning in 2019*. »
 
--   Language: EN
+### **A inteligencia artificial vai transformar a escola** *(Artificial Intelligence will transform schools)*
 
--   Certificate: no
+!!! info
+    -   **By**: Equipa de Recursos e Tecnologias Educativas (ERTE) - Portugal, Educational Resources and Technology Team (ERTE)
+    -   **Info about the Mooc**:  « *A Inteligência Artificial já faz parte do nosso dia a dia e está em constante evolução! Saiba como preparar os estudantes a enfrentar novos desafios e a desenvolver competências digitais.(Artificial Intelligence is already part of our daily lives and is constantly evolving! Learn how to prepare students to face new challenges and develop digital skills).* »
+		- 🚀This Mooc was mentioned several times at the launch of the AI4T project.
+    -   **Language**: PT
+    -   **Registration**: Free
+    -   **Certification**: No
+    -   **Accessibility**: Not accessible in 2022
+    -   **Access to the Mooc**: nau.edu platform[^12]
 
--   Registration: free
 
--   Access to the resource[^13]
+## 3 - On-line resource about AI and Education
+
+### **That's AI**
+
+!!! info
+    -   **By**: EPFL (Ecole Polytechnique de Lausanne) Extension school: The EPFL Extension School teaches applied digital skills, online. We believe that everyone should gain digital knowledge and skills to be able to make the most of the opportunities in today's world.
+    -   **Info about the resources**:  « *« That's AI » is your introduction to the world's most important technological development. Find out how AI is transforming everything around us and learn how to become an active participant in this exciting new world.* »
+		- 🚀This Mooc was mentioned several times at the launch of the AI4T project.
+    -   **Language**: DE, EN, FR (some article ares solely in English)
+    -   **Registration**: Free
+    -   **Certification**: No
+    -   **Accessibility**: Unlimited
+    -   **Access to the resources**: That's Ai Website[^13]
+
+
+### **AI in Education**
+
+!!! info
+    -   **By**: University of Oxford - [IT Learning Centre](https://skills.it.ox.ac.uk/)
+    -   **Info about the resources**: « *Series of lunch-time talks on Artificial Intelligence (AI) in Education that were co-organised with the Centre for Teaching and Learning in 2019*. »
+		- 🚀This Mooc was mentioned several times at the launch of the AI4T project.
+    -   **Language**: EN
+    -   **Registration**: Free
+    -   **Certification**: No
+    -   **Accessibility**: Unlimited
+    -   **Access to the resources**: [^14]
 
 [^1]: [http://course.elementsofai.com](http://course.elementsofai.com)
 
@@ -230,4 +190,6 @@ Intelligence will transform schools)
 
 [^12]: [https://www.nau.edu.pt/curso/a-inteligencia-artificial-vai-transformar-a-escola/](https://www.nau.edu.pt/curso/a-inteligencia-artificial-vai-transformar-a-escola/)
 
-[^13]: [https://skills.it.ox.ac.uk/ai-in-education-course-pack](https://skills.it.ox.ac.uk/ai-in-education-course-pack)
+[^13]:[https://www.thats-ai.org/en-GB]()
+
+[^14]: [https://skills.it.ox.ac.uk/ai-in-education-course-pack](https://skills.it.ox.ac.uk/ai-in-education-course-pack)

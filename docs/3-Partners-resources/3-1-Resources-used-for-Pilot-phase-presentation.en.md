@@ -9,7 +9,7 @@ During the first phase of the AI4T project, the pilot phase, a range of resource
 Some of these are brought together in this section in the following
 organisation
 
--   All On-line resources and Moocs are gathered on a specific page: Other resources 2-1 moocs and on-line resources[^1]
+-   All On-line resources and Moocs are gathered in another place: Other resources 2-1 moocs and on-line resources[^1]
 
 -   Resources mentioned are all in English
 

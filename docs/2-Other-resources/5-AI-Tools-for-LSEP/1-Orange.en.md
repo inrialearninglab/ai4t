@@ -1,5 +1,5 @@
 ---
-title: Orange
+title: Orange - Slovenia
 description: Tool to be used for the LSEP (SI)
 ---
 

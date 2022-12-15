@@ -3,6 +3,9 @@ title: Presentation of the project AI tools
 description: Gathering of Infos and scenario for the use of AI tools chosen by the partners for the large-scale experimentation phase.
 ---
 
+!!! note
+  - **How does it work** : This folder is fed by contributions from partners.
+  - **last update** : December 14th 2022
 
 # Presentation of project AI tools
 
@@ -17,7 +20,3 @@ This folder gather informations and, when existing, scenarii for the use of thos
 
 ###How :
 It will be fed by contributions from partners.
-
-
-###Last Update :
-October 21st 2022
