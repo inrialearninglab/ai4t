@@ -1,4 +1,4 @@
 ---
-title: Kwyk - France & Luxembourg
+title: Kwyk 
 description: Tool to be used for the LSEP
 ---

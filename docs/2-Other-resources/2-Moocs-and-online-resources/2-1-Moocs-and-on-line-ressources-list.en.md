@@ -1,18 +1,31 @@
 ---
 title: Moocs and Online resources
-description:
+description: list of Moocs and resources about AI / AI and Education
 ---
-# Moocs and Online resources
+# Moocs and On-line resources
 The subject of artificial intelligence is so fascinating that many Massive Open Online Courses are dedicated to it.
 
+??? info " Mooc's information "
+    - Submitted : December 16th 2022
+    - For each Moocs and ressources, the following infos are gathered :
 
-Here is a selection of Moocs organised as follows
+			- **By**: author
+	 		- **Info about the Mooc**: a few words about contents
+	 		- **Language**: all languages available
+	 		- **Registration**: free or with conditions
+	 		- **Certification**: possibility to have a attestation / verification regarding the training
+	 		- **Accessibility**: is the resource still available ) dec. 2022
+	 		- **Access to the Mooc**: link to the resources
 
-1 - AI in general
 
-2 - and AI in education
+IN this pahe, there is first a **selection of Moocs** organised in two parts :
 
-Then a selection of online resources on AI and education are presented. This is a partial selection, linked to the context and interest of the AI4T project and the premices of the project. This list should therefore evolve and be enriched. Most of the resources are available in English, some are also available in other European languages. We have also mentioned two resources that are not available in English as they play a key role in the AI4T project.
+**1 - AI in general**
+**2 - AI in Education**
+
+Then a selection of **on-line resources about AI and Education** are presented.
+!!! warning
+		- This is a partial selection, linked to the context and interest of the AI4T project and the premices of the project. This list should therefore evolve and be enriched. Most of the resources are available in English, some are also available in other European languages. We have also mentioned two resources that are not available in English as they play a key role in the AI4T project.
 
 ## 1 - Moocs About AI in general
 
