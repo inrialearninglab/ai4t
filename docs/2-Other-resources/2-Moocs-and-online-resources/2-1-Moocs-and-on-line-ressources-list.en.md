@@ -1,5 +1,5 @@
 ---
-title: Moocs and Online resources
+title: Moocs and On-line resources
 description: list of Moocs and resources about AI / AI and Education
 ---
 # Moocs and On-line resources
