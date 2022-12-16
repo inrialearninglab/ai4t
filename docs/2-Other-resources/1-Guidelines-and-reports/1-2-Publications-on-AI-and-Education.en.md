@@ -22,7 +22,7 @@ While defining the objectives of the AI4T project, the project promoters drew on
     "*The second edition (to) establish an operational definition of artificial intelligence (AI).*"
 Notable content: "*These include the classification of AI according to: families of algorithms and the theoretical models behind them; cognitive abilities reproduced by AI; functions performed by AI. Applications of AI may be grouped also according to other dimensions, like the economic sector in which such applications are found, or their business functions.*"(see below)
 
-2021: AI and Education: Guidance for Policy-Makers- UNESCO report[^15]
+2021: AI and Education: Guidance for Policy-Makers- UNESCO report[^4]
 
 2020: AI Watch - Defining Artificial intelligence[^8] -  A publication from High-level Expert Group on Artificial Intelligence
 
@@ -99,7 +99,7 @@ Notable content: "*These include the classification of AI according to: families
 
 [^14]: [https://unesdoc.unesco.org/ark:/48223/pf0000368303](https://unesdoc.unesco.org/ark:/48223/pf0000368303)
 
-[^15]: [https://unesdoc.unesco.org/ark:/48223/pf0000376709](https://unesdoc.unesco.org/ark:/48223/pf0000376709)
+[^15]: [AI and Education: Guidance for Policy-Makers- UNESCO report, https://unesdoc.unesco.org/ark:/48223/pf0000376709](https://unesdoc.unesco.org/ark:/48223/pf0000376709)
 
 [^2]: [The Ethics of Artificial Intelligence - Recommandation of the UNESCO, https://unesdoc.unesco.org/ark:/48223/pf0000377897](https://unesdoc.unesco.org/ark:/48223/pf0000377897)
 
