@@ -101,7 +101,7 @@ Notable content: "*These include the classification of AI according to: families
 
 [^Unesco5]: [The Ethics of Artificial Intelligence - Recommandation of the UNESCO, https://unesdoc.unesco.org/ark:/48223/pf0000377897](https://unesdoc.unesco.org/ark:/48223/pf0000377897)
 
-[^Unesco1]: [UNESCO Institute for Information Technologies in Education, https://iite.unesco.org](https://iite.unesco.org](https://iite.unesco.org](https://iite.unesco.org)
+[^Unesco1]: [UNESCO Institute for Information Technologies in Education, https://iite.unesco.org](https://iite.unesco.org)
 
 [^Unesco3]: [AI in Education: Change at the Speed of Learning - UNESCO Institute for Information Technologies in Education report, https://iite.unesco.org/publications/ai-in-education-change-at-the-speed-of-learning/](https://iite.unesco.org/publications/ai-in-education-change-at-the-speed-of-learning/)
 
