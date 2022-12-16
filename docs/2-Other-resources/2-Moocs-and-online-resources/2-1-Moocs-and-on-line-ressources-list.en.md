@@ -25,7 +25,7 @@ IN this pahe, there is first a **selection of Moocs** organised in two parts :
 
 Then a selection of **on-line resources about AI and Education** are presented.
 !!! warning
-		- This is a partial selection, linked to the context and interest of the AI4T project and the premices of the project. This list should therefore evolve and be enriched. Most of the resources are available in English, some are also available in other European languages. We have also mentioned two resources that are not available in English as they play a key role in the AI4T project.
+    This is a partial selection, linked to the context and interest of the AI4T project and the premices of the project. This list should therefore evolve and be enriched. Most of the resources are available in English, some are also available in other European languages. We have also mentioned two resources that are not available in English as they play a key role in the AI4T project.
 
 ## 1 - Moocs About AI in general
 
@@ -44,16 +44,14 @@ Then a selection of **on-line resources about AI and Education** are presented.
     -   **Accessibility**: unlimited
     -   **Access to the Mooc**:
         -   Part 1 - Introduction to AI (accessible from
-        > course.elementsofai.com[^1])
+        > course.elementsofai.com[EofAi1])
 
         -   Part 2 - Building AI (accessible from
-        > buildingai.elementsofai.com[^2])
+        > buildingai.elementsofai.com[^EofAi2])
 
-Element of AI, a success story: launched in 2018, « with the aim of
-helping people to be empowered, not threatened, by artificial
-intelligence », The Mooc has been a huge success and is now an
-established benchmark for AI training with 750,000 registered students
-from 170 countries.
+###### Element of AI, a success story:
+launched in 2018, «*with the aim ofhelping people to be empowered, not threatened, by artificial
+intelligence*», The Mooc has been a huge success and is now an established benchmark for AI training with 750,000 registered students from 170 countries.
 
 
 
@@ -66,7 +64,7 @@ from 170 countries.
     -   **Registration**: Free
     -   **Certification**: Yes
     -   **Accessibility**: unlimited
-    -   **Access to the Mooc**: fun-mooc platform
+    -   **Access to the Mooc**: FUN-Mooc platform [^IAI]
 		- 	🚀 Resource of the Mooc are used in the AI4T project Mooc
 
 
@@ -79,7 +77,7 @@ from 170 countries.
     -   **Registration**: Free
     -   **Certification**: Yes
     -   **Accessibility**: Third Quater 2022
-    -   **Access to the Mooc**: Coursera platform[^4]
+    -   **Access to the Mooc**: Coursera platform[^AIevery]
 
 
 
@@ -124,7 +122,7 @@ from 170 countries.
     -   **Registration**: Free
     -   **Certification**: No
     -   **Accessibility**: Third quarter of 2022
-    -   **Access to the Mooc**: Coursera platform[^10]
+    -   **Access to the Mooc**: Coursera platform[^AIET]
 
 
 ### **AI Basics for School**
@@ -149,7 +147,7 @@ from 170 countries.
     -   **Registration**: Free
     -   **Certification**: No
     -   **Accessibility**: Not accessible in 2022
-    -   **Access to the Mooc**: nau.edu platform[^12]
+    -   **Access to the Mooc**: nau.edu platform[^Aiescola]
 
 
 ## 3 - On-line resource about AI and Education
@@ -179,13 +177,13 @@ from 170 countries.
     -   **Accessibility**: Unlimited
     -   **Access to the resources**: [^14]
 
-[^1]: [http://course.elementsofai.com](http://course.elementsofai.com)
+[^EofAi1]: [http://course.elementsofai.com](http://course.elementsofai.com)
 
-[^2]: [https://buildingai.elementsofai.com/](https://buildingai.elementsofai.com/)
+[^EofAi2]: [https://buildingai.elementsofai.com/](https://buildingai.elementsofai.com/)
 
-[^3]: [https://www.fun-mooc.fr/fr/cours/lintelligence-artificielle-avec-intelligence/nceligence-education-for-teachers/home/info](https://www.fun-mooc.fr/fr/cours/lintelligence-artificielle-avec-intelligence/nceligence-education-for-teachers/home/info)
+[^IAI]: [Intelligence Artificille avec intellignecen, https://www.fun-mooc.fr/fr/cours/lintelligence-artificielle-avec-intelligence/nceligence-education-for-teachers/home/info](https://www.fun-mooc.fr/fr/cours/lintelligence-artificielle-avec-intelligence/nceligence-education-for-teachers/home/info)
 
-[^4]: [https://www.coursera.org/learn/ai-for-everyone/home/week/1](https://www.coursera.org/learn/ai-for-everyone/home/week/1)
+[^AIevery]: [AI for everyone, https://www.coursera.org/learn/ai-for-everyone/home/week/1](https://www.coursera.org/learn/ai-for-everyone/home/week/1)
 
 [^5]: [https://www.futurelearn.com/courses/artificial-intelligence](https://www.futurelearn.com/courses/artificial-intelligence)
 
@@ -197,11 +195,11 @@ from 170 countries.
 
 [^9]: [https://www.coursera.org/learn/artificial-intelligence-education-for-teachers/resources/FAgGy](https://www.coursera.org/learn/artificial-intelligence-education-for-teachers/resources/FAgGy)
 
-[^10]: [https://www.coursera.org/learn/artificial-intelligence-education-for-teachers](https://www.coursera.org/learn/artificial-intelligence-education-for-teachers)
+[^AIET]: [Artificial Intelligence (AI) Education for Teachers, https://www.coursera.org/learn/artificial-intelligence-education-for-teachers](https://www.coursera.org/learn/artificial-intelligence-education-for-teachers)
 
 [^11]: [https://www.europeanschoolnetacademy.eu/courses/course-v1:CodeWeek+AI+2021/about](https://www.europeanschoolnetacademy.eu/courses/course-v1:CodeWeek+AI+2021/about)
 
-[^12]: [https://www.nau.edu.pt/curso/a-inteligencia-artificial-vai-transformar-a-escola/](https://www.nau.edu.pt/curso/a-inteligencia-artificial-vai-transformar-a-escola/)
+[^Aiescola]: [A inteligencia artificial vai transformar a escola, https://www.nau.edu.pt/curso/a-inteligencia-artificial-vai-transformar-a-escola/](https://www.nau.edu.pt/curso/a-inteligencia-artificial-vai-transformar-a-escola/)
 
 [^13]:[https://www.thats-ai.org/en-GB]()
 
