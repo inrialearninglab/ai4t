@@ -9,7 +9,7 @@ description: Legal framework about AI and Digital Education Action Plan
 
 ## European Union Legal Publications
 
-**In progress**: Regulatory Framework Proposal on Artificial Intelligence[^XXX]
+**In progress**: Regulatory Framework Proposal on Artificial Intelligence[^framai1]
 *"The Commission is proposing the first-ever legal framework on AI, which addresses the risks of AI and positions Europe to play a leading role globally"*
 
 !!! Note "Extract"
@@ -30,12 +30,12 @@ description: Legal framework about AI and Digital Education Action Plan
 !!! Note
     *A policy initiative that sets out a common vision of high-quality, inclusive and accessible digital education in Europe, and aims to support the adaptation of the education and training systems of Member States to the digital age.*
 
-2021-2027: Digital Education Action Plan[^XXX]
+2021-2027: Digital Education Action Plan[^DEAP1]
 
-2018: Communication From The Commission To The European Parliament, The Council, The European Economic And Social Committee And The Committee Of The Regions on the Digital Education Action Plan[^XXX]
+2018: Communication From The Commission To The European Parliament, The Council, The European Economic And Social Committee And The Committee Of The Regions on the Digital Education Action Plan[^DEAP2]
 
-[^XXX]: [Regulatory Framework Proposal on Artificial Intelligence, https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)
+[^framai1]: [Regulatory Framework Proposal on Artificial Intelligence, https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)
 
-[^XXX]: [Digital Education Action Plan, https://education.ec.europa.eu/focus-topics/digital-education/action-plan](https://education.ec.europa.eu/focus-topics/digital-education/action-plan)
+[^DEAP1]: [Digital Education Action Plan, https://education.ec.europa.eu/focus-topics/digital-education/action-plan](https://education.ec.europa.eu/focus-topics/digital-education/action-plan)
 
-[^XXX]: [Communication From The Commission about the Digital Education Action Plan, https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52018DC0022&from=EN](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52018DC0022&from=EN)
+[^DEAP2]: [Communication From The Commission about the Digital Education Action Plan, https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52018DC0022&from=EN](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52018DC0022&from=EN)
