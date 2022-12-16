@@ -89,7 +89,7 @@ intelligence*», The Mooc has been a huge success and is now an established benc
     -   **Registration**: Free
     -   **Certification**: Yes
     -   **Accessibility**: unlimited
-    -   **Access to the Mooc**: Future Learn platform[^5]
+    -   **Access to the Mooc**: Future Learn platform[^AIFL]
 
 
 
@@ -102,9 +102,9 @@ intelligence*», The Mooc has been a huge success and is now an established benc
     -   **Registration**: Free
     -   **Certification**: Yes
     -   **Accessibility**: Unlimited
-    -   **Access to the Mooc**: Openclassroom platform
+    -   **Access to the Mooc**: Openclassroom platform - French[^ObjIAFR], English [^ObjIAFR]
 
-### The tool : My Mooc: A tool keep in touch with all available Moocs[^8]
+### The tool : My Mooc: A tool keep in touch with all available Moocs[^ToolMooc]
 
 !!! Tips
     -   « *A powerful and innovative solutionWith more than 10,000 MOOCs available, My Mooc delivers the best free trainings available on the web. Our mission? To make training accessible to as many people as possible! With an account on My Mooc, you can continually follow the latest MOOC news and be ensured that you do not miss any topics or content from your favorite universities across the globe. »*
@@ -134,7 +134,7 @@ intelligence*», The Mooc has been a huge success and is now an established benc
     -   **Registration**: Free
     -   **Certification**: No
     -   **Accessibility**: Not accessible in 2022
-    -   **Access to the Mooc**: European School Network platform[^11]
+    -   **Access to the Mooc**: European School Network platform[^AIbasics]
 
 
 ### **A inteligencia artificial vai transformar a escola** *(Artificial Intelligence will transform schools)*
@@ -162,7 +162,7 @@ intelligence*», The Mooc has been a huge success and is now an established benc
     -   **Registration**: Free
     -   **Certification**: No
     -   **Accessibility**: Unlimited
-    -   **Access to the resources**: That's Ai Website[^13]
+    -   **Access to the resources**: That's AI Website[^EPFLAI]
 
 
 ### **AI in Education**
@@ -175,7 +175,7 @@ intelligence*», The Mooc has been a huge success and is now an established benc
     -   **Registration**: Free
     -   **Certification**: No
     -   **Accessibility**: Unlimited
-    -   **Access to the resources**: [^14]
+    -   **Access to the resources**: On the website of IT Learning Center [^ITLC]
 
 [^EofAi1]: [http://course.elementsofai.com](http://course.elementsofai.com)
 
@@ -185,22 +185,20 @@ intelligence*», The Mooc has been a huge success and is now an established benc
 
 [^AIevery]: [AI for everyone, https://www.coursera.org/learn/ai-for-everyone/home/week/1](https://www.coursera.org/learn/ai-for-everyone/home/week/1)
 
-[^5]: [https://www.futurelearn.com/courses/artificial-intelligence](https://www.futurelearn.com/courses/artificial-intelligence)
+[^AIFL]: [Artificial Intelligence, https://www.futurelearn.com/courses/artificial-intelligence](https://www.futurelearn.com/courses/artificial-intelligence)
 
-[^6]: [https://openclassrooms.com/en/courses/7078811-destination-ai-introduction-to-artificial-intelligence](https://openclassrooms.com/en/courses/7078811-destination-ai-introduction-to-artificial-intelligence)
+[^ObjIAEN]: [https://openclassrooms.com/en/courses/7078811-destination-ai-introduction-to-artificial-intelligence](https://openclassrooms.com/en/courses/7078811-destination-ai-introduction-to-artificial-intelligence)
 
-[^7]: [https://openclassrooms.com/fr/courses/6417031-objectif-ia-initiez-vous-a-lintelligence-artificielle](https://openclassrooms.com/fr/courses/6417031-objectif-ia-initiez-vous-a-lintelligence-artificielle)
+[^ObjIAFR]: [https://openclassrooms.com/fr/courses/6417031-objectif-ia-initiez-vous-a-lintelligence-artificielle](https://openclassrooms.com/fr/courses/6417031-objectif-ia-initiez-vous-a-lintelligence-artificielle)
 
-[^8]: [https://www.my-mooc.com/](https://www.my-mooc.com/)
-
-[^9]: [https://www.coursera.org/learn/artificial-intelligence-education-for-teachers/resources/FAgGy](https://www.coursera.org/learn/artificial-intelligence-education-for-teachers/resources/FAgGy)
+[^ToolMooc]: [https://www.my-mooc.com/](https://www.my-mooc.com/)
 
 [^AIET]: [Artificial Intelligence (AI) Education for Teachers, https://www.coursera.org/learn/artificial-intelligence-education-for-teachers](https://www.coursera.org/learn/artificial-intelligence-education-for-teachers)
 
-[^11]: [https://www.europeanschoolnetacademy.eu/courses/course-v1:CodeWeek+AI+2021/about](https://www.europeanschoolnetacademy.eu/courses/course-v1:CodeWeek+AI+2021/about)
+[^AIbasics]: [AI Basics for school, https://www.europeanschoolnetacademy.eu/courses/course-v1:CodeWeek+AI+2021/about](https://www.europeanschoolnetacademy.eu/courses/course-v1:CodeWeek+AI+2021/about)
 
 [^Aiescola]: [A inteligencia artificial vai transformar a escola, https://www.nau.edu.pt/curso/a-inteligencia-artificial-vai-transformar-a-escola/](https://www.nau.edu.pt/curso/a-inteligencia-artificial-vai-transformar-a-escola/)
 
-[^13]:[https://www.thats-ai.org/en-GB]()
+[^EPFLAI]:[That's AI - ECole Pyltechnique de Lausanne, https://www.thats-ai.org/en-GB](https://www.thats-ai.org/en-GB)
 
-[^14]: [https://skills.it.ox.ac.uk/ai-in-education-course-pack](https://skills.it.ox.ac.uk/ai-in-education-course-pack)
+[^ITLC]: [https://skills.it.ox.ac.uk/ai-in-education-course-pack](https://skills.it.ox.ac.uk/ai-in-education-course-pack)
