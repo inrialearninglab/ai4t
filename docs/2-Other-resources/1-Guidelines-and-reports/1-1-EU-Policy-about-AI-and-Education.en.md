@@ -17,6 +17,7 @@ description: Legal framework about AI and Digital Education Action Plan
 
 !!! Example "Notable content "
     - This Regulatory Framework defines 4 levels of risk in AI:
+
         1 - Unacceptable risk  
         2 - High risk  
         3 - Limited risk  
@@ -37,4 +38,4 @@ description: Legal framework about AI and Digital Education Action Plan
 
 [^1]: [https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52018DC0022&from=EN](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52018DC0022&from=EN)
 
-[^2]: [https://education.ec.europa.eu/focus-topics/digital-education/action-plan](https://education.ec.europa.eu/focus-topics/digital-education/action-plan)
+[^2]: [Digital Education Action Plan (2021-2027), https://education.ec.europa.eu/focus-topics/digital-education/action-plan](https://education.ec.europa.eu/focus-topics/digital-education/action-plan)
