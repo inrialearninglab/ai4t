@@ -12,9 +12,9 @@ Die hier vorgestellte historische Zeitleiste zeigt die wichtigsten Schritte der 
 **Was sind die wichtigsten wissenschaftlichen Meilensteine der KI?**  
 _Klicken Sie auf das Bild unten, um Details zu jedem wissenschaftlichen Meilenstein zu erfahren!_
 
-<a href="2-2-2-Discover-AI-history/AI-history.html" target="_blank">
-<figure> 
-  <img src="Images/AI-historical-timeline.png" alt="Illustration of AI history"/> 
+<a href="2-2-2-Discover-AI-history/AI-history-DE.html" target="_blank">
+<figure>
+  <img src="Images/AI-historical-timeline-DE.png" alt="Illustration of AI history"/> 
 </figure></a>
 
 
