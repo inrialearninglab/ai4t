@@ -28,7 +28,7 @@ Opredeljene so bile štiri stopnje tveganja, od minimalne do nesprejemljive:
 4. **Minimalno tveganje ali brez tveganja**: Predlog omogoča prosto uporabo umetne inteligence z minimalnim tveganjem. To vključuje aplikacije, kot so videoigre z umetno inteligenco ali filtri za nezaželeno pošto. Velika večina sistemov umetne inteligence, ki se trenutno uporabljajo v EU, spada v to kategorijo.
 
 <figure>
-<img src="Images/AI-Risks-EC-EN.png" alt="Representation of AI Risks by the European Commission.">
+<img src="Images/AI-Risks-EC-SI.jpg" alt="Representation of AI Risks by the European Commission.">
 <figcaption>Predlagane štiri ravni tveganj umetne inteligence v Aktu o umetni inteligenci ES.</figcaption>
 </figure>
 

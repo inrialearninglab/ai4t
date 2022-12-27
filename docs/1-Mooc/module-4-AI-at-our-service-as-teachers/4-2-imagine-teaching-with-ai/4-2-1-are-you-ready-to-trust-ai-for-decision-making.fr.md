@@ -32,7 +32,7 @@ Les prédictions réalisées avec certaines techniques d'IA sont plus faciles à
 À l'opposé du spectre de l'explicabilité, il y a le Deep learning, qui peut être difficile à expliquer, mais dont les résultats peuvent être beaucoup plus significatifs que ceux réalisés avec une IA hautement explicable.
 
 <figure>
-  <img src="Images/AI-mecanisms-and-interpretability-HQ.jpg" alt="Representation of AI mechanisms and interpretability." />
+  <img src="Images/AI-mecanisms-and-interpretability-HQ-FR.jpg" alt="Representation of AI mechanisms and interpretability." />
   <figcaption>Figure1 : Mécanismes d'IA et interprétabilité.
  Adapté du Mooc IAI / Ikram Chraibi Kaadoud - CC.BY.SA 2.0.</figcaption>
 </figure>

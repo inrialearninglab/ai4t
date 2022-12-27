@@ -32,7 +32,7 @@ Napovedi, izdelane z nekaterimi tehnikami umetne inteligence, je lažje razlagat
 Na nasprotnem koncu spektra razložljivosti je globinsko učenje, ki ga je težko razložiti, vendar so lahko njegovi rezultati veliko pomembnejši od tistih, narejenih z zelo razložljivo UI.
 
 <figure>
-  <img src="Images/AI-mecanisms-and-interpretability-HQ.jpg" alt="Representation of AI mechanisms and interpretability." />
+  <img src="Images/AI-mecanisms-and-interpretability-HQ-SI.jpg" alt="Representation of AI mechanisms and interpretability." />
   <figcaption>Slika 1: Mehanizmi umetne inteligence in razlagalnost.
  Prirejeno iz Mooc IAI / Ikram Chraibi Kaadoud - CC.BY.SA 2.0.</figcaption>
 </figure>

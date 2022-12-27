@@ -32,7 +32,7 @@ Predictions made with some AI techniques are easier to interpret than others. A 
 At the opposite end of the explainability spectrum, there is Deep learning, which can be difficult to explain but whose output may be much more significant than those made with highly explainable AI.
 
 <figure> 
-  <img src="Images/AI-mecanisms-and-interpretability-HQ.jpg" alt="Representation of AI mechanisms and interpretability." /> 
+  <img src="Images/AI-mecanisms-and-interpretability-HQ-EN.jpg" alt="Representation of AI mechanisms and interpretability." /> 
   <figcaption>Figure1: AI mechanisms and interpretability.
  Adapted from Mooc IAI / Ikram Chraibi Kaadoud - CC.BY.SA 2.0.</figcaption> 
 </figure>

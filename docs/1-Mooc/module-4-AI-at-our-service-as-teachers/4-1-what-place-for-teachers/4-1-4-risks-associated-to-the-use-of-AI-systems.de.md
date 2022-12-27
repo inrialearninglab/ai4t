@@ -28,7 +28,7 @@ Es wurden vier Risikostufen ermittelt, von minimal bis unannehmbar:
 4. **Minimales oder kein Risiko**: Der Vorschlag erlaubt die freie Nutzung von KI mit minimalem Risiko. Dazu gehören Anwendungen wie KI-gestützte Videospiele oder Spam-Filter. Die große Mehrheit der derzeit in der EU eingesetzten KI-Systeme fällt in diese Kategorie.
 
 <figure>
-<img src="Images/AI-Risks-EC-DE.png" alt="Representation of AI Risks by the European Commission.">
+<img src="Images/AI-Risks-EC-DE.jpg" alt="Representation of AI Risks by the European Commission.">
 <figcaption>Die vorgeschlagenen 4 Risikostufen der Künstlichen Intelligenz des KI-Gesetzes der EG.</figcaption>
 </figure>
 

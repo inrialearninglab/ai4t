@@ -32,7 +32,7 @@ Vorhersagen, die mit einigen KI-Techniken gemacht werden, sind leichter zu inter
 Am anderen Ende des Erklärungsspektrums steht das Deep Learning, das zwar schwer zu erklären ist, dessen Ergebnisse aber viel aussagekräftiger sein können als die mit hochgradig erklärbarer KI gemachten.
 
 <figure>
-  <img src="Images/AI-mecanisms-and-interpretability-HQ.jpg" alt="Representation of AI mechanisms and interpretability." />
+  <img src="Images/AI-mecanisms-and-interpretability-HQ-DE.jpg" alt="Representation of AI mechanisms and interpretability." />
   <figcaption>Abbildung 1: KI-Mechanismen und Interpretierbarkeit.
  Adaptiert von Mooc IAI / Ikram Chraibi Kaadoud - CC.BY.SA 2.0.</figcaption>
 </figure>

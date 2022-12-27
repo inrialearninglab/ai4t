@@ -32,7 +32,7 @@ Le previsioni fatte con alcune tecniche di IA sono più facili da interpretare d
 All'estremità opposta dello spettro di spiegabilità c'è il Deep learning, che può essere difficile da spiegare, ma i cui risultati possono essere molto più significativi di quelli ottenuti con un'IA altamente spiegabile.
 
 <figure>
-  <img src="Images/AI-mecanisms-and-interpretability-HQ.jpg" alt="Representation of AI mechanisms and interpretability." />
+  <img src="Images/AI-mecanisms-and-interpretability-HQ-IT.jpg" alt="Representation of AI mechanisms and interpretability." />
   <figcaption>Figura 1: Meccanismi di intelligenza artificiale e interpretabilità.
  Adattato da Mooc IAI / Ikram Chraibi Kaadoud - CC.BY.SA 2.0.</figcaption>
 </figure>
