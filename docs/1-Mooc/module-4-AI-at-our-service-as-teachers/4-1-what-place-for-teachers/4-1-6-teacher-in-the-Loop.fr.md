@@ -18,9 +18,9 @@ Dans son rapport [^1], le "Joint Research Center" propose ce qui suit : "*Pour l
 ## Présentation interactive du modèle "L'enseignant dans la boucle".
 Cliquez sur l'image ci-dessous pour aller plus loin sur le modèle "Enseignant dans la boucle".
 
-<a href="https://view.genial.ly/6336f61021d012001891e5f2" target="_blank">
+<a href="https://view.genial.ly/63aad9b7560d05001916bb98" target="_blank">
 <figure>
-  <img src="Images/Teacher-in-the-Loop.jpeg" alt="Teacher in the Loop Model representation" />
+  <img src="Images/Teacher-in-the-Loop-FR.jpg" alt="Teacher in the Loop Model representation" />
   <figcaption>Figure 1 : Différents degrés de contrôle humain lorsqu'il s'agit de prise de décision autonome dans l'enseignement et la formation. (Adapté du rapport "Emerging technologies and the teaching profession").</figcaption>
 </figure></a>  
 
