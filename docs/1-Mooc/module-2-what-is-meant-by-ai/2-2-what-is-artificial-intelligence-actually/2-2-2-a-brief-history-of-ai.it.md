@@ -12,7 +12,7 @@ La cronologia storica qui presentata evidenzia le principali tappe dello svilupp
 **Quali sono le principali tappe scientifiche dell'IA?**  
 Clicca sull'immagine qui sotto per scoprire i dettagli di ogni pietra miliare scientifica!
 
-<a href="2-2-2-Discover-AI-history/AI-history-IT.html" target="_blank">
+<a href="2-2-2-Discover-AI-history-IT/AI-history-IT.html" target="_blank">
 <figure>
   <img src="Images/AI-historical-timeline-IT.png" alt="Illustration of AI history"/>
 </figure></a>
