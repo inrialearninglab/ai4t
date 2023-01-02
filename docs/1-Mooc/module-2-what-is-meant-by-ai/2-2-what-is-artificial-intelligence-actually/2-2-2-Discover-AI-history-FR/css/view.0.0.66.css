@@ -399,7 +399,8 @@ body {
 }
 
 .genially-social-container-genially {
-  background: #f2f4fc;
+  background-color: #f2f4fc;
+  transition: background-color 0.3s cubic-bezier(0.6, 0, 0.3, 1);
 }
 .genially-social-container-genially.genially-horizontal.genially-exclusive, .genially-social-container-genially.genially-square.genially-exclusive {
   height: 100vh;
