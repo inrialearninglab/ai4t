@@ -36,7 +36,7 @@ If we consider the only specific education-oriented tasks, a set of four needs-b
 Holmes & al.[^2] classified the different types of current AI-based systems for Education as shown below.
 
 <figure>
-	 <img src="Images/AIED-Holmes-systems.png" />
+	 <img src="Images/AIED-Holmes-systems-EN.png" />
 	 <figcaption> Different types of current AI-based systems for Education (from Holmes & al. 2019) </figcaption>
 </figure>
 

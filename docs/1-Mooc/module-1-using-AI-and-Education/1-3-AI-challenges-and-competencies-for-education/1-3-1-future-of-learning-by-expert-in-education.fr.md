@@ -36,7 +36,7 @@ Si l'on considère uniquement les tâches spécifiques à l'éducation, un ensem
 Holmes &amp; al. [^2] ont classé les différents types de systèmes actuels basés sur l'IA pour l'éducation comme indiqué ci-dessous.
 
 <figure>
-	 <img src="Images/AIED-Holmes-systems.png" />
+	 <img src="Images/AIED-Holmes-systems-FR.png" />
 	 <figcaption> Différents types de systèmes actuels basés sur l'IA pour l'éducation (d'après Holmes &amp; al. 2019) </figcaption>
 </figure>
 
