@@ -34,7 +34,7 @@ En tant que discipline scientifique, l'IA couvre plusieurs sous-domaines d'exper
 - Et la robotique (qui comprend le contrôle, la perception, les capteurs et les actionneurs, ainsi que l'intégration de toutes les autres techniques dans les systèmes cyber-physiques).
 
 <figure>
-  <img src="Images/AI-sub-disciplines.png" />
+  <img src="Images/AI-sub-disciplines-FR.jpg" />
   <figcaption> Un aperçu simplifié des sous-disciplines de l'IA et de leurs relations. L'apprentissage automatique et le raisonnement incluent de nombreuses autres techniques, et la robotique comprend des techniques qui ne relèvent pas de l'IA. L'ensemble de l'IA relève de la discipline de l'informatique. Source : Groupe d'experts de haut niveau sur l'intelligence artificielle.</figcaption>
 </figure>
 

@@ -34,7 +34,7 @@ As a scientific discipline, AI covers several sub-areas of expertise and their a
 -   And robotics (which includes control, perception, sensors and actuators, as well as the integration of all other techniques into cyber-physical systems).
 
 <figure> 
-  <img src="Images/AI-sub-disciplines.png" /> 
+  <img src="Images/AI-sub-disciplines-EN.png" /> 
   <figcaption> A simplified overview of AI's sub-disciplines and their relationship. Both machine learning and reasoning include many other techniques, and robotics includes techniques that are outside AI. The whole of AI falls within the computer science discipline. Source: High-Level Expert Group on Artificial Intelligence.</figcaption> 
 </figure>
 
