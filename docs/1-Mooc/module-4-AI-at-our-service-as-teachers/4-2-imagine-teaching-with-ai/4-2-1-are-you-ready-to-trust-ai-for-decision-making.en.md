@@ -44,7 +44,7 @@ Thus, the decision support provided by tools with low interpretability can be mo
 Here is a representation that relates the technology used, its complexity and its strategic outcome.
 
 <figure> 
-  <img src="Images/Data-analysis-uses-from-description-to-prescription-HQ.jpg" alt="Representation of Data analysis uses from description to prescription." /> 
+  <img src="Images/Data-analysis-uses-from-description-to-prescription-HQ-EN.jpg" alt="Representation of Data analysis uses from description to prescription." /> 
 </figure>
 _Figure 2: Classification of data analysis use from description to prescription[^3] (Adapted from the "Learning Analytics" video of this course)._
 

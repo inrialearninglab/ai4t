@@ -44,7 +44,7 @@ Pertanto, il supporto decisionale fornito da strumenti a bassa interpretabilità
 Ecco una rappresentazione che mette in relazione la tecnologia utilizzata, la sua complessità e il suo risultato strategico.
 
 <figure>
-  <img src="Images/Data-analysis-uses-from-description-to-prescription-HQ.jpg" alt="Representation of Data analysis uses from description to prescription." />
+  <img src="Images/Data-analysis-uses-from-description-to-prescription-HQ-IT.jpg" alt="Representation of Data analysis uses from description to prescription." />
 </figure>
 Figura 2: Classificazione dell'uso dell'analisi dei dati dalla descrizione alla prescrizione[^3] (adattata dal video "Learning Analytics" di questo corso).
 

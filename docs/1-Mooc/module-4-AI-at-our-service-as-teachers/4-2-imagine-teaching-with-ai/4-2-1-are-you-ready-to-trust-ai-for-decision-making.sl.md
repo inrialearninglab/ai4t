@@ -44,7 +44,7 @@ Tako je lahko podpora pri odločanju, ki jo zagotavljajo orodja z nizko razložl
 Tukaj je prikaz, ki povezuje uporabljeno tehnologijo, njeno zapletenost in strateški rezultat.
 
 <figure>
-  <img src="Images/Data-analysis-uses-from-description-to-prescription-HQ.jpg" alt="Representation of Data analysis uses from description to prescription." />
+  <img src="Images/Data-analysis-uses-from-description-to-prescription-HQ-SI.png" alt="Representation of Data analysis uses from description to prescription." />
 </figure>
 _Slika 2: Razvrstitev uporabe analize podatkov od opisa do predpisa[^3] (povzeto po videoposnetku "Learning Analytics" tega predmeta)._
 

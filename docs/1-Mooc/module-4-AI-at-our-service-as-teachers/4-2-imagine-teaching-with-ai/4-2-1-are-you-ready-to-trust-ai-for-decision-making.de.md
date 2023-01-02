@@ -44,7 +44,7 @@ So kann die Entscheidungshilfe, die von Werkzeugen mit geringer Interpretierbark
 Hier ist eine Darstellung, die die verwendete Technologie, ihre Komplexität und ihr strategisches Ergebnis in Beziehung setzt.
 
 <figure>
-  <img src="Images/Data-analysis-uses-from-description-to-prescription-HQ.jpg" alt="Representation of Data analysis uses from description to prescription." />
+  <img src="Images/Data-analysis-uses-from-description-to-prescription-HQ-DE.png" alt="Representation of Data analysis uses from description to prescription." />
 </figure>
 Abbildung 2: Klassifizierung des Einsatzes von Datenanalyse von der Beschreibung bis zur Verordnung[^3] (angepasst aus dem Video "Learning Analytics" dieses Kurses).
 
