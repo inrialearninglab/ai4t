@@ -21,7 +21,7 @@ On the European level, the High level expert group on Artificial intelligence pr
 This description of AI is depicted on the following figure[^3].
 
 <figure>
-	 <img src="Images/AI4K12_Five_Big_Ideas_Graphic.png" />
+	 <img src="Images/AI4K12_Five_Big_Ideas_Graphic-EN.png" />
 	 <figcaption> Five big ideas in AI. Credit: AIK12 Initiative. CC BY-NC-SA 4.0 International </figcaption>
 </figure>
 

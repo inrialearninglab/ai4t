@@ -21,7 +21,7 @@ Au niveau européen, le Groupe d’experts de haut niveau sur l’intelligence a
 Cette description de l'IA est représentée sur la figure suivante [^3].
 
 <figure>
-	 <img src="Images/AI4K12_Five_Big_Ideas_Graphic.png" />
+	 <img src="Images/AI4K12_Five_Big_Ideas_Graphic-FR.png" />
 	 <figcaption> Cinq grandes idées en matière d'IA. Crédit : Initiative AIK12. CC BY-NC-SA 4.0 International </figcaption>
 </figure>
 

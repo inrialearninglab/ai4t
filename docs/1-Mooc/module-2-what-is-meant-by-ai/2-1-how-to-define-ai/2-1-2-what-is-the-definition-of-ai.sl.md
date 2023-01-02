@@ -21,7 +21,7 @@ Na evropski ravni skupina strokovnjakov na visoki ravni za umetno inteligenco pr
 Ta opis umetne inteligence je prikazan na naslednji sliki[^3].
 
 <figure>
-	 <img src="Images/AI4K12_Five_Big_Ideas_Graphic.png" />
+	 <img src="Images/AI4K12_Five_Big_Ideas_Graphic-SI.png" />
 	 <figcaption> Pet velikih idej na področju umetne inteligence. Kredit: Pobuda AIK12. CC BY-NC-SA 4.0 International </figcaption>
 </figure>
 

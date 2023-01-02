@@ -21,7 +21,7 @@ Auf europäischer Ebene schlägt die hochrangige Expertengruppe für künstliche
 Diese Beschreibung von KI ist in der folgenden Abbildung[^3] dargestellt.
 
 <figure>
-	 <img src="Images/AI4K12_Five_Big_Ideas_Graphic.png" />
+	 <img src="Images/AI4K12_Five_Big_Ideas_Graphic-DE.png" />
 	 <figcaption> Fünf große Ideen in der KI. Kredit: AIK12 Initiative. CC BY-NC-SA 4.0 International </figcaption>
 </figure>
 

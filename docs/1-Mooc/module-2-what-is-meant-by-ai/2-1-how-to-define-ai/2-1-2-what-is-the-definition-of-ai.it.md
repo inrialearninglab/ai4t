@@ -21,7 +21,7 @@ A livello europeo, il gruppo di esperti di alto livello sull'intelligenza artifi
 Questa descrizione dell'IA è rappresentata nella figura seguente[^3].
 
 <figure>
-	 <img src="Images/AI4K12_Five_Big_Ideas_Graphic.png" />
+	 <img src="Images/AI4K12_Five_Big_Ideas_Graphic-IT.png" />
 	 <figcaption> Cinque grandi idee di IA. Credito: Iniziativa AIK12. CC BY-NC-SA 4.0 Internazionale </figcaption>
 </figure>
 
