@@ -18,7 +18,7 @@ The subject of artificial intelligence is so fascinating that many Massive Open 
 	 		- **Access to the Mooc**: link to the resources
 
 
-IN this pahe, there is first a **selection of Moocs** organised in two parts :
+In this page, there is first a **selection of Moocs** organised in two parts :
 
 **1 - AI in general**
 **2 - AI in Education**
