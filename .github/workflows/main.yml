@@ -17,7 +17,7 @@ jobs:
       - run: git checkout gh-pages
       - name: Replace relative URLs
         run: >
-          CI_PAGES_URL="https://$( cut -d '/' -f 1 <<< "$GITHUB_REPOSITORY" ).github.io/$( cut -d '/' -f 2 <<< "$GITHUB_REPOSITORY" )/" && \
+          CI_PAGES_URL="https://$( cut -d '/' -f 1 <<< "$GITHUB_REPOSITORY" ).github.io/$( cut -d '/' -f 2 <<< "$GITHUB_REPOSITORY" )/" &&
           for file in $(find * -name "*.html"); do
             sed -i "s|<img \([^\\\>]*\)src=\"\([^\:]*\)\"|<img \1\src=\"$CI_PAGES_URL/$(dirname $file)/\2\"|g" $file;
             sed -i "s|<a \([^\\\>]*\)href=\"\([^#][^\:\"]*\)\"|<a \1\href=\"$CI_PAGES_URL/$(dirname $file)/\2\"|g" $file;
