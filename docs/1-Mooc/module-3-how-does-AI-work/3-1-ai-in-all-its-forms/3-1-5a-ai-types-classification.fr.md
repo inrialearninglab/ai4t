@@ -9,7 +9,7 @@ type: activity
 Une courte activité pour faire le point sur l'IA symbolique, ce qu'elle peut et ne peut pas faire.
 
 **"Accès à l'activité"**  
-_Cliquez sur l'image ci-dessous._
+_En-dessous de l'image._
 
 <figure>
   <img src="Images/VisuelQUIZSymbolicAI-FR.jpg" alt="Symbolic AI"/>  

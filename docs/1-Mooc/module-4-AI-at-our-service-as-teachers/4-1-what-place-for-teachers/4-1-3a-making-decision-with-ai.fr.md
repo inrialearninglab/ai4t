@@ -9,7 +9,7 @@ type: activity
 Cette courte activité propose de revenir sur les 3 principaux degrés d'implication de l'IA dans la prise de décision avec un retour d'expérience illustrant chaque type de décision dans le domaine de l'éducation.
 
 **"Accès à l'activité"**  
-_Cliquez sur l'image ci-dessous_
+_En-dessous de l'image_
 
 <figure>
   <img src="Images/VisuelQUIZTypologyofAIinvolveddecisionmaking-FR.jpg" alt="Illustration for Decision Making with AI and Education Activity"/>  

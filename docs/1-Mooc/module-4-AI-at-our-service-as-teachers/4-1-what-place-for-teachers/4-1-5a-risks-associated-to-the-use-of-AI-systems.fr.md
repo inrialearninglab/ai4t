@@ -10,7 +10,7 @@ Il y a 7 conditions requises qu'un système d'IA doit respecter pour être consi
 Associons ces conditions à leurs définitions.
 
 **"Accès à l'activité"**  
-_Cliquez sur l'image ci-dessous_
+_En-dessous de l'image_
 
 <figure><img src="Images/VisuelQUIZThe7keyrequirementsfortrustworthyAI-FR.jpg" alt="Illustration for AI-based decision making Activity"/>  
 </figure>
