@@ -24,7 +24,7 @@ Within Weak Artificial Intelligence, what do the symbolic or Machine Learning ap
   The numerical or Machine Learning (ML) approach includes artificial neural networks and deep learning when there are several layers of such computing units[^1]. It has become effective more recently, and it is this approach that allows us to automatically transcribe texts that we dictate, or to recognise objects in images. It requires a lot of data and is based on statistical approaches.
 
 <figure> 
-  <img src="Images/Machine-Learning-NN-Deep-Learning.png" alt= "Relationship between AI types"> 
+  <img src="Images/Machine-Learning-NN-Deep-Learning-EN.png" alt= "Relationship between AI types"> 
   <figcaption>The relationship between artificial intelligence, neural networks and deep learning - Source: AI and education: Guidance for policy-makers, UNESCO, 2021</figcaption> 
 </figure>
 

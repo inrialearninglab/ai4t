@@ -24,8 +24,8 @@ Worauf beziehen sich innerhalb der schwachen künstlichen Intelligenz die Ansät
   Der numerische oder maschinelle Lernansatz (ML) umfasst künstliche neuronale Netze und Deep Learning, wenn es mehrere Schichten solcher Recheneinheiten gibt[^1]. Dieser Ansatz hat sich erst in jüngster Zeit durchgesetzt und ermöglicht es uns, diktierte Texte automatisch zu transkribieren oder Objekte auf Bildern zu erkennen. Er erfordert eine große Datenmenge und basiert auf statistischen Ansätzen.
 
 <figure>
-  <img src="Images/Machine-Learning-NN-Deep-Learning.png" alt= "Relationship between AI types">
-  <figcaption>The relationship between artificial intelligence, neural networks and deep learning - Source: AI and education: Guidance for policy-makers, UNESCO, 2021</figcaption>
+  <img src="Images/Machine-Learning-NN-Deep-Learning-DE.png" alt= "Relationship between AI types">
+  <figcaption>Die Beziehung zwischen künstlicher Intelligenz, neuronalen Netzen und Deep Learning (übersetzt mit DeepL) - Source: AI and education: Guidance for policy-makers, UNESCO, 2021</figcaption>
 </figure>
 
 ## Überwachter oder unüberwachter Lernansatz?

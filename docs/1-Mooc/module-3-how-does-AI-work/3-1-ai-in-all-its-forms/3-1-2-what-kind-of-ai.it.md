@@ -24,8 +24,8 @@ Nell'ambito dell'intelligenza artificiale debole, a cosa si riferiscono gli appr
   L'approccio numerico o Machine Learning (ML) comprende le reti neurali artificiali e l'apprendimento profondo quando ci sono diversi strati di tali unità di calcolo[^1]. È diventato efficace più di recente ed è questo approccio che ci permette di trascrivere automaticamente i testi che dettiamo o di riconoscere gli oggetti nelle immagini. Richiede molti dati e si basa su approcci statistici.
 
 <figure>
-  <img src="Images/Machine-Learning-NN-Deep-Learning.png" alt= "Relationship between AI types">
-  <figcaption>The relationship between artificial intelligence, neural networks and deep learning - Source: AI and education: Guidance for policy-makers, UNESCO, 2021</figcaption>
+  <img src="Images/Machine-Learning-NN-Deep-Learning-IT.png" alt= "Relationship between AI types">
+  <figcaption>Il rapporto tra intelligenza artificiale, reti neurali e apprendimento profondo (tradotto con DeepL)- Source: AI and education: Guidance for policy-makers, UNESCO, 2021</figcaption>
 </figure>
 
 ## Approccio di apprendimento supervisionato o non supervisionato?

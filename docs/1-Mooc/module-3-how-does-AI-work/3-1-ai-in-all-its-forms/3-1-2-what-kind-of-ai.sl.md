@@ -24,8 +24,8 @@ Na kaj se v okviru šibke umetne inteligence nanašata simbolični pristop ali p
   Številčni pristop ali pristop strojnega učenja (ML) vključuje umetne nevronske mreže in globoko učenje, kadar je več plasti takšnih računalniških enot[^1]. Učinkovit je postal v zadnjem času in prav ta pristop nam omogoča samodejno prepisovanje besedil, ki jih narekujemo, ali prepoznavanje predmetov na slikah. Zahteva veliko podatkov in temelji na statističnih pristopih.
 
 <figure>
-  <img src="Images/Machine-Learning-NN-Deep-Learning.png" alt= "Relationship between AI types">
-  <figcaption>The relationship between artificial intelligence, neural networks and deep learning - Source: AI and education: Guidance for policy-makers, UNESCO, 2021</figcaption>
+  <img src="Images/Machine-Learning-NN-Deep-Learning-SI.png" alt= "Relationship between AI types">
+  <figcaption>Razmerje med umetno inteligenco, nevronskimi mrežami in globokim učenjem (prevedeno z DeepL) - Source: AI and education: Guidance for policy-makers, UNESCO, 2021</figcaption>
 </figure>
 
 ## Nadzorni ali nenadzorovani pristop k učenju?

@@ -24,8 +24,8 @@ Au sein de l'intelligence artificielle faible, à quoi font référence les appr
   L'approche numérique ou Machine Learning (ML) comprend les réseaux de neurones artificiels et l'apprentissage profond lorsqu'il y a plusieurs couches de ces unités de calcul[^1]. Elle est devenue efficace plus récemment suite à des avancées technologiques concernant la vitesse et l'architecture des processeurs dont ceux graphiques et avec des calculs dans le nuage. Cette approche permet, par exemple, de transcrire automatiquement les textes que nous dictons, ou de reconnaître et de traiter des voix et des objets dans des images. Elle nécessite beaucoup de données et se base sur des approches statistiques.
 
 <figure>
-  <img src="Images/Machine-Learning-NN-Deep-Learning.png" alt= "Relationship between AI types">
-  <figcaption>The relationship between artificial intelligence, neural networks and deep learning - Source: AI and education: Guidance for policy-makers, UNESCO, 2021</figcaption>
+  <img src="Images/Machine-Learning-NN-Deep-Learning-FR.png" alt= "Relationship between AI types">
+  <figcaption>La relation entre l'intelligence artificielle, les réseaux neuronaux et l'apprentissage profond (traduit avec DeepL) - Source: AI and education: Guidance for policy-makers, UNESCO, 2021</figcaption>
 </figure>
 
 ## Approche d'apprentissage supervisé ou non supervisé ?
@@ -37,7 +37,7 @@ Au sein des approches d'apprentissage automatique, les systèmes d'IA sont de de
 - Apprentissage non supervisé  
   "*L'apprentissage non supervisé peut être utilisé lorsque des données étiquetées de bonne qualité ne sont pas disponibles. Il excelle dans la découverte de nouveaux groupes et associations au sein de données qui n'auraient pas été identifiées ou étiquetées par des humains. Les étiquettes étant souvent incomplètes ou imprécises, de nombreuses applications, telles que les systèmes de recommandation de contenu, combinent les approches d'apprentissage supervisé et non supervisé*".
 
-De nombreux mécanismes d'intelligence artificielle fonctionnent aujourd'hui par apprentissage supervisé. 
+De nombreux mécanismes d'intelligence artificielle fonctionnent aujourd'hui par apprentissage supervisé.
 
 Pour illustrer cela, imaginons que nous voulons apprendre à une intelligence artificielle à reconnaître un chat dans une image.
 
