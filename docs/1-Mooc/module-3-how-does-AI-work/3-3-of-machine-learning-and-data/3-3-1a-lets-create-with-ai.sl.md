@@ -20,5 +20,5 @@ To vodilo se lahko uporablja v učilnici.
 _Kliknite na spodnjo sliko in nam dovolite, da vas vodimo!_
 
 <a href="https://pixees.fr/classcodeiai/app/tuto3-ai4t/?lang=en" target="_blank"><figure>
-  <img src="Images/IA-M.3.3.1.png"/>
+  <img src="Images/Tuto-M3-HumanandAI-EN.png"/>
 </figure></a>

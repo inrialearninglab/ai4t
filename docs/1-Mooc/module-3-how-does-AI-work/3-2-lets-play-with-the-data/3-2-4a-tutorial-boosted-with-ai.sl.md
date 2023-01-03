@@ -24,6 +24,6 @@ V to vadnico je vstavljenih 7 zelo kratkih pedagoških videoposnetkov, zaradi ka
 _Kliknite na spodnjo sliko in pustite, da vas vodimo!_
 
 <a href="https://pixees.fr/classcodeiai/app/tuto2?lang=en" target="_blank"><figure>
-  <img src="Images/IA-M.2.1.2.png" />
+  <img src="Images/Tuto-M2-BoostedIA-SI.png" />
   <figcaption> Tutorial2: Boosted with AI </figcaption>
 </figure></a>

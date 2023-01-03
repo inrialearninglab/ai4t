@@ -20,5 +20,5 @@ Dieses Tutorial kann im Klassenzimmer verwendet werden.
 _Klicken Sie auf das Bild unten und lassen Sie sich von uns führen!_
 
 <a href="https://pixees.fr/classcodeiai/app/tuto3-ai4t/?lang=de" target="_blank"><figure>
-  <img src="Images/IA-M.3.3.1.png"/>
+  <img src="Images/Tuto-M3-HumanandAI-DE.png"/>
 </figure></a>
