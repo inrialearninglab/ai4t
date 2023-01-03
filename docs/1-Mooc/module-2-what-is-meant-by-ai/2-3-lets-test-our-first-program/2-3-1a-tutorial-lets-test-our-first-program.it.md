@@ -21,5 +21,5 @@ Addestrate un'intelligenza artificiale!
 _Cliccate sull'immagine sottostante e lasciatevi guidare!_
 
 <a href="https://pixees.fr/classcodeiai/app/tuto1?lang=it" target="_blank"><figure>
-  <img src="Images/Tuto-M1-FirstProgram-EN.png" />
+  <img src="Images/Tuto-M1-FirstProgram-IT.png" />
 </figure></a>
