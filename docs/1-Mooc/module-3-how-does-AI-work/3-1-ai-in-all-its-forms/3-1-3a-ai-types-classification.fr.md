@@ -11,4 +11,4 @@ Dans l'activité suivante, vous devrez identifier les différents types d'IA et 
 **"Accès à l'activité"**  
 Cliquez sur l'image ci-dessous
 
-<center><iframe width="860" height="540" src="3-1-3a-activity-what-type-of-ai/3-1-3a-AI-types-relations.html" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="860" height="540" src="3-1-3a-activity-what-type-of-ai/3-1-3a-AI-types-relations-FR.html" frameborder="0" allowfullscreen></iframe></center>

@@ -11,4 +11,4 @@ In der folgenden Übung müssen Sie die verschiedenen Arten von KI und die Bezie
 **"Zugang zur Aktivität"**  
 _Klicken Sie auf das Bild unten_
 
-<center><iframe width="860" height="540" src="3-1-3a-activity-what-type-of-ai/3-1-3a-AI-types-relations.html" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="860" height="540" src="3-1-3a-activity-what-type-of-ai/3-1-3a-AI-types-relations-DE.html" frameborder="0" allowfullscreen></iframe></center>
