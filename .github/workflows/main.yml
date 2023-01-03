@@ -15,5 +15,10 @@ jobs:
       - run: pip install -r requirements.txt
       - run: mkdocs gh-deploy --force
       - run: git checkout gh-pages
-      - run: CI_PAGES_URL="https://$( cut -d '/' -f 1 <<< "$GITHUB_REPOSITORY" ).github.io/$( cut -d '/' -f 2 <<< "$GITHUB_REPOSITORY" )/" && for file in $(find * -name "*.html"); do sed -i "s|<img \([^\\\>]*\)src=\"\([^\:]*\)\"|<img \1\src=\"$CI_PAGES_URL/$(dirname $file)/\2\"|g" $file; done
+      - run: >
+        CI_PAGES_URL="https://$( cut -d '/' -f 1 <<< "$GITHUB_REPOSITORY" ).github.io/$( cut -d '/' -f 2 <<< "$GITHUB_REPOSITORY" )/" &&
+        for file in $(find * -name "*.html"); do
+          sed -i "s|<img \([^\\\>]*\)src=\"\([^\:]*\)\"|<img \1\src=\"$CI_PAGES_URL/$(dirname $file)/\2\"|g" $file;
+          sed -i "s|<a \([^\\\>]*\)href=\"\([^#][^\:\"]*\)\"|<a \1\href=\"$CI_PAGES_URL/$(dirname $file)/\2\"|g" $file;
+        done
       - run: git config user.email "benoit.rospars@inria.fr" && git config user.name "Benoit Rospars" && git add . && git commit -m "Relative to absolute urls" && git push origin gh-pages
