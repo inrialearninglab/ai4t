@@ -23,6 +23,6 @@ In the following activity you will make the link between some scientific advance
 **Want to know more about 3 AI-based technologies?**  
 _Click on the image below and follow the instructions!_
 
-<a href="2-2-4-Activity-Discover-AI-innovations/2-2-4-Origin-of-AI-innovations.html" target="_blank"><figure> 
-  <img src="Images/AI-historical-timeline.png" alt="Image of AI history" /> 
+<a href="2-2-4-Activity-Discover-AI-innovations-EN/2-2-4-Origin-of-AI-innovations-EN.html" target="_blank"><figure> 
+  <img src="Images/AI-historical-timeline-EN.png" alt="Image of AI history" /> 
 </figure></a>

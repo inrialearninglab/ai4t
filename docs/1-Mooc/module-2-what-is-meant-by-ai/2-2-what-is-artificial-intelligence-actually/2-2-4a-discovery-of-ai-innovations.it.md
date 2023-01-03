@@ -24,5 +24,5 @@ Nell'attività che segue farete un collegamento tra alcuni progressi scientifici
 _Clicca sull'immagine qui sotto e segui le istruzioni!_
 
 <a href="2-2-4-Activity-Discover-AI-innovations/2-2-4-Origin-of-AI-innovations.html" target="_blank"><figure>
-  <img src="Images/AI-historical-timeline.png" alt="Image of AI history" />
+  <img src="Images/AI-historical-timeline-IT.png" alt="Image of AI history" />
 </figure></a>

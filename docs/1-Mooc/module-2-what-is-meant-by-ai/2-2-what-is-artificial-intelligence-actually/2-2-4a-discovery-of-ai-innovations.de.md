@@ -23,6 +23,6 @@ In der folgenden Aktivität werden Sie die Verbindung zwischen einigen wissensch
 **Wollen Sie mehr über 3 KI-basierte Technologien erfahren?**  
 _Klicken Sie auf das Bild unten und folgen Sie den Anweisungen!_
 
-<a href="2-2-4-Activity-Discover-AI-innovations/2-2-4-Origin-of-AI-innovations.html" target="_blank"><figure> 
-  <img src="Images/AI-historical-timeline.png" alt="Image of AI history" /> 
+<a href="2-2-4-Activity-Discover-AI-innovations/2-2-4-Origin-of-AI-innovations.html" target="_blank"><figure>
+  <img src="Images/AI-historical-timeline-DE.png" alt="Image of AI history" /> 
 </figure></a>

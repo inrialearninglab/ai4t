@@ -21,5 +21,5 @@ Legen Sie los und trainieren Sie eine KI!
 _Klicken Sie auf das Bild unten und lassen Sie sich führen!_
 
 <a href="https://pixees.fr/classcodeiai/app/tuto1?lang=de" target="_blank"><figure>
-  <img src="Images/Tuto-M1-FirstProgram.png" />
+  <img src="Images/Tuto-M1-FirstProgram-EN.png" />
 </figure></a>

@@ -21,5 +21,5 @@ Allez-y et entrainez une IA !
 _Cliquez sur l'image ci-dessous et laissez-vous guider !_
 
 <a href="https://pixees.fr/classcodeiai/app/tuto1/" target="_blank"><figure>
-  <img src="Images/Tuto-M1-FirstProgram.png" />
+  <img src="Images/Tuto-M1-FirstProgram-FR.png" />
 </figure></a>

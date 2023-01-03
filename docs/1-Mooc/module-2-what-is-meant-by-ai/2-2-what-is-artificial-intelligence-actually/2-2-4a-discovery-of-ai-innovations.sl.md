@@ -24,5 +24,5 @@ V naslednji dejavnosti boste vzpostavili povezavo med nekaterimi znanstvenimi do
 _Kliknite na spodnjo sliko in sledite navodilom!_
 
 <a href="2-2-4-Activity-Discover-AI-innovations/2-2-4-Origin-of-AI-innovations.html" target="_blank"><figure>
-  <img src="Images/AI-historical-timeline.png" alt="Image of AI history" />
+  <img src="Images/AI-historical-timeline-SL.png" alt="Image of AI history" />
 </figure></a>
