@@ -20,7 +20,7 @@ _C Klikni na spodnjo sliko, če želiš podrobneje spoznati model "Učitelj v za
 
 <a href="https://view.genial.ly/6336f61021d012001891e5f2" target="_blank">
 <figure>
-  <img src="Images/Teacher-in-the-Loop.jpeg" alt="Teacher in the Loop Model representation" />
+  <img src="Images/Teacher-in-the-Loop-EN.jpg" alt="Teacher in the Loop Model representation" />
   <figcaption>Slika 1: Različne stopnje človeškega nadzora pri avtonomnem odločanju v izobraževanju in usposabljanju. (Prirejeno iz poročila "Emerging technologies and the teaching profession").</figcaption>
 </figure></a>  
 

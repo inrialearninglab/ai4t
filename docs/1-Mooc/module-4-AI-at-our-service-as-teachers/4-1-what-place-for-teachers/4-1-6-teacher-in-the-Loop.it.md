@@ -20,7 +20,7 @@ Cliccate sull'immagine sottostante per approfondire il modello "Teacher in the L
 
 <a href="https://view.genial.ly/6336f61021d012001891e5f2" target="_blank">
 <figure>
-  <img src="Images/Teacher-in-the-Loop.jpeg" alt="Teacher in the Loop Model representation" />
+  <img src="Images/Teacher-in-the-Loop-EN.jpg" alt="Teacher in the Loop Model representation" />
   <figcaption>Figura 1: Diversi gradi di supervisione umana quando si tratta di prendere decisioni autonome nel settore dell'istruzione e della formazione. (Adattato dal rapporto "Emerging technologies and the teaching profession").</figcaption>
 </figure></a>  
 

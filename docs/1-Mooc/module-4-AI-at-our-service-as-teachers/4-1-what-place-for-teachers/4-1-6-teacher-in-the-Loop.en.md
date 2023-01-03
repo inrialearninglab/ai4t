@@ -20,7 +20,7 @@ _Click on the image below to go further on the "Teacher in the Loop" model!_
 
 <a href="https://view.genial.ly/6336f61021d012001891e5f2" target="_blank">
 <figure> 
-  <img src="Images/Teacher-in-the-Loop-EN.jpeg" alt="Teacher in the Loop Model representation" /> 
+  <img src="Images/Teacher-in-the-Loop-EN.jpg" alt="Teacher in the Loop Model representation" /> 
   <figcaption>Figure 1: Different degrees of human oversight when dealing with autonomous decision-making in Education and Training. (Adapted from "Emerging technologies and the teaching profession" report).</figcaption> 
 </figure></a>  
 

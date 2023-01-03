@@ -20,7 +20,7 @@ Klicken Sie auf das Bild unten, um das "Teacher in the Loop"-Modell zu vertiefen
 
 <a href="https://view.genial.ly/6336f61021d012001891e5f2" target="_blank">
 <figure>
-  <img src="Images/Teacher-in-the-Loop.jpeg" alt="Teacher in the Loop Model representation" />
+  <img src="Images/Teacher-in-the-Loop-EN.jpg" alt="Teacher in the Loop Model representation" />
   <figcaption>Abbildung 1: Unterschiedliche Grade der menschlichen Aufsicht bei der autonomen Entscheidungsfindung in der allgemeinen und beruflichen Bildung. (Adaptiert aus dem Bericht "Emerging technologies and the teaching profession").</figcaption>
 </figure></a>  
 
