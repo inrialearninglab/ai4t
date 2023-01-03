@@ -1,4 +1,4 @@
-name: ci
+name: Mkdocs
 on:
   workflow_dispatch:
   push:
