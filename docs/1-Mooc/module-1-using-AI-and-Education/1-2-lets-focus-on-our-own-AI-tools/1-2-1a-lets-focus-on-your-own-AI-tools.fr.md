@@ -11,6 +11,6 @@ L'intelligence artificielle a le potentiel de fournir aux enseignants et aux app
 **Utilisez-vous déjà certains de ces outils dans votre environnement professionnel ?**
 _Cliquez sur l'image ci-dessous pour le savoir !_
 
-<center><iframe width="860" height="540" src="1-2-1-activity-AI-based-tools/story.html" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="860" height="540" src="1-2-1-activity-AI-based-tools-FR/story.html" frameborder="0" allowfullscreen></iframe></center>
 
 **Note** : Cette activité ne stocke aucune réponse ni donnée personnelle.
