@@ -189,15 +189,15 @@ extra:
     "See":
       en: "See"
       fr: "Voir"
-      it: "Voir"
-      de: "Voir"
-      sl: "Voir"
+      it: "Vedi"
+      de: "Sehen"
+      sl: "Oglejte si "
     "See all":
       en: "See all"
       fr: "Voir tout"
-      it: "Voir tout"
-      de: "Voir tout"
-      sl: "Voir tout"
+      it: "Vedi tutti"
+      de: "Alle sehen"
+      sl: "Oglejte si vse"
 plugins:
   - search
   - awesome-pages
@@ -216,24 +216,24 @@ plugins:
           name: Français
           site_name: "L'intelligence artificielle pour et par les enseignants"
         it:
-          name: Français
-          site_name: "L'intelligence artificielle pour et par les enseignants"
+          name: Italiano
+          site_name: "Intelligenza artificiale per e dagli insegnanti"
         de:
-          name: Français
-          site_name: "L'intelligence artificielle pour et par les enseignants"
+          name: Deutsch
+          site_name: "Künstliche Intelligenz für und durch Lehrer"
         sl:
-          name: Français
+          name: Slovenščina
           site_name: "L'intelligence artificielle pour et par les enseignants"
       # Traductions manquantes dans la navigation
       nav_translations:
         fr:
           "General Presentation": "Présentation générale"
         it:
-          "General Presentation": "Présentation générale"
+          "General Presentation": "Presentazione generale"
         de:
-          "General Presentation": "Présentation générale"
+          "General Presentation": "Allgemeine Präsentation"
         sl:
-          "General Presentation": "Présentation générale"
+          "General Presentation": "Splošna predstavitev"
   - page-to-pdf:
       disableOnServe: true
       displayHeaderFooter: true
