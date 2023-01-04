@@ -18,7 +18,7 @@ Sie ist in verschiedene Ebenen gegliedert, die alle Merkmale der AIER abdecken, 
 
 _Klicken Sie auf das Bild unten und sehen Sie sich das gebrauchsfertige Format der Vorlage für die Analyse von KI-Bildungsressourcen an._
 
-<a href="./AI4T-Template_Ready_to_use.pdf" target="_blank"><figure>
+<a href="Documents/AI4T-Template-Ready-to-use-DE.pdf" target="_blank"><figure>
   <img src="Images/AI4T-Template-Detective-visual-DE.jpg" alt="A Ready to Use template for AI resources Characterisation"/>
 </figure></a>
 
@@ -26,6 +26,6 @@ Die Vorlage in einem gebrauchsfertigen Format[^3] kann auch hochgeladen und für
 
 [^1]: Loria [Lorraine Research Laboratory in Computer Science and its Applications](https://www.loria.fr/en/) is part of a research unit (UMR 7503), common to [CNRS](https://www.cnrs.fr/en), the [University of Lorraine](https://welcome.univ-lorraine.fr/en/) and [INRIA](http://www.inria.fr/en/). It is a member of the AI4T consortium and brings its expertise in AI in education (and on learning analysis) to AI4T Erasmus+ project.
 
-[^2]: [Report on template for analyzing AI-related features in learning resources](./REPORT_ON_THE_TEMPLATE_1.0.pdf) - Jiajun PAN, Azim ROUSSANALY, Anne BOYER - AI4T Erasmus+ project, 2022.
+[^2]: [Report on template for analyzing AI-related features in learning resources](Documents/REPORT-ON-THE-TEMPLATE-2.0.pdf) - Jiajun PAN, Azim ROUSSANALY, Anne BOYER - AI4T Erasmus+ project, 2022. Document in English.
 
-[^3]: [Ready to Use template for AI resources Characterisation](./AI4T-Template_Ready_to_use.pdf) - Inria Learning Lab, Jiajun PAN, Azim ROUSSANALY, Anne BOYER - AI4T Erasmus+ Project - 2022
+[^3]: [Ready to Use template for AI resources Characterisation](Documents/AI4T-Template-Ready-to-use-DE.pdf) - Inria Learning Lab, Jiajun PAN, Azim ROUSSANALY, Anne BOYER - AI4T Erasmus+ Project - 2022
