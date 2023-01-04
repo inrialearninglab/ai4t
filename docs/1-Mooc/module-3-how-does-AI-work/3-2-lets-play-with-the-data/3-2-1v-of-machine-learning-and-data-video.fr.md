@@ -16,7 +16,7 @@ La vidéo propose un aperçu de certains concepts d'apprentissage automatique so
 
 - Réseaux neuronaux et apprentissage profond : de 3'23" à 5'12".
 
-Synopsis
+####Synopsis
 
 La vidéo présente les différentes approches de l'apprentissage machine. D'une part l'approche symbolique et d'autre part l'approche numérique.
 La vidéo décrit ensuite l'apprentissage automatique avec ses deux principaux modes de fonctionnement : l'apprentissage supervisé et l'apprentissage par renforcement. On aborde ensuite l'apprentissage profond (ou réseau de neurones profonds), qui est l'une des modalités de l'apprentissage automatique et qui s'inspire d'une modélisation du fonctionnement du cerveau.  
