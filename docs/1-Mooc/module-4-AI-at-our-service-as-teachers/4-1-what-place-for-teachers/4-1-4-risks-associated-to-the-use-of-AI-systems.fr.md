@@ -6,7 +6,7 @@ description: Comprendre la classification des risques liés à l'utilisation de 
 
 ## Les 4 niveaux de risque en IA
 
-La **proposition de cadre réglementaire sur l'intelligence artificielle**[^1] mise en place par la Commission européenne (CE) en 2021 identifie quatre niveaux de risque liés à l'utilisation des systèmes d'IA. Il est rappelé que "*Si la plupart des systèmes d'IA présentent un risque limité, voire nul, et peuvent contribuer à résoudre de nombreux défis sociétaux, certains systèmes d'IA créent des risques que nous devons traiter pour éviter des résultats indésirables*". 
+La **proposition de cadre réglementaire sur l'intelligence artificielle**[^1] mise en place par la Commission européenne (CE) en 2021 identifie quatre niveaux de risque liés à l'utilisation des systèmes d'IA. Il est rappelé que "*Si la plupart des systèmes d'IA présentent un risque limité, voire nul, et peuvent contribuer à résoudre de nombreux défis sociétaux, certains systèmes d'IA créent des risques que nous devons traiter pour éviter des résultats indésirables*".
 En mettant l'accent sur le fait que "*il n'est souvent pas possible de savoir pourquoi un système d'IA a pris une décision ou fait une prédiction et entrepris une action particulière. Il peut donc s'avérer difficile de déterminer si une personne a été injustement désavantagée, par exemple lors d'une décision d'embauche ou d'une demande de prestations publiques "*.
 
 Quatre niveaux de risque ont été identifiés, de inacceptable à minimal:
@@ -51,7 +51,7 @@ Les systèmes d'IA utilisés dans le domaine de l'éducation doivent être digne
 
 - Responsabilité,
 
-- et **Agence humaine et surveillance** : "*Les systèmes d'IA devraient donner du pouvoir aux êtres humains, en leur permettant de prendre des décisions éclairées et en favorisant leurs droits fondamentaux. Dans le même temps, des mécanismes de surveillance appropriés doivent être mis en place, ce qui peut être réalisé par des approches de type "humain dans la boucle", "humain sur la boucle" et "humain au commandement*".
+- et **Intervention humaine et surveillance** : "*Les systèmes d'IA devraient donner du pouvoir aux êtres humains, en leur permettant de prendre des décisions éclairées et en favorisant leurs droits fondamentaux. Dans le même temps, des mécanismes de surveillance appropriés doivent être mis en place, ce qui peut être réalisé par des approches de type "humain dans la boucle", "humain sur la boucle" et "humain au commandement*".
 
 [^1]: [Laying down Harmonised Rules on Artificial Intelligence (Artificial Intelligence Act) and Amending certain Union Legislatives Acts"] (https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonised-rules-artificial-intelligence) - Proposition de cadre réglementaire sur l'intelligence artificielle, Commission européenne - 2021
 

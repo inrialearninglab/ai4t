@@ -34,7 +34,7 @@ Questi sono i siti web "ufficiali" di Duolingo. Alcune informazioni interessanti
 
 **Vuoi analizzare le funzioni AI di Duolingo for Schools?**  
 _Cliccate sull'immagine qui sotto per scaricare il modello di caratterizzazione dell'intelligenza artificiale pronto per l'uso e compilatelo il più possibile._
-<a href="Documents/AI4T-Template-Ready-to-use-it.pdf" target="_blank">
+<a href="Documents/AI4T-Template-Ready-to-use-IT.pdf" target="_blank">
 <figure>
   <img src="Images/Ready-To-Use-AI-Template-IT.jpg" alt="A Ready to Use Template for AI Resources Characterisation"/>
 </figure></a>

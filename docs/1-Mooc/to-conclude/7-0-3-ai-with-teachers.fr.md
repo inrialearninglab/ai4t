@@ -53,3 +53,5 @@ Nous espérons que vous apprécierez cette lecture.
 - Lien d'accès au manuel: https://ai4t.eu/book/
 - Login : chaireunescorelia@univ-nantes.fr
 - Mot de passe : 12345
+
+(Ce document est en anglais et sera prochainement accessible en français).

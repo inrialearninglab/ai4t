@@ -34,7 +34,7 @@ These are "official" Duolingo websites. Some interesting information can be foun
 
 **Do you want to analyse the AI features of Duolingo for Schools?**  
 _Click on the image below to uplaod the ready-to-use AI characterisation template and fill it in as much as possible._
-<a href="Documents/AI4T-Template-Ready-to-use-en.pdf" target="_blank">
+<a href="Documents/AI4T-Template-Ready-to-use-EN.pdf" target="_blank">
 <figure>
   <img src="Images/Ready-To-Use-AI-Template-EN.png" alt="A Ready to Use Template for AI Resources Characterisation"/>
 </figure></a>
