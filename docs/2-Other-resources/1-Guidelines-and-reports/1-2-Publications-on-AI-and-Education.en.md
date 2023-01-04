@@ -2,7 +2,7 @@
 title: Publications on AI and Education (EU-UNESCO-OCDE-CoE)
 description: Bibligraphy about AI /AI in Education from EU /INTERNATIONAL Institutions
 ---
-??? info " Bibliography information "
+??? info "Bibliography information"
     - Submitted : December 16th 2022
     - The resources are classified by subject and then by decreasing date
 
@@ -56,7 +56,7 @@ Notable content: "*These include the classification of AI according to: families
     "*This document expands the definition of Artificial Intelligence (AI) as defined in the Commission Communication on AI. It clarifies certain aspects of AI as a scientific discipline and as a technology, with the aim to avoid misunderstanding, to achieve a shared common knowledge of AI that can be fruitfully used also by non - AI experts, and to provide useful details that can be used in the discussion on both the AI ethics guidelines and the AI policies recommendations.*""
 
 ## Few infos about the resources
-??? "High-level Expert Group on Artificial Intelligence"[^Hlegai4]
+??? "High-level Expert Group on Artificial Intelligence[^Hlegai4]"
     "*A group of experts to provide advice on its artificial intelligence strategy appointed by the European Commission.*"
 
 
