@@ -15,7 +15,7 @@ description: Legal framework about AI and Digital Education Action Plan
 !!! Note "Extract"
       *The proposed AI regulation ensures that Europeans can trust what AI has to offer. While most AI systems pose limited to no risk and can contribute to solving many societal challenges, certain AI systems create risks that we must address to avoid undesirable outcomes.*
 
-!!! Example "Notable content "
+!!! Example "Notable content"
     - This Regulatory Framework defines 4 levels of risk in AI:
 
         1 - Unacceptable risk  

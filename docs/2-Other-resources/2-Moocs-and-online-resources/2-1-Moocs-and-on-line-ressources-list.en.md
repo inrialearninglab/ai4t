@@ -9,19 +9,19 @@ The subject of artificial intelligence is so fascinating that many Massive Open 
     - Submitted : December 16th 2022
     - For each Moocs and ressources, the following infos are gathered :
 
-			- **By**: author
-	 		- **Info about the Mooc**: a few words about contents
-	 		- **Language**: all languages available
-	 		- **Registration**: free or with conditions
-	 		- **Certification**: possibility to have a attestation / verification regarding the training
-	 		- **Accessibility**: is the resource still available ) dec. 2022
-	 		- **Access to the Mooc**: link to the resources
+			- By: author
+	 		- Info about the Mooc: a few words about contents
+	 		- Language**: all languages available
+	 		- Registration: free or with conditions
+	 		- Certification: possibility to have a attestation / verification regarding the training
+	 		- Accessibility: is the resource still available ) dec. 2022
+	 		- Access to the Mooc: link to the resources
 
 
 In this page, there is first a **selection of Moocs** organised in two parts :
 
-**1 - AI in general**
-**2 - AI in Education**
+- **1 - AI in general**
+- **2 - AI in Education**
 
 Then a selection of **on-line resources about AI and Education** are presented.
 !!! warning
@@ -43,15 +43,11 @@ Then a selection of **on-line resources about AI and Education** are presented.
     -   **Certification**: Yes
     -   **Accessibility**: unlimited
     -   **Access to the Mooc**:
-        -   Part 1 - Introduction to AI (accessible from
-        > course.elementsofai.com[EofAi1])
-
-        -   Part 2 - Building AI (accessible from
-        > buildingai.elementsofai.com[^EofAi2])
+        -   Part 1 - Introduction to AI (accessible from course.elementsofai.com[^EofAi1])
+        -   Part 2 - Building AI (accessible from buildingai.elementsofai.com[^EofAi2])
 
 ###### Element of AI, a success story:
-launched in 2018, «*with the aim ofhelping people to be empowered, not threatened, by artificial
-intelligence*», The Mooc has been a huge success and is now an established benchmark for AI training with 750,000 registered students from 170 countries.
+launched in 2018, «*with the aim ofhelping people to be empowered, not threatened, by artificial intelligence*», The Mooc has been a huge success and is now an established benchmark for AI training with 750,000 registered students from 170 countries.
 
 
 
