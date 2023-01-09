@@ -92,7 +92,7 @@ extra:
             it: "Una serie di 3 video introduttivi per esplorare il ruolo dell'Intelligenza Artificiale e, nello specifico, della Learning Analytics nell'istruzione."
             de: "Eine Reihe von 3 Einführungsvideos, die die Rolle der Künstlichen Intelligenz und insbesondere von Learning Analytics im Bildungswesen erkunden."
             sl: "Serija treh uvodnih videoposnetkov o vlogi umetne inteligence in natančneje analitike učenja v izobraževanju."
-        - url: "1-Mooc/module-2-what-is-meant-by-ai/2-2-what-is-artificial-intelligence-actually/2-2-4-Activity-Discover-AI-innovations/2-2-4-Origin-of-AI-innovations.html"
+        - url: "1-Mooc/module-2-what-is-meant-by-ai/2-2-what-is-artificial-intelligence-actually/2-2-4-Activity-Discover-AI-innovations-EN/2-2-4-Origin-of-AI-innovations-EN.html"
           img: "assets/Home-Timeline.png"
           title:
             en: "AI Historical Timeline"
@@ -106,7 +106,7 @@ extra:
             it: "Pietre miliari dello sviluppo dell'IA, dal primo concetto di macchina programmabile di Ada Lovelace nel 1837 ai progressi più recenti."
             de: "Meilensteine der KI-Entwicklung vom ersten Konzept einer programmierbaren Maschine von Ada Lovelace im Jahr 1837 bis zu den jüngsten Fortschritten."
             sl: "Mejniki razvoja umetne inteligence od prvega koncepta programirljivega stroja Ade Lovelace leta 1837 do najnovejših dosežkov."
-        - url: "1-Mooc/module-3-how-does-AI-work/3-1-ai-in-all-its-forms/AI4T-Template_Ready_to_use.pdf"
+        - url: "1-Mooc/module-3-how-does-AI-work/3-1-ai-in-all-its-forms/Documents/AI4T-Template-Ready-to-use-EN.pdf"
           img: "assets/Home-Template.png"
           title:
             en: "AI Characterisation"
@@ -120,7 +120,7 @@ extra:
             it: "Un elenco di domande da porre sulle risorse educative basate sull'IA per aiutare gli utenti a farne un uso consapevole."
             de: "Eine Liste von Fragen, die man sich bei KI-basierten Bildungsressourcen stellen sollte, um den Nutzern zu helfen, sie sachkundig zu verwenden."
             sl: "Seznam vprašanj o izobraževalnih virih, ki temeljijo na umetni inteligenci, ki bodo uporabnikom pomagala pri njihovi ozaveščeni uporabi."
-        - url: "1-Mooc/module-3-how-does-AI-work/3-1-ai-in-all-its-forms/3-1-3a-activity-what-type-of-ai/3-1-3a-AI-types-relations.html"
+        - url: "1-Mooc/module-3-how-does-AI-work/3-1-ai-in-all-its-forms/3-1-3a-activity-what-type-of-ai/3-1-3a-AI-types-relations-EN.html"
           img: "assets/Home-AItypesclassification.jpg"
           title:
             en: "Quiz"
