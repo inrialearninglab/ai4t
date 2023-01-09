@@ -24,7 +24,7 @@
             <div class="md-card-body">
               <h3>{{card.title[i18n_page_locale]}}</h3>
               <p>{{card.desc[i18n_page_locale]}}</p>
-              {% if 'i18n_page_locale' in card.url %}
+              {% if i18n_page_locale in card.url %}
                 <a href="{{ card.url[i18n_page_locale]|url }}" target="_blank" title="{{card.title[i18n_page_locale]}}" class="md-button">
                   {{config.extra.trad['See'][i18n_page_locale]}}
                 </a>
