@@ -1,5 +1,5 @@
 ---
-titre : Moocs et ressources en ligne
+title : Moocs et ressources en ligne
 description : liste de Moocs et de ressources sur l'IA / l'IA et l'éducation
 ---
 # Moocs et ressources en ligne
@@ -29,7 +29,7 @@ Attention !
 
 ## 1 - Moocs sur l'IA en général
 
-### **Eléments de l'IA**
+### Eléments de l'IA
 <figure>
 	 <img src="Images/Elements-of-AI-visual-2.png" />
 	 <figcaption> </figcaption>
@@ -49,96 +49,96 @@ Attention !
 ###### Element of AI, une histoire à succès :
 Lancé en 2018, "*dans le but d'aider les gens à être habilités, et non menacés, par l'intelligence artificielle*", le Mooc a connu un énorme succès et est désormais une référence établie en matière de formation à l'IA avec 750 000 étudiants inscrits provenant de 170 pays.
 
-### L'Intelligence Artificielle... avec intelligence ! *(Artificial Intelligence ...with intelligence !)*
+### L'Intelligence Artificielle... avec intelligence !
 
 !!! info
     - **Par** : Inria et Class'Code
-    - **Info sur le Mooc** : Class'Code IAI est un MOOC citoyen accessible à toutes et à tous de 7 à 107 ans pour questionner, expérimenter et comprendre ce qu'est l'Intelligence Artificielle... avec intelligence ! - *(Class'Code IAI est un MOOC citoyen accessible à toutes et à tous de 7 à 107 ans pour se questionner, expérimenter et comprendre ce qu'est l'Intelligence Artificielle... avec intelligence ! )*
+    - **Info sur le Mooc** : Class'Code IAI est un MOOC citoyen accessible à toutes et à tous de 7 à 107 ans pour questionner, expérimenter et comprendre ce qu'est l'Intelligence Artificielle... avec intelligence !
     - **Langue** : FR
-    - **Enregistrement** : Gratuit
+    - **Inscription** : Gratuite
     - **Certification** : Oui
     - **Accessibilité** : illimitée
     - **Accès au Mooc** : Plate-forme FUN-Mooc [^IAI]
 		- 🚀 Les ressources du Mooc sont utilisées dans le projet AI4T Mooc
 
 
-### L'IA pour tous
+### AI for everyone *(IA pour tous)*
 !!! info
     - **Par** : Andrew Ng (DeepLearning AI - Université de Stanford)
-    - **Info sur le Mooc** : "*L'IA n'est pas seulement destinée aux ingénieurs. Si vous voulez que votre organisation devienne meilleure dans l'utilisation de l'IA, c'est le cours à dire à tout le monde - surtout à vos collègues non techniques - de prendre*. "
-		- **DeepLearning.AI** propose de nombreux Moocs liés à l'IA sur Coursera, du général au très technique - l'inscription, les certificats et la disponibilité sont à vérifier sur la plateforme Coursera.
-    - **Langue** : FR
-    - **Inscription** : Gratuit
+    - **Info sur le Mooc** : "*L'IA n'est pas seulement destinée aux ingénieurs. Si vous voulez que votre organisation devienne meilleure dans l'utilisation de l'IA, c'est le cours à dire à tout le monde - surtout à vos collègues non techniques - de prendre*."
+    - **DeepLearning.AI** propose de nombreux Moocs liés à l'IA sur Coursera, du général au très technique - l'inscription, les certificats et la disponibilité sont à vérifier sur la plateforme Coursera.
+    - **Langue** : EN
+    - **Inscription** : Gratuite
     - **Certification** : Oui
     - **Accessibilité** : Troisième trimestre 2022
     - **Accès au Mooc** : Plate-forme Coursera [^AIevery]
 
 
 
-### Intelligence Artificielle
+### Artificial Intelligence *(Intelligence artificielle)*
 !!! info
     - **Par** : Accenture
     - **Info sur le Mooc** : " *Apprenez le passé, le présent et l'avenir de l'intelligence artificielle et explorez son potentiel sur le lieu de travail*. "
-    - **Langue** : FR
-    - **Inscription** : Gratuit
+    - **Langue** : EN
+    - **Inscription** : Gratuite
     - **Certification** : Oui
     - **Accessibilité** : illimitée
     - **Accès au Mooc** : Plateforme Future Learn [^AIFL]
 
 
 
-### AI Goal : Learn about artificial intelligence *(Objectif IA : Initiez-vous à l'intelligence artificielle)*
+### Objectif IA : Initiez-vous à l'intelligence artificielle
 
 !!! info
     - **Par** : Institut Montaigne (un Think Tank français) et la Fondation Abenoa.
     - **Info sur le Mooc** : " *Nous vous présentons l'intelligence artificielle de A à Z, pour vous donner des clés de compréhension et des pistes de réflexion "*.
     - **Langue** : EN, FR
-    - **Enregistrement** : Gratuit
+    - **Inscription** : Gratuite
     - **Certification** : Oui
     - **Accessibilité** : Illimité
     - **Accès aux Mooc** : Plateforme Openclassroom - français [^ObjIAFR], anglais [^ObjIAFR].
 
-### L'outil : Mon Mooc : Un outil pour rester en contact avec tous les Moocs disponibles [^ToolMooc].
+### L'outil : My Mooc : Un outil pour rester en contact avec tous les Moocs disponibles [^ToolMooc].
 
 !!! Conseils
-    - *Une solution puissante et innovanteAvec plus de 10.000 MOOCs disponibles, My Mooc délivre les meilleures formations gratuites disponibles sur le web. Notre mission ? Rendre la formation accessible au plus grand nombre ! Avec un compte sur My Mooc, vous pouvez suivre en permanence l'actualité des MOOC et être assuré de ne manquer aucun sujet ou contenu de vos universités préférées à travers le monde. "*
+    - "*Une solution puissante et innovante avec plus de 10.000 MOOCs disponibles, My Mooc délivre les meilleures formations gratuites disponibles sur le web. Notre mission ? Rendre la formation accessible au plus grand nombre ! Avec un compte sur My Mooc, vous pouvez suivre en permanence l'actualité des MOOC et être assuré de ne manquer aucun sujet ou contenu de vos universités préférées à travers le monde.*"
 		- Et par exemple, vous pouvez suivre tous les Moocs délivrés sur l'IA à l'adresse suivante : [https://www.my-mooc.com/en/categorie/artificial-intelligence](https://www.my-mooc.com/en/categorie/artificial-intelligence)
 		- **Langue** : EN, FR
 
 ## 2 - Moocs sur l'IA et l'éducation
 
-### **L'enseignement de l'intelligence artificielle (IA) pour les enseignants:**
+### Artificial Intelligence (AI) Education for Teachers *(Formation à l'intelligence artificielle (IA) pour les enseignants)*
 
 !!! info
     - **Par** : Université Macquarie (AUS) et **IBM (basé sur le AI Curriculum Framework)**.
-    - **Info sur le Mooc** : "*Ce cours est basé sur le cadre du programme d'études en IA d'IBM*[^9] *et fournit la théorie ainsi que des exemples appliqués des composants qui constituent l'IA. En tant qu'enseignants, vous pouvez travailler sur l'ensemble du cours ou vous concentrer sur des domaines clés selon vos besoins. Les connaissances, compétences et attitudes liées à l'IA sont transférables à de multiples disciplines et domaines d'apprentissage, de la petite enfance au primaire, en passant par le secondaire et le post-secondaire*. "
+    - **Info sur le Mooc** : "*Ce cours est basé sur le cadre du programme d'études en IA d'IBM[^MoocAIET] et fournit la théorie ainsi que des exemples appliqués des composants qui constituent l'IA. En tant qu'enseignants, vous pouvez travailler sur l'ensemble du cours ou vous concentrer sur des domaines clés selon vos besoins. Les connaissances, compétences et attitudes liées à l'IA sont transférables à de multiples disciplines et domaines d'apprentissage, de la petite enfance au primaire, en passant par le secondaire et le post-secondaire*. "
     - **Langue** : EN
-    - **Enregistrement** : Gratuit
+    - **Inscription** : Gratuite
     - **Certification** : Non
     - **Accessibilité** : Troisième trimestre 2022
     - **Accès au Mooc** : Plate-forme Coursera [^AIET]
 
 
-### **Bases de l'IA pour l'école**
+### AI Basics for School *(Les bases de l'IA pour l'école)*
 
 !!! info
     - **Par** : Réseau des écoles européennes - dans le cadre de la Semaine du code de l'UE 2021
     - **Info sur le Mooc** : "*Un Mooc qui* guide les enseignants pour explorer le potentiel et les limites de l'IA, et découvrir comment l'IA peut leur permettre de mettre en œuvre de nouvelles méthodes d'enseignement et d'apprentissage en classe. 'AI Basics for Schools' offre aux enseignants l'opportunité d'acquérir une compréhension de base de l'IA et de savoir comment intégrer les ressources de l'IA dans leur enseignement dans le but d'améliorer l'expérience d'apprentissage des élèves. "
     - **Langue** : EN
-    - **Inscription** : Gratuit
+    - **Inscription** : Gratuite
     - **Certification** : Non
     - **Accessibilité** : Non accessible en 2022
     - **Accès au Mooc** : Plateforme du réseau des écoles européennes [^AIbasics]
 
 
-### **A inteligencia artificial vai transformar a escola** *(L'intelligence artificielle transformera les écoles)*.
+### A inteligencia artificial vai transformar a escola *(L'intelligence artificielle transformera les écoles)*
 
 !!! info
     - **Par** : Equipa de Recursos e Tecnologias Educativas (ERTE) - Portugal, Équipe des ressources et des technologies éducatives (ERTE)
     - **Info sur le Mooc** : "*L'intelligence artificielle fait partie de notre quotidien et est en constante évolution ! Saiba como preparar os estudantes a enfrentar novos desafios e a desenvolver competências digitais.(L'intelligence artificielle fait déjà partie de notre quotidien et évolue constamment ! Découvrez comment préparer les étudiants à affronter de nouveaux défis et à développer des compétences numériques).* "
 		- 🚀Ce Mooc a été mentionné à plusieurs reprises lors du lancement du projet AI4T.
     - **Langue** : PT
-    - **Enregistrement** : Gratuit
+    - **Inscription** : Gratuite
     - **Certification** : Non
     - **Accessibilité** : Non accessible en 2022
     - **Accès au Mooc** : plateforme nau.edu [^Aiescola]
@@ -146,30 +146,30 @@ Lancé en 2018, "*dans le but d'aider les gens à être habilités, et non menac
 
 ## 3 - Ressources en ligne sur l'IA et l'éducation
 
-### **C'est l'IA**
+### That's AI *(C'est l'IA)*
 
 !!! info
     - **Par** : EPFL (Ecole Polytechnique de Lausanne) Extension school : L'école d'extension de l'EPFL enseigne des compétences numériques appliquées, en ligne. Nous pensons que tout le monde devrait acquérir des connaissances et des compétences numériques pour pouvoir tirer le meilleur parti des opportunités du monde d'aujourd'hui.
-    - **Info sur les ressources** :  " *" That's AI " est votre introduction au développement technologique le plus important du monde. Découvrez comment l'IA transforme tout ce qui nous entoure et apprenez à devenir un participant actif de ce nouveau monde passionnant.* " "
+    - **Info sur les ressources** :  « *"That's AI" est votre introduction au développement technologique le plus important du monde. Découvrez comment l'IA transforme tout ce qui nous entoure et apprenez à devenir un participant actif de ce nouveau monde passionnant.* »
 		- 🚀Ce Mooc a été mentionné à plusieurs reprises lors du lancement du projet AI4T.
     - **Langue** : DE, EN, FR (certains articles sont uniquement en anglais).
-    - **Enregistrement** : Gratuit
+    - **Inscription** : Gratuite
     - **Certification** : Non
     - **Accessibilité** : Illimité
     - **Accès aux ressources** : C'est le site de l'IA [^EPFLAI]
 
 
-### **L'IA dans l'éducation**
+### AI in Education *(L'IA dans l'éducation)*
 
 !!! info
     - **Par** : Université d'Oxford - [IT Learning Centre](https://skills.it.ox.ac.uk/)
     - **Info sur les ressources** : "*Série de conférences à l'heure du déjeuner sur l'intelligence artificielle (IA) dans l'éducation qui ont été coorganisées avec le Centre pour l'enseignement et l'apprentissage en 2019*. "
 		- 🚀Ce Mooc a été mentionné à plusieurs reprises lors du lancement du projet AI4T.
-    - **Langue** : FR
-    - **Inscription** : Gratuit
+    - **Langue** : EN
+    - **Inscription** : Gratuite
     - **Certification** : Non
     - **Accessibilité** : Illimité
-    - **Accès aux ressources** : Sur le site de l'IT Learning Center [^ITLC].
+    - **Accès aux ressources** : Sur le site de l'IT Learning Center [^ITLC]
 
 [^EofAi1]: [http://course.elementsofai.com](http://course.elementsofai.com)
 
@@ -186,6 +186,7 @@ Lancé en 2018, "*dans le but d'aider les gens à être habilités, et non menac
 [^ObjIAFR]: [https://openclassrooms.com/fr/courses/6417031-objectif-ia-initiez-vous-a-lintelligence-artificielle](https://openclassrooms.com/fr/courses/6417031-objectif-ia-initiez-vous-a-lintelligence-artificielle)
 
 [^ToolMooc]: [https://www.my-mooc.com/](https://www.my-mooc.com/)
+[^MoocAIET]: [https://www.coursera.org/learn/artificial-intelligence-education-for-teachers](https://www.coursera.org/learn/artificial-intelligence-education-for-teachers)
 
 [^AIET]: [Enseignement de l'intelligence artificielle (IA) pour les enseignants, https://www.coursera.org/learn/artificial-intelligence-education-for-teachers](https://www.coursera.org/learn/artificial-intelligence-education-for-teachers)
 

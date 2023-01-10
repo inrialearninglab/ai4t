@@ -11,7 +11,7 @@ The subject of artificial intelligence is so fascinating that many Massive Open 
 
 			- By: author
 	 		- Info about the Mooc: a few words about contents
-	 		- Language**: all languages available
+	 		- Language: all languages available
 	 		- Registration: free or with conditions
 	 		- Certification: possibility to have a attestation / verification regarding the training
 	 		- Accessibility: is the resource still available ) dec. 2022
@@ -29,7 +29,7 @@ Then a selection of **on-line resources about AI and Education** are presented.
 
 ## 1 - Moocs About AI in general
 
-### **Elements of AI**
+### Elements of AI
 <figure>
 	 <img src="Images/Elements-of-AI-visual-2.png" />
 	 <figcaption> </figcaption>
@@ -89,11 +89,11 @@ launched in 2018, «*with the aim ofhelping people to be empowered, not threaten
 
 
 
-### AI Goal: Learn about artificial intelligence *(Objectif IA: Initiez-vous à l'intelligence artificielle)*
+### Objectif IA: Initiez-vous à l'intelligence artificielle *(AI Goal: Learn about artificial intelligence)*
 
 !!! info
     -   **By**: Institut Montaigne (a french Think Tank) and The Fondation Abenoa
-    -   **Info about the Mooc**:   « *We present artificial intelligence from A to Z, to give you the keys to understanding and thinking about it » -* « *Nous vous présentons l'intelligence artificielle de A à Z, pour vous donner des clés de compréhension et des pistes de réflexion »*
+    -   **Info about the Mooc**: "*We present artificial intelligence from A to Z, to give you the keys to understanding and thinking about it*"
     -   **Language**: EN, FR
     -   **Registration**: Free
     -   **Certification**: Yes
@@ -103,17 +103,17 @@ launched in 2018, «*with the aim ofhelping people to be empowered, not threaten
 ### The tool : My Mooc: A tool keep in touch with all available Moocs[^ToolMooc]
 
 !!! Tips
-    -   « *A powerful and innovative solutionWith more than 10,000 MOOCs available, My Mooc delivers the best free trainings available on the web. Our mission? To make training accessible to as many people as possible! With an account on My Mooc, you can continually follow the latest MOOC news and be ensured that you do not miss any topics or content from your favorite universities across the globe. »*
+    -   « *A powerful and innovative solutionWith more than 10,000 MOOCs available, My Mooc delivers the best free trainings available on the web. Our mission? To make training accessible to as many people as possible! With an account on My Mooc, you can continually follow the latest MOOC news and be ensured that you do not miss any topics or content from your favorite universities across the globe.* »
 		- And for example you can follow up with all Moocs delivered about AI at the following adresse: [https://www.my-mooc.com/en/categorie/artificial-intelligence](https://www.my-mooc.com/en/categorie/artificial-intelligence)
 		- **Language**: EN, FR
 
 ## 2 - Moocs about AI and Education
 
-###  **Artificial Intelligence (AI) Education for Teachers:**
+###  Artificial Intelligence (AI) Education for Teachers
 
 !!! info
     -   **By**: Macquarie University (AUS) and **IBM (based on AI Curriculum Framework)**
-    -   **Info about the Mooc**:  « *This course is based on the IBM AI Curriculum Framework*[^9] *and provides theory plus applied examples of the components that make up AI. As teachers, you can work your way through the entire course, or you can focus on key areas as you need. There are knowledge, skills and attitudes related to AI that are transferable to multiple disciplines and learning areas from early childhood, primary, secondary, and post-secondary*. »
+    -   **Info about the Mooc**:  « *This course is based on the IBM AI Curriculum Framework[^MoocAIET] and provides theory plus applied examples of the components that make up AI. As teachers, you can work your way through the entire course, or you can focus on key areas as you need. There are knowledge, skills and attitudes related to AI that are transferable to multiple disciplines and learning areas from early childhood, primary, secondary, and post-secondary*. »
     -   **Language**: EN
     -   **Registration**: Free
     -   **Certification**: No
@@ -121,7 +121,7 @@ launched in 2018, «*with the aim ofhelping people to be empowered, not threaten
     -   **Access to the Mooc**: Coursera platform[^AIET]
 
 
-### **AI Basics for School**
+### AI Basics for School
 
 !!! info
     -   **By**: European School Network - part of EU Code Week 2021
@@ -133,7 +133,7 @@ launched in 2018, «*with the aim ofhelping people to be empowered, not threaten
     -   **Access to the Mooc**: European School Network platform[^AIbasics]
 
 
-### **A inteligencia artificial vai transformar a escola** *(Artificial Intelligence will transform schools)*
+### A inteligencia artificial vai transformar a escola *(Artificial Intelligence will transform schools)*
 
 !!! info
     -   **By**: Equipa de Recursos e Tecnologias Educativas (ERTE) - Portugal, Educational Resources and Technology Team (ERTE)
@@ -148,11 +148,11 @@ launched in 2018, «*with the aim ofhelping people to be empowered, not threaten
 
 ## 3 - On-line resource about AI and Education
 
-### **That's AI**
+### That's AI
 
 !!! info
     -   **By**: EPFL (Ecole Polytechnique de Lausanne) Extension school: The EPFL Extension School teaches applied digital skills, online. We believe that everyone should gain digital knowledge and skills to be able to make the most of the opportunities in today's world.
-    -   **Info about the resources**:  « *« That's AI » is your introduction to the world's most important technological development. Find out how AI is transforming everything around us and learn how to become an active participant in this exciting new world.* »
+    -   **Info about the resources**:  « *"That's AI" is your introduction to the world's most important technological development. Find out how AI is transforming everything around us and learn how to become an active participant in this exciting new world.* »
 		- 🚀This Mooc was mentioned several times at the launch of the AI4T project.
     -   **Language**: DE, EN, FR (some article ares solely in English)
     -   **Registration**: Free
@@ -161,7 +161,7 @@ launched in 2018, «*with the aim ofhelping people to be empowered, not threaten
     -   **Access to the resources**: That's AI Website[^EPFLAI]
 
 
-### **AI in Education**
+### AI in Education
 
 !!! info
     -   **By**: University of Oxford - [IT Learning Centre](https://skills.it.ox.ac.uk/)
@@ -188,6 +188,7 @@ launched in 2018, «*with the aim ofhelping people to be empowered, not threaten
 [^ObjIAFR]: [https://openclassrooms.com/fr/courses/6417031-objectif-ia-initiez-vous-a-lintelligence-artificielle](https://openclassrooms.com/fr/courses/6417031-objectif-ia-initiez-vous-a-lintelligence-artificielle)
 
 [^ToolMooc]: [https://www.my-mooc.com/](https://www.my-mooc.com/)
+[^MoocAIET]: [https://www.coursera.org/learn/artificial-intelligence-education-for-teachers](https://www.coursera.org/learn/artificial-intelligence-education-for-teachers)
 
 [^AIET]: [Artificial Intelligence (AI) Education for Teachers, https://www.coursera.org/learn/artificial-intelligence-education-for-teachers](https://www.coursera.org/learn/artificial-intelligence-education-for-teachers)
 
