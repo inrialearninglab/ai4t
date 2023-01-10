@@ -92,7 +92,12 @@ extra:
             it: "Una serie di 3 video introduttivi per esplorare il ruolo dell'Intelligenza Artificiale e, nello specifico, della Learning Analytics nell'istruzione."
             de: "Eine Reihe von 3 Einführungsvideos, die die Rolle der Künstlichen Intelligenz und insbesondere von Learning Analytics im Bildungswesen erkunden."
             sl: "Serija treh uvodnih videoposnetkov o vlogi umetne inteligence in natančneje analitike učenja v izobraževanju."
-        - url: "1-Mooc/module-2-what-is-meant-by-ai/2-2-what-is-artificial-intelligence-actually/2-2-4-Activity-Discover-AI-innovations-EN/2-2-4-Origin-of-AI-innovations-EN.html"
+        - url:
+            en: "1-Mooc/module-2-what-is-meant-by-ai/2-2-what-is-artificial-intelligence-actually/2-2-4-Activity-Discover-AI-innovations-EN/2-2-4-Origin-of-AI-innovations-EN.html"
+            fr: "fr/1-Mooc/module-2-what-is-meant-by-ai/2-2-what-is-artificial-intelligence-actually/2-2-4-Activity-Discover-AI-innovations-FR/2-2-4-Origin-of-AI-innovations-FR.html"
+            it: "it/1-Mooc/module-2-what-is-meant-by-ai/2-2-what-is-artificial-intelligence-actually/2-2-4-Activity-Discover-AI-innovations-IT/2-2-4-Origin-of-AI-innovations-IT.html"
+            de: "de/1-Mooc/module-2-what-is-meant-by-ai/2-2-what-is-artificial-intelligence-actually/2-2-4-Activity-Discover-AI-innovations-DE/2-2-4-Origin-of-AI-innovations-DE.html"
+            sl: "sl/1-Mooc/module-2-what-is-meant-by-ai/2-2-what-is-artificial-intelligence-actually/2-2-4-Activity-Discover-AI-innovations-SL/2-2-4-Origin-of-AI-innovations-SL.html"
           img: "assets/Home-Timeline.png"
           title:
             en: "AI Historical Timeline"
@@ -106,7 +111,12 @@ extra:
             it: "Pietre miliari dello sviluppo dell'IA, dal primo concetto di macchina programmabile di Ada Lovelace nel 1837 ai progressi più recenti."
             de: "Meilensteine der KI-Entwicklung vom ersten Konzept einer programmierbaren Maschine von Ada Lovelace im Jahr 1837 bis zu den jüngsten Fortschritten."
             sl: "Mejniki razvoja umetne inteligence od prvega koncepta programirljivega stroja Ade Lovelace leta 1837 do najnovejših dosežkov."
-        - url: "1-Mooc/module-3-how-does-AI-work/3-1-ai-in-all-its-forms/Documents/AI4T-Template-Ready-to-use-EN.pdf"
+        - url:
+            en: "1-Mooc/module-3-how-does-AI-work/3-1-ai-in-all-its-forms/Documents/AI4T-Template-Ready-to-use-EN.pdf"
+            fr: "fr/1-Mooc/module-3-how-does-AI-work/3-1-ai-in-all-its-forms/Documents/AI4T-Template-Ready-to-use-FR.pdf"
+            it: "it/1-Mooc/module-3-how-does-AI-work/3-1-ai-in-all-its-forms/Documents/AI4T-Template-Ready-to-use-IT.pdf"
+            de: "de/1-Mooc/module-3-how-does-AI-work/3-1-ai-in-all-its-forms/Documents/AI4T-Template-Ready-to-use-DE.pdf"
+            sl: "sl/1-Mooc/module-3-how-does-AI-work/3-1-ai-in-all-its-forms/Documents/AI4T-Template-Ready-to-use-SI.pdf"
           img: "assets/Home-Template.png"
           title:
             en: "AI Characterisation"
@@ -120,7 +130,12 @@ extra:
             it: "Un elenco di domande da porre sulle risorse educative basate sull'IA per aiutare gli utenti a farne un uso consapevole."
             de: "Eine Liste von Fragen, die man sich bei KI-basierten Bildungsressourcen stellen sollte, um den Nutzern zu helfen, sie sachkundig zu verwenden."
             sl: "Seznam vprašanj o izobraževalnih virih, ki temeljijo na umetni inteligenci, ki bodo uporabnikom pomagala pri njihovi ozaveščeni uporabi."
-        - url: "1-Mooc/module-3-how-does-AI-work/3-1-ai-in-all-its-forms/3-1-3a-activity-what-type-of-ai/3-1-3a-AI-types-relations-EN.html"
+        - url:
+            en: "1-Mooc/module-3-how-does-AI-work/3-1-ai-in-all-its-forms/3-1-3a-activity-what-type-of-ai/3-1-3a-AI-types-relations-EN.html"
+            fr: "fr/1-Mooc/module-3-how-does-AI-work/3-1-ai-in-all-its-forms/3-1-3a-activity-what-type-of-ai/3-1-3a-AI-types-relations-FR.html"
+            it: "it/1-Mooc/module-3-how-does-AI-work/3-1-ai-in-all-its-forms/3-1-3a-activity-what-type-of-ai/3-1-3a-AI-types-relations-IT.html"
+            de: "de/1-Mooc/module-3-how-does-AI-work/3-1-ai-in-all-its-forms/3-1-3a-activity-what-type-of-ai/3-1-3a-AI-types-relations-DE.html"
+            sl: "sl/1-Mooc/module-3-how-does-AI-work/3-1-ai-in-all-its-forms/3-1-3a-activity-what-type-of-ai/3-1-3a-AI-types-relations-SI.html"
           img: "assets/Home-AItypesclassification.jpg"
           title:
             en: "Quiz"
@@ -142,7 +157,12 @@ extra:
         sl: "Celotno usposabljanje o umetni inteligenci v izobraževanju v okviru programa AI4T Erasmus+"
       url: "path/to/folder"
       cards:
-        - url: "1-Mooc/general-presentation/0-1-what-does-this-training-offer-us/0-1-3-a-full-training-path.html"
+        - url:
+            en: "1-Mooc/general-presentation/0-1-what-does-this-training-offer-us/0-1-3-a-full-training-path.html"
+            fr: "fr/1-Mooc/general-presentation/0-1-what-does-this-training-offer-us/0-1-3-a-full-training-path.html"
+            it: "it/1-Mooc/general-presentation/0-1-what-does-this-training-offer-us/0-1-3-a-full-training-path.html"
+            de: "de/1-Mooc/general-presentation/0-1-what-does-this-training-offer-us/0-1-3-a-full-training-path.html"
+            sl: "sl/1-Mooc/general-presentation/0-1-what-does-this-training-offer-us/0-1-3-a-full-training-path.html"
           img: "assets/Home-Full-training-path.png"
           title:
             en: "Training Path"
@@ -170,7 +190,12 @@ extra:
             it: "Demistificare e comprendere l'IA - Sperimentare risorse educative basate sull'IA - Sensibilizzare sull'uso etico dell'IA nell'istruzione."
             de: "Entmystifizierung und Verständnis von KI - Experimentieren mit KI-basierten Bildungsressourcen - Sensibilisierung für den ethischen Einsatz von KI in der Bildung."
             sl: "Demistificirati in razumeti umetno inteligenco - Eksperimentirati z izobraževalnimi viri, ki temeljijo na umetni inteligenci - Ozaveščati o etični uporabi umetne inteligence v izobraževanju.s"
-        - url: "1-Mooc/general-presentation/0-4-Credits/0-4-1-Credits.html"
+        - url:
+            en: "1-Mooc/general-presentation/0-4-Credits/0-4-1-Credits.html"
+            fr: "fr/1-Mooc/general-presentation/0-4-Credits/0-4-1-Credits.html"
+            it: "it/1-Mooc/general-presentation/0-4-Credits/0-4-1-Credits.html"
+            de: "de/1-Mooc/general-presentation/0-4-Credits/0-4-1-Credits.html"
+            sl: "sl/1-Mooc/general-presentation/0-4-Credits/0-4-1-Credits.html"
           img: "assets/Home-Partners.png"
           title:
             en: "AI4T Project Partners"
