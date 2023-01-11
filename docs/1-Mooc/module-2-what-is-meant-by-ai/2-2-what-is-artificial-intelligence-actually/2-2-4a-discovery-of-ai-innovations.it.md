@@ -23,6 +23,6 @@ Nell'attività che segue farete un collegamento tra alcuni progressi scientifici
 **Vuoi saperne di più su 3 tecnologie basate sull'IA?**  
 _Clicca sull'immagine qui sotto e segui le istruzioni!_
 
-<a href="2-2-4-Activity-Discover-AI-innovations-IT/2-2-4-Origin-of-AI-innovations-IT.html" target="_blank"><figure>
+<a href="2-2-4-Activity-Discover-AI-innovations-EN/2-2-4-Origin-of-AI-innovations-EN.html" target="_blank"><figure>
   <img src="Images/AI-historical-timeline-IT.png" alt="Image of AI history" />
 </figure></a>
