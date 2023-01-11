@@ -23,6 +23,6 @@ V naslednji dejavnosti boste vzpostavili povezavo med nekaterimi znanstvenimi do
 **Želite izvedeti več o treh tehnologijah, ki temeljijo na umetni inteligenci?**  
 _Kliknite na spodnjo sliko in sledite navodilom!_
 
-<a href="2-2-4-Activity-Discover-AI-innovations/2-2-4-Origin-of-AI-innovations.html" target="_blank"><figure>
+<a href="2-2-4-Activity-Discover-AI-innovations-SI/2-2-4-Origin-of-AI-innovations-SI.html" target="_blank"><figure>
   <img src="Images/AI-historical-timeline-SL.png" alt="Image of AI history" />
 </figure></a>
