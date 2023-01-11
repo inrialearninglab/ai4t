@@ -78,7 +78,12 @@ extra:
         sl: "Pregled vsebine programa Mooc"
       url: "path/to/folder"
       cards:
-        - url: "https://www.youtube.com/embed/QfneXoU-jXM?rel=0&showinfo=0&cc_load_policy=1&hl=fr&modestbranding=1"
+        - url:
+            en: "https://www.youtube.com/embed/QfneXoU-jXM?rel=0&showinfo=0&cc_load_policy=1&hl=fr&modestbranding=1"
+            fr: "https://www.youtube.com/embed/QfneXoU-jXM?rel=0&showinfo=0&cc_load_policy=1&hl=fr&modestbranding=1"
+            it: "https://www.youtube.com/embed/QfneXoU-jXM?rel=0&showinfo=0&cc_load_policy=1&hl=fr&modestbranding=1"
+            de: "https://www.youtube.com/embed/QfneXoU-jXM?rel=0&showinfo=0&cc_load_policy=1&hl=fr&modestbranding=1"
+            sl: "https://www.youtube.com/embed/QfneXoU-jXM?rel=0&showinfo=0&cc_load_policy=1&hl=fr&modestbranding=1"
           img: "assets/Home-a-walk-trough-AI.png"
           title:
             en: "A Walk Through AI"
@@ -176,7 +181,12 @@ extra:
             it: "Un percorso formativo completo per indagare, sperimentare e interrogarsi sull'uso dell'IA nell'istruzione."
             de: "Ein vollständiger Ausbildungsweg, um den Einsatz von KI im Bildungswesen zu untersuchen, zu experimentieren und zu hinterfragen."
             sl: "Popolna pot usposabljanja za raziskovanje, eksperimentiranje in preizkušanje uporabe umetne inteligence v izobraževanju."
-        - url: "https://www.youtube.com/embed/ybYPaPxRcBo?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1"
+        - url:
+            en: "https://www.youtube.com/embed/ybYPaPxRcBo?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1"
+            fr: "https://www.youtube.com/embed/ybYPaPxRcBo?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1"
+            it: "https://www.youtube.com/embed/ybYPaPxRcBo?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1"
+            de: "https://www.youtube.com/embed/ybYPaPxRcBo?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1"
+            sl: "https://www.youtube.com/embed/ybYPaPxRcBo?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1"
           img: "assets/Home-training-objectives.png"
           title:
             en: "Training Objectives"
