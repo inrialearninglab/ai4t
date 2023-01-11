@@ -1,5 +1,5 @@
 ---
-title: (EU-UNESCO-OCDE-CoE)
+title: Publikacije o umetni inteligenci in izobraževanju (EU-UNESCO-OCDE-CoE)
 description: Izobraževalna bibliografija o umetni inteligenci / umetni inteligenci v izobraževanju iz institucij EU / MEDNARODNIH institucij
 ---
 ??? info "Informacije o bibliografiji"
@@ -27,7 +27,8 @@ Pomembna vsebina: "*Vključuje klasifikacijo umetne inteligence glede na: druži
 2020: AI Watch - Opredelitev umetne inteligence - Tehnično poročilo Skupnega raziskovalnega središča[^Jrc3]
 
 !!! Opomba
-    Predlog za "*operativno opredelitev umetne inteligence, ki jo je treba sprejeti v okviru AI Watch.* Pomembna vsebina: "*Dragocen prispevek tega dela je zbiranje opredelitev, razvitih med letoma 1955 in 2019, ter povzetek glavnih značilnosti pojma umetne inteligence, kot se odražajo v ustrezni literaturi.*"
+    Predlog za "*operativno opredelitev umetne inteligence, ki jo je treba sprejeti v okviru AI Watch.*"  
+Pomembna vsebina: "*Dragocen prispevek tega dela je zbiranje opredelitev, razvitih med letoma 1955 in 2019, ter povzetek glavnih značilnosti pojma umetne inteligence, kot se odražajo v ustrezni literaturi.*"
 
 2020: Umetna inteligenca v izobraževanju: Unescov inštitut za informacijske tehnologije v izobraževanju[^Unesco3]: Spremembe s hitrostjo učenja - poročilo Unescovega inštituta za informacijske tehnologije v izobraževanju
 
@@ -35,25 +36,25 @@ Pomembna vsebina: "*Vključuje klasifikacijo umetne inteligence glede na: druži
 
 2020: 2020: nastajajoče tehnologije in učiteljski poklic - etični in pedagoški premisleki na podlagi scenarijev bližnje prihodnosti - poročilo Skupnega raziskovalnega središča [^Jrc2]
 
-!!! povzetek
+!!! abstract "Povzetek"
     "*Cilj scenarijev je videti prihodnost kot nekaj, kar lahko oblikujemo. Namen teh scenarijev bližnje prihodnosti je rešiti številne težave, za katere današnji pedagogi pravijo, da jim preprečujejo zagotavljanje kakovostnega izobraževanja in usposabljanja. Odvijajo se v učilnicah, predavalnicah, centrih za usposabljanje in digitalnih učnih okoljih, v katerih bi se lahko nove tehnologije uporabljale kot podpora izobraževalcem pri njihovem poklicu. Ključni izzivi, ki izhajajo iz scenarijev, so povezani z etičnimi vidiki (npr. ravnovesje med avtonomijo človeka in strojev, podatkovna opremljenost izobraževanja, pedagoški modeli) in razvijajočimi se zahtevami glede usposobljenosti pedagoških delavcev.*"
 
 2019: The Impact of AI on Learning Teaching and Education - A Joint Research Centre Report[^Jrc1]
 
-!!! povzetek
+!!! abstract "Povzetek"
     "Poročilo, ki *opiše trenutno stanje na področju umetne inteligence (UI) in njen potencialni vpliv na učenje, poučevanje in izobraževanje. Zagotavlja konceptualne temelje za dobro informirano politično usmerjeno delo, raziskave in v prihodnost usmerjene dejavnosti, ki obravnavajo priložnosti in izzive, nastale zaradi nedavnega razvoja umetne inteligence. Poročilo je namenjeno oblikovalcem politik, vendar vsebuje tudi prispevke, ki so zanimivi za razvijalce tehnologije umetne inteligence in raziskovalce, ki preučujejo vpliv umetne inteligence na gospodarstvo, družbo ter prihodnost izobraževanja in učenja.*"
 
 2019: Pekinško soglasje o umetni inteligenci in izobraževanju - UNESCO[^Unesco2]
 
 2019: Etične smernice za zaupanja vredno umetno inteligenco - poročilo skupine strokovnjakov na visoki ravni za umetno inteligenco[^Hlegai2].
 
-!!! info
+!!! info "Informacije"
     Iz teh smernic je nastal ALTAI: The Assessment List for Trustworthy Artificial Intelligence"[^Hlegai3], *praktično orodje, ki podjetjem in organizacijam pomaga pri samoocenjevanju zanesljivosti njihovih sistemov umetne inteligence v razvoju.*"
 
 2018: A Definition Of AI: Main Capabilities And Disciplines - poročilo skupine strokovnjakov na visoki ravni za umetno inteligenco[^Hlegai1].
 
-!!! info
-    "*Ta dokument razširja opredelitev umetne inteligence (UI), kot je opredeljena v Sporočilu Komisije o umetni inteligenci. Pojasnjuje nekatere vidike umetne inteligence kot znanstvene discipline in tehnologije, da bi se izognili nesporazumom, dosegli skupno znanje o umetni inteligenci, ki ga lahko plodno uporabljajo tudi strokovnjaki, ki niso strokovnjaki za umetno inteligenco, in zagotovili koristne podrobnosti, ki se lahko uporabijo v razpravi o etičnih smernicah in priporočilih za politike umetne inteligence.*
+!!! info "Informacije"
+    "*Ta dokument razširja opredelitev umetne inteligence (UI), kot je opredeljena v Sporočilu Komisije o umetni inteligenci. Pojasnjuje nekatere vidike umetne inteligence kot znanstvene discipline in tehnologije, da bi se izognili nesporazumom, dosegli skupno znanje o umetni inteligenci, ki ga lahko plodno uporabljajo tudi strokovnjaki, ki niso strokovnjaki za umetno inteligenco, in zagotovili koristne podrobnosti, ki se lahko uporabijo v razpravi o etičnih smernicah in priporočilih za politike umetne inteligence.*"
 
 ## Nekaj informacij o virih
 ??? "Skupina strokovnjakov na visoki ravni za umetno inteligenco[^Hlegai4]"

@@ -24,7 +24,7 @@ In questa pagina è presente una **selezione di Mooc** organizzata in due parti:
 - **2 - IA nell'istruzione**
 
 Poi viene presentata una selezione di **risorse online sull'IA e sull'educazione**.
-!!! avviso
+!!! warning "avviso"
     Si tratta di una selezione parziale, legata al contesto e all'interesse del progetto AI4T e alle premesse del progetto. Questo elenco dovrebbe quindi evolversi e arricchirsi. La maggior parte delle risorse è disponibile in inglese, alcune sono disponibili anche in altre lingue europee. Abbiamo anche menzionato due risorse che non sono disponibili in inglese in quanto svolgono un ruolo chiave nel progetto AI4T.
 
 ## 1 - Moocs sull'IA in generale
@@ -36,7 +36,7 @@ Poi viene presentata una selezione di **risorse online sull'IA e sull'educazione
 </figure>
 
 !!! info
-    - A cura di**: MinnaLearn e l'Università di Helsinki
+    - **A cura di**: MinnaLearn e l'Università di Helsinki
     - **Informazioni sul Mooc**: "*The Elements of AI" è una serie di corsi online gratuiti creati da MinnaLearn e dall'Università di Helsinki. Vogliamo incoraggiare il più ampio gruppo di persone possibile a imparare cos'è l'IA, cosa si può (e non si può) fare con l'IA e come iniziare a creare metodi di IA. I corsi combinano teoria ed esercizi pratici*".
     - **Lingua**: DE, FR, IT, IE, SI, GB (e molte altre lingue europee)
     - **Registrazione**: Gratuita
@@ -61,14 +61,14 @@ lanciato nel 2018, "*con l'obiettivo di aiutare le persone a essere potenziate, 
     - **Certificazione**: Sì
     - **Accessibilità**: illimitata
     - **Accesso al Mooc**: Piattaforma FUN-Mooc [^IAI]
-		- 🚀 Le risorse del Mooc sono utilizzate nel progetto Mooc di AI4T.
+    - 🚀 Le risorse del Mooc sono utilizzate nel progetto Mooc di AI4T.
 
 
 ### AI for everyone *(IA per tutti)*
 !!! info
     - **Da**: Andrew Ng (DeepLearning AI - Università di Stanford)
-    - **Informazioni sul Mooc**: "*L'IA non è solo per gli ingegneri. Se volete che la vostra organizzazione diventi migliore nell'uso dell'IA, questo è il corso che dovete dire a tutti, specialmente ai vostri colleghi non tecnici, di seguire*. "
-		- **DeepLearning.AI** offre molti Mooc relativi all'IA su Coursera, da quelli generali a quelli molto tecnici - la registrazione, i certificati e la disponibilità devono essere verificati sulla piattaforma di Coursera.
+    - **Informazioni sul Mooc**: "*L'IA non è solo per gli ingegneri. Se volete che la vostra organizzazione diventi migliore nell'uso dell'IA, questo è il corso che dovete dire a tutti, specialmente ai vostri colleghi non tecnici, di seguire*."
+    - **DeepLearning.AI** offre molti Mooc relativi all'IA su Coursera, da quelli generali a quelli molto tecnici - la registrazione, i certificati e la disponibilità devono essere verificati sulla piattaforma di Coursera.
     - **Lingua**: EN
     - **Registrazione**: Gratuita
     - **Certificazione**: Sì
@@ -104,8 +104,8 @@ lanciato nel 2018, "*con l'obiettivo di aiutare le persone a essere potenziate, 
 
 !!! Suggerimenti
     - "*Una soluzione potente e innovativaCon oltre 10.000 MOOC disponibili, My Mooc offre la migliore formazione gratuita disponibile sul web. La nostra missione? Rendere la formazione accessibile al maggior numero di persone possibile! Con un account su My Mooc, potrete seguire costantemente le ultime notizie sui MOOC ed essere certi di non perdere nessun argomento o contenuto delle vostre università preferite in tutto il mondo.*"
-		- Ad esempio, è possibile seguire tutti i Mooc sull'IA al seguente indirizzo: [https://www.my-mooc.com/en/categorie/artificial-intelligence](https://www.my-mooc.com/en/categorie/artificial-intelligence)
-		- **Lingua**: EN, FR
+    - Ad esempio, è possibile seguire tutti i Mooc sull'IA al seguente indirizzo: [https://www.my-mooc.com/en/categorie/artificial-intelligence](https://www.my-mooc.com/en/categorie/artificial-intelligence)
+    - **Lingua**: EN, FR
 
 ## 2 - Moocs sull'IA e l'educazione
 
@@ -137,8 +137,8 @@ lanciato nel 2018, "*con l'obiettivo di aiutare le persone a essere potenziate, 
 
 !!! info
     - **A cura di**: Equipa de Recursos e Tecnologias Educativas (ERTE) - Portogallo, Equipe Risorse e Tecnologie Educative (ERTE)
-    - **Informazioni sul Mooc**:  " *L'Intelligenza Artificiale fa parte del nostro giorno per giorno ed è in continua evoluzione! Saiba como preparar os estudantes a enfrentar novos desafios e a desenvolver competências digitais.(L'intelligenza artificiale fa già parte della nostra vita quotidiana ed è in costante evoluzione! Scopri come preparare gli studenti ad affrontare nuove sfide e a sviluppare competenze digitali).* "
-		- 🚀 Questo Mooc è stato citato più volte in occasione del lancio del progetto AI4T.
+    - **Informazioni sul Mooc**:  " *L'Intelligenza Artificiale fa parte del nostro giorno per giorno ed è in continua evoluzione! Saiba como preparar os estudantes a enfrentar novos desafios e a desenvolver competências digitais.(L'intelligenza artificiale fa già parte della nostra vita quotidiana ed è in costante evoluzione! Scopri come preparare gli studenti ad affrontare nuove sfide e a sviluppare competenze digitali).*"
+    - 🚀 Questo Mooc è stato citato più volte in occasione del lancio del progetto AI4T.
     - **Lingua**: PT
     - **Registrazione**: Gratuita
     - **Certificazione**: No
@@ -153,7 +153,7 @@ lanciato nel 2018, "*con l'obiettivo di aiutare le persone a essere potenziate, 
 !!! info
     - **Da**: EPFL (Ecole Polytechnique de Lausanne) Scuola di estensione: La Extension School dell'EPFL insegna competenze digitali applicate, online. Crediamo che tutti debbano acquisire conoscenze e competenze digitali per poter sfruttare al meglio le opportunità del mondo di oggi.
     - **Informazioni sulle risorse**:  « *" That's AI" è la vostra introduzione al più importante sviluppo tecnologico del mondo. Scoprite come l'IA sta trasformando tutto ciò che ci circonda e imparate come diventare un partecipante attivo in questo nuovo mondo entusiasmante.* »
-		- 🚀 Questo Mooc è stato citato più volte al lancio del progetto AI4T.
+    - 🚀 Questo Mooc è stato citato più volte al lancio del progetto AI4T.
     - **Lingua**: DE, EN, FR (alcuni articoli sono solo in inglese)
     - **Registrazione**: Gratuita
     - **Certificazione**: No
@@ -165,8 +165,8 @@ lanciato nel 2018, "*con l'obiettivo di aiutare le persone a essere potenziate, 
 
 !!! info
     - **A cura di**: Università di Oxford - [IT Learning Centre](https://skills.it.ox.ac.uk/)
-    - **Informazioni sulle risorse**: " *Serie di conferenze all'ora di pranzo sull'Intelligenza Artificiale (AI) nell'istruzione che sono state co-organizzate con il Centre for Teaching and Learning nel 2019*. "
-		- 🚀 Questo Mooc è stato citato più volte al lancio del progetto AI4T.
+    - **Informazioni sulle risorse**: " *Serie di conferenze all'ora di pranzo sull'Intelligenza Artificiale (AI) nell'istruzione che sono state co-organizzate con il Centre for Teaching and Learning nel 2019*."
+    - 🚀 Questo Mooc è stato citato più volte al lancio del progetto AI4T.
     - **Lingua**: EN
     - **Registrazione**: Gratuita
     - **Certificazione**: No

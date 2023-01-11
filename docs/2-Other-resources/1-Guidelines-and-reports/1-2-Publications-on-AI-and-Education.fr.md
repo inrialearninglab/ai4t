@@ -1,6 +1,6 @@
 ---
-title : Publications sur l'IA et l'éducation (UE-UNESCO-OCDE-CoE)
-description : Bibligraphie sur l'IA /AI dans l'éducation provenant d'institutions européennes/INTERNATIONALES.
+title: Publications sur l'IA et l'éducation (UE-UNESCO-OCDE-CoE)
+description: Bibligraphie sur l'IA /AI dans l'éducation provenant d'institutions européennes/INTERNATIONALES.
 ---
 ??? info " Information sur la bibliographie"
     - Soumis : 16 décembre 2022
@@ -28,7 +28,8 @@ Contenu notable : "*Il s'agit notamment de la classification de l'IA selon : les
 2020 : AI Watch - Defining Artificial intelligence - Rapport technique du Joint Resarch Center [^Jrc3] (en anglais)
 
 !!! Note
-    Une proposition pour "*une définition opérationnelle de l'intelligence artificielle à adopter dans le contexte d'AI Watch.* Contenu notable : "*La contribution précieuse de ce travail est la collecte des définitions élaborées entre 1955 et 2019, et la synthèse des principales caractéristiques du concept d'intelligence artificielle telles que reflétées dans la littérature pertinente.*"
+    Une proposition pour "*une définition opérationnelle de l'intelligence artificielle à adopter dans le contexte d'AI Watch.*"  
+Contenu notable : "*La contribution précieuse de ce travail est la collecte des définitions élaborées entre 1955 et 2019, et la synthèse des principales caractéristiques du concept d'intelligence artificielle telles que reflétées dans la littérature pertinente.*"
 
 2020 : L'IA dans l'éducation : Le changement à la vitesse de l'apprentissage - Rapport de l'Institut de l'UNESCO pour les technologies de l'information dans l'éducation [^Unesco3].
 
@@ -36,12 +37,12 @@ Contenu notable : "*Il s'agit notamment de la classification de l'IA selon : les
 
 2020 : Les technologies émergentes et la profession d'enseignant - Considérations éthiques et pédagogiques basées sur des scénarios du futur proche - Un rapport du Centre commun de recherche [^Jrc2]
 
-!!! abstract
+!!! abstract "Résumé"
     "*L'objectif des scénarios est de voir l'avenir comme quelque chose à façonner. Ces scénarios du futur proche visent à résoudre un certain nombre de problèmes qui, selon les éducateurs d'aujourd'hui, les empêchent de dispenser une éducation et une formation de qualité. Ils se déroulent dans des salles de classe, des amphithéâtres, des centres de formation et des environnements d'apprentissage numérique dans lesquels les technologies émergentes pourraient être utilisées pour aider les éducateurs dans leur profession. Les principaux défis qui ressortent des scénarios ont trait à des considérations éthiques (par exemple, l'équilibre entre l'autonomie humaine et les machines, la datafication de l'éducation, les modèles pédagogiques) et à l'évolution des exigences en matière de compétences des professionnels de l'enseignement.*"
 
 2019 : L'impact de l'IA sur l'apprentissage, l'enseignement et l'éducation - Un rapport du Centre commun de recherche [^Jrc1]
 
-!!! abstract
+!!! abstract "Résumé"
     "Un rapport qui *décrit l'état actuel de l'intelligence artificielle (IA) et son impact potentiel pour l'apprentissage, l'enseignement et l'éducation. Il fournit les bases conceptuelles d'un travail, d'une recherche et d'activités prospectives bien informés, axés sur les politiques, qui traitent des possibilités et des défis créés par les récents développements de l'IA. Le rapport s'adresse aux responsables de l'élaboration des politiques, mais il apporte également des contributions qui intéressent les développeurs de technologies d'IA et les chercheurs qui étudient l'impact de l'IA sur l'économie, la société et l'avenir de l'éducation et de l'apprentissage.*"
 
 2019 : Consensus de Beijing sur l'intelligence artificielle et l'éducation - UNESCO [^Unesco2]

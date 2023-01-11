@@ -27,7 +27,8 @@ Contenuti degni di nota: "*Comprende la classificazione dell'IA in base a: famig
 2020: AI Watch - Defining Artificial intelligence - Rapporto tecnico del Joint Resarch Center[^Jrc3]
 
 !!! nota
-    Una proposta per "*una definizione operativa di intelligenza artificiale da adottare nel contesto di AI Watch.* Contenuti degni di nota: "*Un prezioso contributo di questo lavoro è la raccolta delle definizioni sviluppate tra il 1955 e il 2019, e la sintesi delle principali caratteristiche del concetto di intelligenza artificiale così come si riflettono nella letteratura in materia.*"
+    Una proposta per "*una definizione operativa di intelligenza artificiale da adottare nel contesto di AI Watch.*"
+Contenuti degni di nota: "*Un prezioso contributo di questo lavoro è la raccolta delle definizioni sviluppate tra il 1955 e il 2019, e la sintesi delle principali caratteristiche del concetto di intelligenza artificiale così come si riflettono nella letteratura in materia.*"
 
 2020: L'intelligenza artificiale nell'istruzione: Change at the Speed of Learning - Rapporto dell'Istituto UNESCO per le tecnologie dell'informazione nell'educazione[^Unesco3]
 
@@ -35,12 +36,12 @@ Contenuti degni di nota: "*Comprende la classificazione dell'IA in base a: famig
 
 2020: Tecnologie emergenti e professione docente - Considerazioni etiche e pedagogiche basate su scenari prossimi al futuro - Rapporto del Centro comune di ricerca [^Jrc2]
 
-!!! abstract
+!!! abstract "Astratto"
     "*L'obiettivo degli scenari è quello di vedere il futuro come qualcosa da plasmare. Questi scenari del futuro prossimo mirano a risolvere una serie di problemi che, secondo gli educatori di oggi, impediscono loro di fornire un'istruzione e una formazione di qualità. Si svolgono in classi, aule, centri di formazione e ambienti di apprendimento digitali in cui le tecnologie emergenti potrebbero essere utilizzate per supportare gli educatori nella loro professione. Le sfide principali che emergono dagli scenari riguardano considerazioni etiche (ad esempio, equilibrio tra autonomia umana e macchine, datafication dell'istruzione, modelli pedagogici) e l'evoluzione dei requisiti di competenza dei professionisti dell'insegnamento.*"
 
 2019: L'impatto dell'IA sull'apprendimento, l'insegnamento e l'educazione - Un rapporto del Centro comune di ricerca[^Jrc1]
 
-!!! abstract
+!!! abstract "Astratto"
     "Un rapporto che *descrive l'attuale stato dell'arte dell'intelligenza artificiale (IA) e il suo potenziale impatto sull'apprendimento, l'insegnamento e l'educazione. Fornisce le basi concettuali per un lavoro ben informato orientato alle politiche, alla ricerca e alle attività lungimiranti che affrontano le opportunità e le sfide create dai recenti sviluppi dell'IA. Il rapporto si rivolge agli sviluppatori di politiche, ma offre anche contributi interessanti per gli sviluppatori di tecnologie di IA e per i ricercatori che studiano l'impatto dell'IA sull'economia, sulla società e sul futuro dell'istruzione e dell'apprendimento.*"
 
 2019: Consenso di Pechino su Intelligenza Artificiale ed Educazione - UNESCO[^Unesco2]

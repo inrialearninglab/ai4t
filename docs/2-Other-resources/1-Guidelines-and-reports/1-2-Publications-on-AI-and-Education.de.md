@@ -27,7 +27,8 @@ Bemerkenswerter Inhalt: "*Dazu gehört die Klassifizierung von KI nach: Familien
 2020: AI Watch - Defining Artificial intelligence - Joint Resarch Center Technical Report[^Jrc3]
 
 !!! Hinweis
-    Ein Vorschlag für "*eine operationelle Definition von künstlicher Intelligenz, die im Rahmen von AI Watch angenommen werden soll.* Bemerkenswerter Inhalt: "*Ein wertvoller Beitrag dieser Arbeit ist die Sammlung von Definitionen, die zwischen 1955 und 2019 entwickelt wurden, und die Zusammenfassung der wichtigsten Merkmale des Konzepts der künstlichen Intelligenz, wie sie sich in der einschlägigen Literatur widerspiegeln.*"
+    Ein Vorschlag für "*eine operationelle Definition von künstlicher Intelligenz, die im Rahmen von AI Watch angenommen werden soll.*"  
+Bemerkenswerter Inhalt: "*Ein wertvoller Beitrag dieser Arbeit ist die Sammlung von Definitionen, die zwischen 1955 und 2019 entwickelt wurden, und die Zusammenfassung der wichtigsten Merkmale des Konzepts der künstlichen Intelligenz, wie sie sich in der einschlägigen Literatur widerspiegeln.*"
 
 2020: AI in Education: Change at the Speed of Learning - UNESCO Institute for Information Technologies in Education report[^Unesco3]
 
@@ -35,12 +36,12 @@ Bemerkenswerter Inhalt: "*Dazu gehört die Klassifizierung von KI nach: Familien
 
 2020: Aufstrebende Technologien und der Lehrerberuf - Ethische und pädagogische Überlegungen auf der Grundlage von Szenarien der nahen Zukunft - Ein Bericht der Gemeinsamen Forschungsstelle [^Jrc2]
 
-!!! abstract
+!!! abstract "Abstrakt"
     "*Das Ziel der Szenarien ist es, die Zukunft als etwas zu Gestaltendes zu sehen. Diese Szenarien der nahen Zukunft zielen darauf ab, eine Reihe von Problemen zu lösen, von denen Pädagogen heute sagen, dass sie sie daran hindern, eine qualitativ hochwertige Bildung und Ausbildung zu vermitteln. Sie spielen in Klassenzimmern, Hörsälen, Schulungszentren und digitalen Lernumgebungen, in denen neue Technologien eingesetzt werden könnten, um Pädagogen in ihrem Beruf zu unterstützen. Die wichtigsten Herausforderungen, die sich aus den Szenarien ergeben, beziehen sich auf ethische Überlegungen (z. B. Gleichgewicht zwischen menschlicher Autonomie und Maschinen, Datafizierung der Bildung, pädagogische Modelle) und die sich entwickelnden Kompetenzanforderungen an Lehrkräfte.*"
 
 2019: The Impact of AI on Learning Teaching and Education - A Joint Research Centre Report[^Jrc1]
 
-!!! abstract
+!!! abstract "Abstrakt"
     "Ein Bericht, der *den aktuellen Stand der Technik im Bereich der künstlichen Intelligenz (KI) und ihre möglichen Auswirkungen auf Lernen, Lehren und Bildung beschreibt. Er liefert konzeptionelle Grundlagen für eine fundierte politikorientierte Arbeit, Forschung und zukunftsorientierte Aktivitäten, die sich mit den Chancen und Herausforderungen der jüngsten Entwicklungen in der KI befassen. Der Bericht richtet sich an politische Entscheidungsträger, enthält aber auch Beiträge, die für Entwickler von KI-Technologien und Forscher von Interesse sind, die sich mit den Auswirkungen von KI auf die Wirtschaft, die Gesellschaft und die Zukunft von Bildung und Lernen befassen.*"
 
 2019: Pekinger Konsens über Künstliche Intelligenz und Bildung - UNESCO[^Unesco2]
@@ -67,7 +68,7 @@ Bemerkenswerter Inhalt: "*Dazu gehört die Klassifizierung von KI nach: Familien
 
 
 ??? "OECD - Organisation für wirtschaftliche Zusammenarbeit und Entwicklung"
-    - Die OECD ist eine "*internationale Organisation, die daran arbeitet, eine bessere Politik für [ein besseres Leben] (http://www.oecdbetterlifeindex.org/)* zu entwickeln". Ihr "*Ziel ist es, eine Politik zu gestalten, die Wohlstand, Gleichheit, Chancen und Wohlergehen für alle fördert "*.
+    - Die OECD ist eine "*internationale Organisation, die daran arbeitet, eine bessere Politik für [ein besseres Leben](http://www.oecdbetterlifeindex.org/)* zu entwickeln". Ihr "*Ziel ist es, eine Politik zu gestalten, die Wohlstand, Gleichheit, Chancen und Wohlergehen für alle fördert "*.
     - Die OECD Künstliche Intelligenz [^Oecd1]: "*Bietet Daten und multidisziplinäre Analysen zu künstlicher Intelligenz*". Ihre "*vielfältige globale Gemeinschaft von Partnern macht diese Plattform zu einer einzigartigen Quelle für Informationen und Dialog über KI.*"
     - Die OECD leitet zahlreiche Aktivitäten rund um KI. Diese Aktivitäten reichen von einer prospektiven Analyse der Auswirkungen von KI auf den Arbeitsmarkt[^Oecd2] bis zu Empfehlungen für die Entwicklung vertrauenswürdiger KI[^Oecd3]. Die Website bietet auch eine große Menge an Monitoring-Arbeiten zu KI und allen Bereichen der öffentlichen Politik auf der ganzen Welt[^Oecd4].
     - **Bildung**: Die OECD sammelt zahlreiche Berichte und Datensätze zum Thema Bildung. Sie bietet auch die Möglichkeit, "*zeitnahe Trends darüber zu visualisieren, wo, wie und in welchem Tempo KI entwickelt und eingesetzt wird*" im Bildungsbereich[^Oecd5].

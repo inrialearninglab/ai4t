@@ -27,7 +27,8 @@ Notable content: "*These include the classification of AI according to: families
 2020: AI Watch - Defining Artificial intelligence -  Joint Resarch Center Technical Report[^Jrc3]
 
 !!! note
-    A proposal for "*an operational definition of artificial intelligence to be adopted in the context of AI Watch.* Notable content: "*A valuable contribution of this work is the collection of definitions developed between 1955 and 2019, and the summarisation of the main features of the concept of artificial intelligence as reflected in the relevant literature.*"
+    A proposal for "*an operational definition of artificial intelligence to be adopted in the context of AI Watch.*"
+Notable content: "*A valuable contribution of this work is the collection of definitions developed between 1955 and 2019, and the summarisation of the main features of the concept of artificial intelligence as reflected in the relevant literature.*"
 
 2020: AI in Education: Change at the Speed of Learning - UNESCO Institute for Information Technologies in Education report[^Unesco3]
 

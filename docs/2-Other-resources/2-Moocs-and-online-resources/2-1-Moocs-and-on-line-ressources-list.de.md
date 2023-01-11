@@ -24,7 +24,7 @@ Auf dieser Seite finden Sie zunächst eine **Auswahl an Moocs**, die in zwei Tei
 - **2 - KI in der Bildung**
 
 Dann wird eine Auswahl von **Online-Ressourcen über KI und Bildung** vorgestellt.
-!!! Warnung
+!!! warning "Warnung"
     Dies ist eine unvollständige Auswahl, die mit dem Kontext und den Interessen des AI4T-Projekts und den Prämissen des Projekts zusammenhängt. Diese Liste sollte sich daher weiterentwickeln und erweitert werden. Die meisten Ressourcen sind auf Englisch verfügbar, einige auch in anderen europäischen Sprachen. Wir haben auch zwei Ressourcen erwähnt, die nicht auf Englisch verfügbar sind, da sie eine Schlüsselrolle im AI4T-Projekt spielen.
 
 ## Nr. 1 - Moocs über KI im Allgemeinen
@@ -61,14 +61,14 @@ The Mooc wurde 2018 ins Leben gerufen, "*mit dem Ziel, Menschen zu helfen, sich 
     - **Zertifizierung**: Ja
     - **Zugänglichkeit**: unbegrenzt
     - **Zugang zum Mooc**: FUN-Mooc-Plattform [^IAI]
-		- 🚀 Ressourcen des Mooc werden im AI4T-Projekt Mooc verwendet
+    - 🚀 Ressourcen des Mooc werden im AI4T-Projekt Mooc verwendet
 
 
 ###  AI for everyone *(KI für alle)*
 !!! info
     - **Von**: Andrew Ng (DeepLearning AI - Stanford University)
-    - **Info über den Mooc**: "*KI ist nicht nur etwas für Ingenieure. Wenn Sie wollen, dass Ihr Unternehmen KI besser einsetzt, sollten Sie allen - insbesondere Ihren nicht-technischen Kollegen - diesen Kurs empfehlen*. "
-		- **DeepLearning.AI** bietet viele KI-bezogene Moocs auf Coursera an, von allgemein bis sehr technisch - Anmeldung, Zertifikate und Verfügbarkeit sind auf der Coursera-Plattform zu überprüfen
+    - **Info über den Mooc**: "*KI ist nicht nur etwas für Ingenieure. Wenn Sie wollen, dass Ihr Unternehmen KI besser einsetzt, sollten Sie allen - insbesondere Ihren nicht-technischen Kollegen - diesen Kurs empfehlen*."
+    - **DeepLearning.AI** bietet viele KI-bezogene Moocs auf Coursera an, von allgemein bis sehr technisch - Anmeldung, Zertifikate und Verfügbarkeit sind auf der Coursera-Plattform zu überprüfen
     - **Sprache**: EN
     - **Anmeldung**: Kostenlos
     - **Zertifizierung**: Ja
@@ -88,7 +88,6 @@ The Mooc wurde 2018 ins Leben gerufen, "*mit dem Ziel, Menschen zu helfen, sich 
     - **Zugang zur Mooc**: Zukünftige Lernplattform [^AIFL]
 
 
-
 ### Objectif IA: Initiez-vous à l'intelligence artificielle *(AI Goal: Lernen Sie über künstliche Intelligenz)*
 
 !!! info
@@ -104,8 +103,8 @@ The Mooc wurde 2018 ins Leben gerufen, "*mit dem Ziel, Menschen zu helfen, sich 
 
 !!! Tipps
     - "*Eine leistungsstarke und innovative LösungMit mehr als 10.000 verfügbaren MOOCs bietet My Mooc die besten kostenlosen Schulungen, die im Internet verfügbar sind. Unser Ziel? So vielen Menschen wie möglich den Zugang zur Weiterbildung zu ermöglichen! Mit einem Konto bei My Mooc können Sie ständig die neuesten MOOC-Nachrichten verfolgen und sicher sein, dass Sie keine Themen oder Inhalte von Ihren Lieblingsuniversitäten auf der ganzen Welt verpassen.*"
-		- Und zum Beispiel können Sie alle Moocs zum Thema KI unter der folgenden Adresse verfolgen: [https://www.my-mooc.com/en/categorie/artificial-intelligence](https://www.my-mooc.com/en/categorie/artificial-intelligence)
-		- **Sprache**: EN, FR
+    - Und zum Beispiel können Sie alle Moocs zum Thema KI unter der folgenden Adresse verfolgen: [https://www.my-mooc.com/en/categorie/artificial-intelligence](https://www.my-mooc.com/en/categorie/artificial-intelligence)
+    - **Sprache**: EN, FR
 
 ## Nr. 2 - Moocs über KI und Bildung
 
@@ -138,7 +137,7 @@ The Mooc wurde 2018 ins Leben gerufen, "*mit dem Ziel, Menschen zu helfen, sich 
 !!! info
     - **Von**: Equipa de Recursos e Tecnologias Educativas (ERTE) - Portugal, Team für Bildungsressourcen und -technologie (ERTE)
     - **Info über den Mooc**:  "*A Inteligência Artificial já faz parte do nosso dia a dia e está em constante evolução! Saiba como preparar os estudantes a enfrentar novos desafios e a desenvolver competências digitais.(Künstliche Intelligenz ist bereits Teil unseres täglichen Lebens und entwickelt sich ständig weiter! Erfahren Sie, wie Sie Ihre Schüler auf neue Herausforderungen vorbereiten und digitale Kompetenzen entwickeln können).*"
-		- 🚀Dieser Mooc wurde beim Start des AI4T-Projekts mehrfach erwähnt.
+    - 🚀Dieser Mooc wurde beim Start des AI4T-Projekts mehrfach erwähnt.
     - **Sprache**: PT
     - **Anmeldung**: Kostenlos
     - **Zertifizierung**: Nein
@@ -153,7 +152,7 @@ The Mooc wurde 2018 ins Leben gerufen, "*mit dem Ziel, Menschen zu helfen, sich 
 !!! info
     - **Von**: EPFL (Ecole Polytechnique de Lausanne) Erweiterungsschule: Die EPFL Extension School unterrichtet online angewandte digitale Kompetenzen. Wir sind der Meinung, dass sich jeder digitale Kenntnisse und Fähigkeiten aneignen sollte, um das Beste aus den Möglichkeiten der heutigen Welt zu machen.
     - **Info über den Mooc**:  « *"That's AI " ist Ihre Einführung in die wichtigste technologische Entwicklung der Welt. Erfahren Sie, wie KI alles um uns herum verändert, und lernen Sie, wie Sie aktiv an dieser aufregenden neuen Welt teilhaben können."* »
-		- 🚀Dieser Mooc wurde beim Start des AI4T-Projekts mehrfach erwähnt.
+    - 🚀Dieser Mooc wurde beim Start des AI4T-Projekts mehrfach erwähnt.
     - **Sprache**: DE, EN, FR (einige Artikel sind ausschließlich auf Englisch)
     - **Anmeldung**: Kostenlos
     - **Zertifizierung**: Nein
@@ -165,8 +164,8 @@ The Mooc wurde 2018 ins Leben gerufen, "*mit dem Ziel, Menschen zu helfen, sich 
 
 !!! info
     - **Von**: Universität Oxford - [IT Learning Centre](https://skills.it.ox.ac.uk/)
-    - **Info über die Ressourcen**: " *Reihe von Mittagsgesprächen über Künstliche Intelligenz (KI) in der Bildung, die gemeinsam mit dem Zentrum für Lehren und Lernen im Jahr 2019 organisiert wurden*. "
-		- 🚀Dieser Mooc wurde beim Start des AI4T-Projekts mehrfach erwähnt.
+    - **Info über die Ressourcen**: " *Reihe von Mittagsgesprächen über Künstliche Intelligenz (KI) in der Bildung, die gemeinsam mit dem Zentrum für Lehren und Lernen im Jahr 2019 organisiert wurden*."
+    - 🚀Dieser Mooc wurde beim Start des AI4T-Projekts mehrfach erwähnt.
     - **Sprache**: EN
     - **Anmeldung**: Kostenlos
     - **Zertifizierung**: Nein

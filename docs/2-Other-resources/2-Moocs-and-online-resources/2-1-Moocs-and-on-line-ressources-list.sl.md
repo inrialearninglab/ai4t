@@ -1,5 +1,5 @@
 ---
-title: Moocs and On-line resources: Moocs and On-line resources
+title: Moocs in spletni viri
 description: seznam Moocs in virov o umetni inteligenci / umetni inteligenci in izobraževanju
 ---
 # Moocs and On-line resources
@@ -24,7 +24,7 @@ Na tej strani je najprej na voljo **izbor Mooc**, ki je razdeljen na dva dela:
 - **2 - UI v izobraževanju**
 
 Nato je predstavljen izbor **linijskih virov o umetni inteligenci in izobraževanju**.
-!!! Opozorilo
+!!! warning "Opozorilo"
     To je delni izbor, povezan s kontekstom in interesom projekta AI4T ter predpostavkami projekta. Ta seznam se mora zato razvijati in obogatiti. Večina virov je na voljo v angleščini, nekateri so na voljo tudi v drugih evropskih jezikih. Navedli smo tudi dva vira, ki nista na voljo v angleščini, saj imata v projektu AI4T ključno vlogo.
 
 ## 1 - Moocs About AI in general
@@ -61,13 +61,13 @@ The Mooc, ki se je začel izvajati leta 2018, "*s ciljem pomagati ljudem, da bi 
     - **Certifikacija**: Da
     - **Dostopnost**: neomejeno
     - **Dostop do Mooc**: Platforma FUN-Mooc [^IAI]
-		- 🚀 Viri Mooc se uporabljajo v projektu AI4T Mooc
+    - 🚀 Viri Mooc se uporabljajo v projektu AI4T Mooc
 
 
 ### AI for everyone *(UI za vse)*
 !!! info
     - **By**: Andrew Ng (globinsko učenje umetne inteligence - Univerza Stanford)
-    - **Informacije o Moocu**:   "*UI ni samo za inženirje. Če želite, da vaša organizacija postane boljša pri uporabi umetne inteligence, je to tečaj, ki ga morate priporočiti vsem - zlasti svojim kolegom, ki niso tehnični strokovnjaki - da se ga udeležijo*. "
+    - **Informacije o Moocu**:   "*UI ni samo za inženirje. Če želite, da vaša organizacija postane boljša pri uporabi umetne inteligence, je to tečaj, ki ga morate priporočiti vsem - zlasti svojim kolegom, ki niso tehnični strokovnjaki - da se ga udeležijo*."
     - **DeepLearning.AI** ponuja na platformi Coursera številne Mooc-e, povezane z umetno inteligenco, od splošnih do zelo tehničnih - prijavo, certifikate in razpoložljivost preverite na platformi coursera.
     - **Jezik**: EN
     - **Registracija**: Brezplačna
@@ -88,7 +88,6 @@ The Mooc, ki se je začel izvajati leta 2018, "*s ciljem pomagati ljudem, da bi 
     - **Dostop do Mooc**: Platforma Future Learn[^AIFL]
 
 
-
 #### Objectif IA: Initiez-vous à l'intelligence artificielle *(Cilj umetne inteligence: Naučite se o umetni inteligenci)*
 
 !!! info
@@ -104,8 +103,8 @@ The Mooc, ki se je začel izvajati leta 2018, "*s ciljem pomagati ljudem, da bi 
 
 !!! Nasveti
     - "*Močna in inovativna rešitevS več kot 10 000 razpoložljivimi MOOC-ji My Mooc zagotavlja najboljša brezplačna usposabljanja, ki so na voljo na spletu. Naše poslanstvo? Omogočiti, da so usposabljanja dostopna čim večjemu številu ljudi! Z računom na portalu My Mooc lahko nenehno spremljate najnovejše novice o MOOC in ste prepričani, da ne boste zamudili nobene teme ali vsebine z vaših najljubših univerz po vsem svetu.*"
-		- In na primer, vse dostavljene Mooc-e o umetni inteligenci lahko spremljate na naslednjem naslovu: [https://www.my-mooc.com/en/categorie/artificial-intelligence](https://www.my-mooc.com/en/categorie/artificial-intelligence).
-		- **Jezik**: EN, FR
+    - In na primer, vse dostavljene Mooc-e o umetni inteligenci lahko spremljate na naslednjem naslovu: [https://www.my-mooc.com/en/categorie/artificial-intelligence](https://www.my-mooc.com/en/categorie/artificial-intelligence).
+    - **Jezik**: EN, FR
 
 ## 2 - Moocs o umetni inteligenci in izobraževanju
 
@@ -113,7 +112,7 @@ The Mooc, ki se je začel izvajati leta 2018, "*s ciljem pomagati ljudem, da bi 
 
 !!! info
     - **By**: Univerza Macquarie (AUS) in **IBM (na podlagi učnega načrta za umetno inteligenco)**
-    - **Informacije o Moocu**:  "*Ta tečaj temelji na IBM-ovem učnem načrtu za umetno inteligenco[^MoocAIET] in zagotavlja teorijo ter uporabne primere sestavin, ki sestavljajo umetno inteligenco. Kot učitelji lahko opravite celoten tečaj ali pa se po potrebi osredotočite na ključna področja. Z UI so povezana znanja, spretnosti in stališča, ki jih je mogoče prenesti na več disciplin in učnih področij od predšolske vzgoje, osnovnošolskega, srednješolskega in višješolskega izobraževanja*. "
+    - **Informacije o Moocu**:  "*Ta tečaj temelji na IBM-ovem učnem načrtu za umetno inteligenco[^MoocAIET] in zagotavlja teorijo ter uporabne primere sestavin, ki sestavljajo umetno inteligenco. Kot učitelji lahko opravite celoten tečaj ali pa se po potrebi osredotočite na ključna področja. Z UI so povezana znanja, spretnosti in stališča, ki jih je mogoče prenesti na več disciplin in učnih področij od predšolske vzgoje, osnovnošolskega, srednješolskega in višješolskega izobraževanja*."
     - **Jezik**: EN
     - **Registracija**: brezplačno
     - **Certifikacija**: Ne
@@ -137,8 +136,8 @@ The Mooc, ki se je začel izvajati leta 2018, "*s ciljem pomagati ljudem, da bi 
 
 !!! info
     - **By**: Equipa de Recursos e Tecnologias Educativas (ERTE) - Portugalska, Skupina za izobraževalne vire in tehnologijo (ERTE)
-    - **Informacije o Moocu**:  " *A Inteligência Artificial já faz parte do nosso dia a dia e está em constante evolução! Saiba como preparar os estudantes a enfrentar novos desafios e a desenvolver competências digitais (Umetna inteligenca je že del našega vsakdana in se nenehno razvija! Naučite se, kako učence pripraviti na nove izzive in razviti digitalne spretnosti).* "
-		- 🚀Ta Mooc je bil večkrat omenjen ob začetku projekta AI4T.
+    - **Informacije o Moocu**:  " *A Inteligência Artificial já faz parte do nosso dia a dia e está em constante evolução! Saiba como preparar os estudantes a enfrentar novos desafios e a desenvolver competências digitais (Umetna inteligenca je že del našega vsakdana in se nenehno razvija! Naučite se, kako učence pripraviti na nove izzive in razviti digitalne spretnosti).*"
+    - 🚀Ta Mooc je bil večkrat omenjen ob začetku projekta AI4T.
     - **Jezik**: PT
     - **Registracija**: Brezplačno
     - **Certifikacija**: Ne
@@ -152,8 +151,8 @@ The Mooc, ki se je začel izvajati leta 2018, "*s ciljem pomagati ljudem, da bi 
 
 !!! info
     - **By**: EPFL (Ecole Polytechnique de Lausanne) Razširitvena šola: Šola razširitve EPFL poučuje uporabne digitalne veščine na spletu. Verjamemo, da bi moral vsakdo pridobiti digitalno znanje in spretnosti, da bi lahko kar najbolje izkoristil priložnosti v današnjem svetu.
-    - **Informacije o virih**:  « *" To je umetna inteligenca " je vaš uvod v najpomembnejši tehnološki razvoj na svetu. Ugotovite, kako umetna inteligenca spreminja vse okoli nas, in se naučite, kako postati aktiven udeleženec v tem vznemirljivem novem svetu.* »
-		- 🚀Ta Mooc je bil večkrat omenjen ob začetku projekta AI4T.
+    - **Informacije o virih**: « *" To je umetna inteligenca " je vaš uvod v najpomembnejši tehnološki razvoj na svetu. Ugotovite, kako umetna inteligenca spreminja vse okoli nas, in se naučite, kako postati aktiven udeleženec v tem vznemirljivem novem svetu.* »
+    - 🚀Ta Mooc je bil večkrat omenjen ob začetku projekta AI4T.
     - **Jezik**: DE, EN, FR (nekateri članki so izključno v angleščini)
     - **Registracija**: brezplačna
     - **Certifikacija**: Ne
@@ -165,8 +164,8 @@ The Mooc, ki se je začel izvajati leta 2018, "*s ciljem pomagati ljudem, da bi 
 
 !!! info
     - **By**: Univerza v Oxfordu - [Učni center za IT](https://skills.it.ox.ac.uk/)
-    - **Informacije o virih**: " *Serija pogovorov ob kosilu o umetni inteligenci (AI) v izobraževanju, ki so bili leta 2019 organizirani skupaj s Centrom za poučevanje in učenje*. "
-		- 🚀Ta Mooc je bil večkrat omenjen ob predstavitvi projekta AI4T.
+    - **Informacije o virih**: "*Serija pogovorov ob kosilu o umetni inteligenci (AI) v izobraževanju, ki so bili leta 2019 organizirani skupaj s Centrom za poučevanje in učenje*."
+    - 🚀Ta Mooc je bil večkrat omenjen ob predstavitvi projekta AI4T.
     - **Jezik**: EN
     - **Registracija**: brezplačna
     - **Certifikacija**: Ne

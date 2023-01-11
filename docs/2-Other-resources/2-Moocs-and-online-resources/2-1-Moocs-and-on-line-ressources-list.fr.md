@@ -1,6 +1,6 @@
 ---
-title : Moocs et ressources en ligne
-description : liste de Moocs et de ressources sur l'IA / l'IA et l'éducation
+title: Moocs et ressources en ligne
+description: liste de Moocs et de ressources sur l'IA / l'IA et l'éducation
 ---
 # Moocs et ressources en ligne
 Le sujet de l'intelligence artificielle est si fascinant que de nombreux cours en ligne ouverts et massifs lui sont consacrés.
@@ -24,7 +24,7 @@ Dans cette page, il y a d'abord une **sélection de Moocs** organisée en deux p
 - **2 - L'IA dans l'éducation**
 
 Ensuite, une sélection de **ressources en ligne sur l'IA et l'éducation** est présentée.
-Attention !
+!!! warning "Attention"
     Il s'agit d'une sélection partielle, liée au contexte et à l'intérêt du projet AI4T et aux prémices du projet. Cette liste est donc amenée à évoluer et à s'enrichir. La plupart des ressources sont disponibles en anglais, certaines sont également disponibles dans d'autres langues européennes. Nous avons également mentionné deux ressources qui ne sont pas disponibles en anglais car elles jouent un rôle clé dans le projet AI4T.
 
 ## 1 - Moocs sur l'IA en général
@@ -59,7 +59,7 @@ Lancé en 2018, "*dans le but d'aider les gens à être habilités, et non menac
     - **Certification** : Oui
     - **Accessibilité** : illimitée
     - **Accès au Mooc** : Plate-forme FUN-Mooc [^IAI]
-		- 🚀 Les ressources du Mooc sont utilisées dans le projet AI4T Mooc
+    - 🚀 Les ressources du Mooc sont utilisées dans le projet AI4T Mooc
 
 
 ### AI for everyone *(IA pour tous)*
@@ -102,8 +102,8 @@ Lancé en 2018, "*dans le but d'aider les gens à être habilités, et non menac
 
 !!! Conseils
     - "*Une solution puissante et innovante avec plus de 10.000 MOOCs disponibles, My Mooc délivre les meilleures formations gratuites disponibles sur le web. Notre mission ? Rendre la formation accessible au plus grand nombre ! Avec un compte sur My Mooc, vous pouvez suivre en permanence l'actualité des MOOC et être assuré de ne manquer aucun sujet ou contenu de vos universités préférées à travers le monde.*"
-		- Et par exemple, vous pouvez suivre tous les Moocs délivrés sur l'IA à l'adresse suivante : [https://www.my-mooc.com/en/categorie/artificial-intelligence](https://www.my-mooc.com/en/categorie/artificial-intelligence)
-		- **Langue** : EN, FR
+    - Et par exemple, vous pouvez suivre tous les Moocs délivrés sur l'IA à l'adresse suivante : [https://www.my-mooc.com/en/categorie/artificial-intelligence](https://www.my-mooc.com/en/categorie/artificial-intelligence)
+    - **Langue** : EN, FR
 
 ## 2 - Moocs sur l'IA et l'éducation
 
@@ -135,8 +135,8 @@ Lancé en 2018, "*dans le but d'aider les gens à être habilités, et non menac
 
 !!! info
     - **Par** : Equipa de Recursos e Tecnologias Educativas (ERTE) - Portugal, Équipe des ressources et des technologies éducatives (ERTE)
-    - **Info sur le Mooc** : "*L'intelligence artificielle fait partie de notre quotidien et est en constante évolution ! Saiba como preparar os estudantes a enfrentar novos desafios e a desenvolver competências digitais.(L'intelligence artificielle fait déjà partie de notre quotidien et évolue constamment ! Découvrez comment préparer les étudiants à affronter de nouveaux défis et à développer des compétences numériques).* "
-		- 🚀Ce Mooc a été mentionné à plusieurs reprises lors du lancement du projet AI4T.
+    - **Info sur le Mooc** : "*L'intelligence artificielle fait partie de notre quotidien et est en constante évolution ! Saiba como preparar os estudantes a enfrentar novos desafios e a desenvolver competências digitais.(L'intelligence artificielle fait déjà partie de notre quotidien et évolue constamment ! Découvrez comment préparer les étudiants à affronter de nouveaux défis et à développer des compétences numériques).*"
+    - 🚀Ce Mooc a été mentionné à plusieurs reprises lors du lancement du projet AI4T.
     - **Langue** : PT
     - **Inscription** : Gratuite
     - **Certification** : Non
@@ -151,7 +151,7 @@ Lancé en 2018, "*dans le but d'aider les gens à être habilités, et non menac
 !!! info
     - **Par** : EPFL (Ecole Polytechnique de Lausanne) Extension school : L'école d'extension de l'EPFL enseigne des compétences numériques appliquées, en ligne. Nous pensons que tout le monde devrait acquérir des connaissances et des compétences numériques pour pouvoir tirer le meilleur parti des opportunités du monde d'aujourd'hui.
     - **Info sur les ressources** :  « *"That's AI" est votre introduction au développement technologique le plus important du monde. Découvrez comment l'IA transforme tout ce qui nous entoure et apprenez à devenir un participant actif de ce nouveau monde passionnant.* »
-		- 🚀Ce Mooc a été mentionné à plusieurs reprises lors du lancement du projet AI4T.
+    - 🚀 Ce Mooc a été mentionné à plusieurs reprises lors du lancement du projet AI4T.
     - **Langue** : DE, EN, FR (certains articles sont uniquement en anglais).
     - **Inscription** : Gratuite
     - **Certification** : Non
@@ -163,8 +163,8 @@ Lancé en 2018, "*dans le but d'aider les gens à être habilités, et non menac
 
 !!! info
     - **Par** : Université d'Oxford - [IT Learning Centre](https://skills.it.ox.ac.uk/)
-    - **Info sur les ressources** : "*Série de conférences à l'heure du déjeuner sur l'intelligence artificielle (IA) dans l'éducation qui ont été coorganisées avec le Centre pour l'enseignement et l'apprentissage en 2019*. "
-		- 🚀Ce Mooc a été mentionné à plusieurs reprises lors du lancement du projet AI4T.
+    - **Info sur les ressources** : "*Série de conférences à l'heure du déjeuner sur l'intelligence artificielle (IA) dans l'éducation qui ont été coorganisées avec le Centre pour l'enseignement et l'apprentissage en 2019*."
+    - 🚀Ce Mooc a été mentionné à plusieurs reprises lors du lancement du projet AI4T.
     - **Langue** : EN
     - **Inscription** : Gratuite
     - **Certification** : Non

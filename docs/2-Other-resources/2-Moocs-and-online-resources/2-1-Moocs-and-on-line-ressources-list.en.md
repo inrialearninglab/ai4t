@@ -61,14 +61,14 @@ launched in 2018, «*with the aim ofhelping people to be empowered, not threaten
     -   **Certification**: Yes
     -   **Accessibility**: unlimited
     -   **Access to the Mooc**: FUN-Mooc platform [^IAI]
-		- 	🚀 Resource of the Mooc are used in the AI4T project Mooc
+    - 	🚀 Resource of the Mooc are used in the AI4T project Mooc
 
 
 ### AI for everyone
 !!! info
     -   **By**: Andrew Ng (DeepLearning AI - Stanford University)
-    -   **Info about the Mooc**:   « *AI is not only for engineers. If you want your organisation to become better at using AI, this is the course to tell everyone--especially your non-technical colleagues--to take*. »
-		- 	**DeepLearning.AI** offers many AI related Moocs on Coursera, from general to very technical - registration, certificats and availability are to be check on the coursera platform
+    -   **Info about the Mooc**: « *AI is not only for engineers. If you want your organisation to become better at using AI, this is the course to tell everyone--especially your non-technical colleagues--to take*. »
+    - **DeepLearning.AI** offers many AI related Moocs on Coursera, from general to very technical - registration, certificats and availability are to be check on the coursera platform
     -   **Language**: EN
     -   **Registration**: Free
     -   **Certification**: Yes
@@ -104,8 +104,8 @@ launched in 2018, «*with the aim ofhelping people to be empowered, not threaten
 
 !!! Tips
     -   « *A powerful and innovative solutionWith more than 10,000 MOOCs available, My Mooc delivers the best free trainings available on the web. Our mission? To make training accessible to as many people as possible! With an account on My Mooc, you can continually follow the latest MOOC news and be ensured that you do not miss any topics or content from your favorite universities across the globe.* »
-		- And for example you can follow up with all Moocs delivered about AI at the following adresse: [https://www.my-mooc.com/en/categorie/artificial-intelligence](https://www.my-mooc.com/en/categorie/artificial-intelligence)
-		- **Language**: EN, FR
+    - And for example you can follow up with all Moocs delivered about AI at the following adresse: [https://www.my-mooc.com/en/categorie/artificial-intelligence](https://www.my-mooc.com/en/categorie/artificial-intelligence)
+    - **Language**: EN, FR
 
 ## 2 - Moocs about AI and Education
 
@@ -138,7 +138,7 @@ launched in 2018, «*with the aim ofhelping people to be empowered, not threaten
 !!! info
     -   **By**: Equipa de Recursos e Tecnologias Educativas (ERTE) - Portugal, Educational Resources and Technology Team (ERTE)
     -   **Info about the Mooc**:  « *A Inteligência Artificial já faz parte do nosso dia a dia e está em constante evolução! Saiba como preparar os estudantes a enfrentar novos desafios e a desenvolver competências digitais.(Artificial Intelligence is already part of our daily lives and is constantly evolving! Learn how to prepare students to face new challenges and develop digital skills).* »
-		- 🚀This Mooc was mentioned several times at the launch of the AI4T project.
+    - 🚀This Mooc was mentioned several times at the launch of the AI4T project.
     -   **Language**: PT
     -   **Registration**: Free
     -   **Certification**: No
@@ -153,7 +153,7 @@ launched in 2018, «*with the aim ofhelping people to be empowered, not threaten
 !!! info
     -   **By**: EPFL (Ecole Polytechnique de Lausanne) Extension school: The EPFL Extension School teaches applied digital skills, online. We believe that everyone should gain digital knowledge and skills to be able to make the most of the opportunities in today's world.
     -   **Info about the resources**:  « *"That's AI" is your introduction to the world's most important technological development. Find out how AI is transforming everything around us and learn how to become an active participant in this exciting new world.* »
-		- 🚀This Mooc was mentioned several times at the launch of the AI4T project.
+    - 🚀This Mooc was mentioned several times at the launch of the AI4T project.
     -   **Language**: DE, EN, FR (some article ares solely in English)
     -   **Registration**: Free
     -   **Certification**: No
@@ -166,7 +166,7 @@ launched in 2018, «*with the aim ofhelping people to be empowered, not threaten
 !!! info
     -   **By**: University of Oxford - [IT Learning Centre](https://skills.it.ox.ac.uk/)
     -   **Info about the resources**: « *Series of lunch-time talks on Artificial Intelligence (AI) in Education that were co-organised with the Centre for Teaching and Learning in 2019*. »
-		- 🚀This Mooc was mentioned several times at the launch of the AI4T project.
+    - 🚀This Mooc was mentioned several times at the launch of the AI4T project.
     -   **Language**: EN
     -   **Registration**: Free
     -   **Certification**: No

@@ -1,6 +1,6 @@
 ---
-titre : Politique de l'UE en matière d'IA et d'éducation
-description : Cadre juridique de l'IA et plan d'action pour l'éducation numérique
+title: Politique de l'UE en matière d'IA et d'éducation
+description: Cadre juridique de l'IA et plan d'action pour l'éducation numérique
 ---
 ??? info " Informations sur les références "
     - Soumis : 16 décembre 2022

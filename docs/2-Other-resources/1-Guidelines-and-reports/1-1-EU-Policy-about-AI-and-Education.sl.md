@@ -10,7 +10,7 @@ description: Pravni okvir o umetni inteligenci in akcijski načrt za digitalno i
 ## Pravne publikacije Evropske unije
 
 **V teku**: Predlog regulativnega okvira o umetni inteligenci[^framai1]
-*"Komisija predlaga prvi pravni okvir o umetni inteligenci, ki obravnava tveganja umetne inteligence in omogoča Evropi, da prevzame vodilno vlogo v svetovnem merilu. "*
+*"Komisija predlaga prvi pravni okvir o umetni inteligenci, ki obravnava tveganja umetne inteligence in omogoča Evropi, da prevzame vodilno vlogo v svetovnem merilu."*
 
 !!! Opomba "Izvleček"
       *Predlagana uredba o umetni inteligenci zagotavlja, da lahko Evropejci zaupajo temu, kar ponuja umetna inteligenca. Medtem ko večina sistemov UI predstavlja omejeno tveganje ali ga sploh ne predstavlja in lahko prispeva k reševanju številnih družbenih izzivov, pa nekateri sistemi UI ustvarjajo tveganja, ki jih moramo obravnavati, da bi se izognili nezaželenim posledicam.*
