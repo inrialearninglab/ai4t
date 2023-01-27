@@ -23,6 +23,7 @@ De nombreux autres outils peuvent être trouvés sur le Web. En voici quelques-u
 [EF Hello](https://www.hello.ef.com/) ou [AndyChatbot](https://andychatbot.com/) (EN) : Applications mobiles permettant aux apprenants d'avoir des conversations en anglais comme langue étrangère.
 
 [AXIθME](https://axiome.ai/) (FR) : Assistant pédagogique pour diagnostiquer les lacunes en mathématiques et personnaliser les parcours d'apprentissage des élèves de 11 à 18 ans.
+Au moment de ce Mooc, la plateforme AXIθME est en phase de test suite à des modifications importantes et à la création de nouveaux contenus pédagogiques ; elle n'est donc pas ouverte à l'expérimentation par les enseignants.
 
 [Checkmath](https://checkmath.com/) (EN) : Support d'apprentissage des mathématiques sur téléphone mobile pour les élèves de 11 à 13 ans.
 
