@@ -2,7 +2,7 @@
 title: Presentation of resources used for the LSEP in France
 description: Presentation of resources used for the LSEP in France
 ---
-# Presentation des ressources utilisées pour la phase d'expérimentation à grande échelle du projet AI4T en France
+# Resources utilisées en France
 
 ## Webinaire # 1 : 25 janvier 2023 à 18h00
 
