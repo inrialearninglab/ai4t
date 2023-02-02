@@ -6,13 +6,13 @@ description: Kateri so obstoječi sistemi umetne inteligence, njihova potencialn
 
 Med možnimi razvrstitvami znanstvenih področij UI je v naslednji preglednici predstavljena taksonomija UI[^1] glede na družinske funkcije, ki jih lahko opravlja UI.
 <figure>
-  <img src="Images/AI-Taxonomy-Samoli-al-2021.png" alt="Image of AI Taxonomy"/>  
+  <img src="Images/AI-Taxonomy-Samoli-al-2021-si.png" alt="Image of AI Taxonomy"/>  
 </figure>
 _Slika: Taksonomija UI - znanstvene domene in poddomene UI (iz poročila JRC[^1] Samoili &amp; al., 2021)._
 
 Poglejmo, katere tehnike UI se uporabljajo v aplikacijah, ki temeljijo na UI in so usmerjene v izobraževanje, ki sta jih leta 2019 predlagala Holmes &amp; al.[^2].
 <figure>
-  <img src="Images/AIED-Holmes-systems.png" alt="Image of AI-based education-oriented systems"/>
+  <img src="Images/AIED-Holmes-systems-si.png" alt="Image of AI-based education-oriented systems"/>
 </figure>
 _Figura: Različne vrste sedanjih sistemov, ki temeljijo na umetni inteligenci in so namenjeni izobraževanju (iz Holmes &amp; al. 2019[^2])._
 

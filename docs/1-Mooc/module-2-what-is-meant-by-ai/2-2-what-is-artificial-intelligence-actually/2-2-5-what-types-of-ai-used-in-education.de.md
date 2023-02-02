@@ -6,13 +6,13 @@ description: Die bestehenden KI-Systeme, ihr Potenzial und ihre bestehenden Anwe
 
 Unter den möglichen Klassifizierungen von KI-Wissenschaftsbereichen wird in der folgenden Tabelle eine KI-Taxonomie[^1] nach den von KI möglicherweise ausgeführten Familienfunktionen vorgestellt.
 <figure>
-  <img src="Images/AI-Taxonomy-Samoli-al-2021.png" alt="Image of AI Taxonomy"/>  
+  <img src="Images/AI-Taxonomy-Samoli-al-2021-de.png" alt="Image of AI Taxonomy"/>  
 </figure>
 _Abbildung: KI-Taxonomie - KI-Wissenschaftsbereiche und Unterbereiche (aus Samoili &amp; al., 2021 JRC report[^1])._
 
 Schauen wir uns an, welche KI-Techniken in den von Holmes &amp; al. 2019[^2] vorgeschlagenen bildungsorientierten KI-Anwendungen eingesetzt werden.
 <figure>
-  <img src="Images/AIED-Holmes-systems.png" alt="Image of AI-based education-oriented systems"/>
+  <img src="Images/AIED-Holmes-systems-de.png" alt="Image of AI-based education-oriented systems"/>
 </figure>
 _Abbildung: Unterschiedliche Arten aktueller KI-basierter Systeme für das Bildungswesen (aus Holmes &amp; al. 2019[^2])._
 

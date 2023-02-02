@@ -6,13 +6,13 @@ description: I sistemi di IA esistenti, il loro potenziale o gli usi esistenti n
 
 Tra le possibili classificazioni dei domini scientifici dell'IA, la seguente tabella presenta una tassonomia dell'IA[^1] in base alle funzioni familiari che l'IA può svolgere.
 <figure>
-  <img src="Images/AI-Taxonomy-Samoli-al-2021.png" alt="Image of AI Taxonomy"/>  
+  <img src="Images/AI-Taxonomy-Samoli-al-2021-it.png" alt="Image of AI Taxonomy"/>  
 </figure>
 _Figura: Tassonomia dell'IA - domini e sottodomini scientifici dell'IA (da Samoili &amp; al., 2021, relazione del CCR[^1])._
 
 Vediamo quali tecniche di IA sono utilizzate nelle applicazioni orientate all'istruzione basate sull'IA proposte da Holmes &amp; al. nel 2019[^2].
 <figure>
-  <img src="Images/AIED-Holmes-systems.png" alt="Image of AI-based education-oriented systems"/>
+  <img src="Images/AIED-Holmes-systems-it.png" alt="Image of AI-based education-oriented systems"/>
 </figure>
 _Figura: Diversi tipi di sistemi attuali basati sull'IA per l'istruzione (da Holmes &amp; al. 2019[^2])._
 
