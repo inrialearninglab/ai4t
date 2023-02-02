@@ -11,6 +11,6 @@ L'intelligenza artificiale ha il potenziale per fornire a insegnanti e studenti 
 **State già utilizzando alcuni di questi strumenti nel vostro ambiente professionale?**  
 _Cliccate sull'immagine sottostante per scoprirlo!_
 
-<center><iframe width="860" height="540" src="1-2-1-activity-AI-based-tools/story.html" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="860" height="540" src="1-2-1-activity-AI-based-tools-it/story.html" frameborder="0" allowfullscreen></iframe></center>
 
 **Nota**: Questa attività non memorizza le risposte o i dati personali.
