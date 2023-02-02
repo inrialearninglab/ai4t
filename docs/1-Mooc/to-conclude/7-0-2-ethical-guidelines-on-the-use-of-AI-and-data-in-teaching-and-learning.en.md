@@ -9,9 +9,9 @@ In October 2022, the European Commission as part of the Digital Education Action
 
 _Click on the image below to upload the "Ethical guidelines on the use of artificial intelligence (AI) and data in teaching and learning for Educators"._
 
-<a href="Ethical-guidelines-on-the-use-of-artificial-intelligence-NC0722649ENN.pdf" target="_blank">
+<a href="Documents/Ethical-guidelines-on-the-use-of-artificial-intelligence-NC0722649ENN.pdf" target="_blank">
 <figure>
-  <img src="Images/Cover-page-EC-Ethical-guidelines.png" alt="A Ready to Use Template for AI Resources Characterisation"/>
+  <img src="Images/Cover-page-EC-Ethical-guidelines-en.png" alt="A Ready to Use Template for AI Resources Characterisation"/>
   <figcaption> Ethical guidelines on the use of artificial intelligence (AI) and data in teaching and learning for Educators. European Union, 2022 - CC BY 4.0 International </figcaption>
 </figure></a>
 

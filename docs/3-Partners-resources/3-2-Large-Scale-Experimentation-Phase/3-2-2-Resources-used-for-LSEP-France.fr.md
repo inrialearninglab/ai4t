@@ -2,7 +2,7 @@
 title: Presentation of resources used for the LSEP in France
 description: Presentation of resources used for the LSEP in France
 ---
-# Resources utilisées en France
+# Ressources utilisées en France
 
 ## Webinaire # 1 : 25 janvier 2023 à 18h00
 

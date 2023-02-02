@@ -9,10 +9,10 @@ Evropska komisija je oktobra 2022 v okviru akcijskega načrta za digitalno izobr
 
 _Cliknite na spodnjo sliko, da si ogledate "Etične smernice o uporabi umetne inteligence (UI) in podatkov pri poučevanju in učenju za vzgojitelje"._
 
-<a href="Ethical-guidelines-on-the-use-of-artificial-intelligence-NC0722649ENN.pdf" target="_blank">
+<a href="Documents/Etične-smernice-za-uporabo-umetne-inteligence-in-podatkov-NC0722649SLN.pdf" target="_blank">
 <figure>
-  <img src="Images/Cover-page-EC-Ethical-guidelines.png" alt="A Ready to Use Template for AI Resources Characterisation"/>
-  <figcaption> Ethical guidelines on the use of artificial intelligence (AI) and data in teaching and learning for Educators. European Union, 2022 - CC BY 4.0 International </figcaption>
+  <img src="Images/Cover-page-EC-Ethical-guidelines-si.png" alt="A Ready to Use Template for AI Resources Characterisation"/>
+  <figcaption> Etične smernice za uporabo umetne inteligence in podatkov pri poučevanju in učenju za izobraževalce. European Union, 2022 - CC BY 4.0 International </figcaption>
 </figure></a>
 
 [^1]: [European Commission as part of the Digital Education Action Plan (Action 6)](https://education.ec.europa.eu/focus-topics/digital-education/action-plan/action-6)
