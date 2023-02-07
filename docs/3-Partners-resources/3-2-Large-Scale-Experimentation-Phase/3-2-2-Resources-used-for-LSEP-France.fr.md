@@ -17,5 +17,6 @@ description: Presentation of resources used for the LSEP in France
 ## Prochaines étapes
 
 ### Journée de formation en présentiel (du 6 février au 3 mars 2023)
+Le support de formation utilisé lors de la journée en présentiel sera partagé aprés le 3 mars (date de la dernière journée de formation).
 
 ### Webinaire # 2 : 15 mars 2023 à 18h00
