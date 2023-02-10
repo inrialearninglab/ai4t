@@ -54,4 +54,4 @@ I sistemi di IA utilizzati nel campo dell'istruzione devono essere affidabili, o
 
 [^1]: ["Laying down Harmonised Rules on Artificial Intelligence (Artificial Intelligence Act) and Amending certain Union Legislatives Acts"](https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonised-rules-artificial-intelligence) - Regulatory Framework Proposal on Artificial Intelligence, European Commission - 2021
 
-[^2]: ["Ethics guidelines for trustworthy AI"](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai), European Commission, High-Level Expert Group on AI - 2019.
+[^2]: ["Orientamenti etici per un'IA affiadabile"](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai),EU - Gruppo Indipendente Di Esperti Ad Alto Livello Sull'intelligenza Artificiale - 2019.
