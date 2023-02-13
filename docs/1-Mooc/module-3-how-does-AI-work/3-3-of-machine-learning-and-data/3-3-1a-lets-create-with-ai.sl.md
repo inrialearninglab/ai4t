@@ -19,6 +19,6 @@ To vodilo se lahko uporablja v učilnici.
 **Želite poskusiti?**  
 _Kliknite na spodnjo sliko in nam dovolite, da vas vodimo!_
 
-<a href="https://pixees.fr/classcodeiai/app/tuto3-ai4t/?lang=en" target="_blank"><figure>
-  <img src="Images/Tuto-M3-HumanandAI-EN.png"/>
+<a href="https://pixees.fr/classcodeiai/app/tuto3-ai4t/?lang=sl" target="_blank"><figure>
+  <img src="Images/Tuto-M3-HumanandAI-SI.png"/>
 </figure></a>
