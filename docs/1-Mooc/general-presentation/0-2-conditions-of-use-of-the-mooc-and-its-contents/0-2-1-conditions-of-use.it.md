@@ -28,19 +28,3 @@ Le **risorse didattiche** sono, salvo diversa indicazione, distribuite con licen
 <figure>
   <img src="Images/LogoCoFoundedErasmusProgramEU.png" alt="Logo Co-founded by Erasmus and EU"/>
 </figure>
-
-## Note per le implementazioni nazionali
-____________________
-<span style="color:#EE147F;font-weight:bold">Attenzione1</span>:            
-
-Se i forum sono implementati su LMS/CMS locali, ecco una proposta di condizioni di utilizzo dei contenuti prodotti dai partecipanti:         
-
-**Condizioni d'uso dei contenuti prodotti dai partecipanti**  
-I contenuti prodotti dai partecipanti sono, salvo diversa indicazione, distribuiti con licenza [Creative Commons BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/fr/deed.en):
-**Attribuzione-Non commerciale-Condividi allo stesso modo**. Il titolare del copyright autorizza lo sfruttamento dell'opera originale per scopi non commerciali, nonché la creazione di opere derivate, purché distribuite con una licenza identica a quella che regola l'opera originale.                         
-____________________
-
-<span style="color:#EE147F;font-weight:bold">Attenzione2</span>:            
-
-Se durante la fase di sperimentazione su larga scala non desiderate che i partecipanti condividano le risorse (ad esempio, in considerazione dell'esistenza del gruppo di test), non dimenticate di dichiararlo nelle vostre raccomandazioni ai partecipanti.                            
-____________________

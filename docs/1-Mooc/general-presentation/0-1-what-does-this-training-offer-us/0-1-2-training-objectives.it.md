@@ -32,11 +32,3 @@ Si tratta anche di apprezzare l'integrazione degli strumenti di IA nel quadro pi
 Il terzo livello invita i partecipanti a non rimanere concentrati solo su questioni tecniche o sull'apprendimento delle materie, ma anche a **scambiare all'interno della propria scuola con i colleghi e la direzione scolastica**, e a condividere le missioni della scuola, la prima delle quali è la convivenza, l'equità e il rispetto dei diritti umani.
 
 Come in tutte le attività educative, la dimensione etica è una componente trasversale. L'AI la mette ancora più in evidenza perché i suoi campi di applicazione - in particolare nell'educazione - sono ancora da definire e i suoi effetti da studiare.
-
----
-<span style="color:#EE147F">**Linee guida etiche sull'uso dell'intelligenza artificiale (IA) e dei dati nell'insegnamento e nell'apprendimento per gli educatori**</span>
-In linea con la ricerca e lo sviluppo dell'alfabetizzazione digitale, il progetto propone di utilizzare le Linee guida etiche sull'uso dell'intelligenza artificiale come supporto per una prima riflessione sugli usi consapevoli dell'IA.
----
-<span style="color:#EE147F">**Attenzione: Per la fase di sperimentazione su larga scala, alcune informazioni possono integrare questa introduzione generale, ad esempio per quanto riguarda l'età degli studenti e le discipline selezionate**.</span>
-Per ottenere operatività e precisione, il progetto AI4T ha dovuto limitarsi a due aree di apprendimento: matematica e apprendimento delle lingue straniere. E per rivolgersi più specificamente agli studenti di età compresa tra i 15 e i 17 anni.
----

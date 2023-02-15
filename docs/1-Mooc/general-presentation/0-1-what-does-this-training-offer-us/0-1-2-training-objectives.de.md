@@ -32,11 +32,3 @@ Es geht auch darum, die Integration der KI-Tools in den breiteren und komplexere
 Die dritte Ebene lädt die Teilnehmer dazu ein, sich nicht nur auf technische Fragen oder das Lernen von Fächern zu konzentrieren, sondern sich auch **innerhalb ihrer Schule mit Kollegen und der Schulleitung** auszutauschen und an den Aufgaben der Schule teilzuhaben, von denen die erste das Zusammenleben, die Gleichberechtigung und die Achtung der Menschenrechte ist.
 
 Wie bei allen pädagogischen Aktivitäten ist die ethische Dimension eine transversale Komponente. AI hebt sie umso mehr hervor, als ihre Anwendungsbereiche - insbesondere im Bildungswesen - noch zu definieren und ihre Auswirkungen zu untersuchen sind.
-
----
-<span style="color:#EE147F">**Ethische Leitlinien für den Einsatz von Künstlicher Intelligenz (KI) und Daten im Unterricht und beim Lernen für Pädagogen**</span>
-Im Einklang mit der Forschung und der Entwicklung digitaler Kompetenzen schlägt das Projekt vor, die ethischen Leitlinien für den Einsatz von künstlicher Intelligenz als Grundlage für eine erste Reflexion über den bewussten Einsatz von KI zu verwenden.
----
-<span style="color:#EE147F">**Vorsicht: Für die Phase der groß angelegten Experimente können einige Informationen diese allgemeine Einführung ergänzen, z. B. in Bezug auf das Alter der angesprochenen Schüler und die ausgewählten Disziplinen**.</span>
-Um Funktionsfähigkeit und Genauigkeit zu erreichen, musste sich das AI4T-Projekt auf zwei Lernbereiche beschränken: Mathematik und Fremdsprachenlernen. Und um speziell Schüler im Alter von 15 bis 17 Jahren anzusprechen.
----

@@ -32,11 +32,3 @@ Prav tako je treba ceniti vključevanje orodij umetne inteligence v širši in k
 Tretja raven vabi udeležence, da ne ostanejo osredotočeni le na tehnična vprašanja ali učenje predmetov, temveč da **izmenjujejo znotraj svoje šole s kolegi in vodstvom šole** ter sodelujejo pri poslanstvih šole, med katerimi je prvo skupno življenje, pravičnost in spoštovanje človekovih pravic.
 
 Tako kot pri vseh izobraževalnih dejavnostih je etična razsežnost prečna komponenta. AI jo še toliko bolj poudarja, ker je treba področja njene uporabe - zlasti v izobraževanju - še opredeliti, njene učinke pa preučiti.
-
----
-<span style="color:#EE147F">**Etične smernice za uporabo umetne inteligence (UI) in podatkov pri poučevanju in učenju za pedagoške delavce**</span> 
-V skladu z raziskavami in razvojem digitalne pismenosti projekt predlaga uporabo Etičnih smernic o uporabi umetne inteligence kot podporo za prvi razmislek o ozaveščeni uporabi umetne inteligence.
----
-<span style="color:#EE147F">**Pozorilo: Za fazo obsežnega eksperimentiranja lahko ta splošni uvod dopolnijo nekateri podatki, na primer o starosti ciljnih učencev in izbranih disciplinah**.</span> 
-Da bi dosegli operativnost in natančnost, se je moral projekt AI4T omejiti na dve učni področji: matematiko in učenje tujih jezikov. In se natančneje osredotočiti na učence, stare od 15 do 17 let.
----
