@@ -294,6 +294,9 @@ plugins:
           "At the origin of the project": "A l'origine du projet"
           "Mooc and on-line resources about AI and AI&Education": "Mooc et ressources en ligne sur l'IA et l'AI & Education"
           "AI4T resources presentation": "Présentation des ressources AI4T"
+          "AI Tools for the LSEP": "Outils d'IA pour la phase d'experimentation"
+          "Partners Resources": "Ressources des partenaires"
+
         it:
           "Home": "Home Page"
           "Online Self Training": "Autoformazione online"
@@ -326,6 +329,8 @@ plugins:
           "At the origin of the project": "All'origine del progetto"
           "Mooc and on-line resources about AI and AI&Education": "Mooc e risorse on-line su AI e AI&Educazione"
           "AI4T resources presentation": "Presentazione delle risorse AI4T"
+          "AI Tools for the LSEP": "Strumenti AI per la sperimentazione"
+          "Partners Resources": "Risorse dei partner"
         de:
           "Home": "Startseite"
           "Online Self Training": "Online-Selbststudium"
@@ -357,7 +362,9 @@ plugins:
           "AI4T resources": "AI4T-Ressourcen"
           "At the origin of the project": "Am Anfang des Projekts"
           "Mooc and on-line resources about AI and AI&Education": "Mooc und Online-Ressourcen zu KI und KI&Bildung"
-          "AI4T resources presentation": "Präsentation der AI4T-Ressourcen"
+          "AI4T resources": "Präsentation der AI4T-Ressourcen"
+          "AI Tools for the LSEP": "KI-Tools für das Experimentieren"
+          "Partners Resources": "Partner-Ressourcen"
         sl:
           "Home": "Domača stran"
           "Online Self Training": "Samostojno spletno usposabljanje"
@@ -390,6 +397,8 @@ plugins:
           "At the origin of the project": "Na začetku projekta"
           "Mooc and on-line resources about AI and AI&Education": "Mooc in spletni viri o umetni inteligenci ter umetni inteligenci in izobraževanju"
           "AI4T resources presentation": "Predstavitev virov AI4T"
+          "AI Tools for the LSEP": "Orodja UI za eksperimentiranje"
+          "Partners Resources": "Viri za partnerje"
   - page-to-pdf:
       disableOnServe: true
       displayHeaderFooter: true
