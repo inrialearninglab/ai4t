@@ -51,7 +51,7 @@ Lors de la préparation du manuel, les auteurs ont constaté qu'il y avait telle
 Nous espérons que vous apprécierez cette lecture.  
 
 - Lien d'accès au manuel: https://ai4t.eu/book/
-- Login : chaireunescorelia@univ-nantes.fr
-- Mot de passe : 12345
+- Login : ai4t-france@ai4t.org
+- Mot de passe : ai4t-France
 
 (Ce document est en anglais et sera prochainement accessible en français).
