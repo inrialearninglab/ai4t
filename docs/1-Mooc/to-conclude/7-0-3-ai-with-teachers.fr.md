@@ -52,6 +52,4 @@ Nous espérons que vous apprécierez cette lecture.
 
 - Lien d'accès au manuel: https://ai4t.eu/book/
 - Login : ai4t-france@ai4t.org
-- Mot de passe : ai4t-France
-
-(Ce document est en anglais et sera prochainement accessible en français).
+- Mot de passe : ai4t-france
