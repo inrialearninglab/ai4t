@@ -17,7 +17,7 @@ In this tutorial are inserted 7 very short pedagogical videos which make the tut
 
 **_Note2_**: This tutorial proposes to upload your own images to experiment machine learning and the importance of datasets to train the algorithm. It's also possible to download already prepared 2 data sets:  
 - Download the [image set of Charles Dickens](Images/Images-set-of-Charles-Dickens.zip)  
-- Download the [image set for William Shakespear](Images/Images-set-of-William-Shakespear.zip).
+- Download the [image set for William Shakespeare](Images/Images-set-of-William-Shakespear.zip).
 
 
 **It's your turn!**  

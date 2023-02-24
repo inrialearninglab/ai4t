@@ -17,7 +17,7 @@ In diesem Tutorial sind 7 sehr kurze pädagogische Videos eingefügt, die die Tu
 
 **_Hinweis2_**: In diesem Tutorial wird vorgeschlagen, eigene Bilder hochzuladen, um das maschinelle Lernen und die Bedeutung von Datensätzen für das Training des Algorithmus zu erproben. Es ist auch möglich, bereits vorbereitete 2 Datensätze herunterzuladen:  
 - Laden Sie den [Bildsatz von Charles Dickens](Images/Images-set-of-Charles-Dickens.zip)  
-- Laden Sie den [Bildsatz für William Shakespear](Images/Images-set-of-William-Shakespear.zip) herunter.
+- Laden Sie den [Bildsatz für William Shakespeare](Images/Images-set-of-William-Shakespear.zip) herunter.
 
 
 **Sie sind dran!**  

@@ -17,7 +17,7 @@ In questo tutorial sono inseriti 7 brevissimi video pedagogici che rendono le es
 
 **_Nota2_**: Questo tutorial propone di caricare le proprie immagini per sperimentare l'apprendimento automatico e l'importanza dei dataset per addestrare l'algoritmo. È anche possibile scaricare 2 set di dati già preparati:  
 - Scarica il [set di immagini di Charles Dickens](Images/Images-set-of-Charles-Dickens.zip)  
-- Scarica il [set di immagini di William Shakespear](Images/Images-set-of-William-Shakespear.zip).
+- Scarica il [set di immagini di William Shakespeare](Images/Images-set-of-William-Shakespear.zip).
 
 
 **È il tuo turno!**  
