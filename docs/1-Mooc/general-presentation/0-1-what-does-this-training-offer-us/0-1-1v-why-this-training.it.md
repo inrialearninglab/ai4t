@@ -17,10 +17,10 @@ Nel video che segue, Alain Thillay, esperto nazionale francese di educazione dig
 **Presentazione breve**  
 _Guarda il video qui sotto (1'48")_
 
-<center><iframe width="640" height="360" src="https://www.youtube.com/embed/ybYPaPxRcBo?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="640" height="360" src="https://www.youtube.com/embed/_2mvzLv6iXs?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
 
 **Presentazione dettagliata**  
 _Guarda il video qui sotto (6'57")_
 
 
-<center><iframe width="640" height="360" src="https://www.youtube.com/embed/NR5mUQJKx8k?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="640" height="360" src="https://www.youtube.com/embed/aKh3QSfMT5c?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
