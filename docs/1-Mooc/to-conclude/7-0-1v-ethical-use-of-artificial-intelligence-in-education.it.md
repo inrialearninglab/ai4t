@@ -23,5 +23,5 @@ Nel video che segue, Alain Thillay, esperto nazionale francese di educazione dig
 _Guarda il video qui sotto (6'14")_
 ____________________
 
-<center><iframe width="640" height="360" src="https://www.youtube.com/embed/VmejJrfcwxU?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="640" height="360" src="https://www.youtube.com/embed/nLdVFZTpFN4?rel=0&showinfo=0&cc_load_policy=1&hl=it&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
 ____________________

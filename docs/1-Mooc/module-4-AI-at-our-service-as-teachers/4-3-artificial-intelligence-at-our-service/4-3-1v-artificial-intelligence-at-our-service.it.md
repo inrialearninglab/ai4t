@@ -15,7 +15,7 @@ Progettato con un tono umoristico, il video può essere utilizzato in classe.
 ## L'intelligenza artificiale al nostro servizio?  
 _Guarda il video qui sotto (4'36")_
 
-<center><iframe width="640" height="360" src="https://www.youtube.com/embed/b3ljE6erMkY?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="640" height="360" src="https://www.youtube.com/embed/LsP7ma-iwfk?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
 
 ####Sinossi
 Il protagonista, -_Guillaume_-, ci ricorda le sfide dell'intelligenza artificiale in un'ampia gamma di campi. Sottolinea che questa riflessione sull'intelligenza artificiale ci porta anche a riflettere sull'intelligenza umana. E questa riflessione porta a mettere in discussione l'umanità e il nostro ruolo di cittadini nella società.  

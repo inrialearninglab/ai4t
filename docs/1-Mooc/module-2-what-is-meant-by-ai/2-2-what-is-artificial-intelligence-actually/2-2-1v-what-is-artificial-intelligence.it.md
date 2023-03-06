@@ -13,7 +13,7 @@ Il suo approccio è generale e può essere utilizzato in classe.
 
 _Guarda il video qui sotto (8'22")_
 
-<center><iframe width="640" height="360" src="https://www.youtube.com/embed/bkuWz0eAS7w?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="640" height="360" src="https://www.youtube.com/embed/QsdMHQSPlrI?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
 
 #### Sinossi
 Il protagonista _Guillaume_ elenca le numerose applicazioni o strumenti che utilizzano gli algoritmi e sottolinea il loro posto nella nostra vita quotidiana. Inizia mettendo in discussione i computer e l'informatica, il che lo porta a porsi la domanda: "I nostri computer sono diventati intelligenti o no?".

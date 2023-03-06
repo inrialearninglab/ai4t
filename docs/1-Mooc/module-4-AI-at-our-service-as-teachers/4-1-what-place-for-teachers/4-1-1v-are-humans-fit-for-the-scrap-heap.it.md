@@ -12,7 +12,7 @@ Questo video umoristico può essere utilizzato in classe.
 **Anche voi avete delle domande?**  
 _Guarda il video qui sotto (1 minuto e 51):_
 
-<center><iframe width="640" height="360" src="https://www.youtube.com/embed/CpS2_IsY2EI?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="640" height="360" src="https://www.youtube.com/embed/O3-yzeVJXJE?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
 
 ####Sinossi
 Il protagonista, _Guillaume_, chiama la hotline dopo aver letto un articolo sulla possibile scomparsa di molti posti di lavoro, il cui lavoro in futuro sarà svolto dalle IA. Cita proiezioni che, tra 10 o 20 anni, prevedono la scomparsa di molti lavori, soprattutto quelli impiegatizi, i cui compiti potrebbero essere automatizzati. La Hotline mette in prospettiva questa evoluzione e fa un collegamento con le trasformazioni avvenute nel XIX secolo durante la rivoluzione industriale. Ricorda che ogni innovazione porta alla sostituzione di alcune attività con altre. Sottolinea inoltre che oggi non è possibile sapere esattamente quali lavori saranno automatizzati.

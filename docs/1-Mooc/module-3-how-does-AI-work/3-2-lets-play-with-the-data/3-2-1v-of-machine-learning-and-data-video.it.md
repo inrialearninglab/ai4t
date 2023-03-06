@@ -19,7 +19,7 @@ Il video fornisce anche una panoramica di alcuni concetti di apprendimento autom
 **Spiegazione**  
 _Guarda il video qui sotto (9'35")_
 
-<center><iframe width="640" height="360" src="https://www.youtube.com/embed/XD6fvv7ldA8?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="640" height="360" src="https://www.youtube.com/embed/i_O3N3f-kHQ?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
 
 ####Sinossi
 Il video presenta i diversi approcci all'apprendimento. Da un lato l'approccio simbolico e dall'altro l'approccio numerico.
