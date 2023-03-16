@@ -20,3 +20,10 @@ description: Presentation of resources used for the LSEP in France
 Le support de formation utilisé lors de la journée en présentiel sera partagé aprés le 3 mars (date de la dernière journée de formation).
 
 ### Webinaire # 2 : 15 mars 2023 à 18h00
+
+
+- **Objectifs** : *aEnseigner avec l'ntelligence artificielle*
+- Avec Colin de la HIGUERA, professeur en informatique à l'Université Nantes, titulaire de la Chaire Unesco RELIA (Ressources Éducatives Libres et Intelligence Aartificielle),
+- Et Bastien MASSE,	délégué Général Class’Code, chef de projet Chaire Unesco RELIA pour les Ressources Éducatives Libres et l'Intelligence Artificielle.
+
+- [Accès au replay](https://bbb-adm-scalelite.visio.education.fr/playback/presentation/2.3/c328ed8e2cc666f6e4a843929deb5f67faac5846-1678898241508)
