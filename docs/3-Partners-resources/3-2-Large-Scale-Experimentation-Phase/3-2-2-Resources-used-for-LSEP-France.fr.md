@@ -14,13 +14,11 @@ description: Presentation of resources used for the LSEP in France
 - [Compte-rendu du webinaire](./Documents/AI4T-LSEP-Webinaire1-France-Compte-rendu.pdf){:target="_blank"}
 - [Accès au replay](https://bbb-adm-scalelite.visio.education.fr/playback/presentation/2.3/c328ed8e2cc666f6e4a843929deb5f67faac5846-1674662408758){:target="_blank"}
 
-## Prochaines étapes
 
 ### Journée de formation en présentiel (du 6 février au 3 mars 2023)
-Le support de formation utilisé lors de la journée en présentiel sera partagé aprés le 3 mars (date de la dernière journée de formation).
+Le support de formation utilisé lors de la journée en présentiel sera prochainement partagé.
 
 ### Webinaire # 2 : 15 mars 2023 à 18h00
-
 
 - **Objectifs** : *Enseigner avec l'intelligence artificielle*
     - Avec Colin de la HIGUERA, professeur en informatique à l'Université Nantes, titulaire de la Chaire Unesco RELIA (Ressources Éducatives Libres et Intelligence Aartificielle),
@@ -29,3 +27,4 @@ Le support de formation utilisé lors de la journée en présentiel sera partag�
 - [Programme du webinaire](./Documents/AI4T-LSEP-Webinaire2-France-programme.pdf){:target="_blank"}
 - [Accès au replay](https://bbb-adm-scalelite.visio.education.fr/playback/presentation/2.3/c328ed8e2cc666f6e4a843929deb5f67faac5846-1678898241508)
 - [Présentation utilisée lors du webinaire](./Documents/AI4T-LSEP-Webinaire2-Support.pdf){:target="_blank"}
+- [Compte-rendu du webinaire](./Documents/AI4T-LSEP-Webinaire2-France-Compte-rendu.pdf){:target="_blank"}
