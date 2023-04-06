@@ -71,6 +71,33 @@ extra:
   # Liens vers des pages à afficher dans la page d'accueil (cards)
   parts:
     - title:
+        en: "Access to the Mooc contents"
+        fr: "Accès aux contenus du Mooc"
+        it: "Accesso ai contenuti del Mooc"
+        de: "Zugang zu den Mooc-Inhalten"
+        sl: "Pregled vsebine programa Mooc"
+      url: "path/to/folder"
+      cards:
+        - url:
+            en: "1-Mooc/general-presentation/0-1-what-does-this-training-offer-us/0-1-1v-why-this-training.html"
+            fr: "1-Mooc/general-presentation/0-1-what-does-this-training-offer-us/0-1-1v-why-this-training.html"
+            it: "1-Mooc/general-presentation/0-1-what-does-this-training-offer-us/0-1-1v-why-this-training.html"
+            de: "1-Mooc/general-presentation/0-1-what-does-this-training-offer-us/0-1-1v-why-this-training.html"
+            sl: "1-Mooc/general-presentation/0-1-what-does-this-training-offer-us/0-1-1v-why-this-training.html"
+          img: "assets/Home-Mooc-Illustration.png"
+          title:
+            en: "The Mooc"
+            fr: "Le Mooc"
+            it: "Il Mooc"
+            de: "Der Mooc"
+            sl: "Mooc"
+          desc:
+             en: "Access to the 4 modules of the Mooc."
+             fr: "Accès aux 4 modules du Mooc."
+             it: "Accesso ai 4 moduli del Mooc."
+             de: "Zugang zu den 4 Modulen des Mooc."
+             sl: "Dostop do 4 modulov Mooc."
+    - title:
         en: "Overview of the Mooc contents"
         fr: "Aperçu des contenus du Mooc"
         it: "Panoramica dei contenuti del Mooc"
