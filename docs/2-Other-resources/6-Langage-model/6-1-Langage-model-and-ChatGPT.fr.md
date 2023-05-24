@@ -36,7 +36,7 @@ Ces vidéos sont égalment accessibles sur le site de médiation d’Inria : [Pi
 
 *Article de Thierry Viéville, chercheur Inria et membre de l’équipe pédagogique du Mooc Intelligence Artificielle avec Intelligence publié sur le blog spécialisé en informatique, *Binaire*.*
 
-Cet article fait notamment référence à une vidéo de David Louapre de [Science étonnante](https://scienceetonnante.com/) : *Ce qui se cache derrière le fonctionnement de ChatGPT ?*.  C'est une bonne introduction aux IA conversationnelles ; sa duréee (27 minutes) se prête peut-être moins facilement à un usage en classe.
+Cet article fait notamment référence à une vidéo de David Louapre de [Science étonnante](https://scienceetonnante.com/) : *Ce qui se cache derrière le fonctionnement de ChatGPT ?*.  C'est une bonne introduction aux IA conversationnelles ; sa durée (27 minutes) se prête peut-être moins facilement à un usage en classe.
 
 - [ChatGPT, voulez-vous comprendre ce que c’est ?](https://www.lemonde.fr/blog/binaire/2023/05/12/chatgpt-voulez-vous-comprendre-ce-que-cest/)   
 
