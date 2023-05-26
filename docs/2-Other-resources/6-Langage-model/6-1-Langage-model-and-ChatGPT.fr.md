@@ -30,7 +30,7 @@ Ces courtes vidéos ont été réalisées par une équipe de chercheurs en Intel
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/xXHWTC4mJBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
-Ces vidéos sont égalment accessibles sur le site de médiation d’Inria : [Pixees](https://pixees.fr/modeles-de-langage-avec-lexemple-de-chatgpt-explications-en-5-mn/)  
+Ces vidéos sont également accessibles sur le site de médiation d’Inria : [Pixees](https://pixees.fr/modeles-de-langage-avec-lexemple-de-chatgpt-explications-en-5-mn/)  
 
 ## 2 - Comprendre ce qu'est ChatGPT
 
