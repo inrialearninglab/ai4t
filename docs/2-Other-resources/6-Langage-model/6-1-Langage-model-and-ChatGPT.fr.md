@@ -1,5 +1,5 @@
 ---
-title: Modèle de language et ChatGPT
+title: Modèle de langage et ChatGPT
 description: Videos et ressources pour décrypter ChatGPT
 ---
 
@@ -41,6 +41,6 @@ Cet article fait notamment référence à une vidéo de David Louapre de [Scienc
 - [ChatGPT, voulez-vous comprendre ce que c’est ?](https://www.lemonde.fr/blog/binaire/2023/05/12/chatgpt-voulez-vous-comprendre-ce-que-cest/)   
 
 ## 3 - Usages possibles dans l'Éducation
-Deux publications du Ministère de l’éducation nationale et du Pôle d’expertise de la régulation numérique qui se complètent et permettent d'aller un peu plus loin dans la découverte des usages possibles en éducation de modèles de langage (1) et des technologies d'IA (2) qui les sous-tendent.
+Deux publications du Ministère de l’éducation nationale et du Pôle d’expertise de la régulation numérique qui se complètent et permettent d'aller un peu plus loin dans la découverte des usages possibles en éducation de modèles de langage (1) et des technologies d'IA (2) qui les sous-tendent.
 - 1- [Intelligence artificielle et éducation, Apports de la recherche et enjeux pour les politiques publiques](https://edunumrech.hypotheses.org/files/2023/05/MEN_DNE_brochure_IA_WEB.pdf)
 - 2- [ChatGPT ou la percée des modèles d’IA conversationnels](https://www.peren.gouv.fr/rapports/2023-04-06_Eclairage%20sur_CHATGPT_FR.pdf)
