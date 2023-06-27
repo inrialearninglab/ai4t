@@ -1,6 +1,7 @@
 ---
 title: 2.2.2 Kratka zgodovina umetne inteligence
 description: Razložite, od kod izvira umetna inteligenca
+contributor:  Nicolas Rougier 
 ---
 
 # Kratka zgodovina umetne inteligence
