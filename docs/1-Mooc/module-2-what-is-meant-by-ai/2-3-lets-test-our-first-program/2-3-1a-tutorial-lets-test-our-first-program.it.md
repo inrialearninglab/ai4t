@@ -4,7 +4,7 @@ description: Un tutorial per scoprire i programmi di riconoscimento delle immagi
 contributor: magic makers
                 inria
                 S24B
-                Codice della classe      
+                Class'Code     
 type: activity
 ---
 # Attività: Tutorial Testiamo il nostro primo programma
