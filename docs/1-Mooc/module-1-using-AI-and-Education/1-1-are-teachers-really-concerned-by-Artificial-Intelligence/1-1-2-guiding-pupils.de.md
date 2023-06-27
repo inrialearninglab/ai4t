@@ -1,10 +1,10 @@
 ---
 title: "1.1.2 Video: Ein Spaziergang durch KI - Schüler zum Erfolg führen"
 description: Video 2 Ein Spaziergang durch KI - Schüler durch Beobachtung von Lernprozessen zum Erfolg führen
-contributor:  Anne Boyer
-              Armelle Brun
-              Azim Roussanaly
-              Guilherme Medeiros-Machado
+contributor:  Anne Boyer - Loria
+              Armelle Brun - Loria
+              Azim Roussanaly - Loria
+              Guilherme Medeiros-Machado - Loria
 type: video
 ---
 # Ein Spaziergang durch KI - Schüler durch die Beobachtung von Lernprozessen zum Erfolg führen
