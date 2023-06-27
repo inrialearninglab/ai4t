@@ -2,9 +2,9 @@
 title: "2.3.1 Activité : Tutoriel Testons notre premier programme"
 description: Un tutoriel pour découvrir les programmes de reconnaissance d'images, comment les entraîner, comment les tromper.
 contributor: magic makers
-                inria
-                S24B
-                Code de la classe      
+             Inria
+             S24B
+             Class'Code  
 type: activity
 ---
 # Activité : Tutoriel Testons notre premier programme
