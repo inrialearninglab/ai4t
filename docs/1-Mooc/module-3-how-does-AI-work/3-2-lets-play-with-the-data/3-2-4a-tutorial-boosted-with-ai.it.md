@@ -4,7 +4,7 @@ description: Sperimentare come funziona l'apprendimento automatico e l'addestram
 contributor:  Magic Makers
               Inria
               S24B
-              Codice della classe     
+              Class'Code   
 type: activity
 ---
 
