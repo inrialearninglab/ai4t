@@ -3,7 +3,7 @@ title: "2.2.4 Activity: The origin of AI technologies"
 description: The origin of 3 AI-based applications - Natural Interaction, Image Recognition and Autonomous Car.
 contributor:  Nicolas Rougier -  Inria
               Daniela Hau - SCRIPT / MENJE
-              Claude Reuters - SCRIPT / 
+              Claude Reuters - SCRIPT / MENJE
 type: activity
 ---
 
