@@ -1,10 +1,10 @@
 ---
 title: "2.3.1 Aktivität: Tutorial Testen wir unser erstes Programm"
 description: Ein Tutorium zum Kennenlernen von Bilderkennungsprogrammen, wie man sie trainiert und wie man sie überlisten kann.
-contibutor: magic makers
-                inria
+contibutor: Magic Makers
+                Inria
                 S24B
-                Klasse'code      
+                Class'Code      
 type: activity
 ---
 # Aktivität: Tutorial Lass uns unser erstes Programm testen
