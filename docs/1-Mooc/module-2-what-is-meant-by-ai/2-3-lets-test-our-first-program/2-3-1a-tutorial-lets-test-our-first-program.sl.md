@@ -4,7 +4,7 @@ description: Učna naloga za odkrivanje programov za prepoznavanje slik, kako ji
 contributor: Magic Makers
                 inria
                 S24B
-                Koda razreda      
+                Class'Code   
 type: activity
 ---
 # Dejavnost: Preizkusimo naš prvi program
