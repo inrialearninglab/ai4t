@@ -2,8 +2,8 @@
 title: "2.2.4 Tätigkeit: Der Ursprung der KI-Technologien"
 description: Der Ursprung von 3 KI-basierten Anwendungen - natürliche Interaktion, Bilderkennung und autonomes Auto.
 contributor:  Nicolas Rougier 
-		        	Daniela Hau
-			        Claude Reuters
+	      Daniela Hau
+	      Claude Reuters
 type: activity
 ---
 
