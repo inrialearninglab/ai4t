@@ -1,10 +1,10 @@
 ---
 title: "1.1.1 Video: Una passeggiata attraverso l'intelligenza artificiale - Il processo di apprendimento nell'educazione"
 description: Video 1 Una passeggiata attraverso l'IA - Il processo di apprendimento nell'educazione
-contributor:  Anne Boyer
-              Armelle Brun
-              Azim Roussanaly
-              Guilherme Medeiros-Machado
+contributor:  Anne Boyer - Loria
+              Armelle Brun - Loria
+              Azim Roussanaly - Loria
+              Guilherme Medeiros-Machado - Loria
 type: video
 ---
 # Una passeggiata attraverso l'IA - Il processo di apprendimento nell'istruzione
