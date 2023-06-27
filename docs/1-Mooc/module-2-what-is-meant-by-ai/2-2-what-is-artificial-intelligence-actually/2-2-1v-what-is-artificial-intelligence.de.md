@@ -1,7 +1,9 @@
 ---
 title: "2.2.1 Video: Was ist künstliche Intelligenz?"
 description: Einleitung des Videos Was ist künstliche Intelligenz
+contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
+licence : CC BY-SA 2.0
 ---
 
 # Video: Was ist künstliche Intelligenz?
