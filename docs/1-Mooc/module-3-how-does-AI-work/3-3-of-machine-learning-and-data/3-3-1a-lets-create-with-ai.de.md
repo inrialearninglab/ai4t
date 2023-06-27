@@ -1,7 +1,7 @@
 ---
 title: "3.3.1 Aktivität: Lasst uns mit KI erschaffen"
 description: Erkennen, ob ein Bild echt ist oder von einer KI erzeugt wurde
-contributor:  Magic Macher
+contributor:  Magic Makers
               Inria
               S24B
               Class'Code  
