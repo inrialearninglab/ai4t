@@ -4,7 +4,7 @@ description: Preizkusite, kako deluje strojno učenje in usposabljanje programov
 contributor:  Magic Makers
               Inria
               S24B
-              Koda razreda     
+              Class'Code    
 type: activity
 ---
 
