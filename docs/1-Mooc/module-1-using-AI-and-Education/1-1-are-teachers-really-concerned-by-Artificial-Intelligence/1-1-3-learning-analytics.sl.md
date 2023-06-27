@@ -1,10 +1,10 @@
 ---
 title:  "1.3.1 Video: Sprehod skozi umetno inteligenco - analitika analitika"
 description: Video 3 Sprehod skozi umetno inteligenco - učna analitika.
-contributor:  Anne Boyer
-              Armelle Brun
-              Azim Roussanaly
-              Guilherme Medeiros-Machado
+contributor:  Anne Boyer - Loria
+              Armelle Brun - Loria
+              Azim Roussanaly - Loria
+              Guilherme Medeiros-Machado - Loria
 type: video
 ---
 
