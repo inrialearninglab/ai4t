@@ -4,7 +4,7 @@ description: Experimentieren Sie, wie maschinelles Lernen und Programmtraining f
 contributor:  Magic Makers
               Inria
               S24B
-              Klasse'code     
+              Class'Code     
 type: activity
 ---
 
