@@ -1,6 +1,9 @@
 ---
 title: "2.2.4 Attività: L'origine delle tecnologie di IA"
 description: "L'origine di 3 applicazioni basate sull'IA: interazione naturale, riconoscimento delle immagini e auto autonoma"
+contributor:  Nicolas Rougier
+              Daniela Hau
+              Claude Reuters
 type: activity
 ---
 
