@@ -4,7 +4,7 @@ description: Prepoznajte, ali je slika resnična ali jo je ustvarila umetna inte
 contributor:  Magic Makers
               Inria
               S24B
-              Koda razreda  
+              Class'Code 
 type: activity
 ---
 # Dejavnost: Ustvarjajmo z umetno inteligenco
