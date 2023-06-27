@@ -1,10 +1,10 @@
 ---
 title: "1.1.3 Video: Una passeggiata attraverso l'IA - I learning analytics"
 description: Video 3 Una passeggiata attraverso l'IA - I learning analytics
-contributor:  Anne Boyer
-              Armelle Brun
-              Azim Roussanaly
-              Guilherme Medeiros-Machado
+contributor:  Anne Boyer - Loria
+              Armelle Brun - Loria
+              Azim Roussanaly - Loria
+              Guilherme Medeiros-Machado - Loria
 type: video
 ---
 
