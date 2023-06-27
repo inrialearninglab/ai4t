@@ -1,10 +1,10 @@
 ---
 title: "1.1.2 Video: Vodenje učencev do uspeha - Vodenje učencev do uspeha"
 description: Video 2 Sprehod po UI - vodenje učencev do uspeha z opazovanjem učnih procesov
-contributor:   Anne Boyer
-              Armelle Brun
-              Azim Roussanaly
-              Guilherme Medeiros-Machado
+contributor:  Anne Boyer - Loria
+              Armelle Brun - Loria
+              Azim Roussanaly - Loria
+              Guilherme Medeiros-Machado - Loria
 type: video
 ---
 # Sprehod po umetni inteligenci - vodenje učencev do uspeha z opazovanjem učnih procesov
