@@ -1,10 +1,10 @@
 ---
 title: "3.3.1 Attività: Creiamo con l'intelligenza artificiale"
 description: Identificare se un'immagine è reale o prodotta da un'intelligenza artificiale
-contributor:  Creatori di magia
+contributor:  Magic Makers
               Inria
               S24B
-              Codice della classe  
+              Class'Code  
 type: activity
 ---
 # Attività: Creiamo con l'IA
