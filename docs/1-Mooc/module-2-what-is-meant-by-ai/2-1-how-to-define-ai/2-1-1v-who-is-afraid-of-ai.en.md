@@ -1,7 +1,9 @@
 ---
 title: "2.1.1 Video: Who Is Afraid of AI?"
 description: Introduction of video Who is afraid of AI?
+contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
+licence : CC BY-SA 2.0
 ---
 
 # Video: Who is afraid of AI?
