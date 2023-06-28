@@ -1,7 +1,9 @@
 ---
 title: "4.3.1 Video: Künstliche Intelligenz zu unseren Diensten?"
 description: Die Definition von Erklärbarkeit im Bereich der KI und deren Einsatz.
+contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
+licence : CC BY-SA 2.0
 ---
 
 # Video: Künstliche Intelligenz zu unseren Diensten?
