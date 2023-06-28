@@ -4,6 +4,7 @@ description: Uporaba predloge umetne inteligence za analizo Duolinga za šolo
 contributor:   Jiajun Pan
               Azim Roussanaly
               Anne Boyer
+              AI4T
 type: activity
 ---
 
