@@ -4,6 +4,7 @@ description: Utilisation du modèle pour caractériser Duolingo pour l'école
 contributor:  Jiajun Pan
               Azim Roussanaly
               Anne Boyer
+              AI4T
 type: activity
 ---
 
