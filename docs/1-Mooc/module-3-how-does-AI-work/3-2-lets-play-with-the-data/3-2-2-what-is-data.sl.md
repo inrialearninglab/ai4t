@@ -1,7 +1,7 @@
 ---
 title: "3.2.2 Kaj so podatki?"
 description: "Dnevnik je bil v celoti povezan s podatki, ki so bili uporabljeni za analizo: V nadaljevanju se seznanite s tem, kaj so podatki in kako se uporabljajo v umetni inteligenci."
-contributor: Laurent Romary, Inria
+contributor: Laurent Romary - Inria
 ---
 # Kaj so podatki?
 
