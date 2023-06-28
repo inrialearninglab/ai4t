@@ -1,7 +1,9 @@
 ---
 title: "3.2.1 Video: O strojnem učenju in podatkih"
 description: V videoposnetku, ki je posebej posvečen strojnemu učenju, so poudarjeni nadzorovano in okrepljeno učenje, nevronske mreže in globoko učenje.  
-type: activity
+contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
+type: video
+licence : CC BY-SA 2.0
 ---
 # Video: O strojnem učenju in podatkih
 Ta videoposnetek je natančneje posvečen strojnemu učenju. Še vedno je splošni videoposnetek s humornim tonom, ki se lahko uporablja pri pouku.
