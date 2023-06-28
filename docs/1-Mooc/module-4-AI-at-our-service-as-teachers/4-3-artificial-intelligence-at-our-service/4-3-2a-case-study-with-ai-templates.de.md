@@ -4,7 +4,8 @@ description: Verwendung der KI-Vorlage zur Analyse von Duolingo für die Schule
 contributor:  Jiajun Pan
               Azim Roussanaly
               Anne Boyer
-type: video
+              AI4T
+type: activity
 ---
 
 # Aktivität: Fallstudie mit AI-Vorlage zur Analyse von Duolingo for Schools
