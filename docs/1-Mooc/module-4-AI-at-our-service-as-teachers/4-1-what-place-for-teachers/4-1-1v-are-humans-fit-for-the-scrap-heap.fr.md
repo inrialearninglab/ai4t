@@ -1,7 +1,9 @@
 ---
 title: "4.1.1 Vidéo : Quelle place pour l'être humain ?"
 description: Prévision des changements dus à l'IA, notamment sur l'évolution du travail.
+contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
+licence : CC BY-SA 2.0
 ---
 # Vidéo : Quelle place pour l'être humain ?
 
