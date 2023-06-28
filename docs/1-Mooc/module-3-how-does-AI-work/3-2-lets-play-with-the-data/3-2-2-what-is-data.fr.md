@@ -1,7 +1,7 @@
 ---
 title: "3.2.2 Qu'est-ce qu'une donnée ?"
 description: Une première compréhension de ce qu'est une donnée et comment elle est utilisée en IA.
-contributor: Laurent Romary, Inria
+contributor: Laurent Romary - Inria
 ---
 # Qu'est-ce qu'une donnée ?
 
