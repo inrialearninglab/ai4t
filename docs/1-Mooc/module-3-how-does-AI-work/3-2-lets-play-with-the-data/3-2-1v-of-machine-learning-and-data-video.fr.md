@@ -1,7 +1,9 @@
 ---
 title: "3.2.1 Vidéo : L'apprentissage automatique et les données"
 description: Une vidéo spécifiquement dédiée à l'apprentissage automatique avec des points forts sur l'apprentissage automatique, l'apprentissage supervisé et par renforcement, les réseaux neuronaux et l'apprentissage profond.  
+contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
+licence : CC BY-SA 2.0
 ---
 # Vidéo : De l'apprentissage automatique et des données
 Cette vidéo est plus spécifiquement dédiée à l'apprentissage automatique. En restant généraliste et avec un ton humoristique cette vidéo peut être utilisée en classe.
