@@ -4,6 +4,7 @@ description: Use of the AI template to analyse Duolingo for school
 contributor:  Jiajun Pan
               Azim Roussanaly
               Anne Boyer
+              AI4T
 type: activity
 ---
 
