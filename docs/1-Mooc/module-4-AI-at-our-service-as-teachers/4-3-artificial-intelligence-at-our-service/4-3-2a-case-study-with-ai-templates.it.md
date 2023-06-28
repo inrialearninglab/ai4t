@@ -4,6 +4,7 @@ description: Utilizzo del modello di IA per analizzare Duolingo per la scuola
 contributor:  Jiajun Pan
               Azim Roussanaly
               Anne Boyer
+              AI4T
 type: activity
 ---
 
