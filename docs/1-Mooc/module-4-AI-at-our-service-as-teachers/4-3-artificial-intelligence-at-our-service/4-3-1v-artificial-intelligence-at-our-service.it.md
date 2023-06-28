@@ -1,7 +1,9 @@
 ---
 title: "4.3.1 Video: L'intelligenza artificiale al nostro servizio?"
 description: Definizione dell'esplicabilità nel campo dell'IA e della sua posta in gioco.
+contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
+licence : CC BY-SA 2.0
 ---
 
 # video: L'intelligenza artificiale al nostro servizio?
