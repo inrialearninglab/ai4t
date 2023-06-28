@@ -1,7 +1,9 @@
 ---
 title: "4.1.1 Video: Quale posto per gli esseri umani?"
 description: I cambiamenti previsti dall'IA, con particolare attenzione all'evoluzione del mercato del lavoro.
+contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
+licence : CC BY-SA 2.0
 ---
 # Video: Quale posto per gli esseri umani?
 
