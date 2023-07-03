@@ -1,9 +1,9 @@
 ---
 title: "2.2.4 Dejavnost: Izvor tehnologij umetne inteligence"
 description: Izvor treh aplikacij, ki temeljijo na umetni inteligenci - naravna interakcija, prepoznavanje slik in avtonomni avtomobil.
-contributor:  Nicolas Rougier -  Inria
-              Daniela Hau - SCRIPT / MENJE
-              Claude Reuters - SCRIPT / MENJE
+contributor:  Nicolas, Rougier -  Inria
+              Daniela, Hau - SCRIPT / MENJE
+              Claude, Reuters - SCRIPT / MENJE
 type: activity
 ---
 

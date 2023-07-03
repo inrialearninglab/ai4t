@@ -1,9 +1,9 @@
 ---
 title: "2.2.4 Activité : L'origine des technologies de l'IA "
 description: L'origine de 3 applications basées sur l'IA - Interaction naturelle, Reconnaissance d'images et Voiture autonome.
-contributor:  Nicolas Rougier -  Inria
-              Daniela Hau - SCRIPT / MENJE
-              Claude Reuters - SCRIPT / MENJE
+contributor:  Nicolas, Rougier -  Inria
+              Daniela, Hau - SCRIPT / MENJE
+              Claude, Reuters - SCRIPT / MENJE
 type: activity
 ---
 
