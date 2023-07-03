@@ -1,7 +1,7 @@
 ---
 title: 2.2.2 Eine kurze Geschichte der KI
 description: Erkläre, woher die KI kommt
-contributor:  Nicolas Rougier - Inria
+contributor:  Nicolas, Rougier - Inria
 ---
 
 # A brief history of AI

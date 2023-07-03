@@ -1,7 +1,7 @@
 ---
 title: 2.2.2 Breve storia dell'IA
 description: Spiega da dove viene l'IA
-contributor:  Nicolas Rougier - Inria
+contributor:  Nicolas, Rougier - Inria
 ---
 
 # Breve storia dell'IA

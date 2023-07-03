@@ -1,8 +1,8 @@
 ---
 title: "L'intelligenza artificiale per gli insegnanti: Un libro aperto"
 description: "Presentazione e accesso al libro di testo - Colin de la Higuera, Jotsna Iyer"
-contributor:   Colin de la Higuera
-                Jotsna Iyer
+contributor:   Colin, de la Higuera - Nantes Université
+               Jotsna, Iyer - Nantes Université
 ---
 # AI con gli insegnanti
 

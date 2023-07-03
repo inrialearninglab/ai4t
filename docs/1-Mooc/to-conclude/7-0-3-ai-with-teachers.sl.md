@@ -1,8 +1,8 @@
 ---
 type: "Umetna inteligenca za učitelje: interaktivni spletni priročnik za učitelje"
 description: Predstavitev in dostop do učbenika - Colin de la Higuera, Jotsna Iyer
-contributor: Colin de la Higuera
-                Jotsna Iyer
+contributor: Colin, de la Higuera - Nantes Université
+             Jotsna, Iyer - Nantes Université
 ---
 # UI z učitelji
 

@@ -1,8 +1,8 @@
 ---
 title: "IA pour les enseignants : un manuel ouvert"
 description : Présentation et accès au manuel ouvert " L'IA pour les enseignants".
-contributor:  Colin de la Higuera
-              Jotsna Iyer
+contributor:  Colin, de la Higuera - Nantes Université
+              Jotsna, Iyer - Nantes Université
 ---
 # L'IA pour les enseignants
 
