@@ -1,10 +1,10 @@
 ---
 title: "1.1.1 Video: Ein Spaziergang durch KI - Der Lernprozess in der Bildung"
 description: Video 1 Ein Spaziergang durch KI - Der Lernprozess in der Bildung
-contributor:  Anne Boyer - Loria
-              Armelle Brun - Loria
-              Azim Roussanaly - Loria
-              Guilherme Medeiros-Machado - Loria
+contributor:  Anne, Boyer - Loria
+              Armelle, Brun - Loria
+              Azim, Roussanaly - Loria
+              Guilherme, Medeiros-Machado - Loria
 type: video
 ---
 # Ein Spaziergang durch KI - Der Lernprozess in der Bildung
