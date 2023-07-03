@@ -1,9 +1,9 @@
 ---
 title: "4.3.2 Attività: Caso di studio con il modello di IA"
 description: Utilizzo del modello di IA per analizzare Duolingo per la scuola
-contributor:  Jiajun Pan
-              Azim Roussanaly
-              Anne Boyer
+contributor:  Jiajun, Pan - Loria
+              Azim, Roussanaly - Loria
+              Anne, Boyer - Loria
               AI4T
 type: activity
 ---

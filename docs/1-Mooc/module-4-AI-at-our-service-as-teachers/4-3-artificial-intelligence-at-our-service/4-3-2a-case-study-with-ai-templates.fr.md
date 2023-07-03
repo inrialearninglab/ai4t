@@ -1,9 +1,9 @@
 ---
 title: "4.3.2 Activité : Etude de cas avec Duolingo"
 description: Utilisation du modèle pour caractériser Duolingo pour l'école
-contributor:  Jiajun Pan
-              Azim Roussanaly
-              Anne Boyer
+contributor:  Jiajun, Pan - Loria
+              Azim, Roussanaly - Loria
+              Anne, Boyer - Loria
               AI4T
 type: activity
 ---

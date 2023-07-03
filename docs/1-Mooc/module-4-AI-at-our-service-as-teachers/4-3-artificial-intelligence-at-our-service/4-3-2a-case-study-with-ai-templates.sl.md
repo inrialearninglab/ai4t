@@ -1,9 +1,9 @@
 ---
 title: "4.3.2 Dejavnost: Študija primera s predlogo umetne inteligence"
 description: Uporaba predloge umetne inteligence za analizo Duolinga za šolo
-contributor:   Jiajun Pan
-              Azim Roussanaly
-              Anne Boyer
+contributor:  Jiajun, Pan - Loria
+              Azim, Roussanaly - Loria
+              Anne, Boyer - Loria
               AI4T
 type: activity
 ---

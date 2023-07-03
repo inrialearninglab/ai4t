@@ -1,9 +1,9 @@
 ---
 title: "4.3.2 Aktivität: Fallstudie mit der AI-Vorlage"
 description: Verwendung der KI-Vorlage zur Analyse von Duolingo für die Schule
-contributor:  Jiajun Pan
-              Azim Roussanaly
-              Anne Boyer
+contributor:  Jiajun, Pan - Loria
+              Azim, Roussanaly - Loria
+              Anne, Boyer - Loria
               AI4T
 type: activity
 ---
