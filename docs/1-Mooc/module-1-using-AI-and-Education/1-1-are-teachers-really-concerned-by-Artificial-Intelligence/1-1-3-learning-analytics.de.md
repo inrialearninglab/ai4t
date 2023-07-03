@@ -1,10 +1,10 @@
 ---
 title: "1.1.3 Video: Ein Spaziergang durch KI - Learning Analytics"
 description: Video 3 Ein Spaziergang durch KI - Learning Analytics
-contributor:  Anne Boyer - Loria
-              Armelle Brun - Loria
-              Azim Roussanaly - Loria
-              Guilherme Medeiros-Machado - Loria
+contributor:  Anne, Boyer - Loria
+              Armelle, Brun - Loria
+              Azim, Roussanaly - Loria
+              Guilherme, Medeiros-Machado - Loria
 type: video
 ---
 

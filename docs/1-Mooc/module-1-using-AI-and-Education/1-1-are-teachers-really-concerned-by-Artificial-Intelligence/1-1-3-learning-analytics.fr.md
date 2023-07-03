@@ -1,10 +1,10 @@
 ---
 title: "1.1.3 Vidéo : Une promenade en IA - Learning Analytics"
 description: Vidéo 3 Une promenade en IA - Learning Analytics
-contributor:  Anne Boyer - Loria
-              Armelle Brun - Loria
-              Azim Roussanaly - Loria
-              Guilherme Medeiros-Machado - Loria
+contributor:  Anne, Boyer - Loria
+              Armelle, Brun - Loria
+              Azim, Roussanaly - Loria
+              Guilherme, Medeiros-Machado - Loria
 type: video
 ---
 

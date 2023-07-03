@@ -1,10 +1,10 @@
 ---
 title: "1.1.1 Video: Sprehod skozi umetno inteligenco - učni proces v izobraževanju"
 description: Video 1 Sprehod skozi umetno inteligenco - učni proces v izobraževanju
-contributor:  Anne Boyer - Loria
-              Armelle Brun - Loria
-              Azim Roussanaly - Loria
-              Guilherme Medeiros-Machado - Loria
+contributor:  Anne, Boyer - Loria
+              Armelle, Brun - Loria
+              Azim, Roussanaly - Loria
+              Guilherme, Medeiros-Machado - Loria
 type: video
 ---
 # Sprehod skozi umetno inteligenco - učni proces v izobraževanju

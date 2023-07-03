@@ -1,10 +1,10 @@
 ---
 title: "1.1.2 Video: A Walk through AI - Guiding pupils to success"
 description: Video 2 A Walk through AI - Guiding pupils to success through observation of learning processes
-contributor:  Anne Boyer - Loria
-              Armelle Brun - Loria
-              Azim Roussanaly - Loria
-              Guilherme Medeiros-Machado - Loria
+contributor:  Anne, Boyer - Loria
+              Armelle, Brun - Loria
+              Azim, Roussanaly - Loria
+              Guilherme, Medeiros-Machado - Loria
 type: video
 ---
 # A Walk through AI - Guiding pupils to success through observation of learning processes
