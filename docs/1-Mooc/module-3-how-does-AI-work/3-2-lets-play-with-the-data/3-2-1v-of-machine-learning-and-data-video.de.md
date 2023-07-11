@@ -3,7 +3,7 @@ title: "3.2.1 Video: Von maschinellem Lernen und Daten"
 description: Ein Video, das sich speziell dem maschinellen Lernen widmet, mit Schwerpunkten auf überwachtem und verstärktem Lernen, neuronalen Netzen und Deep Learning.  
 contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
-licence : CC BY-SA 2.0
+licence: CC BY-SA 2.0
 ---
 # Video: Von maschinellem Lernen und Daten
 Dieses Video ist speziell dem maschinellen Lernen gewidmet. Es ist dennoch ein allgemeines Video mit einem humorvollen Ton, das im Unterricht verwendet werden kann.

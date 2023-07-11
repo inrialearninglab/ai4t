@@ -3,7 +3,7 @@ title: "3.2.1 Video: Of Machine Learning and Data"
 description: A video specifically dedicated to machine learning with highlights on supervised and reinforcement learning, neural networks and deep learning.  
 contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
-licence : CC BY-SA 2.0
+licence: CC BY-SA 2.0
 ---
 # Video: Of Machine Learning and Data
 This video is more specifically dedicated to machine learning. It is still a generalist video, with a humorous tone, which can be used in class.

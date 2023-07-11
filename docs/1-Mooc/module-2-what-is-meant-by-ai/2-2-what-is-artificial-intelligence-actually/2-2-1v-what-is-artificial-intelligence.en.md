@@ -3,7 +3,7 @@ title: "2.2.1 Video: What is Artificial Intelligence?"
 description: Introduction of video Who is afraid of AI?
 contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
-licence : CC BY-SA 2.0
+licence: CC BY-SA 2.0
 ---
 
 # Video: What is Artificial Intelligence?

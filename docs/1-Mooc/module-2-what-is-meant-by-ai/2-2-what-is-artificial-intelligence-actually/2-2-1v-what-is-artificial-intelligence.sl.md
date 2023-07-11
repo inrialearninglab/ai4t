@@ -3,7 +3,7 @@ title: "2.2.1 Video: Kaj je umetna inteligenca?"
 description: Uvod v videoposnetek Kaj je umetna inteligenca
 contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
-licence : CC BY-SA 2.0
+licence: CC BY-SA 2.0
 ---
 
 # Video: Kaj je umetna inteligenca?

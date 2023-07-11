@@ -3,7 +3,7 @@ title: "3.2.1 Video: Apprendimento automatico e dati"
 description: Un video dedicato specificamente all'apprendimento automatico con approfondimenti sull'apprendimento supervisionato e di rinforzo, sulle reti neurali e sull'apprendimento profondo.  
 contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
-licence : CC BY-SA 2.0
+licence: CC BY-SA 2.0
 ---
 # Video: Apprendimento automatico e dati
 Questo video è dedicato in modo più specifico all'apprendimento automatico. È comunque un video generalista, con un tono umoristico, che può essere utilizzato in classe.

@@ -3,7 +3,7 @@ title: "2.1.1 Video: Kdo se boji umetne inteligence?"
 description: Kdo se boji umetne inteligence?
 contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
-licence : CC BY-SA 2.0
+licence: CC BY-SA 2.0
 ---
 
 # Videoposnetek: Kdo se boji umetne inteligence?

@@ -14,7 +14,7 @@ xmlTemplate = """<?xml version="1.0"?>
     <dc:publisher>AI4T</dc:publisher>
     <dc:contributor>AI4T</dc:contributor>{contributor}
     <dc:date>2022-11-15</dc:date>
-    <dc:rights>cc by 4.0</dc:rights>
+    <dc:rights>{licence}</dc:rights>
     <dc:language>{lang}</dc:language>
 </metadata>
 """
@@ -66,6 +66,7 @@ for path, dirs, files in os.walk(basepath):
                     title=md.Meta.get('title', [''])[0].replace('"', ''),
                     description=md.Meta.get('description', [''])[0].replace('"', ''),
                     contributor=contributor,
+                    licence=md.Meta.get('licence', ['CC BY 4.0'])[0].replace('"', ''),
                     date=datetime.now().strftime("%Y-%m-%d"),
                     lang=lang_extension[1:]
                 )

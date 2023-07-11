@@ -3,7 +3,7 @@ title: "4.1.1 Video: Welcher Platz für den Menschen?"
 description: Die zu erwartenden Veränderungen durch KI, mit einem Schwerpunkt auf der Entwicklung des Arbeitsmarktes
 contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
-licence : CC BY-SA 2.0
+licence: CC BY-SA 2.0
 ---
 # Video: Welcher Platz für den Menschen?
 

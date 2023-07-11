@@ -3,7 +3,7 @@ title: "4.1.1 Video: What place for human beings?"
 description: The anticipated changes due to AI, with an higlight on evolution of work market
 contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
-licence : CC BY-SA 2.0
+licence: CC BY-SA 2.0
 ---
 # Video: What place for human beings?
 

@@ -3,7 +3,7 @@ title: "4.1.1 Video: Katero mesto je namenjeno ljudem?"
 description: Predvidene spremembe zaradi umetne inteligence s poudarkom na razvoju trga dela
 contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
-licence : CC BY-SA 2.0
+licence: CC BY-SA 2.0
 ---
 # Video: Kje je mesto za človeka?
 

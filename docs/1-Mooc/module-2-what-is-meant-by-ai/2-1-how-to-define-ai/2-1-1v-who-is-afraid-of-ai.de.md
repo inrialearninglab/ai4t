@@ -3,7 +3,7 @@ title: "2.1.1 Video: Wer hat Angst vor KI?"
 description: Einleitung des Videos Wer hat Angst vor KI?
 contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
-licence : CC BY-SA 2.0
+licence: CC BY-SA 2.0
 ---
 
 # Video: Wer hat Angst vor KI?

@@ -3,7 +3,7 @@ title: "2.1.1 Video: Chi ha paura dell'IA?"
 description: Introduzione del video Chi ha paura dell'IA?
 ontributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
-licence : CC BY-SA 2.0
+licence: CC BY-SA 2.0
 ---
 
 # Video: Chi ha paura dell'intelligenza artificiale?

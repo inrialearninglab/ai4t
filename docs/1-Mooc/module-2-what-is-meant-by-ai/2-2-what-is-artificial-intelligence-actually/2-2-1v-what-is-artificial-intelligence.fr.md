@@ -3,7 +3,7 @@ title: "2.2.1 Vidéo : Qu'est-ce que l'intelligence artificielle ?"
 description: "Introduction de la vidéo : Qu'est-ce que l'intelligence artificielle ?"
 contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
-licence : CC BY-SA 2.0
+licence: CC BY-SA 2.0
 ---
 
 

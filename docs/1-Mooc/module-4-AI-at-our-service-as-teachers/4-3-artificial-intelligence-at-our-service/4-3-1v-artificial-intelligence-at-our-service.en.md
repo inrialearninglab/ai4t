@@ -3,7 +3,7 @@ title: "4.3.1 Video: Artificial Intelligence at our Service?"
 description: Defining explicability in the field of AI and its stakes.
 contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
-licence : CC BY-SA 2.0
+licence: CC BY-SA 2.0
 ---
 
 # Video: Artificial Intelligence at our Service?

@@ -439,7 +439,7 @@ plugins:
                     <span style="display:inline-block;vertical-align:middle;margin-top:-4px;margin-left:10px;font-family: Verdana,Arial,sans-serif;">{{config["site_name"]}}</span>
                   </header>'
       footerTemplate: '<footer style="position:relative;width:100%;font-size:8px;color:#999999;margin:10px 20px;-webkit-print-color-adjust: exact">
-                    <span style="font-family: Courier,monospace;"> CC-BY-NC-NA | 2022</span>
+                    <span style="font-family: Courier,monospace;"> CC BY 4.0 (unless otherwise specified) | 2022</span>
                     <span class="page" style="position:absolute;bottom:0;right:0;font-family: Courier,monospace;">
                       <span class="pageNumber"></span>/<span class="totalPages"></span>
                     </span>

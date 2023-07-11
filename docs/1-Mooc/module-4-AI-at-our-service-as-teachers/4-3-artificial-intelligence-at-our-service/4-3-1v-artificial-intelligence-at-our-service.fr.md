@@ -3,7 +3,7 @@ title: "4.3.1 Vidéo : L'intelligence artificielle à notre service ?"
 description: Définition de l'explicabilité dans le domaine de l'IA et ses enjeux.
 contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
-licence : CC BY-SA 2.0
+licence: CC BY-SA 2.0
 ---
 
 # Vidéo : L'intelligence artificielle à notre service ?

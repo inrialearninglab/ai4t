@@ -3,7 +3,7 @@ title: "4.3.1 Videoposnetek: Umetna inteligenca v naše storitve? "
 description: Opredelitev razložljivosti na področju umetne inteligence in njene vloge.
 contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
-licence : CC BY-SA 2.0
+licence: CC BY-SA 2.0
 ---
 
 # Video: Umetna inteligenca nam je v pomoč?
