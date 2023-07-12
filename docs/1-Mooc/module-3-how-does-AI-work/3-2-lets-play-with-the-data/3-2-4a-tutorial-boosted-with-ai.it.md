@@ -7,6 +7,21 @@ contributor:  Magic Makers
               Class'Code   
 type: activity
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.2.4a
+    - Title: 3.2.4 Attività : Potenziata con l'intelligenza artificiale?
+    - Type: activity
+    - Description: Sperimentare come funziona l'apprendimento automatico e l'addestramento dei programmi e verificare l'importanza di set di dati preparati correttamente
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Magic Makers
+        - Inria
+        - S24B
+        - Class'Code
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Attività: Potenziato con l'intelligenza artificiale?
 Per capire come funziona l'apprendimento automatico e l'addestramento dei programmi, non c'è modo migliore che capire come preparare correttamente il set di dati.

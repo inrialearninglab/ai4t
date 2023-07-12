@@ -2,6 +2,17 @@
 title: 0.1.4 Kaj je v tem tečaju?
 description: Predstavitev vsebine in organizacije Mooc
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M0.1.4t
+    - Title: 0.1.4 Kaj je v tem tečaju?
+    - Type: text
+    - Description: Predstavitev vsebine in organizacije Mooc
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Kaj je v tem tečaju?
 
 ## Cilj tečaja

@@ -7,6 +7,21 @@ contributor:   Magic Makers
                 Class'Code      
 type: activity
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M2.3.1a
+    - Title: 2.3.1 Activity: Tutorial Let's test our first program
+    - Type: activity
+    - Description: A tutorial to discover image recognition programs, how to train them, how to fool them.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Magic Makers
+        - Inria
+        - S24B
+        - Class'Code
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Activity: Tutorial Let's test our first program
 
 Image recognition is an area of AI that has seen considerable growth. This tutorial proposes to test image recognition and to train a program to recognize cats and dogs. Then it reminds us that this program can only do what it has been trained to do, and that it can be fooled!

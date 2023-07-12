@@ -3,6 +3,17 @@ title: "4.1.5 Dejavnost: Odločanje na podlagi umetne inteligence"
 description: Kaj je zaupanja vredna umetna inteligenca? 7 zahtev, ki jih morajo izpolnjevati sistemi umetne inteligence
 type: activity
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M4.1.5a
+    - Title: 4.1.5 Dejavnost: Odločanje na podlagi umetne inteligence
+    - Type: activity
+    - Description: Kaj je zaupanja vredna umetna inteligenca? 7 zahtev, ki jih morajo izpolnjevati sistemi umetne inteligence
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Dejavnost: 7 ključnih zahtev za zaupanja vredno umetno inteligenco
 

@@ -2,6 +2,17 @@
 title: "4.1.6 Učitelj v zanki (Teacher-in-the-loop)"
 description: Razumeti model učitelja v zanki in ga uporabiti kot orodje za spodbujanje "uporabnikov pri nadzoru" za sisteme umetne inteligence v izobraževanju
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M4.1.6t
+    - Title: 4.1.6 Učitelj v zanki (Teacher-in-the-loop)
+    - Type: text
+    - Description: Razumeti model učitelja v zanki in ga uporabiti kot orodje za spodbujanje uporabnikov pri nadzoru za sisteme umetne inteligence v izobraževanju
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Učitelj v zanki
 
 Na področju izobraževanja in usposabljanja "*Vse zainteresirane strani bi morale razmisliti o posledicah predaje pooblastil nastajajočim tehnologijam za sprejemanje pedagoških odločitev, ki bi jih sicer sprejel pedagoški delavec z ustreznim pedagoškim znanjem in znanjem o vsebini predmeta*" [deepl translation] [^1].  

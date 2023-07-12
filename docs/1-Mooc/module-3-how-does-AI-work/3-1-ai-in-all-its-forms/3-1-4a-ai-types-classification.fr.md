@@ -3,6 +3,17 @@ title: "3.1.4 Activité : Identifier l'IA numérique "
 description: Qu'est-ce que l'IA numérique et ce qu'elle n'est pas
 type: activity
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.1.4a
+    - Title: 3.1.4 Activité : Identifier l'IA numérique 
+    - Type: activity
+    - Description: Qu'est-ce que l'IA numérique et ce qu'elle n'est pas
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Activité : IA numérique
 

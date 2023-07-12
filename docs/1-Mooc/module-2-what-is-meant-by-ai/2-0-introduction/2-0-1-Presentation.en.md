@@ -2,6 +2,17 @@
 title: "2.0.1 Presentation of Module 2"
 description: Now, let's see what is really AI, its potential and limitations for education
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M2.0.1t
+    - Title: 2.0.1 Presentation of Module 2
+    - Type: text
+    - Description: Now, let's see what is really AI, its potential and limitations for education
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Presentation of Module 2
 

@@ -2,6 +2,17 @@
 title: "4.1.4 Risques et prise de décision basée sur l'IA"
 description: Comprendre la classification des risques liés à l'utilisation de systèmes d'IA dans la prise de décision.
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M4.1.4t
+    - Title: 4.1.4 Risques et prise de décision basée sur l'IA
+    - Type: text
+    - Description: Comprendre la classification des risques liés à l'utilisation de systèmes d'IA dans la prise de décision.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Risques liés à l'utilisation de systèmes d'IA dans la prise de décision
 
 ## Les 4 niveaux de risque en IA

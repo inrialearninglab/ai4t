@@ -2,6 +2,17 @@
 title: "3.1.2 Welche Art von KI?"
 description: Ein erstes Verständnis von KI-Typen gewinnen
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.1.2t
+    - Title: 3.1.2 Welche Art von KI?
+    - Type: text
+    - Description: Ein erstes Verständnis von KI-Typen gewinnen
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Welche Art von KI?  
 In der Literatur sind viele KI-Typen zu finden. Schauen wir uns an, worauf sie sich beziehen.

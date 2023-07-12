@@ -6,6 +6,20 @@ contributor:  Nicolas, Rougier -  Inria
               Claude, Reuters - SCRIPT / MENJE
 type: activity
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M2.2.4a
+    - Title: 2.2.4 Dejavnost: Izvor tehnologij umetne inteligence
+    - Type: activity
+    - Description: Izvor treh aplikacij, ki temeljijo na umetni inteligenci - naravna interakcija, prepoznavanje slik in avtonomni avtomobil.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Nicolas, Rougier -  Inria
+        - Daniela, Hau - SCRIPT / MENJE
+        - Claude, Reuters - SCRIPT / MENJE
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Dejavnost: Izvor 3 tehnologij umetne inteligence
 

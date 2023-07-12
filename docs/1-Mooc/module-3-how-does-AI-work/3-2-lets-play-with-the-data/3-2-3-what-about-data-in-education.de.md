@@ -2,6 +2,17 @@
 title: "3.2.3 Was ist mit Daten im Bildungswesen?"
 description: Identifizieren Sie den Platz von Bildungsdaten in AIEd-Tools.
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.2.3t
+    - Title: 3.2.3 Was ist mit Daten im Bildungswesen?
+    - Type: text
+    - Description: Identifizieren Sie den Platz von Bildungsdaten in AIEd-Tools.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Was ist mit Daten in der Bildung?
 Um die Rolle von Daten in der Bildung zu untersuchen, betrachten wir das Beispiel des personalisierten Lernens, das als eines der größten Versprechen von KI-basierten Diensten im Bereich der Bildung gilt[^1]:
 

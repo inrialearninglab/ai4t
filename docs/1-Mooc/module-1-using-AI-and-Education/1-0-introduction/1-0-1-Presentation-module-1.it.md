@@ -2,6 +2,17 @@
 title: 1.0.1 Presentazione del Modulo 1
 description: Presentazione del modulo 1
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M1.0.1t
+    - Title: 1.0.1 Presentazione del Modulo 1
+    - Type: text
+    - Description: Presentazione del modulo 1
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Presentazione del Modulo 1
 L'intelligenza artificiale (AI) si sta facendo strada nella nostra vita quotidiana da qualche anno, ad esempio per gestire lo spam nelle nostre e-mail o per presentare informazioni personalizzate in base alle nostre preferenze di lettura sui social network.
 

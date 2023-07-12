@@ -3,6 +3,18 @@ title: 2.2.2 Kratka zgodovina umetne inteligence
 description: Razložite, od kod izvira umetna inteligenca
 contributor:  Nicolas, Rougier - Inria
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M2.2.2t
+    - Title: 2.2.2 Kratka zgodovina umetne inteligence
+    - Type: text
+    - Description: Razložite, od kod izvira umetna inteligenca
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Nicolas, Rougier - Inria
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Kratka zgodovina umetne inteligence
 Umetna inteligenca je danes prisotna v številnih tehnologijah, ki jih uporabljamo vsak dan, v naših računalnikih, mobilnih telefonih, urah, zvočnikih... Prisotna je celo v naših iskalnikih in družabnih omrežjih.  

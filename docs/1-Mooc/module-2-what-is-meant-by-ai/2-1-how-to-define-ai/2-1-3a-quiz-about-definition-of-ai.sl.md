@@ -3,6 +3,17 @@ title: "2.1.3 Dejavnost: Kakšna je opredelitev umetne inteligence?"
 description: Kviz, ki sledi različnim opredelitvam umetne inteligence in njenih področij
 type: activity
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M2.1.3a
+    - Title: 2.1.3 Dejavnost: Kakšna je opredelitev umetne inteligence?
+    - Type: activity
+    - Description: Kviz, ki sledi različnim opredelitvam umetne inteligence in njenih področij
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Dejavnost: Kakšna je opredelitev umetne inteligence?
 

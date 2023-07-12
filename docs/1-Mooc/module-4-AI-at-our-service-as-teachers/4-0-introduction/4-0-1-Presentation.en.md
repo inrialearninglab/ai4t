@@ -2,6 +2,17 @@
 title: "4.0.1 Presentation of Module 4"
 description: Presentation of Module 4
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M4.0.1t
+    - Title: 4.0.1 Presentation of Module 4
+    - Type: text
+    - Description: Presentation of Module 4
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Presentation of Module 4
 

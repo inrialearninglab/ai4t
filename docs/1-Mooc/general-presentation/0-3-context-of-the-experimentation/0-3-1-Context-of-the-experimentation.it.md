@@ -2,6 +2,17 @@
 title: 0.3.1 Contesto della sperimentazione
 description: Condizioni di raccolta delle tracce dei discenti
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M0.3.1t
+    - Title: 0.3.1 Contesto della sperimentazione
+    - Type: text
+    - Description: Condizioni di raccolta delle tracce dei discenti
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Contesto della sperimentazione
 Sulle diverse piattaforme di apprendimento (LMS o CMS) utilizzate dai 5 Paesi che partecipano a questa formazione sull'intelligenza artificiale per insegnanti e dirigenti scolastici, è possibile seguire il percorso di apprendimento dei partecipanti. Ciò si ottiene utilizzando le "tracce di apprendimento" che riflettono le azioni del discente durante la navigazione dei contenuti del corso, la visione di un video o lo svolgimento di un'attività online.
 

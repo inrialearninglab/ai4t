@@ -3,6 +3,17 @@ title: "4.1.3 Activity: Decision Making with AI"
 description: Understand how decision-making tools change practices, can improve them but have to be questioned
 type: activity
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M4.1.3a
+    - Title: 4.1.3 Activity: Decision Making with AI
+    - Type: activity
+    - Description: Understand how decision-making tools change practices, can improve them but have to be questioned
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Activity: Decision Making with AI in Education
 

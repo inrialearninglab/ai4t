@@ -3,6 +3,17 @@ title: "3.1.3 Tätigkeit: Klassifizierung von KI-Typen"
 description: Identifizierung von KI-Typen und deren Beziehung zueinander.
 type: activity
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.1.3a
+    - Title: 3.1.3 Tätigkeit: Klassifizierung von KI-Typen
+    - Type: activity
+    - Description: Identifizierung von KI-Typen und deren Beziehung zueinander.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Aktivität: Klassifizierung von KI-Typen  
 

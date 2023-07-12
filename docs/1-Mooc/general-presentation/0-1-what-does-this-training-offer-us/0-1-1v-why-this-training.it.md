@@ -4,6 +4,18 @@ description: Intervista a Alain Thillay, uno degli iniziatori del progetto.
 contributor: Alain Thillay
 type: video
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M0.1.1v
+    - Title: 0.1.1 Intervista: Le sfide dell'intelligenza artificiale nell'istruzione
+    - Type: video
+    - Description: Intervista a Alain Thillay, uno degli iniziatori del progetto.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Alain Thillay
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Video: Perché questa formazione?
 Nel video che segue, Alain Thillay, esperto nazionale francese di educazione digitale, presenta le sfide dell'intelligenza artificiale nell'istruzione e gli obiettivi della presente formazione sull'uso dell'intelligenza artificiale nell'istruzione per gli insegnanti e i dirigenti scolastici a livello europeo.

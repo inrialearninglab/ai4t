@@ -2,6 +2,17 @@
 title: "1.3.2 Alcuni strumenti didattici basati sull'intelligenza artificiale"
 description: Scoprire le funzionalità di alcuni strumenti per la sperimentazione.
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M1.3.2t
+    - Title: 1.3.2 Alcuni strumenti didattici basati sull'intelligenza artificiale
+    - Type: text
+    - Description: Scoprire le funzionalità di alcuni strumenti per la sperimentazione.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Alcuni strumenti didattici basati sull'intelligenza artificiale
 Molte aziende di tecnologia educativa (Edtech) e istituti di ricerca investono in strumenti e software basati sull'IA per facilitare l'insegnamento e l'apprendimento, dai sistemi di tutoraggio intelligente ad applicazioni più specifiche come la generazione automatica di test o l'apprendimento delle lingue straniere. Tuttavia, la maggior parte di questi strumenti di AI nell'istruzione (AIEd) sta iniziando a essere utilizzata in classe da alunni e insegnanti.
 

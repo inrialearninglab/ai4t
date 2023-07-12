@@ -2,6 +2,17 @@
 title: "4.1.2 Odločanje z umetno inteligenco"
 description: Razumeti, kako orodja za odločanje spreminjajo prakse, jih lahko izboljšajo, vendar jih je treba postaviti pod vprašaj
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M4.1.2t
+    - Title: 4.1.2 Odločanje z umetno inteligenco
+    - Type: text
+    - Description: Razumeti, kako orodja za odločanje spreminjajo prakse, jih lahko izboljšajo, vendar jih je treba postaviti pod vprašaj
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Odločanje z umetno inteligenco
 

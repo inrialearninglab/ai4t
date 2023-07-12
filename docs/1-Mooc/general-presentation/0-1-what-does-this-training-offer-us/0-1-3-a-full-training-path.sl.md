@@ -2,6 +2,17 @@
 title: 0.1.3 Popolna pot usposabljanja za umetno inteligenco in izobraževanje
 description: Opis splošne poti usposabljanja, ki je skupna vsem partnerjem
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M0.1.3t
+    - Title: 0.1.3 Popolna pot usposabljanja za umetno inteligenco in izobraževanje
+    - Type: text
+    - Description: Opis splošne poti usposabljanja, ki je skupna vsem partnerjem
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # A Full Training Path on AI and Education
 
 Celovita pot usposabljanja je zasnovana in ustvarjena za evropske učitelje in vodstva šol, da sami raziskujejo, eksperimentirajo in se sprašujejo o uporabi umetne inteligence v izobraževanju. Pot traja tri mesece in vključuje:

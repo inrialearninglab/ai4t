@@ -5,6 +5,18 @@ contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
 licence: CC BY-SA 2.0
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M2.1.1v
+    - Title: 2.1.1 Video: Wer hat Angst vor KI?
+    - Type: video
+    - Description: Einleitung des Videos Wer hat Angst vor KI?
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Mooc "Intelligence Artificielle...avec Intelligence"
+    - Licence: CC BY-SA 2.0
+    - Date: 2022-11-15
+
 
 # Video: Wer hat Angst vor KI?
 Dieses Video befasst sich mit künstlicher Intelligenz und ihren Auswirkungen auf unser Leben in einem humorvollen Ton. Der Ansatz ist allgemein und kann im Unterricht für eine erste Präsentation der KI verwendet werden.

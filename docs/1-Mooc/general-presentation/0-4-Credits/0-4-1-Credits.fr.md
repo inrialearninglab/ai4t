@@ -2,6 +2,17 @@
 title: 0.4.1 Crédits
 description: Crédits, financement et clause de non-responsabilité
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M0.4.1t
+    - Title: 0.4.1 Crédits
+    - Type: text
+    - Description: Crédits, financement et clause de non-responsabilité
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Crédits
 Le Mooc AI4T est financé par la subvention n° 626154-EPP-1-2020-2-FR-EPPKA3-PI-POLICY de l'Agence CE EACEA dans le cadre du projet Erasmus+ KA3 : Intelligence artificielle pour et par les enseignants.

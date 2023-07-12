@@ -7,6 +7,21 @@ contributor:  Jiajun, Pan - Loria
               AI4T
 type: activity
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M4.3.2a
+    - Title: 4.3.2 Dejavnost: Študija primera s predlogo umetne inteligence
+    - Type: activity
+    - Description: Uporaba predloge umetne inteligence za analizo Duolinga za šolo
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Jiajun, Pan - Loria
+        - Azim, Roussanaly - Loria
+        - Anne, Boyer - Loria
+        - AI4T
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Dejavnost: Študija primera s predlogo umetne inteligence za analizo Duolinga for Schools
 

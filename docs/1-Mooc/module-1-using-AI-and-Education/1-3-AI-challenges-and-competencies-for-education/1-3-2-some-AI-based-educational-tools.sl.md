@@ -2,6 +2,17 @@
 title: "1.3.2 Nekatera izobraževalna orodja, ki temeljijo na umetni inteligenci"
 description: Odkrivajte funkcionalnosti nekaterih orodij za eksperimentiranje.
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M1.3.2t
+    - Title: 1.3.2 Nekatera izobraževalna orodja, ki temeljijo na umetni inteligenci
+    - Type: text
+    - Description: Odkrivajte funkcionalnosti nekaterih orodij za eksperimentiranje.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Nekatera izobraževalna orodja, ki temeljijo na UI
 Veliko podjetij in raziskovalnih inštitutov s področja izobraževalne tehnologije (Edtech) vlaga v orodja in programsko opremo, ki temeljijo na umetni inteligenci, da bi olajšali poučevanje in učenje, od inteligentnih sistemov za poučevanje do bolj specifičnih aplikacij, kot je samodejno oblikovanje testov ali učenje tujih jezikov. Vendar večino teh orodij umetne inteligence v izobraževanju (AIEd) učenci in učitelji šele začenjajo uporabljati v razredu.
 

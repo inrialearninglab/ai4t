@@ -2,6 +2,17 @@
 title: "4.1.4 Risks and AI-based decision making"
 description: Understand the classification of risks linked to the use of AI systems in decision
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M4.1.4t
+    - Title: 4.1.4 Risks and AI-based decision making
+    - Type: text
+    - Description: Understand the classification of risks linked to the use of AI systems in decision
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Risks associated to the use of AI systems in decision making
 
 ## The 4 levels of risk in AI

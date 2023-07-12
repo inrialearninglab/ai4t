@@ -4,6 +4,18 @@ description: Capire come funzionano le reti neurali artificiali
 type: activity
 contributor:  Sito web francese di Pixees
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.2.5a
+    - Title: 3.2.5 Attività: Giocare con i neuroni della macchina
+    - Type: activity
+    - Description: Capire come funzionano le reti neurali artificiali
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Sito web francese di Pixees
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Attività:  Giocare con i neuroni della macchina
 Il software online **[TensorFlow](https://www.tensorflow.org/overview/)** permette di costruire reti neurali artificiali e di testare le loro risposte per diversi tipi di problemi e su diversi tipi di dati. Nel tipo di problema "Classificazione", l'obiettivo è separare i punti di colore blu da quelli di colore arancione. Un'applicazione di questo tipo di problema è, ad esempio, un algoritmo di classificazione delle foto. Nell'esempio seguente, c'è un input (caratteristica) che separa i punti in orizzontale e un altro che li separa in verticale. Combinando questi due input, si ottiene una separazione obliqua. Il risultato (output) si adatta bene al tipo di dati scelti.

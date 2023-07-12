@@ -5,6 +5,18 @@ contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
 licence: CC BY-SA 2.0
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.2.1v
+    - Title: 3.2.1 Video: Apprendimento automatico e dati
+    - Type: video
+    - Description: Un video dedicato specificamente all'apprendimento automatico con approfondimenti sull'apprendimento supervisionato e di rinforzo, sulle reti neurali e sull'apprendimento profondo.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Mooc "Intelligence Artificielle...avec Intelligence"
+    - Licence: CC BY-SA 2.0
+    - Date: 2022-11-15
+
 # Video: Apprendimento automatico e dati
 Questo video è dedicato in modo più specifico all'apprendimento automatico. È comunque un video generalista, con un tono umoristico, che può essere utilizzato in classe.
 

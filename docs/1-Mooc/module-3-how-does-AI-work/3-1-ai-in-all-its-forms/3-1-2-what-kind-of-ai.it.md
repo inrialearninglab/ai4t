@@ -2,6 +2,17 @@
 title: "3.1.2 Che tipo di IA?"
 description: Ottenere una prima comprensione dei tipi di IA
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.1.2t
+    - Title: 3.1.2 Che tipo di IA?
+    - Type: text
+    - Description: Ottenere una prima comprensione dei tipi di IA
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Che tipo di IA?  
 In letteratura si trovano molti tipi di IA. Vediamo a cosa si riferiscono.

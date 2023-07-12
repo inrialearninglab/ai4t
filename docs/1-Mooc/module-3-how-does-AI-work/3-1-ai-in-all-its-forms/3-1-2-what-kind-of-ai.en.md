@@ -2,6 +2,17 @@
 title: "3.1.2 What kind of AI?"
 description: Get a first understanding of AI types
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.1.2t
+    - Title: 3.1.2 What kind of AI?
+    - Type: text
+    - Description: Get a first understanding of AI types
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # What kind of AI?  
 Many AI types can be found in the literature. Let's see what they refer to.

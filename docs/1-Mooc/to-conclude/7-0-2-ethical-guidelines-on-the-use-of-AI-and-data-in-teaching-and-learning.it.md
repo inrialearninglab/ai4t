@@ -2,6 +2,17 @@
 title: "Linee guida etiche sull'uso dell'IA e dei dati nell'insegnamento e nell'apprendimento"
 description: Presentazione delle linee guida
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M7.0.2t
+    - Title: Linee guida etiche sull'uso dell'IA e dei dati nell'insegnamento e nell'apprendimento
+    - Type: text
+    - Description: Presentazione delle linee guida
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Linee guida etiche sull'uso dell'IA e dei dati nell'insegnamento e nell'apprendimento
 

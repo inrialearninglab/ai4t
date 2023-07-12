@@ -3,6 +3,17 @@ title: "2.1.3 Activity: What is the definition of AI?"
 description: Quiz following the diverse definitions of AI and its fields
 type: activity
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M2.1.3a
+    - Title: 2.1.3 Activity: What is the definition of AI?
+    - Type: activity
+    - Description: Quiz following the diverse definitions of AI and its fields
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Activity: What is the definition of AI?
 

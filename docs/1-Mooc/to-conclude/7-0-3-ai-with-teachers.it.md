@@ -4,6 +4,19 @@ description: "Presentazione e accesso al libro di testo - Colin de la Higuera, J
 contributor:   Colin, de la Higuera - Nantes Université
                Jotsna, Iyer - Nantes Université
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M7.0.3t
+    - Title: L'intelligenza artificiale per gli insegnanti: Un libro aperto
+    - Type: text
+    - Description: Presentazione e accesso al libro di testo - Colin de la Higuera, Jotsna Iyer
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Colin, de la Higuera - Nantes Université
+        - Jotsna, Iyer - Nantes Université
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # AI con gli insegnanti
 
 State seguendo una formazione o l'avete terminata e avete capito perché l'IA è il nuovo attore chiave dell'istruzione. Forse ne avete abbastanza? O forse avete più domande ora di quando avete iniziato?

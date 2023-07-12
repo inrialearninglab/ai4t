@@ -4,6 +4,19 @@ description: Kako se odločiti za uporabo AI v praksi? Razumeti vpliv uporabe or
 contributor:  AI4T
               Ikram Chraibi Kaadoud, raziskovalec AI
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M4.2.1t
+    - Title: 4.2.1 Ali smo pripravljeni zaupati umetni inteligenci pri sprejemanju odločitev?
+    - Type: text
+    - Description: Kako se odločiti za uporabo AI v praksi? Razumeti vpliv uporabe orodij umetne inteligence za odločanje in potrebne previdnostne ukrepe pri uporabi
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - AI4T
+        - Ikram Chraibi Kaadoud, raziskovalec AI
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Ali ste pripravljeni zaupati umetni inteligenci pri sprejemanju odločitev?
 

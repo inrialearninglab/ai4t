@@ -2,6 +2,17 @@
 title: "4.1.2 Processo decisionale con l'IA"
 description: Capire come gli strumenti decisionali cambiano le pratiche, possono migliorarle ma devono essere messi in discussione.
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M4.1.2t
+    - Title: 4.1.2 Processo decisionale con l'IA
+    - Type: text
+    - Description: Capire come gli strumenti decisionali cambiano le pratiche, possono migliorarle ma devono essere messi in discussione.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Processo decisionale con l'IA
 

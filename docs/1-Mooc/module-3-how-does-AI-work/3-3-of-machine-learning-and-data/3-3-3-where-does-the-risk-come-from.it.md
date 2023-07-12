@@ -2,6 +2,17 @@
 title: "3.3.3 Da dove viene il rischio?"
 description: Identificare i diversi tipi di rischio
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.3.3t
+    - Title: 3.3.3 Da dove viene il rischio?
+    - Type: text
+    - Description: Identificare i diversi tipi di rischio
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Da dove viene il rischio?
 Nel suo studio sull'Intelligenza Artificiale[^1], il Servizio di Ricerca del Parlamento Europeo ha affermato che: "*È importante notare che gli algoritmi di IA non possono essere oggettivi perché, proprio come le persone, nel corso della loro formazione sviluppano un modo di dare un senso a ciò che hanno visto in precedenza, e usano questa 'visione del mondo' per categorizzare le nuove situazioni che vengono loro presentate.*" [deepl translation]

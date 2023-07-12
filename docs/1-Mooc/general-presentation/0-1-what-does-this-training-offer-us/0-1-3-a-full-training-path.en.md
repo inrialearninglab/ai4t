@@ -2,6 +2,17 @@
 title: 0.1.3 A Full Training Path on AI and Education
 description: Description of the generic training pathway common to all partners
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M0.1.3t
+    - Title: 0.1.3 A Full Training Path on AI and Education
+    - Type: text
+    - Description: Description of the generic training pathway common to all partners
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # A Full Training Path on AI and Education
 
 The full training path is designed and created for European teachers and school leaders to investigate, experiment and question themselves about the use of AI in Education. It extends over a period of 3 months and includes:

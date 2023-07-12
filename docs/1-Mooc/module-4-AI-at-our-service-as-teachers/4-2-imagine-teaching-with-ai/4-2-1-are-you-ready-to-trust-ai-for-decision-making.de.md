@@ -4,6 +4,19 @@ description: Verstehen der Auswirkungen des Einsatzes von KI-Tools zur Entscheid
 contributor:  AI4T
               Ikram Chraibi Kaadoud, KI-Forscher
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M4.2.1t
+    - Title: 4.2.1 Bereit, KI für die Entscheidungsfindung zu vertrauen?
+    - Type: text
+    - Description: Verstehen der Auswirkungen des Einsatzes von KI-Tools zur Entscheidungsfindung und der notwendigen Vorsichtsmaßnahmen beim Einsatz
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - AI4T
+        - Ikram Chraibi Kaadoud, KI-Forscher
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Sind Sie bereit, KI bei der Entscheidungsfindung zu vertrauen?
 

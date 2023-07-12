@@ -4,6 +4,18 @@ description: Alain Thillay Intervju - eden od pobudnikov projekta
 contributor: Alain Thillay
 type: video
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M0.1.1v
+    - Title: 0.1.1 Intervju: Izzivi umetne inteligence v izobraževanju
+    - Type: video
+    - Description: Alain Thillay Intervju - eden od pobudnikov projekta
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Alain Thillay
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Video: Zakaj to usposabljanje?
 Alain Thillay, francoski nacionalni strokovnjak za digitalno izobraževanje, v naslednjem videoposnetku predstavlja izzive umetne inteligence v izobraževanju in cilje tega usposabljanja o uporabi umetne inteligence v izobraževanju za učitelje in vodstva šol na evropski ravni.

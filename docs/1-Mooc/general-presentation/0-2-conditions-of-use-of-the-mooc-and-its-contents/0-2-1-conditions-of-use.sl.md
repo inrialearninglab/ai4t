@@ -2,6 +2,17 @@
 title: 0.2.1 Pogoji uporabe vsebine Mooc
 description: Kako uporabljati vire Mooc - licence, previdnostni ukrepi uporabe
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M0.2.1t
+    - Title: 0.2.1 Pogoji uporabe vsebine Mooc
+    - Type: text
+    - Description: Kako uporabljati vire Mooc - licence, previdnostni ukrepi uporabe
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Pogoji uporabe vsebine Mooc
 
 ## Pogoji uporabe

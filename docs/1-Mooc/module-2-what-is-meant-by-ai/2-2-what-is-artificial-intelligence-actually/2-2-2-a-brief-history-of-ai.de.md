@@ -3,6 +3,18 @@ title: 2.2.2 Eine kurze Geschichte der KI
 description: Erkläre, woher die KI kommt
 contributor:  Nicolas, Rougier - Inria
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M2.2.2t
+    - Title: 2.2.2 Eine kurze Geschichte der KI
+    - Type: text
+    - Description: Erkläre, woher die KI kommt
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Nicolas, Rougier - Inria
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # A brief history of AI
 Künstliche Intelligenz ist heute in vielen Technologien enthalten, die wir täglich nutzen: in unseren Computern, unseren Mobiltelefonen, unseren Uhren, unseren Lautsprechern... Sie ist sogar in unseren Suchmaschinen und in sozialen Netzwerken zu finden.  

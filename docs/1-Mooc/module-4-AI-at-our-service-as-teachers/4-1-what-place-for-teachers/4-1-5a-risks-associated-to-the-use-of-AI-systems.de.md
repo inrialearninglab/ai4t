@@ -3,6 +3,17 @@ title: "4.1.5 Tätigkeit: KI-gestützte Entscheidungsfindung"
 description: Was ist vertrauenswürdige KI? 7 Anforderungen, die KI-Systeme erfüllen müssen
 type: video
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M4.1.5a
+    - Title: 4.1.5 Tätigkeit: KI-gestützte Entscheidungsfindung
+    - Type: video
+    - Description: Was ist vertrauenswürdige KI? 7 Anforderungen, die KI-Systeme erfüllen müssen
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Aktivität: Die 7 wichtigsten Anforderungen an eine vertrauenswürdige KI
 

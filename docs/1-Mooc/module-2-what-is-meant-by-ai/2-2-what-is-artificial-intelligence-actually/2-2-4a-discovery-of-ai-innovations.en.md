@@ -6,6 +6,20 @@ contributor:  Nicolas, Rougier -  Inria
               Claude, Reuters - SCRIPT / MENJE
 type: activity
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M2.2.4a
+    - Title: 2.2.4 Activity: The origin of AI technologies
+    - Type: activity
+    - Description: The origin of 3 AI-based applications - Natural Interaction, Image Recognition and Autonomous Car.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Nicolas, Rougier -  Inria
+        - Daniela, Hau - SCRIPT / MENJE
+        - Claude, Reuters - SCRIPT / MENJE
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Activity: The Origin of 3 AI Technologies
 

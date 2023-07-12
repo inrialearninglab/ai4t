@@ -3,6 +3,17 @@ title: "3.1.1 Vidéo : Boosté à l'IA !"
 description: Aperçu des utilisations qui peuvent être faites de l'IA
 type: video
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.1.1v
+    - Title: 3.1.1 Vidéo : Boosté à l'IA !
+    - Type: video
+    - Description: Aperçu des utilisations qui peuvent être faites de l'IA
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Vidéo : Boosté par l'IA !
 
 Cette vidéo généraliste donne un aperçu des utilisations que l'on peut faire de l'IA, dont certaines sont plutôt inattendues.

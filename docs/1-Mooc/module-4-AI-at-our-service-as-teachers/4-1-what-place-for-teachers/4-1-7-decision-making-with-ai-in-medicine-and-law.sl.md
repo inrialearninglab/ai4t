@@ -2,6 +2,17 @@
 title: 4.1.7 Odločanje z umetno inteligenco v medicini in pravu
 description: V tem poglavju se seznanite s področji zunaj izobraževanja, kjer so sistemi umetne inteligence že temeljito spremenili način sprejemanja odločitev.
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M4.1.7t
+    - Title: 4.1.7 Odločanje z umetno inteligenco v medicini in pravu
+    - Type: text
+    - Description: V tem poglavju se seznanite s področji zunaj izobraževanja, kjer so sistemi umetne inteligence že temeljito spremenili način sprejemanja odločitev.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Odločanje z umetno inteligenco v medicini in pravosodju
 
 Ko gre za pomoč pri sprejemanju odločitev, sta dve področji, ki že imata zgodovino uporabe umetne inteligence v pravu in medicini.  

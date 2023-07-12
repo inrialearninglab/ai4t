@@ -2,6 +2,17 @@
 title : "3.1.2 Quel type d'IA ?"
 description: Pour une première compréhension des types d'IA
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.1.2t
+    - Title: 
+    - Type: text
+    - Description: 
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Quel type d'IA ?  
 On trouve de nombreux types d'IA dans la littérature scientifique. Voyons à quoi ils font référence.

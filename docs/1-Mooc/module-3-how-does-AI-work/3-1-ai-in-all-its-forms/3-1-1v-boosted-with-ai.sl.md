@@ -3,6 +3,17 @@ title: "3.1.1 Video: z umetno inteligenco!"
 description: Pregled načinov uporabe umetne inteligence
 type: activity
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.1.1v
+    - Title: 3.1.1 Video: z umetno inteligenco!
+    - Type: activity
+    - Description: Pregled načinov uporabe umetne inteligence
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Video: z umetno inteligenco!
 
 Ta splošni videoposnetek vsebuje pregled vseh načinov uporabe umetne inteligence, od katerih so nekateri precej nepričakovani.

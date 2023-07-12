@@ -3,6 +3,17 @@ title: "1.2.1 Dejavnost: Osredotočimo se na lastna orodja umetne inteligence"
 description: Dvignite vprašanja o naših lastnih praksah umetne inteligence
 type: activity
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M1.2.1a
+    - Title: 1.2.1 Dejavnost: Osredotočimo se na lastna orodja umetne inteligence
+    - Type: activity
+    - Description: Dvignite vprašanja o naših lastnih praksah umetne inteligence
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Dejavnost: Osredotočimo se na lastna orodja umetne inteligence
 

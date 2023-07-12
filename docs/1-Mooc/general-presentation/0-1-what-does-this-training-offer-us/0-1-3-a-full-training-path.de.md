@@ -2,6 +2,17 @@
 title: 0.1.3 Ein vollständiger Ausbildungsweg für KI und Bildung
 description: Beschreibung des allgemeinen Ausbildungsweges, der für alle Partner gilt
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M0.1.3t
+    - Title: 0.1.3 Ein vollständiger Ausbildungsweg für KI und Bildung
+    - Type: text
+    - Description: Beschreibung des allgemeinen Ausbildungsweges, der für alle Partner gilt
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # A Full Training Path on AI and Education (Ein vollständiger Ausbildungsweg für KI und Bildung)
 
 Der vollständige Schulungspfad wurde für europäische Lehrer und Schulleiter entwickelt, die den Einsatz von KI in der Bildung untersuchen, ausprobieren und sich selbst in Frage stellen möchten. Er erstreckt sich über einen Zeitraum von 3 Monaten und beinhaltet:

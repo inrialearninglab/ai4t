@@ -3,6 +3,18 @@ title: "3.3.2 Reti avversarie generative (GAN)"
 description: Ulteriori informazioni su GAN
 contributor:  Mooc IAI
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.3.2t
+    - Title: 3.3.2 Reti avversarie generative (GAN)
+    - Type: text
+    - Description: Ulteriori informazioni su GAN
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Mooc IAI
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Reti avversarie generative (GAN)
 Le reti avversarie generative si collocano tra l'apprendimento supervisionato, basato sulla fornitura di dati in ingresso, di cui si conosce il corrispondente output desiderato, al fine di stimare la relazione ingresso-uscita al di là dei campioni forniti per l'addestramento, e l'apprendimento non supervisionato.
 

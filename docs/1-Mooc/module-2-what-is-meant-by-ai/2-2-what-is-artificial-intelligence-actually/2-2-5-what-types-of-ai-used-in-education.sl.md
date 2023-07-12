@@ -2,6 +2,17 @@
 title: 2.2.5 Katere vrste aplikacij umetne inteligence v izobraževanju
 description: Kateri so obstoječi sistemi umetne inteligence, njihova potencialna ali obstoječa uporaba v izobraževanju?
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M2.2.5t
+    - Title: 2.2.5 Katere vrste aplikacij umetne inteligence v izobraževanju
+    - Type: text
+    - Description: Kateri so obstoječi sistemi umetne inteligence, njihova potencialna ali obstoječa uporaba v izobraževanju?
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Katere vrste aplikacij umetne inteligence v izobraževanju
 
 Med možnimi razvrstitvami znanstvenih področij UI je v naslednji preglednici predstavljena taksonomija UI[^1] glede na družinske funkcije, ki jih lahko opravlja UI.

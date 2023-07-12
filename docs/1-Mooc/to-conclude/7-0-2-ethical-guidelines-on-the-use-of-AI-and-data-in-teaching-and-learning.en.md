@@ -2,6 +2,17 @@
 title: "Ethical guidelines on the use of AI and data in teaching and learning"
 description: Presentation of the Guidelines
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M7.0.2t
+    - Title: Ethical guidelines on the use of AI and data in teaching and learning
+    - Type: text
+    - Description: Presentation of the Guidelines
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Ethical guidelines on the use of AI and data in teaching and learning
 

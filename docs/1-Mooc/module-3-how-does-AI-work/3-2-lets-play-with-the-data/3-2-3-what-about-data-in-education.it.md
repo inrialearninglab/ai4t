@@ -2,6 +2,17 @@
 title: "3.2.3 E i dati nell'istruzione?"
 description: Identificare il posto dei dati educativi negli strumenti AIEd.
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.2.3t
+    - Title: 3.2.3 E i dati nell'istruzione?
+    - Type: text
+    - Description: Identificare il posto dei dati educativi negli strumenti AIEd.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Che ne è dei dati nell'istruzione?
 Per esaminare il ruolo dei dati nell'istruzione, consideriamo l'esempio dell'apprendimento personalizzato, che è stato identificato come una delle principali promesse dei servizi basati sull'IA nel campo dell'istruzione[^1]:
 

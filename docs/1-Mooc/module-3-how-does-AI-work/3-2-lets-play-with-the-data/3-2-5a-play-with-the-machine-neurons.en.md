@@ -4,6 +4,18 @@ description: Understand how does an artificial neural networks work
 type: activity
 contributor:  Pixees French web site
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.2.5a
+    - Title: 3.2.5 Activity: Play with the Machine's Neurons
+    - Type: activity
+    - Description: Understand how does an artificial neural networks work
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Pixees French web site
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Activity:  Play with the Machine's Neurons
 The online software **[TensorFlow](https://www.tensorflow.org/overview/)** allows to build artificial neural networks and to test their responses for different types of problems and on different types of data. In the "Classification" problem type, the objective is to separate blue and orange coloured points. An application of this type of problem is, for example, a photo classification algorithm. In the example below, there is one input (feature) that separates the points horizontally and another that separates vertically. By combining these two inputs, we obtain an oblique separation. The result (output) is well adapted to the type of data chosen.

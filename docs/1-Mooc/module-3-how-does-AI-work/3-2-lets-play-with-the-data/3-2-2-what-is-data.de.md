@@ -3,6 +3,18 @@ title: "3.2.2 Was sind Daten?"
 description: Verschaffen Sie sich ein erstes Verständnis dafür, was Daten sind und wie sie in der KI verwendet werden.
 contributor: Laurent Romary - Inria
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.2.2t
+    - Title: 3.2.2 Was sind Daten?
+    - Type: text
+    - Description: Verschaffen Sie sich ein erstes Verständnis dafür, was Daten sind und wie sie in der KI verwendet werden.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Laurent Romary - Inria
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Was sind Daten?
 
 ## Die Rolle von Daten in einem KI-System

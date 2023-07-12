@@ -4,6 +4,18 @@ description: Interview Alain Thillay
 Contributor: Alain Thillay
 type: video
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M7.0.1v
+    - Title: Interview: Ethical Use of Artificial Intelligence in Education
+    - Type: video
+    - Description: Interview Alain Thillay
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Alain Thillay
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Video: Introduction to Ethical Concerns of AI Use in Education
 

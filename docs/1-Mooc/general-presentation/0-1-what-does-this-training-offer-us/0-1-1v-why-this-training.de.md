@@ -4,6 +4,18 @@ description: Alain Thillay Interview - einer der Initiatoren des Projekts
 contributor: Alain Thillay
 type: video
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M0.1.1v
+    - Title: 0.1.1 Interview: Herausforderungen der KI im Bildungswesen
+    - Type: video
+    - Description: Alain Thillay Interview - einer der Initiatoren des Projekts
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Alain Thillay
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Video: Warum diese Fortbildung?
 Im folgenden Video stellt Alain Thillay, französischer Experte für digitale Bildung, die Herausforderungen der künstlichen Intelligenz in der Bildung und die Ziele der aktuellen Fortbildung über den Einsatz von KI in der Bildung für Lehrkräfte und Schulleiter auf europäischer Ebene vor.

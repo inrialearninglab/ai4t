@@ -2,6 +2,17 @@
 title : "3.2.3 Qu'en est-il des données en éducation ?"
 description: Identifier la place des données éducatives dans les outils AIEd.
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.2.3t
+    - Title: 
+    - Type: text
+    - Description: 
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Qu'en est-il des données en éducation ?
 Pour examiner le rôle des données en éducation, prenons l'exemple de l'apprentissage personnalisé qui est identifié comme l'une des principales promesses des services basés sur l'IA dans le domaine de l'éducation[^1] :
 

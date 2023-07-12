@@ -2,6 +2,17 @@
 title: "1.0.1 Présentation du module 1"
 description: Présentation du module 1
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M1.0.1t
+    - Title: 1.0.1 Présentation du module 1
+    - Type: text
+    - Description: Présentation du module 1
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Présentation du module 1
 Depuis quelques années, l'intelligence artificielle (IA) a fait son entrée dans notre quotidien, par exemple pour gérer les spams dans nos emails ou pour présenter des informations supposées adaptées à nos préférences de lecture sur les réseaux sociaux ou les sites commerciaux.
 

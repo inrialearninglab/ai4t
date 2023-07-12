@@ -2,6 +2,17 @@
 title: "2.1.2 What is the definition of AI?"
 description: Present the diverse definitions of AI and its fields
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M2.1.2t
+    - Title: 2.1.2 What is the definition of AI?
+    - Type: text
+    - Description: Present the diverse definitions of AI and its fields
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # What is the definition of AI?
 
 ## An evolution in the definition

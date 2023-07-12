@@ -4,6 +4,19 @@ description: Presentation and access to the textbook - Colin de la Higuera, Jots
 contributor:   Colin, de la Higuera - Nantes Université
                Jotsna, Iyer - Nantes Université
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M7.0.3t
+    - Title: To Go Further: AI for Teachers - on open textbook
+    - Type: text
+    - Description: Presentation and access to the textbook - Colin de la Higuera, Jotsna Iyer
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Colin, de la Higuera - Nantes Université
+        - Jotsna, Iyer - Nantes Université
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # AI with Teachers
 
 You are ongoing training or have finished it and have understood why AI was the new key actor in education. Perhaps have you had enough? Or, perhaps, you have more questions now than when you started?

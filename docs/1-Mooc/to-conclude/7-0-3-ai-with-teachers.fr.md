@@ -4,6 +4,17 @@ description : Présentation et accès au manuel ouvert " L'IA pour les enseignan
 contributor:  Colin, de la Higuera - Nantes Université
               Jotsna, Iyer - Nantes Université
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M7.0.3t
+    - Title: IA pour les enseignants : un manuel ouvert
+    - Type: text
+    - Description: 
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # L'IA pour les enseignants
 
 Vous parcourez la formation en ligne ou bien vous l'avez terminée et avez compris en quoi l'IA est utile pour l'éducation. Peut-être est-ce suffisant pour vous ou, peut-être, avez-vous encore plus de questions maintenant.

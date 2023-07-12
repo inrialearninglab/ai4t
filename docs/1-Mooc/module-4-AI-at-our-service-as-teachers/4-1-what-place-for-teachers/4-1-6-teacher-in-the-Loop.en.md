@@ -2,6 +2,17 @@
 title: 4.1.6 Teacher-in-the-Loop
 description: Understand the teacher in the Loop model and use it as a tool to promote “users in control” for AI systems in Education
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M4.1.6t
+    - Title: 4.1.6 Teacher-in-the-Loop
+    - Type: text
+    - Description: Understand the teacher in the Loop model and use it as a tool to promote “users in control” for AI systems in Education
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Teacher in the Loop
 
 In the field of education and training "*All stakeholders should consider the implications of yielding powers to emerging technologies to take pedagogical decisions, which otherwise would be taken by a teaching professional with adequate pedagogical and subject-specific content knowledge*"[^1].  

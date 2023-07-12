@@ -4,6 +4,18 @@ description: Comprendre comment fonctionne un réseau de neurones artificiel
 type: activity
 contributor:  Site Web Pixees
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.2.5a
+    - Title: 3.2.5 Activité : Jouez avec les neurones de la machine
+    - Type: activity
+    - Description: Comprendre comment fonctionne un réseau de neurones artificiel
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Site Web Pixees
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Activité :  Jouez avec les neurones de la machine
 Le logiciel en ligne **[TensorFlow](https://www.tensorflow.org/overview/)** permet de construire des réseaux de neurones artificiels et de tester leurs réponses pour différents types de problèmes et sur différents types de données. Dans le type de problème "Classification", l'objectif est de séparer les points de couleur bleue et orange. Une application de ce type de problème est, par exemple, un algorithme de classification de photos. Dans l'exemple ci-dessous, il y a une entrée (caractéristique) qui sépare les points horizontalement et une autre qui les sépare verticalement. En combinant ces deux entrées, on obtient une séparation oblique. Le résultat (sortie) est bien adapté au type de données choisi.
 

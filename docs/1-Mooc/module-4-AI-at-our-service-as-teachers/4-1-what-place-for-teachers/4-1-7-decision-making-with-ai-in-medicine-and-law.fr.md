@@ -2,6 +2,17 @@
 title : 4.1.7 Décider avec l'IA dans les domaines de la médecine et de la justice
 description: Découvrez des domaines au-delà de l'éducation où les systèmes d'IA ont déjà profondément changé la façon dont les décisions sont prises.
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M4.1.7t
+    - Title: 
+    - Type: text
+    - Description: 
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Prise de décision avec l'IA dans les domaines de la médecine et de la justice
 
 Lorsqu'il s'agit d'aide à la prise de décision, deux domaines ont déjà une histoire avec l'utilisation de l'IA : la médecine et le droit.  

@@ -3,6 +3,17 @@ title: "3.1.1 Video: Potenziato con l'intelligenza artificiale!"
 description: Panoramica degli usi che si possono fare dell'intelligenza artificiale.
 type: video
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.1.1v
+    - Title: 3.1.1 Video: Potenziato con l'intelligenza artificiale!
+    - Type: video
+    - Description: Panoramica degli usi che si possono fare dell'intelligenza artificiale.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Video: Potenziato con l'IA!
 
 Questo video generale offre una panoramica di tutti gli usi che si possono fare dell'IA, alcuni dei quali sono piuttosto inaspettati.

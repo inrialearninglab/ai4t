@@ -2,6 +2,17 @@
 title: "4.1.7 Entscheidungsfindung mit KI in Medizin und Recht"
 description: Entdecken Sie Bereiche jenseits der Bildung, in denen KI-Systeme die Art und Weise, wie Entscheidungen getroffen werden, bereits tiefgreifend verändert haben.
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M4.1.7t
+    - Title: 4.1.7 Entscheidungsfindung mit KI in Medizin und Recht
+    - Type: text
+    - Description: Entdecken Sie Bereiche jenseits der Bildung, in denen KI-Systeme die Art und Weise, wie Entscheidungen getroffen werden, bereits tiefgreifend verändert haben.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Entscheidungsfindung mit KI in Medizin und Justiz
 
 Wenn es um die Unterstützung bei der Entscheidungsfindung geht, gibt es zwei Bereiche, in denen KI bereits seit langem eingesetzt wird: Recht und Medizin.  

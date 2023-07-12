@@ -2,6 +2,17 @@
 title: "4.1.4 Risiken und KI-gestützte Entscheidungsfindung"
 description: Verstehen der Klassifizierung von Risiken im Zusammenhang mit dem Einsatz von KI-Systemen bei der Entscheidungsfindung
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M4.1.4t
+    - Title: 4.1.4 Risiken und KI-gestützte Entscheidungsfindung
+    - Type: text
+    - Description: Verstehen der Klassifizierung von Risiken im Zusammenhang mit dem Einsatz von KI-Systemen bei der Entscheidungsfindung
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Risiken im Zusammenhang mit dem Einsatz von KI-Systemen in der Entscheidungsfindung
 
 ## Die 4 Ebenen des Risikos bei KI

@@ -4,6 +4,19 @@ description: Präsentation und Zugriff auf das Lehrbuch - Colin de la Higuera, J
 contributor:   Colin, de la Higuera - Nantes Université
                Jotsna, Iyer - Nantes Université
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M7.0.3t
+    - Title: Künstliche Intelligenz & Lehrende: ein OpenTextbook
+    - Type: text
+    - Description: Präsentation und Zugriff auf das Lehrbuch - Colin de la Higuera, Jotsna Iyer
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Colin, de la Higuera - Nantes Université
+        - Jotsna, Iyer - Nantes Université
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # AI mit Lehrern
 
 Sie befinden sich in der Ausbildung oder haben sie abgeschlossen und haben verstanden, warum KI der neue Hauptakteur im Bildungswesen ist. Vielleicht haben Sie genug davon? Oder vielleicht haben Sie jetzt mehr Fragen als zu Beginn?

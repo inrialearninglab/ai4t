@@ -2,6 +2,17 @@
 title: 1.0.1 Predstavitev modula 1
 description: Predstavitev modula 1
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M1.0.1t
+    - Title: 1.0.1 Predstavitev modula 1
+    - Type: text
+    - Description: Predstavitev modula 1
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Predstavitev modula 1
 Umetna inteligenca že nekaj let prodira v naše vsakdanje življenje, na primer za obvladovanje neželene pošte v e-pošti ali predstavitev informacij, prilagojenih našim bralnim preferencam v družabnih omrežjih.
 

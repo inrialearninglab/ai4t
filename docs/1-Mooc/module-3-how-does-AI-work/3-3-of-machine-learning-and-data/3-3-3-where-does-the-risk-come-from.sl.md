@@ -2,6 +2,17 @@
 title: "3.3.3 Od kod izvira tveganje?"
 description: Opredelite različne vrste tveganj
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.3.3t
+    - Title: 3.3.3 Od kod izvira tveganje?
+    - Type: text
+    - Description: Opredelite različne vrste tveganj
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Od kod izvira tveganje?
 Evropska parlamentarna raziskovalna služba je v svoji študiji o umetni inteligenci[^1] navedla: "*Važno je opozoriti, da algoritmi umetne inteligence ne morejo biti objektivni, saj tako kot ljudje med usposabljanjem razvijejo način osmišljanja tistega, kar so že videli, in ta 'pogled na svet' uporabijo za kategorizacijo novih situacij, ki so jim predstavljene.*" [deepl translation]

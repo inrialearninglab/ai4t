@@ -2,6 +2,17 @@
 title: 1.0.1 Präsentation von Modul 1
 description: Präsentation des Moduls 1
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M1.0.1t
+    - Title: 1.0.1 Präsentation von Modul 1
+    - Type: text
+    - Description: Präsentation des Moduls 1
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Präsentation des Moduls 1
 Künstliche Intelligenz (KI) hält seit einigen Jahren Einzug in unser tägliches Leben, z. B. zur Verwaltung von Spam in unseren E-Mails oder zur Darstellung von auf unsere Lesevorlieben zugeschnittenen Informationen in sozialen Netzwerken.
 

@@ -4,6 +4,17 @@ description: Comprendre l'impact de l'utilisation d'outils d'IA décisionnels et
 contributor: AI4T
               Ikram Chraibi Kaadoud, Chercheur en IA
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M4.2.1t
+    - Title: 
+    - Type: text
+    - Description: 
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Êtes-vous prêt à faire confiance à l'IA pour prendre des décisions ?
 

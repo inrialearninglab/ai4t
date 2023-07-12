@@ -2,6 +2,17 @@
 title: 0.1.4 Que contient ce cours ?
 description: Présentation du contenu &amp; de l'organisation du Mooc
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M0.1.4t
+    - Title: 0.1.4 Que contient ce cours ?
+    - Type: text
+    - Description: Présentation du contenu &amp; de l'organisation du Mooc
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Qu'y a-t-il dans ce cours ?
 
 ## Objectif du cours

@@ -7,6 +7,21 @@ contributor:  Jiajun, Pan - Loria
               AI4T
 type: activity
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M4.3.2a
+    - Title: 4.3.2 Attività: Caso di studio con il modello di IA
+    - Type: activity
+    - Description: Utilizzo del modello di IA per analizzare Duolingo per la scuola
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Jiajun, Pan - Loria
+        - Azim, Roussanaly - Loria
+        - Anne, Boyer - Loria
+        - AI4T
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Attività: Caso di studio con modello AI per analizzare Duolingo for Schools
 

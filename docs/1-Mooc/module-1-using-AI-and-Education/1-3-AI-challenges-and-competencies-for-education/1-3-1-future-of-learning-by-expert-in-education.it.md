@@ -2,6 +2,17 @@
 title: "1.3.1 Futuro dell'apprendimento da parte di esperti nell'istruzione"
 description: Indicare le sfide legate all'IA nell'istruzione e le competenze fondamentali richieste nell'era dell'IA.
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M1.3.1t
+    - Title: 1.3.1 Futuro dell'apprendimento da parte di esperti nell'istruzione
+    - Type: text
+    - Description: Indicare le sfide legate all'IA nell'istruzione e le competenze fondamentali richieste nell'era dell'IA.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Futuri dell'apprendimento da parte di esperti nel campo dell'istruzione
 ## L'Intelligenza Artificiale è già in classe.
 

@@ -2,6 +2,17 @@
 title: 2.2.5 Welche Arten von KI-Anwendungen im Bildungswesen
 description: Die bestehenden KI-Systeme, ihr Potenzial und ihre bestehenden Anwendungen im Bildungswesen
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M2.2.5t
+    - Title: 2.2.5 Welche Arten von KI-Anwendungen im Bildungswesen
+    - Type: text
+    - Description: Die bestehenden KI-Systeme, ihr Potenzial und ihre bestehenden Anwendungen im Bildungswesen
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Welche Arten von KI-Anwendungen im Bildungswesen
 
 Unter den möglichen Klassifizierungen von KI-Wissenschaftsbereichen wird in der folgenden Tabelle eine KI-Taxonomie[^1] nach den von KI möglicherweise ausgeführten Familienfunktionen vorgestellt.

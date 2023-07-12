@@ -4,6 +4,18 @@ description: Alain Thillay Interview - one of the project's initiators
 contributor: Alain Thillay
 type: video
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M0.1.1v
+    - Title: 0.1.1 Interview: Challenges of AI in Education
+    - Type: video
+    - Description: Alain Thillay Interview - one of the project's initiators
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Alain Thillay
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Video: Why this Training?
 In the following video, Alain Thillay, French National Expert in Digital Education, presents the challenges of Artificial Intelligence in Education and the objectives of the present training about the use of AI in Education for the teachers and school leaders at the European level.

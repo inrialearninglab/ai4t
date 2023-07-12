@@ -7,6 +7,21 @@ contributor:  Magic Makers
               Class'code  
 type: activity
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.3.1a
+    - Title: 3.3.1 Activité : Créons avec l'IA
+    - Type: activity
+    - Description: Identifier si une image est réelle ou produite par une IA
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Magic Makers
+        - Inria
+        - S24B
+        - Class'code
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Activité : Créons avec l'IA
 ## Détection de l'IA : IA ou humain ?
 

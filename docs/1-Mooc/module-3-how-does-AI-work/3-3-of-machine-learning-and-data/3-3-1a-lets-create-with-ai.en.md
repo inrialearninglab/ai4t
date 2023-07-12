@@ -7,6 +7,21 @@ contributor:  Magic Makers
               Class'code  
 type: activity
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.3.1a
+    - Title: 3.3.1 Activity: Let's create with AI
+    - Type: activity
+    - Description: Identify whether an image is real or produced by an AI
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Magic Makers
+        - Inria
+        - S24B
+        - Class'code
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Activity: Let's create with AI
 ## Detecting AI: AI or Human?
 

@@ -4,6 +4,18 @@ description: Razumite, kako delujejo umetne nevronske mreže
 type: activity
 contributor: Spletna stran Pixees
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.2.5a
+    - Title: 3.2.5 Dejavnost: Igraj se z nevroni stroja
+    - Type: activity
+    - Description: Razumite, kako delujejo umetne nevronske mreže
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Spletna stran Pixees
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Dejavnost:  Igrajte se z nevroni stroja
 Spletna programska oprema **[TensorFlow](https://www.tensorflow.org/overview/)** omogoča gradnjo umetnih nevronskih mrež in preizkušanje njihovih odzivov za različne vrste problemov in na različnih vrstah podatkov. Pri vrsti problema "razvrščanje" je cilj ločiti modro in oranžno obarvane točke. Uporaba te vrste problema je na primer algoritem za razvrščanje fotografij. V spodnjem primeru je en vhodni podatek (značilnost), ki ločuje točke vodoravno, in drugi, ki ločuje navpično. Z združitvijo teh dveh vhodov dobimo poševno ločevanje. Rezultat (izhod) je dobro prilagojen izbrani vrsti podatkov.

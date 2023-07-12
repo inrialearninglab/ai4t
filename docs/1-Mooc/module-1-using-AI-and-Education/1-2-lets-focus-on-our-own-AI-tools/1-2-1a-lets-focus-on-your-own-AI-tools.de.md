@@ -3,6 +3,17 @@ title: "1.2.1 Aktivität: Konzentrieren Sie sich auf Ihre eigenen KI-Tools"
 description: Hinterfragen wir unsere eigenen KI-Praktiken
 type: activity
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M1.2.1a
+    - Title: 1.2.1 Aktivität: Konzentrieren Sie sich auf Ihre eigenen KI-Tools
+    - Type: activity
+    - Description: Hinterfragen wir unsere eigenen KI-Praktiken
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Aktivität: Konzentrieren wir uns auf Ihre eigenen KI-Tools
 

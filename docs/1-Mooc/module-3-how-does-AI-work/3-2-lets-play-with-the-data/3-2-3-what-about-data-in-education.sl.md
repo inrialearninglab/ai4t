@@ -2,6 +2,17 @@
 title: "3.2.3 Kaj pa podatki v izobraževanju?"
 description: Opredelite mesto podatkov o izobraževanju v orodjih AIEd.
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.2.3t
+    - Title: 3.2.3 Kaj pa podatki v izobraževanju?
+    - Type: text
+    - Description: Opredelite mesto podatkov o izobraževanju v orodjih AIEd.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # What about data in Education?
 Da bi preučili vlogo podatkov v izobraževanju, si oglejmo primer personaliziranega učenja, ki je opredeljeno kot ena glavnih obljub storitev na podlagi umetne inteligence na področju izobraževanja[^1]:
 

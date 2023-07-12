@@ -2,6 +2,17 @@
 title: 4.1.7 Processo decisionale con l'IA in medicina e legge
 description: Scoprite le aree al di là dell'istruzione in cui i sistemi di IA hanno già cambiato profondamente il modo in cui vengono prese le decisioni.
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M4.1.7t
+    - Title: 4.1.7 Processo decisionale con l'IA in medicina e legge
+    - Type: text
+    - Description: Scoprite le aree al di là dell'istruzione in cui i sistemi di IA hanno già cambiato profondamente il modo in cui vengono prese le decisioni.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # processo decisionale con l'IA in medicina e giustizia
 
 Quando si tratta di assistenza al processo decisionale, due settori hanno già una storia di utilizzo dell'IA in campo legale e medico.  

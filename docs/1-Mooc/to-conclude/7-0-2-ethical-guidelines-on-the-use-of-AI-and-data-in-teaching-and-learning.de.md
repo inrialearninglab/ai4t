@@ -2,6 +2,17 @@
 title: "Ethische Leitlinien für den Einsatz von KI und Daten in Lehre und Lernen"
 description: Vorstellung der Leitlinien
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M7.0.2t
+    - Title: Ethische Leitlinien für den Einsatz von KI und Daten in Lehre und Lernen
+    - Type: text
+    - Description: Vorstellung der Leitlinien
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Ethische Leitlinien für den Einsatz von KI und Daten in Lehre und Lernen
 

@@ -2,6 +2,17 @@
 title: 0.1.2 Was ist das Ziel dieser Schulung?
 description: Einordnung der Fortbildung in den europäischen Rahmen
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M0.1.2t
+    - Title: 0.1.2 Was ist das Ziel dieser Schulung?
+    - Type: text
+    - Description: Einordnung der Fortbildung in den europäischen Rahmen
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Was ist das Ziel dieser Fortbildung?
 

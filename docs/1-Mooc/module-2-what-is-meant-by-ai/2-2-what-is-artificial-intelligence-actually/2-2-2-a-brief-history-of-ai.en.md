@@ -3,6 +3,18 @@ title: 2.2.2 A brief history of AI
 description: Explain where does AI come from
 contributor:  Nicolas, Rougier - Inria
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M2.2.2t
+    - Title: 2.2.2 A brief history of AI
+    - Type: text
+    - Description: Explain where does AI come from
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Nicolas, Rougier - Inria
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # A brief history of AI
 Today, artificial intelligence is present in many of the technologies we use every day in our computers, our mobile phones, our watches, our speakers... It is even present in our search engines and on social networks.  

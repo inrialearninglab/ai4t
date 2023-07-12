@@ -2,6 +2,17 @@
 title: "4.1.2 Entscheidungsfindung mit AI"
 description: Verstehen, wie Entscheidungsfindungswerkzeuge Praktiken verändern, verbessern können, aber auch in Frage gestellt werden müssen
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M4.1.2t
+    - Title: 4.1.2 Entscheidungsfindung mit AI
+    - Type: text
+    - Description: Verstehen, wie Entscheidungsfindungswerkzeuge Praktiken verändern, verbessern können, aber auch in Frage gestellt werden müssen
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Entscheidungsfindung mit KI
 

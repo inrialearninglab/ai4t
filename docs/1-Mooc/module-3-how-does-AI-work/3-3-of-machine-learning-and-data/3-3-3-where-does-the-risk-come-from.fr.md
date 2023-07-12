@@ -2,6 +2,17 @@
 title : "3.3.3 D'où vient le risque ?"
 description: Identifier les différents types de risques
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.3.3t
+    - Title: 
+    - Type: text
+    - Description: 
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # D'où vient le risque ?
 Dans son étude sur l'intelligence artificielle [^1], le Service de Recherche du Parlement Européen (Scientific Foresight Unit - STOA) a déclaré : "*Il est important de noter que les algorithmes d'IA ne peuvent pas être objectifs parce que, tout comme les gens, au cours de leur formation, ils développent une façon de donner un sens à ce qu'ils ont vu auparavant, et utilisent cette "vision du monde" pour catégoriser les nouvelles situations qui leur sont présentées.*"

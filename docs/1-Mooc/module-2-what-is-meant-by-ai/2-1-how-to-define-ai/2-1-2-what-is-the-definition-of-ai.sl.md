@@ -2,6 +2,17 @@
 title: "2.1.2 Kakšna je opredelitev umetne inteligence?"
 description: Predstavite različne opredelitve umetne inteligence in njenih področij
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M2.1.2t
+    - Title: 2.1.2 Kakšna je opredelitev umetne inteligence?
+    - Type: text
+    - Description: Predstavite različne opredelitve umetne inteligence in njenih področij
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Kaj je opredelitev umetne inteligence?
 
 ## Razvoj definicije

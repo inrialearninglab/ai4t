@@ -2,6 +2,17 @@
 title: "Lignes directrices éthiques sur l'utilisation de l'IA et des données dans l'enseignement et l'apprentissage."
 description : Présentation des Lignes directrices
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M7.0.2t
+    - Title: Lignes directrices éthiques sur l'utilisation de l'IA et des données dans l'enseignement et l'apprentissage.
+    - Type: text
+    - Description: 
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Lignes directrices éthiques sur l'utilisation de l'IA et des données dans l'enseignement et l'apprentissage.
 En octobre 2022, la Commission européenne, dans le cadre du plan d'action pour l'éducation numérique (action 6)[^1], a publié des lignes directrices éthiques sur l'utilisation de l'IA et des données afin d'aider les enseignants et les éducateurs à comprendre le potentiel que les applications de l'IA et de l'utilisation des données peuvent avoir en éducation et de les sensibiliser aux risques possibles.

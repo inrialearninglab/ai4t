@@ -3,6 +3,17 @@ title : 2.2.2 Une brève histoire de l'IA
 description: Expliquer d'où vient l'IA
 contributor:  Nicolas, Rougier - Inria
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M2.2.2t
+    - Title: 
+    - Type: text
+    - Description: 
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Une brève histoire de l'IA
 Aujourd'hui, l'intelligence artificielle est présente dans de nombreuses technologies que nous utilisons tous les jours : nos ordinateurs, nos téléphones portables, nos montres, nos enceintes... Elle est même présente dans nos moteurs de recherche, sur les réseaux sociaux, dans de nombreuses applications et de nombreux jeux vidéo.  

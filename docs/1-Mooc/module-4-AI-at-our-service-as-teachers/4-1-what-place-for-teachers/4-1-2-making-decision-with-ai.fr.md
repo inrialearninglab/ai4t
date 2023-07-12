@@ -2,6 +2,17 @@
 title: "4.1.2 Prise de décision avec l'IA"
 description: Comprendre comment les outils décisionnels modifient les pratiques, peuvent les améliorer mais doivent être questionnés.
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M4.1.2t
+    - Title: 4.1.2 Prise de décision avec l'IA
+    - Type: text
+    - Description: Comprendre comment les outils décisionnels modifient les pratiques, peuvent les améliorer mais doivent être questionnés.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Prise de décision avec l'IA
 

@@ -2,6 +2,17 @@
 title: 0.2.1 Conditions of use of the content of the Mooc
 description: How to use the Mooc resources - licences, precaution of use
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M0.2.1t
+    - Title: 0.2.1 Conditions of use of the content of the Mooc
+    - Type: text
+    - Description: How to use the Mooc resources - licences, precaution of use
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Conditions of use of the content of the Mooc
 
 ## Terms of use

@@ -2,6 +2,17 @@
 title: "4.1.4 Tveganja in odločanje na podlagi umetne inteligence"
 description: Razumeti razvrstitev tveganj, povezanih z uporabo sistemov umetne inteligence pri odločanju.
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M4.1.4t
+    - Title: 4.1.4 Tveganja in odločanje na podlagi umetne inteligence
+    - Type: text
+    - Description: Razumeti razvrstitev tveganj, povezanih z uporabo sistemov umetne inteligence pri odločanju.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Tveganja, povezana z uporabo sistemov umetne inteligence pri odločanju
 
 ## 4 ravni tveganja pri umetni inteligenci

@@ -7,6 +7,21 @@ contributor:  Anne, Boyer - Loria
               Guilherme, Medeiros-Machado - Loria
 type: video
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M1.1.3v
+    - Title: 1.1.3 Video: A Walk through AI - Learning Analytics
+    - Type: video
+    - Description: Video 3 A Walk through AI  - Learning Analytics
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Anne, Boyer - Loria
+        - Armelle, Brun - Loria
+        - Azim, Roussanaly - Loria
+        - Guilherme, Medeiros-Machado - Loria
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # A walk through Artificial Intelligence: Learning Analytics
 ## Video n°3: A walk through Artificial Intelligence: Learning Analytics

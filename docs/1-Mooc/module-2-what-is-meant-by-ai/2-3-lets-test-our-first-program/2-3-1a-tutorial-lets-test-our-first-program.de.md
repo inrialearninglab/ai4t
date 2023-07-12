@@ -7,6 +7,17 @@ contibutor: Magic Makers
                 Class'Code      
 type: activity
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M2.3.1a
+    - Title: 2.3.1 Aktivität: Tutorial Testen wir unser erstes Programm
+    - Type: activity
+    - Description: Ein Tutorium zum Kennenlernen von Bilderkennungsprogrammen, wie man sie trainiert und wie man sie überlisten kann.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Aktivität: Tutorial Lass uns unser erstes Programm testen
 
 Die Bilderkennung ist ein Bereich der künstlichen Intelligenz, der ein beträchtliches Wachstum erfahren hat. In diesem Tutorium wird vorgeschlagen, die Bilderkennung zu testen und ein Programm zu trainieren, das Katzen und Hunde erkennt. Dann wird darauf hingewiesen, dass dieses Programm nur das tun kann, wofür es trainiert wurde, und dass es getäuscht werden kann!

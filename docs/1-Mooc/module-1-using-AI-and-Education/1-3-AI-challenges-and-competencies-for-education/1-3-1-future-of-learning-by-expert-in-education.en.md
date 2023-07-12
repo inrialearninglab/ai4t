@@ -2,6 +2,17 @@
 title: "1.3.1 Futures of learning by experts in Education"
 description: Point out the AI-related challenges in education and core competencies required in the AI era.
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M1.3.1t
+    - Title: 1.3.1 Futures of learning by experts in Education
+    - Type: text
+    - Description: Point out the AI-related challenges in education and core competencies required in the AI era.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Futures of learning by experts in Education
 ## Artificial Intelligence is already in the classroom
 

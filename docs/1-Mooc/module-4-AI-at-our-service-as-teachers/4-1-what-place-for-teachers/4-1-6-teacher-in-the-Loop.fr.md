@@ -2,6 +2,17 @@
 title: "4.1.6 L'enseignant dans la boucle"
 description: Comprendre le modèle de l'enseignant dans la boucle et l'utiliser comme un outil pour promouvoir "les utilisateurs aux commandes" pour les systèmes d'IA en éducation.
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M4.1.6t
+    - Title: 4.1.6 L'enseignant dans la boucle
+    - Type: text
+    - Description: Comprendre le modèle de l'enseignant dans la boucle et l'utiliser comme un outil pour promouvoir les utilisateurs aux commandes pour les systèmes d'IA en éducation.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # L'enseignant dans la boucle
 
 Dans le domaine de l'éducation et de la formation, "*Toutes les parties prenantes devraient considérer les implications de la cession de pouvoirs aux technologies émergentes pour prendre des décisions pédagogiques, qui autrement seraient prises par un professionnel de l'enseignement ayant une connaissance adéquate de la pédagogie et du contenu spécifique à la matière*" [^1].  

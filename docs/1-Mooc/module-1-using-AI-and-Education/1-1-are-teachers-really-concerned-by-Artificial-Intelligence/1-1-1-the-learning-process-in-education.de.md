@@ -7,6 +7,21 @@ contributor:  Anne, Boyer - Loria
               Guilherme, Medeiros-Machado - Loria
 type: video
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M1.1.1v
+    - Title: 1.1.1 Video: Ein Spaziergang durch KI - Der Lernprozess in der Bildung
+    - Type: video
+    - Description: Video 1 Ein Spaziergang durch KI - Der Lernprozess in der Bildung
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Anne, Boyer - Loria
+        - Armelle, Brun - Loria
+        - Azim, Roussanaly - Loria
+        - Guilherme, Medeiros-Machado - Loria
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Ein Spaziergang durch KI - Der Lernprozess in der Bildung
 ## Einleitung
 

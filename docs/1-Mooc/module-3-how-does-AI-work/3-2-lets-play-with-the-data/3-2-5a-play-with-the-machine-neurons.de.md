@@ -4,6 +4,18 @@ description: Verstehen, wie ein künstliches neuronales Netz funktioniert
 type: activity
 contributor:  Pixees Französische Website
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.2.5a
+    - Title: 3.2.5 Aktivität: Mit den Neuronen der Maschine spielen
+    - Type: activity
+    - Description: Verstehen, wie ein künstliches neuronales Netz funktioniert
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Pixees Französische Website
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Aktivität:  Spielen Sie mit den Neuronen der Maschine
 Die Online-Software **[TensorFlow](https://www.tensorflow.org/overview/)** ermöglicht es, künstliche neuronale Netze zu erstellen und ihre Antworten für verschiedene Problemtypen und Datenarten zu testen. Bei der Problemart "Klassifizierung" besteht das Ziel darin, blaue und orangefarbene Punkte zu trennen. Eine Anwendung dieses Problemtyps ist z. B. ein Algorithmus zur Klassifizierung von Fotos. Im folgenden Beispiel gibt es eine Eingabe (Merkmal), die die Punkte horizontal trennt, und eine andere, die sie vertikal trennt. Kombiniert man diese beiden Eingaben, erhält man eine schräge Trennung. Das Ergebnis (Output) ist gut an die Art der gewählten Daten angepasst.

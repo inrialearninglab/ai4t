@@ -5,6 +5,18 @@ contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
 licence: CC BY-SA 2.0
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M4.1.1v
+    - Title: 4.1.1 Video: Welcher Platz für den Menschen?
+    - Type: video
+    - Description: Die zu erwartenden Veränderungen durch KI, mit einem Schwerpunkt auf der Entwicklung des Arbeitsmarktes
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Mooc "Intelligence Artificielle...avec Intelligence"
+    - Licence: CC BY-SA 2.0
+    - Date: 2022-11-15
+
 # Video: Welcher Platz für den Menschen?
 
 Dieses Video beleuchtet die zu erwartenden Veränderungen durch KI in der Arbeitswelt (und insbesondere die Entwicklung bestimmter Berufe), ohne speziell auf den Bereich der Bildung einzugehen.  

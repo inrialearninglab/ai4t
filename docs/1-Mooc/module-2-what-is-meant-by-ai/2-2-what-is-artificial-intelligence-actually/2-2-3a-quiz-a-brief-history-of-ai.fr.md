@@ -3,6 +3,17 @@ title: "2.2.3 Activité : Un peu d'histoire"
 description: Quiz sur l'histoire de l'IA
 type: activity
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M2.2.3a
+    - Title: 2.2.3 Activité : Un peu d'histoire
+    - Type: activity
+    - Description: Quiz sur l'histoire de l'IA
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Activité : Un peu d'histoire
  Pour conclure cette unité, quelques questions sur l'histoire de l'IA.

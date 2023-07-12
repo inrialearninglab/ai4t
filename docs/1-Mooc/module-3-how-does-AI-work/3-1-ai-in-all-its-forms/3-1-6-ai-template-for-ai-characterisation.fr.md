@@ -5,6 +5,20 @@ contributor:  Jiajun Pan
               Azim Roussanaly
               Anne Boyer
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.1.6t
+    - Title: 3.1.6 Modèle de caractérisation de l'IA
+    - Type: text
+    - Description: Obtenir une première compréhension des caractéristiques de l'IA
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Jiajun Pan
+        - Azim Roussanaly
+        - Anne Boyer
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Un modèle pour la caractérisation de l'IA
 

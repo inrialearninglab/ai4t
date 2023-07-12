@@ -2,6 +2,17 @@
 title: 4.1.7 Decision Making with AI in Medicine and law
 description: Discover areas beyond education where AI systems have already profoundly changed the way decisions are made.
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M4.1.7t
+    - Title: 4.1.7 Decision Making with AI in Medicine and law
+    - Type: text
+    - Description: Discover areas beyond education where AI systems have already profoundly changed the way decisions are made.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Decision Making with AI in Medicine and Justice
 
 When it comes to decision making assistance, two areas already have a history with using IA Law and Medicine.  

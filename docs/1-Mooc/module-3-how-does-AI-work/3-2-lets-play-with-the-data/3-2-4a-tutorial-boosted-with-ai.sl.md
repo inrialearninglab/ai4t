@@ -7,6 +7,21 @@ contributor:  Magic Makers
               Class'Code    
 type: activity
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.2.4a
+    - Title: 3.2.4 Dejavnost: Povečana z umetno inteligenco?
+    - Type: activity
+    - Description: Preizkusite, kako deluje strojno učenje in usposabljanje programov, ter preverite pomen ustrezno pripravljenih podatkovnih nizov.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Magic Makers
+        - Inria
+        - S24B
+        - Class'Code
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Dejavnost: z umetno inteligenco?
 Ni boljšega načina za razumevanje delovanja strojnega učenja in usposabljanja programov kot razumevanje, kako pravilno pripraviti nabor podatkov.

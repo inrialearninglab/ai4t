@@ -2,6 +2,17 @@
 title: 0.4.1 Credits
 description: Credits, funding and disclaiming
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M0.4.1t
+    - Title: 0.4.1 Credits
+    - Type: text
+    - Description: Credits, funding and disclaiming
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Credits
 The AI4T Mooc is funded by grant No. 626154-EPP-1-2020-2-FR-EPPKA3-PI-POLICY from the EC EACEA Agency under the Erasmus+ K3 project: Artificial Intelligence for and by Teachers.

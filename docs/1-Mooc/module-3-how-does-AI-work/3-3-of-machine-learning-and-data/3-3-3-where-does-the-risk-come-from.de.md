@@ -2,6 +2,17 @@
 title: "3.3.3 Woher kommt das Risiko?"
 description: Identifizieren Sie die verschiedenen Arten von Risiken
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.3.3t
+    - Title: 3.3.3 Woher kommt das Risiko?
+    - Type: text
+    - Description: Identifizieren Sie die verschiedenen Arten von Risiken
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Where Does the Risk Come From?
 In seiner Studie über Künstliche Intelligenz[^1] stellt der Europäische Parlamentarische Forschungsdienst fest: "*Es ist wichtig, darauf hinzuweisen, dass KI-Algorithmen nicht objektiv sein können, da sie - genau wie Menschen - im Laufe ihrer Ausbildung eine Art und Weise entwickeln, wie sie das, was sie zuvor gesehen haben, einordnen, und diese 'Weltsicht' nutzen, um neue Situationen, mit denen sie konfrontiert werden, zu kategorisieren.*" [deepl translation]

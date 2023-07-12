@@ -3,6 +3,18 @@ title: "3.2.2 Qu'est-ce qu'une donnée ?"
 description: Une première compréhension de ce qu'est une donnée et comment elle est utilisée en IA.
 contributor: Laurent Romary - Inria
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.2.2t
+    - Title: 3.2.2 Qu'est-ce qu'une donnée ?
+    - Type: text
+    - Description: Une première compréhension de ce qu'est une donnée et comment elle est utilisée en IA.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Laurent Romary - Inria
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Qu'est-ce qu'une donnée ?
 
 ## Rôle des données dans un système d'IA

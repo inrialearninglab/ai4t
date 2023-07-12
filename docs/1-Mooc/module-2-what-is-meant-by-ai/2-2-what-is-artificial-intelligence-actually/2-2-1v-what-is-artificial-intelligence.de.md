@@ -5,6 +5,18 @@ contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
 licence: CC BY-SA 2.0
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M2.2.1v
+    - Title: 2.2.1 Video: Was ist künstliche Intelligenz?
+    - Type: video
+    - Description: Einleitung des Videos Was ist künstliche Intelligenz
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Mooc "Intelligence Artificielle...avec Intelligence"
+    - Licence: CC BY-SA 2.0
+    - Date: 2022-11-15
+
 
 # Video: Was ist künstliche Intelligenz?
 

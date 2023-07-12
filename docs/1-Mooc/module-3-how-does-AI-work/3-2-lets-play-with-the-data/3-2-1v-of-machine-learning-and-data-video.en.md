@@ -5,6 +5,18 @@ contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
 licence: CC BY-SA 2.0
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.2.1v
+    - Title: 3.2.1 Video: Of Machine Learning and Data
+    - Type: video
+    - Description: A video specifically dedicated to machine learning with highlights on supervised and reinforcement learning, neural networks and deep learning.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Mooc "Intelligence Artificielle...avec Intelligence"
+    - Licence: CC BY-SA 2.0
+    - Date: 2022-11-15
+
 # Video: Of Machine Learning and Data
 This video is more specifically dedicated to machine learning. It is still a generalist video, with a humorous tone, which can be used in class.
 

@@ -4,6 +4,18 @@ description: Interview d'Alain Thillay - l'un des initiateurs du projet
 contributor: Alain Thillay
 type: video
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M0.1.1v
+    - Title: 0.1.1 Interview : Les défis de l'IA en éducation
+    - Type: video
+    - Description: Interview d'Alain Thillay - l'un des initiateurs du projet
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Alain Thillay
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Interview : Les défis de l'IA en éducation
 Dans la vidéo suivante, Alain Thillay, expert national français en éducation numérique, présente les défis de l'intelligence artificielle en éducation et les objectifs de la présente formation sur l'utilisation de l'IA en éducation pour les enseignants et les chefs d'établissement au niveau européen.

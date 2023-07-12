@@ -3,6 +3,17 @@ title: "3.1.1 Video: Boosted with AI!"
 description: Overview of the uses that can be made of AI
 type: video
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.1.1v
+    - Title: 3.1.1 Video: Boosted with AI!
+    - Type: video
+    - Description: Overview of the uses that can be made of AI
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Video: Boosted with AI!
 
 This general video gives an overview of all the uses that can be made of AI, some of which are rather unexpected.

@@ -4,6 +4,19 @@ description: Understand the impact of using decision-making AI tools and the nec
 contributor:  AI4T
               Ikram Chraibi Kaadoud, AI Researcher
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M4.2.1t
+    - Title: 4.2.1 Ready to trust AI for decision making?
+    - Type: text
+    - Description: Understand the impact of using decision-making AI tools and the necessary precaution of use
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - AI4T
+        - Ikram Chraibi Kaadoud, AI Researcher
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Are you ready to trust AI for decision making?
 

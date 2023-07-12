@@ -2,6 +2,17 @@
 title: 1.3.1 L'avenir de l'apprentissage par les experts en éducation
 description: Indiquer les défis liés à l'IA en éducation et les compétences essentielles requises à l'ère de l'IA.
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M1.3.1t
+    - Title: 1.3.1 L'avenir de l'apprentissage par les experts en éducation
+    - Type: text
+    - Description: Indiquer les défis liés à l'IA en éducation et les compétences essentielles requises à l'ère de l'IA.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Futurs de l'apprentissage par des experts de l'éducation
 ## L'intelligence artificielle est déjà présente dans les salles de classe.
 

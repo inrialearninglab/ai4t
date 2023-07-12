@@ -2,6 +2,17 @@
 title: 0.1.2 Kaj je cilj tega usposabljanja?
 description: Umestitev usposabljanja v evropski okvir
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M0.1.2t
+    - Title: 0.1.2 Kaj je cilj tega usposabljanja?
+    - Type: text
+    - Description: Umestitev usposabljanja v evropski okvir
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Kaj je cilj tega usposabljanja?
 

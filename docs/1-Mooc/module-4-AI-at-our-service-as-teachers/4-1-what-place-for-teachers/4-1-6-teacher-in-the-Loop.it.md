@@ -2,6 +2,17 @@
 title: "4.1.6 Insegnante nel cerchio (Teacher-in-the-Loop)"
 description: Comprendere il modello "Teacher-in-the-Loop" e utilizzarlo come strumento per promuovere gli "utenti in controllo" per i sistemi di IA nell'istruzione
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M4.1.6t
+    - Title: 4.1.6 Insegnante nel cerchio (Teacher-in-the-Loop)
+    - Type: text
+    - Description: Comprendere il modello Teacher-in-the-Loop e utilizzarlo come strumento per promuovere gli utenti in controllo per i sistemi di IA nell'istruzione
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Insegnante nel loop
 
 Nel campo dell'istruzione e della formazione "*Tutti i soggetti interessati dovrebbero considerare le implicazioni del cedere alle tecnologie emergenti il potere di prendere decisioni pedagogiche, che altrimenti sarebbero prese da un professionista dell'insegnamento con un'adeguata conoscenza pedagogica e dei contenuti specifici della materia*" [deepl translation] [^1].  

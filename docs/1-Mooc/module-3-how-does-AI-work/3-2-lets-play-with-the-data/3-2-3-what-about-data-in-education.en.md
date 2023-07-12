@@ -2,6 +2,17 @@
 title: 3.2.3 What about data in Education?
 description: Identify the place of educational data in AIEd tools.
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.2.3t
+    - Title: 3.2.3 What about data in Education?
+    - Type: text
+    - Description: Identify the place of educational data in AIEd tools.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # What about data in Education?
 To examine the role of data in Education, let's consider the example of personalised learning which is identified as one a the major promise of AI-based services in the field of Education[^1]:
 

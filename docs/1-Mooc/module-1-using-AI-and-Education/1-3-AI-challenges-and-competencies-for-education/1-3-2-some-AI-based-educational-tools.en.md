@@ -2,6 +2,17 @@
 title: "1.3.2 Some AI-based Educational Tools"
 description: Discover the functionalities of some tools for experimentation
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M1.3.2t
+    - Title: 1.3.2 Some AI-based Educational Tools
+    - Type: text
+    - Description: Discover the functionalities of some tools for experimentation
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Some AI-based Educational Tools
 A lot of Educational Technology (Edtech) companies and research institutes invest in AI-based tools and software to facilitate teaching and learning, from Intelligent Tutoring Systems to more specific applications like automatic test generation or foreign language learning. Yet most of these AI in Education (AIEd) tools are only beginning to be used in the classroom by pupils and teachers.
 

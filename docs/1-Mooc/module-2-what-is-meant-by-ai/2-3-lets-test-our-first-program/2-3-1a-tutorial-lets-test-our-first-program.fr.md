@@ -7,6 +7,21 @@ contributor: Magic Makers
              Class'Code  
 type: activity
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M2.3.1a
+    - Title: 2.3.1 Activité : Tutoriel Testons notre premier programme
+    - Type: activity
+    - Description: Un tutoriel pour découvrir les programmes de reconnaissance d'images, comment les entraîner, comment les tromper.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Magic Makers
+        - Inria
+        - S24B
+        - Class'Code
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Activité : Tutoriel Testons notre premier programme
 
 La reconnaissance d'images est un domaine de l'IA qui a connu une croissance considérable. Ce tutoriel propose de tester la reconnaissance d'images et d'entraîner un programme à reconnaître les chiens et les chats. Il nous rappelle ensuite que ce programme ne peut faire que ce pour quoi il a été entraîné, et qu'il peut être trompé !

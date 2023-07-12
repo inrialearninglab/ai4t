@@ -2,6 +2,17 @@
 title: "2.1.2 Qual è la definizione di IA?"
 description: Presentare le diverse definizioni di IA e dei suoi campi
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M2.1.2t
+    - Title: 2.1.2 Qual è la definizione di IA?
+    - Type: text
+    - Description: Presentare le diverse definizioni di IA e dei suoi campi
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Qual è la definizione di IA?
 
 ## Un'evoluzione nella definizione

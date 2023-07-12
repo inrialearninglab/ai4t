@@ -5,6 +5,18 @@ contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
 licence: CC BY-SA 2.0
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M4.3.1v
+    - Title: 4.3.1 Video: Artificial Intelligence at our Service?
+    - Type: video
+    - Description: Defining explicability in the field of AI and its stakes.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Mooc "Intelligence Artificielle...avec Intelligence"
+    - Licence: CC BY-SA 2.0
+    - Date: 2022-11-15
+
 
 # Video: Artificial Intelligence at our Service?
 

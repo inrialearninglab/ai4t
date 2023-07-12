@@ -3,6 +3,18 @@ title: "3.2.2 Cosa sono i dati?"
 description: Una prima comprensione di cosa sono i dati e di come vengono utilizzati nell'IA.
 contributor: Laurent Romary - Inria
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.2.2t
+    - Title: 3.2.2 Cosa sono i dati?
+    - Type: text
+    - Description: Una prima comprensione di cosa sono i dati e di come vengono utilizzati nell'IA.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Laurent Romary - Inria
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Che cosa sono i dati?
 
 ## Il ruolo dei dati in un sistema di IA

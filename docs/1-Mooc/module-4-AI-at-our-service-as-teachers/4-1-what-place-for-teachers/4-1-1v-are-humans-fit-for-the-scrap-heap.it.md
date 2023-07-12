@@ -5,6 +5,18 @@ contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
 licence: CC BY-SA 2.0
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M4.1.1v
+    - Title: 4.1.1 Video: Quale posto per gli esseri umani?
+    - Type: video
+    - Description: I cambiamenti previsti dall'IA, con particolare attenzione all'evoluzione del mercato del lavoro.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Mooc "Intelligence Artificielle...avec Intelligence"
+    - Licence: CC BY-SA 2.0
+    - Date: 2022-11-15
+
 # Video: Quale posto per gli esseri umani?
 
 Questo video mette in evidenza i cambiamenti previsti nel lavoro a causa dell'IA (e in particolare l'evoluzione di alcune professioni) senza affrontare specificamente il campo dell'istruzione.  

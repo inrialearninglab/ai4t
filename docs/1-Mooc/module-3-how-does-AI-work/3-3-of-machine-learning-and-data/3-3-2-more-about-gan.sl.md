@@ -3,6 +3,18 @@ title: 3.3.2 Generativne adversarne mreže (GAN)
 description: Več o GAN
 contributor: Mooc IAI
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.3.2t
+    - Title: 3.3.2 Generativne adversarne mreže (GAN)
+    - Type: text
+    - Description: Več o GAN
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Mooc IAI
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Generativna adverzijska omrežja (GAN)
 Generativna adverzijska omrežja spadajo med nadzorovano učenje, ki temelji na zagotavljanju vhodnih podatkov, katerih ustrezni želeni izhodni podatki so znani, da bi ocenili razmerje med vhodom in izhodom zunaj vzorcev, zagotovljenih za usposabljanje, in nenadzorovano učenje.
 

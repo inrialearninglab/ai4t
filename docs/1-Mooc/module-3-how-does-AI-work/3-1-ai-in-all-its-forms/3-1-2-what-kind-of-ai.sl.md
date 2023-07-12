@@ -2,6 +2,17 @@
 title: "3.1.2 Kakšna umetna inteligenca?"
 description: Prvo razumevanje vrst umetne inteligence
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.1.2t
+    - Title: 3.1.2 Kakšna umetna inteligenca?
+    - Type: text
+    - Description: Prvo razumevanje vrst umetne inteligence
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # What kind of AI?  
 V literaturi je mogoče najti veliko vrst UI. Poglejmo, na kaj se nanašajo.

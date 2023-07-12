@@ -2,6 +2,17 @@
 title: "2.1.2 Was ist die Definition von KI?"
 description: Vorstellung der verschiedenen Definitionen von KI und ihrer Bereiche
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M2.1.2t
+    - Title: 2.1.2 Was ist die Definition von KI?
+    - Type: text
+    - Description: Vorstellung der verschiedenen Definitionen von KI und ihrer Bereiche
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Was ist die Definition von KI?
 
 ## Eine Entwicklung in der Definition

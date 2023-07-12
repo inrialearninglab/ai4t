@@ -2,6 +2,17 @@
 title: 2.2.5 Quali tipi di applicazioni dell'IA nell'istruzione?
 description: I sistemi di IA esistenti, il loro potenziale o gli usi esistenti nel campo dell'istruzione.
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M2.2.5t
+    - Title: 2.2.5 Quali tipi di applicazioni dell'IA nell'istruzione?
+    - Type: text
+    - Description: I sistemi di IA esistenti, il loro potenziale o gli usi esistenti nel campo dell'istruzione.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Quali tipi di applicazioni dell'IA nell'istruzione?
 
 Tra le possibili classificazioni dei domini scientifici dell'IA, la seguente tabella presenta una tassonomia dell'IA[^1] in base alle funzioni familiari che l'IA può svolgere.

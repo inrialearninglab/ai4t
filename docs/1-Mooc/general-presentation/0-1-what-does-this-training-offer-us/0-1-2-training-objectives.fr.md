@@ -2,6 +2,17 @@
 title: 0.1.2 Quel est l'objectif de cette formation ?
 description: Situer la formation dans le cadre européen
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M0.1.2t
+    - Title: 0.1.2 Quel est l'objectif de cette formation ?
+    - Type: text
+    - Description: Situer la formation dans le cadre européen
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Quel est l'objectif de cette formation ?
 

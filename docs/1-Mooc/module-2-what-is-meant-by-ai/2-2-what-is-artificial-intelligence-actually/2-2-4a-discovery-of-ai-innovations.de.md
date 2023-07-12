@@ -6,6 +6,20 @@ contributor:  Nicolas, Rougier -  Inria
               Claude, Reuters - SCRIPT / 
 type: activity
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M2.2.4a
+    - Title: 2.2.4 Tätigkeit: Der Ursprung der KI-Technologien
+    - Type: activity
+    - Description: Der Ursprung von 3 KI-basierten Anwendungen - natürliche Interaktion, Bilderkennung und autonomes Auto.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Nicolas, Rougier -  Inria
+        - Daniela, Hau - SCRIPT / MENJE
+        - Claude, Reuters - SCRIPT /
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Aktivität: Der Ursprung von 3 KI-Technologien
 

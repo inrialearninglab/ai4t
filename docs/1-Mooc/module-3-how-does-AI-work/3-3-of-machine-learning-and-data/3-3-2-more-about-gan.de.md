@@ -3,6 +3,18 @@ title: "3.3.2 Generative adversarische Netze (GAN)"
 description: Mehr über GAN
 contributor:  Mooc IAI
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.3.2t
+    - Title: 3.3.2 Generative adversarische Netze (GAN)
+    - Type: text
+    - Description: Mehr über GAN
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Mooc IAI
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Generative Adversarial Networks (GAN)
 Generative Adversarial Networks liegen zwischen dem überwachten Lernen, das auf der Bereitstellung von Eingabedaten basiert, deren gewünschte Ausgabe bekannt ist, um die Eingabe-Ausgabe-Beziehung über die für das Training bereitgestellten Stichproben hinaus zu schätzen, und dem unüberwachten Lernen.
 

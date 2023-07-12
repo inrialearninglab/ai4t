@@ -2,6 +2,17 @@
 title : 2.2.5 Quels types d'applications de l'IA en éducation ?
 description: Les systèmes d'IA existants, leurs utilisations potentielles ou existantes en éducation.
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M2.2.5t
+    - Title: 
+    - Type: text
+    - Description: 
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Quels types d'applications de l'IA en éducation ?
 
 Parmi les classifications possibles des domaines scientifiques de l'IA, le tableau suivant présente une taxonomie de l'IA[^1] par rapport aux fonctions de la famille que peut remplir l'IA.

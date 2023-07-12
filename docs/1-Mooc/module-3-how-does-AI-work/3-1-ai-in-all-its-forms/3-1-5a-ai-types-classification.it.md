@@ -3,6 +3,17 @@ title: "3.1.5 Attività: Identificare l'intelligenza artificiale simbolica"
 description: Cos'è l'IA simbolica e cosa non è
 type: activity
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.1.5a
+    - Title: 3.1.5 Attività: Identificare l'intelligenza artificiale simbolica
+    - Type: activity
+    - Description: Cos'è l'IA simbolica e cosa non è
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Attività: IA simbolica
 

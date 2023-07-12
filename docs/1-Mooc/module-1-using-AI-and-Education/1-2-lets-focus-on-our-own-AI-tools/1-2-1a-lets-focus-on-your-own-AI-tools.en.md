@@ -3,6 +3,17 @@ title: "1.2.1 Activity: Let's focus on your own AI tools"
 description: Raise questioning on our own AI practices
 type: activity
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M1.2.1a
+    - Title: 1.2.1 Activity: Let's focus on your own AI tools
+    - Type: activity
+    - Description: Raise questioning on our own AI practices
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Activity: Let's focus on your own AI tools
 

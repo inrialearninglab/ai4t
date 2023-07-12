@@ -2,6 +2,17 @@
 title: "4.1.6 Lehrer in der Schleife (Teacher-in-the-Loop)"
 description: Das "Teacher-in-the-Loop"-Modell verstehen und als Werkzeug nutzen, um "Nutzer in der Kontrolle" für KI-Systeme in der Bildung zu fördern
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M4.1.6t
+    - Title: 4.1.6 Lehrer in der Schleife (Teacher-in-the-Loop)
+    - Type: text
+    - Description: Das Teacher-in-the-Loop-Modell verstehen und als Werkzeug nutzen, um Nutzer in der Kontrolle für KI-Systeme in der Bildung zu fördern
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Teacher-in-the-Loop
 
 Im Bereich der allgemeinen und beruflichen Bildung "*sollten alle Beteiligten die Auswirkungen der Übertragung von Befugnissen auf neu entstehende Technologien auf pädagogische Entscheidungen bedenken, die ansonsten von einer Lehrkraft mit angemessenen pädagogischen und fachspezifischen Kenntnissen getroffen werden würden*" [deepl translation] [^1].  

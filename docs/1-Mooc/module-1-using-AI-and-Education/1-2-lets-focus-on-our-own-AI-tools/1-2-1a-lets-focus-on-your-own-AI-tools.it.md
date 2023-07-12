@@ -3,6 +3,17 @@ title: "1.2.1 Attività: Concentriamoci sui propri strumenti di IA"
 description: Porre domande sulle nostre pratiche di IA
 type: activity
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M1.2.1a
+    - Title: 1.2.1 Attività: Concentriamoci sui propri strumenti di IA
+    - Type: activity
+    - Description: Porre domande sulle nostre pratiche di IA
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Attività: Concentriamoci sui vostri strumenti di IA
 

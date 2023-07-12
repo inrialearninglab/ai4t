@@ -2,6 +2,17 @@
 title: "3.3.3 Where Does the Risk Come From?"
 description: Identify the different types of risks
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.3.3t
+    - Title: 3.3.3 Where Does the Risk Come From?
+    - Type: text
+    - Description: Identify the different types of risks
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Where Does the Risk Come From?
 In its study about Artificial Intelligence[^1], the European Parliamentary Research Service stated: "*It is important to note that AI algorithms cannot be objective because, just like people, in the course of their training they develop a way of making sense of what they have seen before, and use this 'worldview' to categorise new situations with which they are presented.*"

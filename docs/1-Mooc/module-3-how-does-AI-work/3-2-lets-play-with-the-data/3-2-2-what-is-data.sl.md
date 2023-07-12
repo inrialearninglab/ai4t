@@ -3,6 +3,18 @@ title: "3.2.2 Kaj so podatki?"
 description: "Dnevnik je bil v celoti povezan s podatki, ki so bili uporabljeni za analizo: V nadaljevanju se seznanite s tem, kaj so podatki in kako se uporabljajo v umetni inteligenci."
 contributor: Laurent Romary - Inria
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.2.2t
+    - Title: 3.2.2 Kaj so podatki?
+    - Type: text
+    - Description: Dnevnik je bil v celoti povezan s podatki, ki so bili uporabljeni za analizo: V nadaljevanju se seznanite s tem, kaj so podatki in kako se uporabljajo v umetni inteligenci.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Laurent Romary - Inria
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Kaj so podatki?
 
 ## Vloga podatkov v sistemu umetne inteligence

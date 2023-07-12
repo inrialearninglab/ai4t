@@ -2,6 +2,17 @@
 title: "1.3.2 Einige KI-basierte Bildungswerkzeuge"
 description: Entdecken Sie die Funktionalitäten einiger Werkzeuge zum Experimentieren
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M1.3.2t
+    - Title: 1.3.2 Einige KI-basierte Bildungswerkzeuge
+    - Type: text
+    - Description: Entdecken Sie die Funktionalitäten einiger Werkzeuge zum Experimentieren
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Einige KI-basierte Bildungswerkzeuge
 Viele Unternehmen und Forschungsinstitute im Bereich der Bildungstechnologie (Edtech) investieren in KI-basierte Tools und Software, um das Lehren und Lernen zu erleichtern, von intelligenten Nachhilfesystemen bis hin zu spezifischeren Anwendungen wie der automatischen Testgenerierung oder dem Fremdsprachenlernen. Die meisten dieser KI-Tools für den Bildungsbereich (AIEd) werden jedoch erst allmählich von Schülern und Lehrern im Klassenzimmer eingesetzt.
 

@@ -3,6 +3,18 @@ title: "3.3.2 Réseaux Antagonistes Génératifs (GAN)"
 description: Pour en savoir plus sur les GAN
 contributor:  Mooc IAI
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.3.2t
+    - Title: 3.3.2 Réseaux Antagonistes Génératifs (GAN)
+    - Type: text
+    - Description: Pour en savoir plus sur les GAN
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Mooc IAI
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Réseaux antagonistes génératifs (GAN)
 Les réseaux antagonistes génératifs se situent entre l'apprentissage supervisé basé sur la fourniture de données d'entrée, dont la sortie correspondante souhaitée est connue afin d'estimer la relation entrée-sortie au-delà des échantillons fournis pour la formation, et l'apprentissage non supervisé.
 

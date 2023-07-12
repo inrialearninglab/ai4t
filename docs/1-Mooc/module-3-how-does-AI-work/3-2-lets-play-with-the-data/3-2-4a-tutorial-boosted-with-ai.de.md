@@ -7,6 +7,21 @@ contributor:  Magic Makers
               Class'Code     
 type: activity
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.2.4a
+    - Title: 3.2.4 Aktivität: Verstärkt durch KI?
+    - Type: activity
+    - Description: Experimentieren Sie, wie maschinelles Lernen und Programmtraining funktioniert und testen Sie die Bedeutung von richtig vorbereiteten Datensätzen.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Magic Makers
+        - Inria
+        - S24B
+        - Class'Code
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Aktivität: Verstärkt mit KI?
 Es gibt keinen besseren Weg, um zu verstehen, wie maschinelles Lernen und Programmtraining funktionieren, als zu verstehen, wie man seinen Datensatz richtig vorbereitet.

@@ -5,6 +5,18 @@ contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
 licence: CC BY-SA 2.0
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M4.1.1v
+    - Title: 4.1.1 Vidéo : Quelle place pour l'être humain ?
+    - Type: video
+    - Description: Prévision des changements dus à l'IA, notamment sur l'évolution du travail.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Mooc "Intelligence Artificielle...avec Intelligence"
+    - Licence: CC BY-SA 2.0
+    - Date: 2022-11-15
+
 # Vidéo : Quelle place pour l'être humain ?
 
 Cette vidéo met en avant les changements que l'IA pourrait induire dans le travail (et notamment par l'évolution de certains métiers) sans aborder spécifiquement le domaine de l'éducation.  

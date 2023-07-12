@@ -2,6 +2,17 @@
 title: "1.3.1 Prihodnost učenja s strokovnjaki v izobraževanju"
 description: Izpostavite izzive v izobraževanju, povezane z umetno inteligenco, in ključne kompetence, potrebne v dobi UI
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M1.3.1t
+    - Title: 1.3.1 Prihodnost učenja s strokovnjaki v izobraževanju
+    - Type: text
+    - Description: Izpostavite izzive v izobraževanju, povezane z umetno inteligenco, in ključne kompetence, potrebne v dobi UI
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Prihodnost učenja po mnenju strokovnjakov s področja izobraževanja
 ## Umetna inteligenca je že v razredu

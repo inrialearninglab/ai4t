@@ -3,6 +3,17 @@ title: "3.1.5 Aktivität: Symbolische KI identifizieren"
 description: Was ist symbolische KI und was ist sie nicht
 type: activity
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.1.5a
+    - Title: 3.1.5 Aktivität: Symbolische KI identifizieren
+    - Type: activity
+    - Description: Was ist symbolische KI und was ist sie nicht
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Aktivität: Symbolische KI
 

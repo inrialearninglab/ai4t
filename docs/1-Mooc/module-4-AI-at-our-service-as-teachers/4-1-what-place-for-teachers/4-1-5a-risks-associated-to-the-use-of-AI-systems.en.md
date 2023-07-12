@@ -3,6 +3,17 @@ title: "4.1.5 Activity: AI-based decision making"
 description: What is trustworthy AI? 7 requirements to meet for AI systems
 type: activity
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M4.1.5a
+    - Title: 4.1.5 Activity: AI-based decision making
+    - Type: activity
+    - Description: What is trustworthy AI? 7 requirements to meet for AI systems
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Activity: The 7 key requirements for trustworthy AI
 

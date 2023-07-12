@@ -2,6 +2,17 @@
 title: 0.3.1 Kontext des Experiments
 description: Bedingungen der Lernerspurensammlung
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M0.3.1t
+    - Title: 0.3.1 Kontext des Experiments
+    - Type: text
+    - Description: Bedingungen der Lernerspurensammlung
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Kontext des Experiments
 Auf den verschiedenen Lernplattformen (LMS oder CMS), die von den 5 Ländern, die an diesem KI-Training für Lehrer und Schulleiter teilnehmen, verwendet werden, ist es möglich, den Lernweg der Teilnehmer zu verfolgen. Dies geschieht mit Hilfe von "Lernspuren", die die Handlungen der Lernenden beim Durchsuchen des Kursinhalts, beim Ansehen eines Videos oder bei der Durchführung einer Online-Aktivität widerspiegeln.
 

@@ -4,6 +4,19 @@ description: Comprendere l'impatto dell'utilizzo di strumenti di IA per il proce
 contributor:  AI4T
               Ikram Chraibi Kaadoud, ricercatore AI
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M4.2.1t
+    - Title: 4.2.1 Pronti a fidarsi dell'IA per il processo decisionale?
+    - Type: text
+    - Description: Comprendere l'impatto dell'utilizzo di strumenti di IA per il processo decisionale e le necessarie precauzioni d'uso.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - AI4T
+        - Ikram Chraibi Kaadoud, ricercatore AI
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 
 # Siete pronti a fidarvi dell'IA per prendere decisioni?
 

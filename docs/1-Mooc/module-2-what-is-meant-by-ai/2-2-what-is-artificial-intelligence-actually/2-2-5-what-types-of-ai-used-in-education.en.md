@@ -2,6 +2,17 @@
 title: 2.2.5 What types of AI applications in Education
 description: The existing AI systems, their potential or existing uses in Education
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M2.2.5t
+    - Title: 2.2.5 What types of AI applications in Education
+    - Type: text
+    - Description: The existing AI systems, their potential or existing uses in Education
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # What types of AI applications in Education
 
 Among the possible classifications of AI scientific domains, the following table presents an AI taxonomy[^1] according to the family functions possibly performed by AI.

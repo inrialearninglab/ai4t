@@ -4,6 +4,19 @@ description: Predstavitev in dostop do učbenika - Colin de la Higuera, Jotsna I
 contributor: Colin, de la Higuera - Nantes Université
              Jotsna, Iyer - Nantes Université
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M7.0.3U
+    - Title: 
+    - Type: Umetna inteligenca za učitelje: interaktivni spletni priročnik za učitelje
+    - Description: Predstavitev in dostop do učbenika - Colin de la Higuera, Jotsna Iyer
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+        - Colin, de la Higuera - Nantes Université
+        - Jotsna, Iyer - Nantes Université
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # UI z učitelji
 
 Ste v teku usposabljanja ali ste ga končali in ste razumeli, zakaj je umetna inteligenca novi ključni akter v izobraževanju. Morda pa vam je dovolj? Ali pa imate morda zdaj več vprašanj kot na začetku?

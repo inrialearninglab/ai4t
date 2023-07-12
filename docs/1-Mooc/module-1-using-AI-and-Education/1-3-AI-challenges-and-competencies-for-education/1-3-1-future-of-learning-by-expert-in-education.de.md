@@ -2,6 +2,17 @@
 title: "1.3.1 Die Zukunft des Lernens durch Experten im Bildungswesen"
 description: Aufzeigen der KI-bezogenen Herausforderungen im Bildungswesen und der im KI-Zeitalter erforderlichen Kernkompetenzen.
 ---
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M1.3.1t
+    - Title: 1.3.1 Die Zukunft des Lernens durch Experten im Bildungswesen
+    - Type: text
+    - Description: Aufzeigen der KI-bezogenen Herausforderungen im Bildungswesen und der im KI-Zeitalter erforderlichen Kernkompetenzen.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+
 # Die Zukunft des Lernens von Experten im Bildungswesen
 ## Künstliche Intelligenz ist bereits im Klassenzimmer
 
