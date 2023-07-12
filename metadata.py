@@ -19,6 +19,20 @@ xmlTemplate = """<?xml version="1.0"?>
 </metadata>
 """
 
+# Metadata md header template
+mdTemplate = """
+??? info "Metadata"
+    - Id: {uid}
+    - Title: {title}
+    - Type: {type}
+    - Description: {description}
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T {contributors_md}
+    - Licence: {licence}
+    - Date: 2022-11-15
+"""
+
 # Walk recursively all files
 basepath = u"./docs/1-Mooc/"
 for path, dirs, files in os.walk(basepath):
@@ -36,7 +50,8 @@ for path, dirs, files in os.walk(basepath):
         if file_extension == '.md' and file_no_ext != "index":
             with open(os.path.join(path, file), 'r') as i:
                 md = markdown.Markdown(extensions=['meta'])
-                md.convert(i.read())
+                content = i.read()
+                md.convert(content)
                 # Extract uid from filename
                 match_uid = re.search(
                     r"docs\/(.[^-]?)[^\/]*\/.*\/(\d)-(\d)-(\d)?([av])?.*",
@@ -55,17 +70,20 @@ for path, dirs, files in os.walk(basepath):
                     print(os.path.join(path, file_no_ext))
                     uid = "EU.AI4T.@todo"
                 contributor = ""
+                contributors_md = ""
                 # Extract metadata from markdown
                 if 'contributor' in md.Meta:
                     contributor += '\n    <dc:contributor>'
                     contributor += '</dc:contributor>\n    <dc:contributor>'.join(md.Meta['contributor'])
                     contributor += '</dc:contributor>'
+                    contributors_md += '\n        - '+'\n        - '.join(md.Meta['contributor'])
                 metadata = dict(
                     uid=uid,
                     type=md.Meta.get('type', ['text'])[0].replace('"', ''),
                     title=md.Meta.get('title', [''])[0].replace('"', ''),
                     description=md.Meta.get('description', [''])[0].replace('"', ''),
                     contributor=contributor,
+                    contributors_md=contributors_md,
                     licence=md.Meta.get('licence', ['CC BY 4.0'])[0].replace('"', ''),
                     date=datetime.now().strftime("%Y-%m-%d"),
                     lang=lang_extension[1:]
@@ -73,3 +91,14 @@ for path, dirs, files in os.walk(basepath):
                 # Write metadata file
                 with open(os.path.join(path, file_no_ext+'.xml'), 'w+') as o:
                     o.write(xmlTemplate.format(**metadata))
+
+            mdMetadata = mdTemplate.format(**metadata)
+            reg = re.compile(r"^(---(?:.|\n)*?^---)", re.MULTILINE)
+            match = reg.search(content)
+            insert_index = match.end()
+            md_output = content[:insert_index] + mdMetadata + content[insert_index:]
+
+
+            # Write metadata header
+            with open(os.path.join(path, file), 'w+') as o:
+                o.write(md_output)
