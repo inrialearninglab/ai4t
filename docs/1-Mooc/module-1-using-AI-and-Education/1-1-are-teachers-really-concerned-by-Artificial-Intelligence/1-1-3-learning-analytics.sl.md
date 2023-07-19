@@ -1,5 +1,5 @@
 ---
-title:  "1.3.1 Video: Sprehod skozi umetno inteligenco - analitika analitika"
+title:  "1.3.1 Video: Sprehod skozi umetno inteligenco - učna analitika"
 description: Video 3 Sprehod skozi umetno inteligenco - učna analitika.
 contributor:  Anne, Boyer - Loria
               Armelle, Brun - Loria
@@ -29,7 +29,7 @@ _Glejte spodnji videoposnetek (2'40")_
 
 
 ----------
-<center><iframe width="640" height="360" src="https://www.youtube.com/embed/Mg8lwfRMEbI?rel=0&showinfo=0&cc_load_policy=1&hl=fr&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="640" height="360" src="https://www.youtube.com/embed/D0Xx-BGdYPU?rel=0&showinfo=0&cc_load_policy=1&hl=fr&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
 
 -----------
 
