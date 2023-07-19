@@ -29,7 +29,7 @@ Videoposnetek je zasnovan v humornem tonu, zato ga je mogoče uporabiti v razred
 ## Umetna inteligenca v naše storitve?  
 _Oglejte si spodnji videoposnetek (4'36")_
 
-<center><iframe width="640" height="360" src="https://www.youtube.com/embed/b3ljE6erMkY?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="640" height="360" src="https://www.youtube.com/embed/ngKOFC1cgYo?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
 
 ####Sinopsis
 Glavni lik, -_Guillaume_-, nas opozarja na izzive umetne inteligence na zelo različnih področjih. Poudarja, da nas ta razmislek o umetni inteligenci vodi tudi k razmisleku o človeški inteligenci. Ta razmislek pa vodi v spraševanje o človečnosti in naši vlogi državljanov v družbi.  
