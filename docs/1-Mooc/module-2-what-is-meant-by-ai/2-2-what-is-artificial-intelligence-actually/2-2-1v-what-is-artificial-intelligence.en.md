@@ -27,7 +27,7 @@ Its approach is general and it can be used in the classroom.
 
 _Watch the video below (8'22")_
 
-<center><iframe width="640" height="360" src="https://www.youtube.com/embed/bkuWz0eAS7w?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="640" height="360" src="https://www.youtube.com/embed/PBroGivbIBQ?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
 
 #### Synopsis
 The main character _Guillaume_ lists the many applications or tools that use algorithms and highlights their place in our daily lives. He starts by questioning computers and computer science which leads him to ask the question: "*Have our computers become intelligent or not?*".
