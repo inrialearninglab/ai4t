@@ -27,7 +27,7 @@ Njegov pristop je splošen in ga je mogoče uporabiti pri pouku.
 
 _Oglejte si spodnji videoposnetek (8'22")_
 
-<center><iframe width="640" height="360" src="https://www.youtube.com/embed/bkuWz0eAS7w?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="640" height="360" src="https://www.youtube.com/embed/q4_0tiPbCfk?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
 
 #### Sinopsis
 Glavni junak _Guillaume_ našteje številne aplikacije ali orodja, ki uporabljajo algoritme, in poudari njihovo mesto v našem vsakdanjem življenju. Na začetku se sprašuje o računalnikih in računalništvu, kar ga pripelje do vprašanja: "*So naši računalniki postali inteligentni ali ne?*".
