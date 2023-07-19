@@ -26,7 +26,7 @@ Ta duhoviti videoposnetek se lahko uporablja pri pouku.
 **Mate tudi vi vprašanja?**  
 _Oglejte si spodnji videoposnetek (1 minuta 51 minut):_
 
-<center><iframe width="640" height="360" src="https://www.youtube.com/embed/CpS2_IsY2EI?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="640" height="360" src="https://www.youtube.com/embed/urxcA1YC7E8?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
 
 ####Sinhronizacija
 Glavni junak _Guillaume_ po branju članka o možnem izginotju številnih delovnih mest, katerih delo bodo v prihodnosti opravljale umetne inteligence, pokliče na telefonsko številko. Omenja projekcije, ki v 10 ali 20 letih predvidevajo izginotje številnih delovnih mest, zlasti belih ovratnikov, katerih naloge bi lahko avtomatizirali. V knjigi _The Hotline_ je ta razvoj postavljen v perspektivo in je povezan s spremembami, ki so se zgodile v 19. stoletju med industrijsko revolucijo. Opozarja, da vse inovacije vodijo k nadomeščanju določenih dejavnosti z drugimi. Poudarja tudi, da danes v resnici ni mogoče natančno vedeti, katera delovna mesta bodo avtomatizirana.
