@@ -23,7 +23,7 @@ Ta videoposnetek v humornem tonu obravnava umetno inteligenco in njene posledice
 
 _Oglejte si spodnji videoposnetek (3'04")_
 
-<center><iframe width="640" height="360" src="https://www.youtube.com/embed/JGl1NwywfJ0?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="640" height="360" src="https://www.youtube.com/embed/__LB-rTqPbU?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
 
 #### Sinopsis
 Glavni junak " _Guillaume_ " si zastavlja vprašanja o umetni inteligenci in njenih posledicah za naša življenja. Z interakcijo z likom zunaj zaslona " _The Hotline_ " se pred nadaljnjim spraševanjem zastavijo splošna vprašanja o umetni inteligenci. Zdaj je treba opozoriti, da je umetna inteligenca najprej in predvsem znanstvena disciplina.
