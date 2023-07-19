@@ -29,7 +29,7 @@ Designed with a humorous tone, the video can bee used in the classroom.
 ## Artificial Intelligence at our Service?  
 _Watch the video below (4'36")_
 
-<center><iframe width="640" height="360" src="https://www.youtube.com/embed/b3ljE6erMkY?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="640" height="360" src="https://www.youtube.com/embed/xRj9aOWoFmw?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
 
 ####Synopsis
 The main character, _Guillaume_, reminds us of the challenges of AI in a very wide range of fields. He emphasises that this reflection on artificial intelligence also leads us to reflect on human intelligence. And this reflection leads to a questioning of humanity and our role as citizens in society.  
