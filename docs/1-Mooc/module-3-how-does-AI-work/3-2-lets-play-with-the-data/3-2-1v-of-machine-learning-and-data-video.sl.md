@@ -33,7 +33,7 @@ Video vsebuje tudi pregled nekaterih konceptov strojnega učenja v obliki risank
 **Pojasnilo**  
 _Glejte spodnji videoposnetek (9'35")_
 
-<center><iframe width="640" height="360" src="https://www.youtube.com/embed/XD6fvv7ldA8?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="640" height="360" src="https://www.youtube.com/embed/aw5rkVgOFok?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
 
 ####Sinopsis
 V videoposnetku so predstavljeni različni pristopi k učenju. Na eni strani simbolni pristop, na drugi strani pa numerični pristop.
