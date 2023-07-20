@@ -29,10 +29,10 @@ Alain Thillay, francoski nacionalni strokovnjak za digitalno izobraževanje, v n
 **Kratka predstavitev**  
 _Poglejte si spodnji videoposnetek (1'48")_
 
-<center><iframe width="640" height="360" src="https://www.youtube.com/embed/ybYPaPxRcBo?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="640" height="360" src="https://www.youtube.com/embed/PDAWP93K4lY?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
 
 **Podrobna predstavitev**  
 _Glejte spodnji videoposnetek (6'57")_
 
 
-<center><iframe width="640" height="360" src="https://www.youtube.com/embed/NR5mUQJKx8k?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="640" height="360" src="https://www.youtube.com/embed/bHoQnvhBCg0?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
