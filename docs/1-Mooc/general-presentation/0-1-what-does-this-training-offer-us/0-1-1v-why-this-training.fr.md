@@ -29,10 +29,10 @@ Dans la vidéo suivante, Alain Thillay, expert national français en éducation 
 **Présentation succincte**  
 Regardez la vidéo ci-dessous (1'48").
 
-<center><iframe width="640" height="360" src="https://www.youtube.com/embed/ybYPaPxRcBo?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="640" height="360" src="https://www.youtube.com/embed/mxEdo3xu3JY?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
 
 **Présentation détaillée**  
 Regardez la vidéo ci-dessous (6'57").
 
 
-<center><iframe width="640" height="360" src="https://www.youtube.com/embed/NR5mUQJKx8k?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="640" height="360" src="https://www.youtube.com/embed/Db27sA7BeCk?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
