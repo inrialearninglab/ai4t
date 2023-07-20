@@ -29,7 +29,7 @@ Im folgenden Video stellt Alain Thillay, französischer Experte für digitale Bi
 **Kurzpräsentation**  
 _Unten stehendes Video ansehen (1'48")_
 
-<center><iframe width="640" height="360" src="https://www.youtube.com/embed/GNGJH7m9Bk?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="640" height="360" src="https://www.youtube.com/embed/iGNGJH7m9Bk?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
 
 **Ausführliche Präsentation**  
 _Sehen Sie sich das Video unten an (6'57")_
