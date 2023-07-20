@@ -10,7 +10,7 @@ Afin de comprendre un peu mieux ce que sont ces modèles de langages, l’équip
 
 ## 1 - Trois vidéos pour mieux comprendre les modèles de langages
 
-Ces courtes vidéos ont été réalisées par une équipe de chercheurs en Intelligence Artificielle d’Inria.
+Cette série de vidéos « ChatGPT en 5 mn » a été réalisée par Alexandre Torres-Leguet, Clément Romac, Thomas Carta, Pierre-Yves Oudeyer, dans l'équipe Flowers à Inria. Elle est distribuée sous licence Creative Commons CC-BY.
 
 ### Episode#1 : Comment fonctionnent les modèles de langage ?
 
