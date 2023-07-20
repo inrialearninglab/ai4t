@@ -35,5 +35,5 @@ Alain Thillay, francoski nacionalni strokovnjak za digitalno izobraževanje, v n
 _Oglejte si spodnji videoposnetek (6'14")_
 ____________________
 
-<center><iframe width="640" height="360" src="https://www.youtube.com/embed/VmejJrfcwxU?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="640" height="360" src="https://www.youtube.com/embed/A_SArf_zt3s?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
 ____________________
