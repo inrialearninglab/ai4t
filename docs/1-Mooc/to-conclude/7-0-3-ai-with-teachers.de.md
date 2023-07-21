@@ -63,4 +63,4 @@ Bei der Vorbereitung des Lehrbuchs stellten die Autoren fest, dass es so viel me
 
 Wir wünschen Ihnen viel Spaß bei der Lektüre.
 
-Hier ist der Link zum Lehrbuch: [https://ai4t.eu/book/](https://www.ai4t.eu/book/ai-fr-lehrer-ein-opentextbook/index)
+Hier ist der Link zum Lehrbuch: [https://www.ai4t.eu/book/ai-fr-lehrer-ein-opentextbook/index](https://www.ai4t.eu/book/ai-fr-lehrer-ein-opentextbook/index)
