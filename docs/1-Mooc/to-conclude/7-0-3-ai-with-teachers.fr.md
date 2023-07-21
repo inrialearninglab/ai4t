@@ -61,6 +61,5 @@ Lors de la préparation du manuel, les auteurs ont constaté qu'il y avait telle
 
 Nous espérons que vous apprécierez cette lecture.  
 
-- Lien d'accès au manuel: https://ai4t.eu/book/
-- Login : ai4t-france@ai4t.org
-- Mot de passe : ai4t-france
+- Lien d'accès au manuel: [https://www.ai4t.eu/book/ia-pour-les-enseignants--un-manuel-ouvert-1/index](https://www.ai4t.eu/book/ia-pour-les-enseignants--un-manuel-ouvert-1/index)
+  
