@@ -63,7 +63,5 @@ Pri pripravi učbenika so avtorji ugotovili, da veliko presega trenutno dostopna
 
 Upamo, da boste uživali v branju.
 
-Tukaj je povezava do učbenika: https://ai4t.eu/book/
-
-- Prijavite se Ime: chaireunescorelia@univ-nantes.fr
-- geslo: _12345_.
+Tukaj je povezava do učbenika:  
+[https://www.ai4t.eu/book/umetna-inteligenca-za-uitelje-interaktivni-spletni-prironik-za-uitelje/index](https://www.ai4t.eu/book/umetna-inteligenca-za-uitelje-interaktivni-spletni-prironik-za-uitelje/index)
