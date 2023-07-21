@@ -20,7 +20,7 @@ licence: CC BY-SA 2.0
 # Video: Chi ha paura dell'intelligenza artificiale?
 Questo video tratta l'intelligenza artificiale e le sue implicazioni nella nostra vita con un tono umoristico. Il suo approccio è generale e può essere utilizzato in classe per una prima presentazione dell'IA.
 
-Guarda il video qui sotto (3'04")_
+_Guarda il video qui sotto (3'04")_
 
 <center><iframe width="640" height="360" src="https://www.youtube.com/embed/01hXUuTzQtI?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
 
