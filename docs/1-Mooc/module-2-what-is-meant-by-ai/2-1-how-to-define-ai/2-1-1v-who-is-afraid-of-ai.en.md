@@ -21,7 +21,7 @@ licence: CC BY-SA 2.0
 # Video: Who is afraid of AI?
 This video deals with artificial intelligence and its implications in our lives in a humorous tone. Its approach is general and it can be used in classroom for a first presentation of the AI.
 
-_Watch the video below (3'04")_
+_Watch the video below_ _(3'04")_
 
 <center><iframe width="640" height="360" src="https://www.youtube.com/embed/JSnFlZbb-CY?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
 
