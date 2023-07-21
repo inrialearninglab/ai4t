@@ -63,7 +63,5 @@ When preparing the textbook the authors found that there was so much beyond the 
 
 We hope you enjoy the reading.
 
-Here is the link to the textbook: https://ai4t.eu/book/
+Here is the link to the textbook: [https://www.ai4t.eu/book/ai-for-teachers-an-open-textbook-version-1-english/index)](https://www.ai4t.eu/book/ai-for-teachers-an-open-textbook-version-1-english/index) 
 
-- sign in Name: chaireunescorelia@univ-nantes.fr
-- password: _12345_.
