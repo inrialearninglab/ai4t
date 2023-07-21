@@ -63,7 +63,6 @@ Durante la preparazione del libro di testo, gli autori si sono resi conto che c'
 
 Vi auguriamo una buona lettura.
 
-Ecco il link al libro di testo: https://ai4t.eu/book/
+Ecco il link al libro di testo: [https://www.ai4t.eu/book/lintelligenza-artificiale-per-gli-insegnanti-un-libro-aperto/index](https://www.ai4t.eu/book/lintelligenza-artificiale-per-gli-insegnanti-un-libro-aperto/index) 
 
-- accedi Nome: chaireunescorelia@univ-nantes.fr
-- password: _12345_.
+ 
