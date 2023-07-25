@@ -1,12 +1,12 @@
 ![Logo](https://user-images.githubusercontent.com/5736114/133277346-2bf4460c-9a3d-48a7-a28c-6f81fc7f709c.png)
 
-This repository contains educational resources for acculturation of teachers in artificial intelligence. A view of the current content is available on https://inrialearninglab.github.io/ai4t/index.html website.
+This repository contains educational resources for acculturation of teachers in artificial intelligence. A view of the current content on the 5 languages of the consortium is available on https://inrialearninglab.github.io/ai4t/index.html website.
 
 # How to use this repository
 
 All files of this repository are free to use and download to make your own website in the context of the AI4T project. Here are two possible solutions to do so:
 - host a copy of this website **for free** using **Github Pages** ([see below](#make-your-own-github-website))
-- import html pages in your own Learning Management System (such as moodle)
+- import html pages in your own Learning Management System (such as Moodle)
 
 To download the entire resources package you can use the top right menu:
 
@@ -39,10 +39,10 @@ To download the entire resources package you can use the top right menu:
 ## How to access specific resources
 
 1. **Videos**  
-  The videos are hosted with their english subtitles on the [AI4T YouTube Channel](https://www.youtube.com/channel/UCBd_PgP_BdhmgdSzz5d83vQ) of the project created by the WP4 team. Videos files (mp4 format) as well as subtitles files (vtt or srt format) are unlisted (_therefore not visible_) but available if needed.
+  The videos are hosted with their english subtitles on the [AI4T YouTube Channel](https://www.youtube.com/channel/UCBd_PgP_BdhmgdSzz5d83vQ) of the project created by the WP4 team. Videos files (mp4 format) as well as subtitles files (vtt or srt format) are public.
 
 2. **Quizzes and interactive online activities**  
-  Each module of the Mooc contains a set of quizzes and activities. They are hosted and presented on the website (https://inrialearninglab.github.io/ai4t/index.html).
+  Each module of the Mooc contains a set of quizzes and activities. They are hosted and presented on the website in 5 langiages (https://inrialearninglab.github.io/ai4t/index.html).
 
   You can download them from this repository in 2 formats: html or h5p files.
 
@@ -54,22 +54,22 @@ To download the entire resources package you can use the top right menu:
 
 --------
 
-## How to translate the Mooc-V2 resources
+## How to translate the Mooc resources in another target languages.
 
 1. **Texts**  
-All texts files are accessible in HTML or Markdown format. Automatic translations (using the DeepL API) from the English Mooc-V2 version into the four languages of the consortium (DE, FR, IT, SL) are scheduled for delivery on November 15, 2022.
+All texts files are accessible in HTML or Markdown format. Automatic translations (using the DeepL API) from the English version into the four languages of the consortium (DE, FR, IT, SL) has been provided from noevmber 2022.
 
-2. **Videos with Voice-Over**  
+3. **Videos with Voice-Over**  
 - All the videos (the previouly existing ones from Mooc V1 and those produced for Mooc V2) will be provided with voice-over in the 4 languages of the consortium (except German for the Mooc V1 videos as requested by Luxembourg partner).
 The Voice-over videos and their associated subtitles are produced by a sub-contractor (MyGustav). For a more efficient interaction, each partner interacts directly with MyGustav to check and correct the translated voice scripts of each original video before the voice-over is recorded. Each voice-over is produced by a native speaker.
-- All the videos ("Guillaume" character videos, tutorials videos, Mooc V2 new videos) for each language will be uploaded on the AI4T youTube Channel.
+- All the videos for each 5 language will be uploaded on the AI4T youTube Channel.
 
 3. **Videos subtitles**
-- Translated subtitles will be directly uploaded on the project AI4T YouTube channel by Inria as soon as they are produced by MyGustav.
+- Translated subtitles are available on the project AI4T YouTube channel.
 
 4. **Tutorials**  
-- Videos with voice-over will be integrated into the tutorials interface as soon as they are produced by MyGustav.
-- Translated subtitles will be directly inserted in the tutorial by Inria as soon as they are produced by MyGustav.
+- Videos with voice-over have been integrated into the tutorials interface.
+- Translated subtitles have been directly inserted in the tutorial.
 
 --------
 
