@@ -4,7 +4,7 @@ This repository contains educational resources for acculturation of teachers in 
 
 # How to use this repository
 
-All files of this repository are free to use and download to make your own website in the context of the AI4T project. Here are two possible solutions to do so:
+All files of this repository can be used downloaded and used according to their licence (most of the project ressources are CC BY 4.0, some elements from a former Inria/Class’code training are in CC BY-SA 2.0). Here are two possible solutions to do reuse them :
 - host a copy of this website **for free** using **Github Pages** ([see below](#make-your-own-github-website))
 - import html pages in your own Learning Management System (such as Moodle)
 
@@ -39,10 +39,10 @@ To download the entire resources package you can use the top right menu:
 ## How to access specific resources
 
 1. **Videos**  
-  The videos are hosted with their english subtitles on the [AI4T YouTube Channel](https://www.youtube.com/channel/UCBd_PgP_BdhmgdSzz5d83vQ) of the project created by the WP4 team. Videos files (mp4 format) as well as subtitles files (vtt or srt format) are public.
+  The videos are hosted with their english subtitles on the [AI4T YouTube Channel](https://www.youtube.com/channel/UCBd_PgP_BdhmgdSzz5d83vQ) of the project. Videos files (mp4 format) as well as subtitles files (vtt or srt format) are public.
 
 2. **Quizzes and interactive online activities**  
-  Each module of the Mooc contains a set of quizzes and activities. They are hosted and presented on the website in 5 langiages (https://inrialearninglab.github.io/ai4t/index.html).
+  Each module of the Mooc contains a set of quizzes and activities. They are hosted and presented on the website in 5 languages (https://inrialearninglab.github.io/ai4t/index.html).
 
   You can download them from this repository in 2 formats: html or h5p files.
 
@@ -57,12 +57,12 @@ To download the entire resources package you can use the top right menu:
 ## How to translate the Mooc resources in another target languages.
 
 1. **Texts**  
-All texts files are accessible in HTML or Markdown format. Automatic translations (using the DeepL API) from the English version into the four languages of the consortium (DE, FR, IT, SL) has been provided from noevmber 2022.
+All texts files are accessible in HTML or Markdown format. Within the AI4T project, all resources were initially produced in English then translated and reviewed in the 4 other languages of the project : French, German, Italian and Slovenian. 
 
 3. **Videos with Voice-Over**  
-- All the videos (the previouly existing ones from Mooc V1 and those produced for Mooc V2) will be provided with voice-over in the 4 languages of the consortium (except German for the Mooc V1 videos as requested by Luxembourg partner).
-The Voice-over videos and their associated subtitles are produced by a sub-contractor (MyGustav). For a more efficient interaction, each partner interacts directly with MyGustav to check and correct the translated voice scripts of each original video before the voice-over is recorded. Each voice-over is produced by a native speaker.
-- All the videos for each 5 language will be uploaded on the AI4T youTube Channel.
+- All the videos are in english, voice-over versions has been produced in the 4 other languages of the project (The German version of the videos in module 2, 3 et 4 was developped within the project as requested by Luxembourg partner - another project is now on and will produce the german version of those 6 videos).
+The Voice-over videos and their associated subtitles were produced by a sub-contractor. Each partner has interacted directly with the provider to review and when necessary improve the translated voice scripts of each original video before the recording of voice-over. Note that all voice-overs were made by native speakers.
+- All the videos in the 5 languages are uploaded on the AI4T YouTube Channel.
 
 3. **Videos subtitles**
 - Translated subtitles are available on the project AI4T YouTube channel.
