@@ -76,6 +76,7 @@ extra:
         it: "Panoramica dei contenuti del Mooc"
         de: "Überblick über die Mooc-Inhalte"
         sl: "Pregled vsebine programa Mooc"
+        es: "Resumen de los contenidos de Mooc"
       url: "path/to/folder"
       cards:
         - url: "https://www.youtube.com/embed/QfneXoU-jXM?rel=0&showinfo=0&cc_load_policy=1&hl=fr&modestbranding=1"
