@@ -57,12 +57,12 @@ To download the entire resources package you can use the top right menu:
 ## How to translate the Mooc resources in another target languages.
 
 1. **Texts**  
-All texts files are accessible in HTML or Markdown format. Within the AI4T project, all resources were initially produced in English then translated and reviewed in the 4 other languages of the project : French, German, Italian and Slovenian. 
+All texts files are accessible in HTML or Markdown format. Within the AI4T project, all resources were initially produced in English then translated and reviewed by partners in the 4 other languages of the project : French, German, Italian and Slovenian. 
 
 3. **Videos with Voice-Over**  
-- All the videos are in english, voice-over versions has been produced in the 4 other languages of the project (The German version of the videos in module 2, 3 et 4 was developped within the project as requested by Luxembourg partner - another project is now on and will produce the german version of those 6 videos).
+- All the videos are in English, voice-over versions has been produced in the 4 other languages of the project (The German version of the videos in module 2, 3 et 4 was developped within the project as requested by Luxembourg partner - another project is now on and will produce the german version of those 6 videos).
 The Voice-over videos and their associated subtitles were produced by a sub-contractor. Each partner has interacted directly with the provider to review and when necessary improve the translated voice scripts of each original video before the recording of voice-over. Note that all voice-overs were made by native speakers.
-- All the videos in the 5 languages are uploaded on the AI4T YouTube Channel.
+- All the videos in the 5 languages can be accessed on the AI4T YouTube Channel.
 
 3. **Videos subtitles**
 - Translated subtitles are available on the project AI4T YouTube channel.
