@@ -1,5 +1,5 @@
 ---
-title: Presentation of resources used for Pilot Phase by Ireland
+title: Presentation the project forge and multilinguism
 description: Some resources used for Pilot Phase by Ireland
 ---
 # Presentation of resources used for Pilot Phase by Ireland
