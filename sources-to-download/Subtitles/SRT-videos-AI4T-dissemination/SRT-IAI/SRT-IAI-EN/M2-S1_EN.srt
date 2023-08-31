@@ -1,0 +1,108 @@
+WEBVTT
+
+00:00:01.446 --> 00:00:02.526 
+The hotline.
+
+00:00:02.566 --> 00:00:05.366 
+Guillaume. What's on your mind today?
+
+00:00:05.406 --> 00:00:09.046 
+My cousin Theo told me about a pizza
+powered by artificial intelligence.
+
+00:00:09.086 --> 00:00:10.086 
+There's no way.
+
+00:00:10.126 --> 00:00:13.086 
+No, he is right.
+The food industry is also in on it.
+
+00:00:13.126 --> 00:00:15.286 
+I wonder what it would taste like.
+
+00:00:15.326 --> 00:00:17.926 
+Have you ever licked a circuit board?
+
+00:00:18.526 --> 00:00:21.526 
+How do they get
+artificial intelligence into a pizza?
+
+00:00:21.566 --> 00:00:22.846 
+I'm missing something here.
+
+00:00:23.326 --> 00:00:25.246 
+AI on everything?
+
+00:00:26.446 --> 00:00:28.686 
+They don't really put AI in the pizza.
+
+00:00:28.726 --> 00:00:32.046 
+They put lots of data
+in a machine learning model.
+
+00:00:32.086 --> 00:00:34.366 
+For example, data about ingredients,
+
+00:00:34.406 --> 00:00:37.846 
+customer preferences, recipe trials
+and tester feedback.
+
+00:00:37.886 --> 00:00:40.006 
+Using all this data,
+
+00:00:40.046 --> 00:00:42.606 
+the model will generate
+many different recipes,
+
+00:00:42.646 --> 00:00:44.686 
+without preconceived ideas
+about their taste,
+
+00:00:44.726 --> 00:00:47.406 
+and predict
+whether they will appeal to customers.
+
+00:00:47.446 --> 00:00:49.286 
+Wait a minute. If I understand correctly,
+
+00:00:49.326 --> 00:00:51.686 
+you are telling me
+that our society now uses
+
+00:00:51.726 --> 00:00:54.166 
+-statistics to create pizzas?
+-Yes.
+
+00:00:54.206 --> 00:00:56.686 
+Machine learning algorithms can be used
+
+00:00:56.726 --> 00:00:59.726 
+in many areas,
+and marketing is no exception
+
+00:00:59.766 --> 00:01:02.166 
+as long as data can be fed
+into the models.
+
+00:01:02.206 --> 00:01:03.806 
+Does it need a lot of data?
+
+00:01:03.846 --> 00:01:05.646 
+Yes, you need lots of data.
+
+00:01:05.686 --> 00:01:07.526 
+Besides, the more data you give them,
+
+00:01:07.566 --> 00:01:11.366 
+the more machine learning models learn
+how to predict the next data correctly.
+
+00:01:11.726 --> 00:01:13.006 
+Do you see what I mean?
+
+00:01:13.046 --> 00:01:15.566 
+I can better see how big data connects,
+but it still doesn't add up.
+
+00:01:15.606 --> 00:01:16.926 
+I need to dig deeper.

@@ -1,0 +1,459 @@
+﻿1
+00:00:02,140 --> 00:00:05,388
+Ethische Aspekte von
+künstlicher Intelligenz in der Bildung
+
+2
+00:00:05,553 --> 00:00:08,203
+Herausforderungen im europäischen Kontext
+
+3
+00:00:09,350 --> 00:00:10,810
+Auf europäischer Ebene
+
+4
+00:00:10,835 --> 00:00:14,161
+gibt es verschiedene Herausforderungen
+auf unterschiedlichen Ebenen,
+
+5
+00:00:14,186 --> 00:00:17,170
+die anhand des Leitfadens
+der Europäischen Kommission
+
+6
+00:00:17,195 --> 00:00:21,678
+zur ethischen Nutzung von KI im
+Bildungskontext angegangen werden müssen.
+
+7
+00:00:24,566 --> 00:00:28,177
+Ein gemeinsamer Ansatz
+für unterschiedliche Bildungssysteme
+
+8
+00:00:28,990 --> 00:00:31,847
+Die erste Herausforderung
+im europäischen Kontext
+
+9
+00:00:31,872 --> 00:00:34,153
+stellen natürlich
+die unterschiedlichen Bildungs-
+
+10
+00:00:34,178 --> 00:00:35,630
+und Schulsysteme dar.
+
+11
+00:00:38,413 --> 00:00:40,460
+Obwohl wir alle ähnliche Fragen haben,
+
+12
+00:00:40,485 --> 00:00:42,890
+müssen wir die bestehenden
+Unterschiede beachten.
+
+13
+00:00:45,131 --> 00:00:48,826
+Im europäischen Kontext müssen wir uns
+dieser Herausforderung bewusst sein
+
+14
+00:00:48,851 --> 00:00:52,912
+und Lösungen anbieten,
+die zwar gleich oder ähnlich sein können,
+
+15
+00:00:53,797 --> 00:00:57,398
+sich aber auch je nach Land,
+Region und lokalem Kontext
+
+16
+00:00:57,423 --> 00:00:58,391
+unterscheiden können.
+
+17
+00:01:04,290 --> 00:01:05,196
+Alle Ebenen
+
+18
+00:01:05,221 --> 00:01:07,822
+- regional, national und europäisch -
+
+19
+00:01:07,847 --> 00:01:09,323
+müssen berücksichtigt werden.
+
+20
+00:01:09,758 --> 00:01:13,647
+Wir sollten die Chance nutzen, uns
+gemeinsam dieser Herausforderung zu stellen
+
+21
+00:01:13,672 --> 00:01:17,383
+und zusammen Probleme identifizieren
+und Lösungen vorschlagen,
+
+22
+00:01:17,496 --> 00:01:21,430
+aber gleichzeitig jedem Mitgliedstaat
+den notwendigen Spielraum lassen.
+
+23
+00:01:22,704 --> 00:01:24,961
+Je nach Prioritäten der Mitgliedstaaten
+
+24
+00:01:24,986 --> 00:01:27,696
+müssen wir auf europäischer Ebene
+Mehrwert generieren
+
+25
+00:01:27,721 --> 00:01:30,782
+und zwar basierend
+auf den Kompetenzen aller Staaten.
+
+26
+00:01:31,806 --> 00:01:34,439
+Eine passende praktische Implementierung
+
+27
+00:01:35,759 --> 00:01:39,985
+Die zweite Herausforderung besteht darin,
+einen ethischen und begründeten Ansatz
+
+28
+00:01:40,010 --> 00:01:44,040
+zu verfolgen, anhand dessen
+die relevanten Anwendungsfälle von KI
+
+29
+00:01:44,065 --> 00:01:46,182
+und die damit zusammenhängenden Daten
+
+30
+00:01:46,207 --> 00:01:47,721
+ausfindig gemacht werden können.
+
+31
+00:01:52,138 --> 00:01:54,778
+So können wir die Ziele erreichen,
+die wir uns setzen,
+
+32
+00:01:54,840 --> 00:01:57,372
+seien es Lernziele oder Karriereziele.
+
+33
+00:02:00,086 --> 00:02:02,992
+Wir nutzen KI,
+um jeder Schülerin und jedem Schüler
+
+34
+00:02:03,017 --> 00:02:05,257
+personalisierte Lösungen vorzuschlagen,
+
+35
+00:02:05,282 --> 00:02:08,390
+die ihr oder ihn im individuellen
+Lernrhythmus
+
+36
+00:02:08,415 --> 00:02:10,289
+und Lernpfad unterstützen.
+
+37
+00:02:13,939 --> 00:02:17,280
+Sie können während der gesamten Schulzeit
+darauf zurückgreifen.
+
+38
+00:02:18,532 --> 00:02:19,657
+Auch in anderen Fällen
+
+39
+00:02:19,682 --> 00:02:21,813
+wie zum Beispiel
+bei Schülerinnen oder Schülern
+
+40
+00:02:21,838 --> 00:02:24,235
+mit speziellen Bedürfnissen
+bestehen Lösungen,
+
+41
+00:02:24,260 --> 00:02:25,517
+die auf die Lehrkräfte
+
+42
+00:02:25,542 --> 00:02:27,798
+sowie auf die Lernenden abgestimmt sind.
+
+43
+00:02:32,047 --> 00:02:33,296
+Das ist sehr wichtig.
+
+44
+00:02:33,441 --> 00:02:36,874
+Diese Herausforderung muss
+zwingend mit Feedback aus der Praxis,
+
+45
+00:02:36,972 --> 00:02:38,476
+Bildungsforschung sowie
+
+46
+00:02:38,501 --> 00:02:40,433
+digitaler Bildung verknüpft werden.
+
+47
+00:02:41,074 --> 00:02:43,074
+Auch das ist eine Herausforderung:
+
+48
+00:02:43,785 --> 00:02:46,753
+Es gilt, so gut wie möglich
+vernetzt zu sein,
+
+49
+00:02:47,489 --> 00:02:51,284
+um nicht alleine und isoliert an
+diesem wichtigen Thema zu arbeiten.
+
+50
+00:02:55,713 --> 00:02:57,923
+Wir müssen stets im Team arbeiten.
+
+51
+00:02:58,315 --> 00:03:01,320
+Das ist ein wichtiger Aspekt
+der zweiten Herausforderung
+
+52
+00:03:01,345 --> 00:03:03,681
+eines ethischen und begründeten Ansatzes,
+
+53
+00:03:03,706 --> 00:03:06,673
+um das Lernverhalten
+der Schülerinnen und Schüler zu fördern.
+
+54
+00:03:08,747 --> 00:03:11,380
+Weiterentwicklung
+der beruflichen Praxis
+
+55
+00:03:12,614 --> 00:03:15,560
+Wir sehen uns noch mit einer
+dritten Herausforderung konfrontiert,
+
+56
+00:03:15,638 --> 00:03:17,458
+der Neuartigkeit des Themas.
+
+57
+00:03:17,919 --> 00:03:21,333
+Der Einzug von KI und
+Datenwissenschaften in die Bildung,
+
+58
+00:03:21,358 --> 00:03:23,926
+einschließlich
+der traditionellen Technologien,
+
+59
+00:03:23,951 --> 00:03:25,489
+die Lehrkräfte verwenden,
+
+60
+00:03:25,709 --> 00:03:28,670
+ist ein systemischer
+und (r)evolutionärer Wandel.
+
+61
+00:03:32,031 --> 00:03:34,781
+Es geht unter anderem um Daten,
+die wir als Input
+
+62
+00:03:34,806 --> 00:03:37,406
+für eine Analyse
+der Lernspuren heranziehen,
+
+63
+00:03:37,431 --> 00:03:40,962
+wenn wir beispielsweise
+auf adaptives Lernen setzen.
+
+64
+00:03:47,082 --> 00:03:50,637
+Das bedeutet für den Lernenden,
+die ihm angebotene Unterstützung,
+
+65
+00:03:50,662 --> 00:03:53,973
+zu berücksichtigen, obwohl es
+vielleicht nicht die Unterstützung ist,
+
+66
+00:03:53,998 --> 00:03:57,943
+die er oder sie aufgrund seines oder
+ihres Inputs erwarten würde.
+
+67
+00:04:02,989 --> 00:04:06,478
+Anders ausgedrückt: In einer Übung
+oder einer Reihe von Übungen
+
+68
+00:04:06,503 --> 00:04:08,528
+werden wir wahrscheinlich Daten erhalten,
+
+69
+00:04:08,553 --> 00:04:13,284
+die uns stärkere oder schwächere Signale
+zum Lernverhalten der Lernenden geben.
+
+70
+00:04:16,108 --> 00:04:18,975
+Das heißt also,
+dass wir als Teil unseres Lehrberufs
+
+71
+00:04:19,000 --> 00:04:20,498
+und unserer beruflichen Entwicklung
+
+72
+00:04:20,523 --> 00:04:21,443
+lernen müssen,
+
+73
+00:04:21,593 --> 00:04:25,061
+KI-Analysen und -Daten
+sinnvoll einzusetzen.
+
+74
+00:04:31,582 --> 00:04:35,574
+Wir sprechen hier insbesondere
+von Datenanalysen über Zeiträume,
+
+75
+00:04:35,599 --> 00:04:39,230
+die zu lang wären,
+um selbst eine Analyse durchzuführen.
+
+76
+00:04:39,656 --> 00:04:41,574
+Dadurch erhalten wir mehr Sicherheit,
+
+77
+00:04:41,654 --> 00:04:44,421
+selbst wenn es
+zu ungeplanten Situationen kommt,
+
+78
+00:04:44,467 --> 00:04:46,999
+und wir können
+entsprechend flexibel reagieren.
+
+79
+00:04:49,021 --> 00:04:51,015
+Das berufliche Umfeld einer Lehrkraft
+
+80
+00:04:51,040 --> 00:04:53,536
+könnte sich dadurch
+also grundlegend verändern,
+
+81
+00:04:53,589 --> 00:04:55,479
+aber unsere Gesellschaft wird sich sowieso
+
+82
+00:04:55,504 --> 00:04:58,252
+grundlegend verändern,
+wenn KI-Technologien
+
+83
+00:04:58,277 --> 00:05:02,370
+und digitale Anwendungen und Services
+vermehrt zum Einsatz kommen.
+
+84
+00:05:04,566 --> 00:05:07,691
+Zusammenfassend lässt sich sagen,
+dass die Herausforderungen
+
+85
+00:05:07,716 --> 00:05:11,011
+zwar hauptsächlich pädagogischer
+und didaktischer Natur sind,
+
+86
+00:05:11,072 --> 00:05:14,628
+insbesondere im Zusammenspiel
+zwischen Lehrkräften und Lernenden,
+
+87
+00:05:14,820 --> 00:05:17,140
+sie aber weitreichende Folgen haben.
+
+88
+00:05:20,001 --> 00:05:22,460
+Wie immer,
+wenn Technologie zum Einsatz kommt,
+
+89
+00:05:22,485 --> 00:05:26,381
+ergibt sich auch hier Gelegenheit
+zur Reflexion grundlegender Fragen:
+
+90
+00:05:26,585 --> 00:05:30,866
+Was lernen wir,
+warum lernen wir, wie lernen wir?
+
+91
+00:05:31,092 --> 00:05:34,249
+Durch das Experimentieren mit
+und Testen von
+
+92
+00:05:34,274 --> 00:05:36,967
+großen Mengen an Daten
+über einen längeren Zeitraum
+
+93
+00:05:36,992 --> 00:05:38,859
+eröffnen sich neue Möglichkeiten.
+
+94
+00:05:41,958 --> 00:05:44,008
+Selbst für ausgezeichnete Lehrkräfte
+
+95
+00:05:44,033 --> 00:05:48,270
+kann Big Data sehr nützlich sein,
+wenn Lehrende sie als Unterstützung betrachten
+
+96
+00:05:48,295 --> 00:05:51,207
+und volle Verantwortung
+für ihr Handeln übernehmen.
+
+97
+00:05:56,971 --> 00:06:00,611
+Das bedeutet, dass die menschliche
+Beziehung auch hier wesentlich ist:
+
+98
+00:06:01,001 --> 00:06:03,876
+Selbstverständlich trifft
+die Lehrkraft die Entscheidungen
+
+99
+00:06:03,901 --> 00:06:05,665
+und nicht "die Maschine".
+

@@ -1,0 +1,292 @@
+1
+00:00:08,884 --> 00:00:10,536
+Imagine this metaphor
+
+2
+00:00:10,536 --> 00:00:12,339
+that depicts a narrow point of view
+
+3
+00:00:12,339 --> 00:00:14,469
+for school as a place that offers courses
+
+4
+00:00:14,469 --> 00:00:15,919
+that can be represented
+
+5
+00:00:15,944 --> 00:00:18,947
+as well-defined “courses corridors”.
+
+6
+00:00:19,238 --> 00:00:21,974
+These courses corridors have an entry point,
+
+7
+00:00:21,974 --> 00:00:22,964
+which is the one through
+
+8
+00:00:22,964 --> 00:00:25,031
+which we enter the formal education system,
+
+9
+00:00:25,031 --> 00:00:27,180
+and they also have a more or less
+
+10
+00:00:27,180 --> 00:00:28,458
+distant objective,
+
+11
+00:00:28,458 --> 00:00:30,747
+which is the one that allows our arrival,
+
+12
+00:00:30,747 --> 00:00:33,533
+in the long term, to the professional world.
+
+13
+00:00:34,103 --> 00:00:35,747
+These corridors are relatively
+
+14
+00:00:35,747 --> 00:00:38,424
+well mapped out, clear, and well defined,
+
+15
+00:00:38,424 --> 00:00:40,000
+and they are designed for pupils
+
+16
+00:00:40,000 --> 00:00:41,704
+who are ready to follow them.
+
+17
+00:00:42,329 --> 00:00:44,360
+Pupils are well aligned,
+
+18
+00:00:44,360 --> 00:00:46,461
+well seated in the starting blocks,
+
+19
+00:00:46,461 --> 00:00:48,199
+and ready to start working
+
+20
+00:00:48,199 --> 00:00:51,135
+and learning efficiently.
+
+21
+00:00:51,954 --> 00:00:54,420
+We are all aware, and particularly
+
+22
+00:00:54,420 --> 00:00:57,000
+the actors in the formal education systems,
+
+23
+00:00:57,000 --> 00:00:58,212
+that for some pupils,
+
+24
+00:00:58,212 --> 00:01:00,974
+each corridor is an obstacle course race
+
+25
+00:01:00,974 --> 00:01:03,545
+with sometimes significant difficulties.
+
+26
+00:01:03,983 --> 00:01:06,084
+Some pupils will drop out.
+
+27
+00:01:06,084 --> 00:01:09,457
+Others, fortunately, will succeed.
+
+28
+00:01:10,590 --> 00:01:12,112
+But the reality
+
+29
+00:01:12,112 --> 00:01:15,340
+is much more complex than that.
+
+30
+00:01:15,738 --> 00:01:17,440
+When we look at the starting line,
+
+31
+00:01:17,440 --> 00:01:18,727
+we see pupils who are
+
+32
+00:01:18,727 --> 00:01:21,170
+indeed well prepared, and ready to go.
+
+33
+00:01:21,170 --> 00:01:22,502
+There are others who,
+
+34
+00:01:22,502 --> 00:01:24,256
+although they are ready to go,
+
+35
+00:01:24,256 --> 00:01:26,492
+are not well equipped or trained:
+
+36
+00:01:26,492 --> 00:01:28,153
+they do not have the right tools,
+
+37
+00:01:28,153 --> 00:01:30,538
+they do not have the right concepts.
+
+38
+00:01:30,538 --> 00:01:32,130
+They don’t have the right preparation
+
+39
+00:01:32,130 --> 00:01:33,180
+or the right environment
+
+40
+00:01:33,180 --> 00:01:35,272
+that will allow them to succeed.
+
+41
+00:01:35,272 --> 00:01:38,461
+Others are there, ready to participate,
+
+42
+00:01:38,461 --> 00:01:39,797
+but don’t fully understand
+
+43
+00:01:39,797 --> 00:01:41,547
+what is expected of them,
+
+44
+00:01:41,547 --> 00:01:43,730
+and are then faced with difficulties.
+
+45
+00:01:43,730 --> 00:01:45,524
+And then there are those who,
+
+46
+00:01:45,524 --> 00:01:47,616
+from the start, either quickly give up,
+
+47
+00:01:47,616 --> 00:01:50,458
+or are not really ready to start.
+
+48
+00:01:50,458 --> 00:01:52,797
+Of course, each pupil will build
+
+49
+00:01:52,797 --> 00:01:54,968
+his or her own learning path
+
+50
+00:01:54,968 --> 00:01:56,421
+with the help of the teachers,
+
+51
+00:01:56,421 --> 00:01:58,222
+and all paths are good.
+
+52
+00:01:58,753 --> 00:02:00,691
+Whether they go through the sand dunes
+
+53
+00:02:00,691 --> 00:02:02,876
+or stay in the well-marked corridors,
+
+54
+00:02:02,876 --> 00:02:04,622
+whether they take other paths
+
+55
+00:02:04,622 --> 00:02:06,659
+or whether they take a few breaks
+
+56
+00:02:06,659 --> 00:02:08,391
+to regain their strength and recover.
+
+57
+00:02:09,087 --> 00:02:11,713
+Depending on each individual preferences,
+
+58
+00:02:11,713 --> 00:02:14,174
+these paths can be followed alone
+
+59
+00:02:14,174 --> 00:02:15,736
+or supported by other pupils,
+
+60
+00:02:15,736 --> 00:02:17,406
+teachers or supervisors.
+
+61
+00:02:17,804 --> 00:02:20,612
+So, where, and how
+
+62
+00:02:20,612 --> 00:02:23,289
+can artificial intelligence be used
+
+63
+00:02:23,289 --> 00:02:24,588
+ to ensure that each pupil
+
+64
+00:02:24,588 --> 00:02:25,966
+will follow the learning path
+
+65
+00:02:25,966 --> 00:02:28,422
+that is best suited to their needs
+
+66
+00:02:28,422 --> 00:02:30,646
+and this path will allow them to succeed?
+
+67
+00:02:31,224 --> 00:02:33,846
+Why can’t we do as the motion tracking
+
+68
+00:02:33,846 --> 00:02:35,204
+applications do?
+
+69
+00:02:35,204 --> 00:02:37,406
+That means, providing better analysis,
+
+70
+00:02:37,406 --> 00:02:39,289
+through artificial intelligence,
+
+71
+00:02:39,289 --> 00:02:41,048
+of digital learning behaviors
+
+72
+00:02:41,048 --> 00:02:43,329
+and moving towards greater
+
+73
+00:02:43,329 --> 00:02:46,269
+personalization of learning paths.
+

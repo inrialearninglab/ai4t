@@ -1,0 +1,73 @@
+1
+00:00:03,918 --> 00:00:05,919
+Questo nuovo tipo di rete neurale
+
+2
+00:00:05,944 --> 00:00:07,325
+solleva molte domande,
+
+3
+00:00:07,350 --> 00:00:10,726
+poiché queste GAN esistono
+per tutti i formati multimediali:
+
+4
+00:00:10,751 --> 00:00:13,484
+testo, musica, immagini animate e video.
+
+5
+00:00:13,827 --> 00:00:16,040
+Quindi, vero o falso?
+
+6
+00:00:16,077 --> 00:00:18,095
+Sta diventando essenziale imparare
+
+7
+00:00:18,127 --> 00:00:19,767
+a riconoscere se un'immagine è reale
+
+8
+00:00:19,792 --> 00:00:21,256
+o generata da una macchina.
+
+9
+00:00:21,281 --> 00:00:23,542
+Ma quanto ci vorrà prima che i dettagli
+
+10
+00:00:23,567 --> 00:00:24,677
+non siano più visibili?
+
+11
+00:00:24,702 --> 00:00:27,114
+Tutti i tipi di contenuti sono interessati
+
+12
+00:00:27,139 --> 00:00:29,114
+da queste possibilità generative?
+
+13
+00:00:29,139 --> 00:00:31,200
+Chi è l'autore di queste immagini?
+
+14
+00:00:31,225 --> 00:00:33,223
+La persona che ha creato il programma?
+
+15
+00:00:33,248 --> 00:00:35,143
+Il programma che ha creato immagini
+
+16
+00:00:35,168 --> 00:00:36,336
+che non esistevano?
+
+17
+00:00:36,361 --> 00:00:38,489
+E se non sappiamo se è reale,
+
+18
+00:00:38,514 --> 00:00:40,879
+c'è un annichilimento della finzione?
+

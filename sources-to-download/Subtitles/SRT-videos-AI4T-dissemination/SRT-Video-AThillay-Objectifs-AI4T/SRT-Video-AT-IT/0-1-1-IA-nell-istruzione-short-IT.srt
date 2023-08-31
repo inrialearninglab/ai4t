@@ -1,0 +1,130 @@
+1
+00:00:01,957 --> 00:00:04,093
+INTELLIGENZA ARTIFICIALE NELL'ISTRUZIONE:
+
+2
+00:00:04,206 --> 00:00:08,578
+COMPRENDERE, SPERIMENTARE,
+SVILUPPARE COMPETENZE DIGITALI ED ETICHE
+
+3
+00:00:09,676 --> 00:00:13,159
+L'obiettivo di questa formazione
+nel contesto europeo
+
+4
+00:00:13,184 --> 00:00:17,510
+è quello di poter finalmente affrontare
+questo tema su tre livelli:
+
+5
+00:00:18,006 --> 00:00:22,966
+demistificare e comprendere
+ciò che l'IA può apportare all'istruzione,
+
+6
+00:00:23,852 --> 00:00:26,741
+sperimentare e utilizzare risorse
+
+7
+00:00:26,766 --> 00:00:30,548
+che includono l'IA
+in modo informato, naturalmente,
+
+8
+00:00:31,126 --> 00:00:34,842
+e, infine, sviluppare
+in tutti gli insegnanti e gli studenti
+
+9
+00:00:34,867 --> 00:00:38,038
+le competenze digitali
+necessarie al giorno d'oggi,
+
+10
+00:00:38,677 --> 00:00:40,780
+e l'IA è una di queste,
+
+11
+00:00:41,686 --> 00:00:45,139
+o almeno far capire
+che l'utilizzo dell'IA ne è parte,
+
+12
+00:00:46,166 --> 00:00:48,600
+in modo da integrare la dimensione etica
+
+13
+00:00:48,625 --> 00:00:51,115
+fin dall'inizio in questi progetti.
+
+14
+00:00:52,313 --> 00:00:55,134
+In altre parole, a cosa serve l'IA?
+
+15
+00:00:55,431 --> 00:00:59,634
+Per quali sfide usare l'IA?
+Per ottenere quali risultati?
+
+16
+00:01:00,006 --> 00:01:03,655
+Come implementare e utilizzare
+queste risorse d'IA?
+
+17
+00:01:04,554 --> 00:01:07,255
+Infine, come integrare fin dall'inizio
+
+18
+00:01:07,280 --> 00:01:09,998
+le domande in grado di indurre
+una riflessione etica
+
+19
+00:01:10,023 --> 00:01:12,155
+al di là delle questioni normative?
+
+20
+00:01:13,387 --> 00:01:16,269
+Per questa ragione, abbiamo scelto
+di provare ad approcciare
+
+21
+00:01:16,294 --> 00:01:19,410
+l'introduzione dell'IA in ambito educativo
+
+22
+00:01:19,435 --> 00:01:22,722
+a partire da una fascia d'età
+di 15-16 anni,
+
+23
+00:01:23,083 --> 00:01:25,536
+con alunni al primo anno
+della scuola superiore,
+
+24
+00:01:25,561 --> 00:01:28,216
+nella matematica
+e nelle scienze da una parte
+
+25
+00:01:28,241 --> 00:01:31,107
+e nell'apprendimento
+delle lingue moderne dall'altra,
+
+26
+00:01:32,200 --> 00:01:35,247
+poiché necessitavamo
+di due campi di sperimentazione
+
+27
+00:01:35,406 --> 00:01:37,288
+due aree di sperimentazione,
+
+28
+00:01:37,313 --> 00:01:41,241
+che potessero essere portate avanti
+per tutta la durata del progetto.
+

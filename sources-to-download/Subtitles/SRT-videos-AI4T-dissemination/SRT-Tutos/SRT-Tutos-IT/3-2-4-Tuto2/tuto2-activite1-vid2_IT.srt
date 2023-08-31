@@ -1,0 +1,67 @@
+1
+00:00:00,090 --> 00:00:02,965
+SESSISTA? E SE FOSSERO I NOSTRI DATI...
+
+2
+00:00:03,006 --> 00:00:05,413
+Sicuramente avrai potuto notare
+che il nostro modello
+
+3
+00:00:05,438 --> 00:00:08,440
+riconosceva tutte le persone
+con i capelli lunghi come donne
+
+4
+00:00:08,465 --> 00:00:10,748
+e tutte quelle con i capelli corti
+come uomini.
+
+5
+00:00:10,773 --> 00:00:12,002
+Senza rendercene conto,
+
+6
+00:00:12,027 --> 00:00:13,182
+gli abbiamo fornito dei dati
+
+7
+00:00:13,207 --> 00:00:16,982
+organizzati secondo criteri diversi
+da quelli che noi avevamo definito.
+
+8
+00:00:17,007 --> 00:00:20,936
+L'ordinamento dei dati è stato influenzato
+dalla nostra percezione del problema.
+
+9
+00:00:20,961 --> 00:00:23,561
+Quando succede,
+si dice che i dati sono distorti.
+
+10
+00:00:23,586 --> 00:00:26,241
+Gli algoritmi d'IA
+esistono da molto tempo,
+
+11
+00:00:26,266 --> 00:00:29,525
+ma non funzionavano così bene
+perché non avevamo dati etichettati.
+
+12
+00:00:29,550 --> 00:00:32,235
+Oggi, i dati sono disponibili
+e in grande quantità.
+
+13
+00:00:32,272 --> 00:00:34,727
+È per questo motivo
+che l'IA è così diffusa.
+
+14
+00:00:34,752 --> 00:00:37,919
+Ma bisogna fare attenzione,
+perché i dati possono essere distorti.
+

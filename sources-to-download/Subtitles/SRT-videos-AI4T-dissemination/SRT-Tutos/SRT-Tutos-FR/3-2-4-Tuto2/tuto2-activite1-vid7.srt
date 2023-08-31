@@ -1,0 +1,108 @@
+﻿1
+00:00:00,187 --> 00:00:01,146
+Tromper la machine.
+
+2
+00:00:01,312 --> 00:00:02,646
+Comme tu as pu le voir,
+
+3
+00:00:02,771 --> 00:00:05,854
+les données jouent un rôle essentiel
+dans l'apprentissage d'une IA.
+
+4
+00:00:05,896 --> 00:00:07,521
+On peut facilement tromper la machine.
+
+5
+00:00:07,771 --> 00:00:09,521
+Pour pouvoir entraîner une IA,
+
+6
+00:00:09,646 --> 00:00:11,979
+on a besoin de milliers
+et de milliers d'exemples
+
+7
+00:00:12,104 --> 00:00:13,146
+et de savoir ce que c'est.
+
+8
+00:00:13,646 --> 00:00:16,354
+Aujourd'hui,
+on peut facilement trouver des exemples
+
+9
+00:00:16,479 --> 00:00:19,021
+avec des étiquettes,
+ou "labels" en anglais,
+
+10
+00:00:19,104 --> 00:00:21,104
+pour répondre à nos problèmes d'IA.
+
+11
+00:00:21,187 --> 00:00:23,104
+Tu peux créer ton propre jeu de données
+
+12
+00:00:23,229 --> 00:00:25,312
+ou en utiliser des déjà prêts à l'emploi,
+
+13
+00:00:25,396 --> 00:00:26,771
+mais comme tu le sais maintenant,
+
+14
+00:00:26,896 --> 00:00:28,104
+il faut être prudent
+avec ces données,
+
+15
+00:00:28,271 --> 00:00:30,825
+car on peut facilement obtenir
+ des données biaisées
+
+16
+00:00:30,850 --> 00:00:32,437
+ si on ne se pose pas les bonnes questions
+
+17
+00:00:32,521 --> 00:00:33,896
+ou si on ne les trie pas correctement.
+
+18
+00:00:34,021 --> 00:00:35,604
+Il existe deux types de biais,
+
+19
+00:00:35,771 --> 00:00:37,604
+les biais de traitement ou statistiques,
+
+20
+00:00:37,729 --> 00:00:40,062
+ceux qui concernent
+une mauvaise préparation des données,
+
+21
+00:00:40,187 --> 00:00:41,812
+et les biais sociétaux ou cognitifs,
+
+22
+00:00:41,979 --> 00:00:43,354
+ceux qui concernent les biais humains,
+
+23
+00:00:43,479 --> 00:00:45,021
+les questions de genres par exemple.
+
+24
+00:00:45,146 --> 00:00:48,187
+Au final, l'IA reste de l'humain
+ et ce qu'on y met,
+
+25
+00:00:48,354 --> 00:00:50,312
+bonnes intentions et biais.
+

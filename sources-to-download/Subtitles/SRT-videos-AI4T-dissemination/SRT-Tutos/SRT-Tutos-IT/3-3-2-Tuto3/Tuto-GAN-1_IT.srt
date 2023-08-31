@@ -1,0 +1,75 @@
+﻿1
+00:00:04,166 --> 00:00:06,966
+Per creare immagini,
+l'intelligenza artificiale
+
+2
+00:00:06,991 --> 00:00:09,368
+si affida a reti neurali molto speciali...
+
+3
+00:00:09,393 --> 00:00:11,492
+le Reti Generative Avversarie,
+
+4
+00:00:11,531 --> 00:00:13,220
+meglio note come GAN.
+
+5
+00:00:13,404 --> 00:00:15,727
+La GAN è una sorta di abracadabra
+
+6
+00:00:15,752 --> 00:00:17,300
+per la creazione di immagini.
+
+7
+00:00:17,793 --> 00:00:20,376
+La GAN consiste di due reti neurali
+
+8
+00:00:20,401 --> 00:00:21,889
+in competizione tra loro:
+
+9
+00:00:21,952 --> 00:00:24,550
+il generatore e il discriminatore.
+
+10
+00:00:24,575 --> 00:00:26,346
+Le due reti neurali
+
+11
+00:00:26,371 --> 00:00:28,015
+sono in competizione tra loro
+
+12
+00:00:28,040 --> 00:00:29,958
+e una cerca di ingannare l'altra.
+
+13
+00:00:30,018 --> 00:00:33,252
+Il compito del generatore
+è quello di generare
+
+14
+00:00:33,277 --> 00:00:35,526
+migliaia e migliaia di nuove immagini.
+
+15
+00:00:35,780 --> 00:00:37,694
+Per il discriminatore, invece,
+
+16
+00:00:37,719 --> 00:00:40,696
+è capire se l'immagine
+è stata generata o meno.
+
+17
+00:00:40,721 --> 00:00:43,361
+E voi, siete una buona rete neurale?
+
+18
+00:00:43,386 --> 00:00:45,999
+Sarete in grado di stanare l'IA?
+

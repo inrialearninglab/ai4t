@@ -1,0 +1,63 @@
+1
+00:00:00,700 --> 00:00:04,423
+IL NOSTRO PROGRAMMA SA FARE
+SOLO CIÒ PER CUI È STATO ADDESTRATO!
+
+2
+00:00:04,693 --> 00:00:07,748
+Il programma può riconoscere
+solo ciò che gli è stato mostrato.
+
+3
+00:00:07,773 --> 00:00:10,159
+Se lo si addestra
+a riconoscere cani e gatti,
+
+4
+00:00:10,184 --> 00:00:11,846
+non potrà riconoscere dei leoni,
+
+5
+00:00:11,871 --> 00:00:14,557
+ma ci potrà dire
+a quale categoria si avvicinano di più,
+
+6
+00:00:14,582 --> 00:00:15,584
+cioè ai gatti.
+
+7
+00:00:15,609 --> 00:00:17,762
+Non sa più di quello
+che gli viene insegnato.
+
+8
+00:00:17,787 --> 00:00:19,402
+Quando scopriamo una cosa nuova,
+
+9
+00:00:19,427 --> 00:00:21,950
+neanche noi sappiamo subito
+di cosa si tratta,
+
+10
+00:00:21,975 --> 00:00:23,451
+ma, una volta appreso cos'è,
+
+11
+00:00:23,476 --> 00:00:26,606
+siamo capaci di riconoscerla
+in posizioni e contesti diversi.
+
+12
+00:00:26,631 --> 00:00:28,544
+Vale lo stesso per il nostro programma?
+
+13
+00:00:28,569 --> 00:00:30,539
+Se gli si insegna a riconoscere i leoni,
+
+14
+00:00:30,564 --> 00:00:32,759
+saprà riconoscere dei leoni di peluche?
+

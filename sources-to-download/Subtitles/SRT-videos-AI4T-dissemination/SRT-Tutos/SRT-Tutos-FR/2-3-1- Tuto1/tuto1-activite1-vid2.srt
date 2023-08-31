@@ -1,0 +1,63 @@
+﻿1
+00:00:00,226 --> 00:00:01,250
+Magique ?
+
+2
+00:00:02,023 --> 00:00:04,400
+Pour qu'un programme puisse apprendre
+ à reconnaître des images,
+
+3
+00:00:04,452 --> 00:00:05,777
+il faut d'abord l'entraîner:
+
+4
+00:00:05,902 --> 00:00:07,779
+c'est ce qu'on appelle
+apprentissage machine
+
+5
+00:00:07,904 --> 00:00:09,697
+ou machine learning en anglais.
+
+6
+00:00:09,948 --> 00:00:12,242
+On va lui montrer des exemples
+ en lui disant ce que c'est:
+
+7
+00:00:12,367 --> 00:00:15,411
+il s'agit d'une image de chat,
+il s'agit d'une image de chien,
+
+8
+00:00:15,495 --> 00:00:17,956
+et on va lui montrer
+des milliers pour chaque chose
+
+9
+00:00:17,997 --> 00:00:18,873
+que l'on veut reconnaître.
+
+10
+00:00:18,998 --> 00:00:21,251
+Au début, il va se tromper, beaucoup,
+
+11
+00:00:21,376 --> 00:00:23,211
+mais après avoir vu plein d'exemples,
+
+12
+00:00:23,294 --> 00:00:24,963
+il sera capable
+ de reconnaître une image de chat
+
+13
+00:00:25,088 --> 00:00:26,881
+ même sur une photo qu'il n'a jamais vue.
+
+14
+00:00:27,006 --> 00:00:29,551
+On va maintenant
+pouvoir entraîner notre propre IA.
+

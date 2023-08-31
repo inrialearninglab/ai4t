@@ -1,0 +1,311 @@
+﻿1
+00:00:04,080 --> 00:00:06,492
+Analisi dell'apprendimento
+
+2
+00:00:06,859 --> 00:00:08,279
+Intorno all'insegnante
+
+3
+00:00:08,304 --> 00:00:09,765
+e all'alunno si sta sviluppando
+
+4
+00:00:09,790 --> 00:00:11,410
+un intero ecosistema digitale.
+
+5
+00:00:11,530 --> 00:00:14,121
+L'uso della tecnologia digitale è diffuso
+
+6
+00:00:14,146 --> 00:00:16,506
+attraverso i più svariati
+tipi di dispositivi:
+
+7
+00:00:16,902 --> 00:00:18,230
+tablet, computer
+
+8
+00:00:18,347 --> 00:00:21,095
+e, naturalmente, accesso alla rete wifi.
+
+9
+00:00:21,120 --> 00:00:24,400
+Questo ambiente digitale consente
+di accedere
+
+10
+00:00:24,400 --> 00:00:26,200
+a informazioni, ambienti di apprendimento,
+
+11
+00:00:26,225 --> 00:00:28,263
+spazi di lavoro, libri di testo,
+
+12
+00:00:28,288 --> 00:00:30,789
+trascrizioni, relazioni scolastiche
+
+13
+00:00:30,814 --> 00:00:33,395
+e molte altre informazioni e strumenti.
+
+14
+00:00:33,519 --> 00:00:35,034
+A tutto questo si aggiungono
+
+15
+00:00:35,059 --> 00:00:36,730
+i contenuti didattici online:
+
+16
+00:00:36,755 --> 00:00:40,019
+libri di testo
+e eventualmente contenuti gratuiti,
+
+17
+00:00:40,044 --> 00:00:41,753
+come le risorse educative aperte.
+
+18
+00:00:43,080 --> 00:00:45,720
+Naturalmente,
+tutti questi materiali e risorse
+
+19
+00:00:45,720 --> 00:00:47,640
+non sostituiscono la ricchezza
+
+20
+00:00:47,640 --> 00:00:49,600
+delle interazioni
+tra insegnante e alunno,
+
+21
+00:00:49,600 --> 00:00:52,200
+discente e tra gli stessi alunni discenti.
+
+22
+00:00:52,669 --> 00:00:54,513
+Dall'altra parte di una piattaforma,
+
+23
+00:00:54,538 --> 00:00:56,747
+di uno schermo, accadono diverse cose,
+
+24
+00:00:56,849 --> 00:00:59,247
+ma noi ne vediamo solo il risultato.
+
+25
+00:00:59,390 --> 00:01:01,779
+Gli insegnanti sono abituati a cogliere
+
+26
+00:01:01,804 --> 00:01:02,833
+un certo numero di indizi
+
+27
+00:01:02,858 --> 00:01:03,977
+in un'aula fisica,
+
+28
+00:01:04,002 --> 00:01:06,072
+ma non sono tutti disponibili
+
+29
+00:01:06,097 --> 00:01:06,763
+allo stesso modo
+
+30
+00:01:06,788 --> 00:01:09,435
+quando passano attraverso
+gli strumenti digitali.
+
+31
+00:01:09,669 --> 00:01:12,541
+Gli indizi che gli insegnanti
+sono portati a percepire
+
+32
+00:01:12,566 --> 00:01:14,299
+in una situazione reale in classe
+
+33
+00:01:14,324 --> 00:01:16,833
+sono in particolare
+quelli del coinvolgimento
+
+34
+00:01:16,858 --> 00:01:18,011
+e della motivazione.
+
+35
+00:01:18,230 --> 00:01:18,941
+Ad esempio,
+
+36
+00:01:18,966 --> 00:01:21,168
+è possibile capire
+se un alunno sta dormendo.
+
+37
+00:01:21,380 --> 00:01:23,161
+Quando il livello di rumore aumenta,
+
+38
+00:01:23,186 --> 00:01:25,286
+si capisce che sta succedendo qualcosa.
+
+39
+00:01:25,454 --> 00:01:27,465
+Quando tutte le teste sono abbassate
+
+40
+00:01:27,490 --> 00:01:28,646
+durante la spiegazione
+
+41
+00:01:28,671 --> 00:01:29,630
+di un concetto alla lavagna,
+
+42
+00:01:29,655 --> 00:01:30,302
+si può dire
+
+43
+00:01:30,327 --> 00:01:32,568
+che sta succedendo qualcosa
+di insolito.
+
+44
+00:01:33,108 --> 00:01:34,827
+Anche se le spiegazioni possibili
+
+45
+00:01:34,852 --> 00:01:36,858
+sono molte, moltissime,
+
+46
+00:01:36,883 --> 00:01:38,764
+è importante saper cogliere questi indizi
+
+47
+00:01:38,789 --> 00:01:40,014
+o la loro mancanza.
+
+48
+00:01:40,560 --> 00:01:41,800
+Quando gli alunni non sono
+
+49
+00:01:41,825 --> 00:01:43,105
+più davanti all'insegnante,
+
+50
+00:01:43,130 --> 00:01:45,487
+come si fa a capire
+che stanno abbandonando,
+
+51
+00:01:45,571 --> 00:01:47,419
+che non sono più in grado di seguire
+
+52
+00:01:47,444 --> 00:01:50,176
+magari perchè il tema trattato
+è troppo complicato
+
+53
+00:01:50,302 --> 00:01:52,803
+o il formato di apprendimento
+non è adatto a loro,
+
+54
+00:01:52,828 --> 00:01:54,990
+o semplicemente perché non capiscono
+
+55
+00:01:55,015 --> 00:01:56,725
+perché devono seguire questo corso?
+
+56
+00:01:56,850 --> 00:01:58,686
+È soprattutto in questi ambiti,
+
+57
+00:01:58,750 --> 00:02:00,700
+come il coinvolgimento
+o la motivazione,
+
+58
+00:02:00,725 --> 00:02:02,943
+che lo sfruttamento
+delle tracce digitali
+
+59
+00:02:02,968 --> 00:02:06,661
+da parte delle tecnologie AI
+può aiutare l'insegnante,
+
+60
+00:02:06,686 --> 00:02:09,568
+oltre che l'alunno, in maniera simile 
+al coinvolgimento
+
+61
+00:02:09,593 --> 00:02:10,741
+ o alla motivazione.
+
+62
+00:02:10,960 --> 00:02:12,440
+Più in generale,
+
+63
+00:02:12,440 --> 00:02:14,080
+secondo il modello di Gartner,
+
+64
+00:02:14,080 --> 00:02:15,560
+le tecnologie di IA,
+
+65
+00:02:15,560 --> 00:02:18,240
+dalle più elementari alle più avanzate,
+
+66
+00:02:18,240 --> 00:02:20,160
+possono aiutare l'insegnante a descrivere
+
+67
+00:02:20,269 --> 00:02:21,418
+cosa è successo?
+
+68
+00:02:21,511 --> 00:02:23,950
+diagnosticare (perché è successo?),
+
+69
+00:02:24,083 --> 00:02:26,490
+prevedere (cosa succederà?)
+
+70
+00:02:26,536 --> 00:02:27,720
+o prescrivere,
+
+71
+00:02:27,720 --> 00:02:30,640
+(come agire in base 
+alla possibile evoluzione?)
+
+72
+00:02:30,999 --> 00:02:34,251
+una situazione di apprendimento
+per adattarla meglio
+
+73
+00:02:34,276 --> 00:02:36,583
+a un alunno o a un gruppo di alunni.
+

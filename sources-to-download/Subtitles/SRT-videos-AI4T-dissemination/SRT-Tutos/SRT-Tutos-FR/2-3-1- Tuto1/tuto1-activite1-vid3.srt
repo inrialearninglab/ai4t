@@ -1,0 +1,75 @@
+﻿1
+00:00:00,001 --> 00:00:02,401
+Nous venons d’entraîner
+notre premier programme.
+
+2
+00:00:02,483 --> 00:00:03,483
+Bravo.
+
+3
+00:00:03,586 --> 00:00:05,875
+Comme on a pu le voir
+il n’y a en fait rien de magique.
+
+4
+00:00:05,957 --> 00:00:07,949
+On lui a d’abord dit 
+ce qu’on allait lui montrer,
+
+5
+00:00:08,031 --> 00:00:09,667
+et puis on lui a montré 
+des exemples d’images.
+
+6
+00:00:09,866 --> 00:00:11,546
+C’est la phase d’apprentissage.
+
+7
+00:00:11,628 --> 00:00:13,833
+On appelle « Modèle »
+le programme qu’on entraîne.
+
+8
+00:00:14,427 --> 00:00:17,643
+Il peut maintenant prédire 
+à quelle catégorie appartient une image.
+
+9
+00:00:18,073 --> 00:00:20,708
+Sa prédiction reste 
+une approximation statistique,
+
+10
+00:00:20,854 --> 00:00:22,114
+d’où le pourcentage.
+
+11
+00:00:22,338 --> 00:00:24,542
+D’après son calcul,
+il y a plus de chances
+
+12
+00:00:24,624 --> 00:00:27,368
+que cette image appartienne 
+à telle catégorie plutôt qu’à une autre.
+
+13
+00:00:27,721 --> 00:00:29,509
+Mais est-ce qu’il peut tout reconnaître ?
+
+14
+00:00:29,770 --> 00:00:32,125
+Si on lui apprend à reconnaître 
+des chats ou des chats,
+
+15
+00:00:32,213 --> 00:00:34,333
+est-ce qu’il pourra reconnaître
+des lions ou des tigres ?
+
+16
+00:00:34,439 --> 00:00:36,239
+Notre programme peut-il se tromper ?
+

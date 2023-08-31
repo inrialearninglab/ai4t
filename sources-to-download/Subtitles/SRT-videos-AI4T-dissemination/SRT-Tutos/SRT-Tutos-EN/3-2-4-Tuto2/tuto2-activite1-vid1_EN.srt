@@ -1,0 +1,50 @@
+1
+00:00:00,090 --> 00:00:02,048
+Algorithms and data.
+
+2
+00:00:02,256 --> 00:00:05,678
+Today, when we talk
+about AI or artificial intelligence,
+
+3
+00:00:05,703 --> 00:00:08,396
+we are most often talking
+about machine learning.
+
+4
+00:00:08,421 --> 00:00:10,546
+Unlike previous algorithms,
+
+5
+00:00:10,571 --> 00:00:14,256
+which were a step-by-step description
+of how to perform an operation,
+
+6
+00:00:14,367 --> 00:00:15,967
+rather like a recipe,
+
+7
+00:00:16,295 --> 00:00:19,359
+machine learning consists
+of training a programme
+
+8
+00:00:19,384 --> 00:00:21,453
+to make predictions based on data.
+
+9
+00:00:22,536 --> 00:00:25,750
+For example,
+it is used to predict a user's likes
+
+10
+00:00:25,775 --> 00:00:28,281
+based on
+what they have already liked or watched.
+
+11
+00:00:28,954 --> 00:00:29,937
+Let's test it.
+

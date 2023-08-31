@@ -1,0 +1,107 @@
+WEBVTT
+
+00:00:01.446 --> 00:00:02.526
+Podpora strankam.
+
+00:00:02.566 --> 00:00:05.366
+Guillaume. Kaj te muči danes?
+
+00:00:05.406 --> 00:00:09.046
+Bratranec Theo mi je omenil pico,
+ki jo poganja umetna inteligenca.
+
+00:00:09.086 --> 00:00:10.086
+Same neumnosti kvasi.
+
+00:00:10.126 --> 00:00:13.086
+Ne, prav ima. Tudi živilska industrija
+se je podala v te vode.
+
+00:00:13.126 --> 00:00:15.286
+Zanima me, kakšen okus ima.
+
+00:00:15.326 --> 00:00:17.926
+Si kdaj polizal ploščo tiskanega vezja?
+
+00:00:18.526 --> 00:00:21.526
+Kako so umetno inteligenco spravili
+v pico?
+
+00:00:21.566 --> 00:00:22.846
+Očitno ne razumem vsega.
+
+00:00:23.326 --> 00:00:25.246
+Umetna inteligenca povsod?
+
+00:00:26.446 --> 00:00:28.686
+Saj UI ne vstavijo zares v pico.
+
+00:00:28.726 --> 00:00:32.046
+Res pa je, da v model za strojno učenje
+vključijo veliko količino podatkov.
+
+00:00:32.086 --> 00:00:34.366
+Recimo podatke o sestavinah,
+
+00:00:34.406 --> 00:00:37.846
+o željah strank, o preizkušanju receptov
+in povratne informacije preizkuševalcev.
+
+00:00:37.886 --> 00:00:40.006
+Zahvaljujoč vsem tem podatkom
+
+00:00:40.046 --> 00:00:42.606
+model ustvari veliko različnih receptov,
+
+00:00:42.646 --> 00:00:44.686
+brez vnaprej določenega
+mnenja o njihovem okusu.
+
+00:00:44.726 --> 00:00:47.406
+Za vsak recept model tudi predvideva,
+ali bo strankam všeč ali ne.
+
+00:00:47.446 --> 00:00:49.286
+Samo trenutek. Če prav razumem,
+
+00:00:49.326 --> 00:00:51.686
+me skušaš prepričati, 
+da ljudje danes uporabljajo statistiko,
+
+00:00:51.726 --> 00:00:54.166
+zato, da spečejo pico?
+-Ja.
+
+00:00:54.206 --> 00:00:56.686
+Algoritmi strojnega učenja
+se uporabljajo na mnogih področjih.
+
+00:00:56.726 --> 00:00:59.726
+Marketing ni nobena izjema,
+
+00:00:59.766 --> 00:01:02.166
+pomembno je le
+da je podatke možno vključiti v modele.
+
+00:01:02.206 --> 00:01:03.806
+Je potrebnih veliko podatkov?
+
+00:01:03.846 --> 00:01:05.646
+Ja, ogromno podatkov.
+
+00:01:05.686 --> 00:01:07.526
+Več ko jih priskrbimo,
+
+00:01:07.566 --> 00:01:11.366
+bolje se modeli strojnega učenja naučijo,
+kako ustrezno predvideti nove podatke.
+
+00:01:11.726 --> 00:01:13.006
+Razumeš?
+
+00:01:13.046 --> 00:01:15.526
+Zdaj bolje razumem povezovanje masovnih podatkov,
+a čisto vse mi še vedno ni jasno.
+
+00:01:15.566 --> 00:01:16.886
+Še bolj se moram poglobiti.

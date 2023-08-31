@@ -1,0 +1,493 @@
+1
+00:00:03,438 --> 00:00:07,846
+USO ETICO DELL'INTELLIGENZA ARTIFICIALE
+NELL'ISTRUZIONE: LA SFIDA EUROPEA
+
+2
+00:00:09,900 --> 00:00:13,006
+Per far fronte alle sfide
+nel contesto europeo,
+
+3
+00:00:13,692 --> 00:00:15,085
+con l'aiuto di una guida
+
+4
+00:00:15,110 --> 00:00:18,836
+per l'uso etico dell'IA
+e dei dati nell'istruzione,
+
+5
+00:00:19,204 --> 00:00:21,510
+prodotta dalla Commissione europea,
+
+6
+00:00:21,535 --> 00:00:24,116
+bisogna rispondere su diversi livelli.
+
+7
+00:00:24,566 --> 00:00:27,735
+UN APPROCCIO COMUNE
+PER SISTEMI EDUCATIVI DIVERSI
+
+8
+00:00:28,006 --> 00:00:32,475
+La prima sfida, naturalmente,
+in un contesto europeo,
+
+9
+00:00:32,500 --> 00:00:36,486
+è riuscire a considerare
+sistemi d'istruzione diversi,
+
+10
+00:00:36,768 --> 00:00:41,086
+è riuscire a considerare
+sistemi di formazione diversi,
+
+11
+00:00:41,126 --> 00:00:44,807
+anche se ci poniamo tutti
+le stesse domande.
+
+12
+00:00:45,841 --> 00:00:49,480
+In ambito europeo,
+per affrontare questa sfida,
+
+13
+00:00:49,619 --> 00:00:52,703
+bisogna farlo ponendoci domande identiche
+
+14
+00:00:52,832 --> 00:00:56,384
+e trovando soluzioni
+che possano essere uguali,
+
+15
+00:00:56,577 --> 00:01:00,109
+tenendo sempre conto
+di tutta una serie di differenze
+
+16
+00:01:00,134 --> 00:01:04,731
+tra i Paesi, tra le regioni,
+all'interno dei sistemi locali...
+
+17
+00:01:05,147 --> 00:01:09,436
+insomma, tra locale, nazionale ed europeo.
+
+18
+00:01:09,759 --> 00:01:13,881
+Si può dire che la sfida da affrontare
+è identificare insieme
+
+19
+00:01:13,906 --> 00:01:15,869
+quali sono i problemi da risolvere
+
+20
+00:01:15,894 --> 00:01:17,722
+e le soluzioni da proporre,
+
+21
+00:01:17,832 --> 00:01:21,322
+lasciando un certo margine
+di adattamento per ciascuno,
+
+22
+00:01:21,347 --> 00:01:23,533
+poiché, naturalmente, si tratta,
+
+23
+00:01:23,558 --> 00:01:26,093
+in base alle priorità degli Stati membri,
+
+24
+00:01:26,245 --> 00:01:29,245
+di apportare un valore aggiunto
+su scala europea
+
+25
+00:01:29,366 --> 00:01:31,575
+nel quadro delle competenze di ognuno.
+
+26
+00:01:32,159 --> 00:01:35,240
+UN'IMPLEMENTAZIONE SOLIDA E PRATICA
+
+27
+00:01:36,046 --> 00:01:37,803
+La seconda sfida è quella
+
+28
+00:01:37,828 --> 00:01:40,991
+di poter attuare
+un approccio etico e ragionato,
+
+29
+00:01:41,598 --> 00:01:44,166
+che invita a sperimentare e a individuare
+
+30
+00:01:44,191 --> 00:01:46,473
+i casi d'uso nei quali questa IA
+
+31
+00:01:46,719 --> 00:01:49,319
+e questi dati da impiegare sono efficaci
+
+32
+00:01:49,344 --> 00:01:52,864
+per raggiungere un obiettivo finale
+che ci si era prefissati,
+
+33
+00:01:53,372 --> 00:01:57,297
+un obiettivo nell'apprendimento,
+o un obiettivo nel percorso.
+
+34
+00:02:00,688 --> 00:02:04,440
+Quindi, per arrivare a questo,
+è possibile usare l'IA
+
+35
+00:02:04,465 --> 00:02:07,486
+per adattare ai bisogni
+di ciascuno degli studenti
+
+36
+00:02:07,511 --> 00:02:11,143
+le soluzioni che si possono offrire,
+per lavorare sui ritmi,
+
+37
+00:02:11,404 --> 00:02:12,963
+per lavorare sul percorso
+
+38
+00:02:12,988 --> 00:02:16,541
+che possono svolgere nel corso
+di tutta la loro carriera scolastica,
+
+39
+00:02:16,566 --> 00:02:19,167
+ma anche per proporre, in altri casi,
+
+40
+00:02:19,192 --> 00:02:22,255
+come quello di studenti
+con esigenze particolari,
+
+41
+00:02:22,425 --> 00:02:25,507
+delle soluzioni adeguate
+che permettono, effettivamente,
+
+42
+00:02:25,546 --> 00:02:29,769
+direi, di essere
+al servizio dello studente
+
+43
+00:02:29,966 --> 00:02:32,046
+e al servizio dell'insegnante.
+
+44
+00:02:32,923 --> 00:02:35,418
+Questo è veramente molto importante.
+
+45
+00:02:35,856 --> 00:02:37,777
+Questa sfida dev'essere accompagnata
+
+46
+00:02:37,802 --> 00:02:40,444
+anche da riscontri su ciò che viene fatto.
+
+47
+00:02:40,646 --> 00:02:42,584
+Stabilire un importante legame
+
+48
+00:02:42,609 --> 00:02:44,318
+con la ricerca sull'istruzione
+
+49
+00:02:44,343 --> 00:02:48,423
+e con il digitale in campo educativo
+è un'ulteriore sfida.
+
+50
+00:02:48,572 --> 00:02:52,877
+Ciò significa essere accompagnati
+il più possibile e non restare soli.
+
+51
+00:02:53,326 --> 00:02:57,459
+Mai restare soli, in ogni caso,
+lavorare sempre in squadra.
+
+52
+00:02:57,606 --> 00:03:00,301
+È un aspetto essenziale
+per questa seconda sfida,
+
+53
+00:03:00,326 --> 00:03:04,181
+affinché l'approccio sia
+effettivamente etico, ragionato,
+
+54
+00:03:04,206 --> 00:03:07,914
+al servizio e a beneficio
+dell'apprendimento degli studenti.
+
+55
+00:03:08,326 --> 00:03:10,959
+UN'EVOLUZIONE DELLE PRATICHE PROFESSIONALI
+
+56
+00:03:12,953 --> 00:03:15,768
+C'è, infine,
+una terza sfida da affrontare,
+
+57
+00:03:15,793 --> 00:03:17,990
+ovvero quella della novità.
+
+58
+00:03:18,804 --> 00:03:21,858
+Infatti, l'IA e i dati sull'istruzione,
+
+59
+00:03:21,883 --> 00:03:24,932
+anche in relazione
+agli strumenti digitali tradizionali
+
+60
+00:03:24,957 --> 00:03:26,997
+che gli insegnanti possono utilizzare,
+
+61
+00:03:27,098 --> 00:03:30,271
+rappresentano un approccio
+sistemico ed evolutivo.
+
+62
+00:03:31,039 --> 00:03:32,959
+In realtà, effettivamente,
+
+63
+00:03:32,984 --> 00:03:35,159
+i dati che vengono presentati come input
+
+64
+00:03:35,184 --> 00:03:36,460
+permettono un'analisi
+
+65
+00:03:36,485 --> 00:03:39,381
+di ciò che è stato svolto
+durante l'apprendimento,
+
+66
+00:03:40,113 --> 00:03:43,462
+in particolare se prendiamo
+il caso dell'<i>adaptive learning</i>,
+
+67
+00:03:43,487 --> 00:03:48,272
+per esempio, chiamato in italiano
+"apprendimento adattivo".
+
+68
+00:03:48,927 --> 00:03:51,084
+In questo modo, si può tenere conto
+
+69
+00:03:51,109 --> 00:03:52,704
+dell'aiuto che verrà fornito,
+
+70
+00:03:52,825 --> 00:03:54,024
+ma che non sarà mai
+
+71
+00:03:54,049 --> 00:03:55,366
+l'aiuto che si può avere
+
+72
+00:03:55,391 --> 00:04:00,811
+a partire da un input fisso,
+aspettandosi un risultato fisso.
+
+73
+00:04:01,699 --> 00:04:04,298
+In altre parole, compresi nell'esercizio,
+
+74
+00:04:04,323 --> 00:04:06,219
+nella sequenza di esercizi,
+
+75
+00:04:06,525 --> 00:04:08,619
+si avranno probabilmente degli elementi
+
+76
+00:04:08,644 --> 00:04:11,194
+che daranno segnali forti o segnali deboli
+
+77
+00:04:11,219 --> 00:04:13,554
+su ciò che lo studente imparerà.
+
+78
+00:04:14,299 --> 00:04:17,032
+Questo vuol dire
+che nella mia pratica professionale,
+
+79
+00:04:17,057 --> 00:04:19,251
+nel mio sviluppo professionale,
+
+80
+00:04:19,725 --> 00:04:24,353
+è necessario anche che io mi abitui
+a utilizzare nel modo migliore
+
+81
+00:04:24,378 --> 00:04:24,674
+la...
+
+82
+00:04:24,839 --> 00:04:27,149
+le analisi che l'IA può fornire
+
+83
+00:04:27,174 --> 00:04:31,444
+nell'elaborazione di dati,
+di numerosi dati,
+
+84
+00:04:32,432 --> 00:04:36,376
+a volte per periodi più lunghi
+di quelli che potrei gestire da solo,
+
+85
+00:04:37,112 --> 00:04:39,640
+in modo che io possa
+affrontare serenamente
+
+86
+00:04:39,665 --> 00:04:42,487
+le cose che non avevo
+necessariamente previsto
+
+87
+00:04:42,566 --> 00:04:44,882
+e, di conseguenza, adattarmi.
+
+88
+00:04:49,679 --> 00:04:51,953
+È uno sviluppo della cultura professionale
+
+89
+00:04:51,978 --> 00:04:55,218
+anche dell'insegnante
+che c'è dietro tutto ciò,
+
+90
+00:04:56,285 --> 00:04:58,526
+ma così come di tutta la società,
+
+91
+00:04:58,551 --> 00:05:01,595
+con un utilizzo sempre più vasto
+delle tecniche d'IA
+
+92
+00:05:01,620 --> 00:05:04,541
+associata a diversi strumenti
+e servizi digitali.
+
+93
+00:05:06,348 --> 00:05:08,930
+Dunque, in conclusione, si può dire
+
+94
+00:05:08,955 --> 00:05:12,838
+che se le sfide sono principalmente
+pedagogiche e didattiche,
+
+95
+00:05:13,191 --> 00:05:17,534
+in particolar modo nella relazione
+tra insegnante e studente,
+
+96
+00:05:17,559 --> 00:05:20,068
+sono anche un po' più estese, direi,
+
+97
+00:05:20,093 --> 00:05:22,008
+poiché si reinterrogano.
+
+98
+00:05:23,145 --> 00:05:25,303
+Ogni volta che si utilizza il digitale,
+
+99
+00:05:25,328 --> 00:05:28,973
+è un'occasione di reinterrogarsi
+su cosa si impara,
+
+100
+00:05:28,998 --> 00:05:32,272
+perché lo si impara e come lo si impara.
+
+101
+00:05:33,260 --> 00:05:37,148
+È possibile testare, sperimentare
+e aprire nuove possibilità
+
+102
+00:05:37,173 --> 00:05:39,916
+grazie, finalmente,
+a una tecnica che permette
+
+103
+00:05:39,941 --> 00:05:43,700
+un utilizzo di dati più massiccio
+e prolungato nel tempo,
+
+104
+00:05:44,593 --> 00:05:47,046
+che, anche per un insegnante eccellente,
+
+105
+00:05:47,071 --> 00:05:50,211
+sono molto utili,
+se utilizzati come un assistente
+
+106
+00:05:50,236 --> 00:05:53,704
+che si assume la piena responsabilità
+di quello che fa.
+
+107
+00:05:54,212 --> 00:05:58,009
+C'è da dire, però, che anche
+il rapporto umano è indispensabile.
+
+108
+00:05:58,353 --> 00:06:00,930
+Chiaramente, è l'insegnante che decide,
+
+109
+00:06:00,955 --> 00:06:04,504
+non è la macchina
+a prendere la decisione finale.
+

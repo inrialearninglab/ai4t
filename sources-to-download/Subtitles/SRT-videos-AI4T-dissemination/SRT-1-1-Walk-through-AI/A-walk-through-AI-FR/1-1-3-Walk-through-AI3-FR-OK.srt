@@ -1,0 +1,293 @@
+﻿1
+00:00:04,120 --> 00:00:05,953
+Analytique de l’apprentissage
+
+2
+00:00:07,046 --> 00:00:08,389
+Tout un écosystème numérique
+
+3
+00:00:08,414 --> 00:00:11,585
+se développe autour de l’enseignant
+et de l’élève.
+
+4
+00:00:12,694 --> 00:00:15,160
+L’usage du numérique se matérialise
+
+5
+00:00:15,185 --> 00:00:17,919
+par des dispositifs d’accès
+de plus en plus présents :
+
+6
+00:00:17,944 --> 00:00:19,304
+des tablettes, des ordinateurs
+
+7
+00:00:19,401 --> 00:00:20,674
+et bien sûr l’accès au wifi.
+
+8
+00:00:21,456 --> 00:00:22,776
+Cet environnement numérique
+
+9
+00:00:22,801 --> 00:00:24,541
+permet d’accéder à l’information,
+
+10
+00:00:24,566 --> 00:00:26,034
+aux environnements d’apprentissage,
+
+11
+00:00:26,059 --> 00:00:27,160
+aux espaces numériques de travail,
+
+12
+00:00:27,160 --> 00:00:28,526
+aux cahiers de texte électroniques,
+
+13
+00:00:28,551 --> 00:00:30,746
+aux relevés de notes,
+au livret scolaire numérique
+
+14
+00:00:30,824 --> 00:00:32,824
+et à encore
+bien d’autres informations et outils.
+
+15
+00:00:33,228 --> 00:00:34,699
+À toute cette offre s’ajoutent
+
+16
+00:00:34,792 --> 00:00:37,027
+les contenus pédagogiques en ligne :
+
+17
+00:00:37,720 --> 00:00:38,753
+des manuels
+
+18
+00:00:39,534 --> 00:00:41,134
+ou des contenus éventuellement libres
+
+19
+00:00:41,159 --> 00:00:42,737
+comme les ressources éducatives libres.
+
+20
+00:00:43,330 --> 00:00:46,127
+Bien sûr, tous ces matériels
+et toutes ces ressources
+
+21
+00:00:46,284 --> 00:00:48,312
+ne se substituent pas à la richesse
+
+22
+00:00:48,337 --> 00:00:51,102
+de l’interaction
+entre l’enseignant et l’apprenant.
+
+23
+00:00:51,960 --> 00:00:54,169
+Tout d’abord,
+un certain nombre de choses se passent
+
+24
+00:00:54,194 --> 00:00:57,720
+de l’autre côté d’une plateforme,
+d’un écran et on n’en voit que le résultat.
+
+25
+00:00:58,272 --> 00:01:00,200
+Ensuite,
+les enseignants sont habitués à capter
+
+26
+00:01:00,225 --> 00:01:02,404
+un certain nombre d’indices
+dans une salle de classe
+
+27
+00:01:02,429 --> 00:01:03,366
+mais ne sont pas formés,
+
+28
+00:01:03,391 --> 00:01:05,421
+pas habitués à les percevoir
+de la même manière
+
+29
+00:01:05,446 --> 00:01:07,920
+lorsqu’ils passent par
+l’intermédiaire des outils numériques.
+
+30
+00:01:08,585 --> 00:01:11,177
+Les indices que les enseignants
+sont amenés à percevoir
+
+31
+00:01:11,202 --> 00:01:13,241
+en situation réelle
+dans une salle de classe
+
+32
+00:01:13,468 --> 00:01:15,202
+sont notamment ceux de l’engagement
+
+33
+00:01:15,227 --> 00:01:16,335
+et de la motivation.
+
+34
+00:01:17,241 --> 00:01:17,725
+Par exemple,
+
+35
+00:01:17,750 --> 00:01:19,803
+on peut s’apercevoir
+s’il y a un élève endormi.
+
+36
+00:01:20,326 --> 00:01:21,725
+Quand le niveau sonore monte
+
+37
+00:01:21,795 --> 00:01:24,762
+on est capable de percevoir
+qu’il se passe quelque chose.
+
+38
+00:01:25,405 --> 00:01:26,725
+Quand toutes les têtes sont baissées
+
+39
+00:01:26,750 --> 00:01:28,662
+pendant une explication
+d’un concept au tableau,
+
+40
+00:01:28,687 --> 00:01:30,928
+on peut dire qu’il se passe
+quelque chose d’inhabituel.
+
+41
+00:01:32,076 --> 00:01:35,208
+Même si de très nombreuses explications
+sont possibles,
+
+42
+00:01:35,951 --> 00:01:37,920
+être en mesure de capter ces indices
+
+43
+00:01:37,990 --> 00:01:40,380
+ou cette absence d’indices est important.
+
+44
+00:01:41,115 --> 00:01:43,630
+Quand l’élève n’est plus en face
+de l’enseignant,
+
+45
+00:01:44,185 --> 00:01:46,219
+comment voir qu’il est en train
+de décrocher,
+
+46
+00:01:46,661 --> 00:01:48,232
+qu’il n’est plus capable de suivre,
+
+47
+00:01:49,130 --> 00:01:51,224
+soit parce que c’est trop compliqué
+
+48
+00:01:51,591 --> 00:01:54,716
+ou non adapté à la forme
+d’apprentissage qui lui convient,
+
+49
+00:01:54,935 --> 00:01:55,888
+ou, tout simplement,
+
+50
+00:01:55,913 --> 00:01:58,505
+qu’il ne comprend pas pourquoi
+il doit suivre cet enseignement.
+
+51
+00:01:59,520 --> 00:02:01,121
+C’est notamment sur ces points-là,
+
+52
+00:02:01,542 --> 00:02:03,535
+comme l’engagement ou la motivation,
+
+53
+00:02:04,000 --> 00:02:05,941
+que l’exploitation des traces numériques
+
+54
+00:02:05,966 --> 00:02:07,387
+par des technologies d’IA
+
+55
+00:02:07,887 --> 00:02:10,637
+peut aider l’enseignant,
+tout comme l’élève.
+
+56
+00:02:11,316 --> 00:02:12,643
+De façon plus générale,
+
+57
+00:02:12,676 --> 00:02:14,346
+selon le modèle de Gartner,
+
+58
+00:02:14,371 --> 00:02:15,799
+les technologies de l’IA,
+
+59
+00:02:15,824 --> 00:02:17,433
+de la plus basique aux plus avancées,
+
+60
+00:02:17,754 --> 00:02:20,089
+peuvent aider l’enseignant à décrire
+
+61
+00:02:20,114 --> 00:02:21,080
+(qu’est-il arrivé ?),
+
+62
+00:02:21,080 --> 00:02:23,575
+diagnostiquer (pourquoi est-ce arrivé ?),
+
+63
+00:02:23,902 --> 00:02:26,183
+prédire (que va t-il se produire ?)
+
+64
+00:02:26,402 --> 00:02:27,720
+ou prescrire
+
+65
+00:02:27,891 --> 00:02:30,165
+(comment agir selon l’évolution possible ?)
+
+66
+00:02:31,173 --> 00:02:34,103
+une situation d’apprentissage
+pour mieux l’adapter ensuite
+
+67
+00:02:34,128 --> 00:02:36,222
+à un élève ou un groupe d’élèves.
+

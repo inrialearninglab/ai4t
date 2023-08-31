@@ -1,0 +1,45 @@
+WEBVTT
+
+00:00:00.090 --> 00:00:02.215 
+Obvladovanje zbirk podatkov.
+
+00:00:02.506 --> 00:00:06.256 
+Umetna inteligenca prepozna samo tisto,
+kar jo naučimo prepoznati.
+
+00:00:06.298 --> 00:00:08.423 
+Podatki, ki jih uporabljamo za učenje programa,
+
+00:00:08.465 --> 00:00:10.340 
+bistveno vplivajo na rezultate.
+
+00:00:10.381 --> 00:00:14.423 
+Nujno je, da dobro poznamo delo s podatki,
+saj lahko le tako obvladamo te tehnologije
+
+00:00:14.465 --> 00:00:16.048 
+in žanjemo rezultate njihovega delovanja.
+
+00:00:16.090 --> 00:00:17.506 
+Pri interpretaciji rezultatov, 
+nastalih s pomočjo programov UI 
+
+00:00:17.548 --> 00:00:19.965 
+moramo biti vedno previdni.
+
+00:00:20.215 --> 00:00:23.965 
+Vprašati se moramo, kateri podatki
+so bili uporabljeni v fazi učenja programa.
+
+00:00:24.006 --> 00:00:25.256 
+Načrtno ali ne, program lahko vsebuje 
+
+00:00:25.298 --> 00:00:28.256 
+mehansko reproducirane pristranske podatke,
+
+00:00:28.298 --> 00:00:30.215 
+ki pomembno vplivajo na rezultate,
+na primer, v postopkih iskanja novih kadrov 
+
+00:00:30.256 --> 00:00:33.465 
+ali pri obravnavanju kreditnih vlog.

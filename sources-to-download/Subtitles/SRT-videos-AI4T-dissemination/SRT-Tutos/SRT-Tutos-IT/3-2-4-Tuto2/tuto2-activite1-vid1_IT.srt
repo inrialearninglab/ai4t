@@ -1,0 +1,55 @@
+1
+00:00:00,399 --> 00:00:02,100
+ALGORITMI E DATI
+
+2
+00:00:02,207 --> 00:00:06,100
+Al giorno d'oggi, quando si parla
+d'IA o d'intelligenza artificiale,
+
+3
+00:00:06,126 --> 00:00:08,817
+il più delle volte si parla
+di apprendimento automatico.
+
+4
+00:00:08,842 --> 00:00:11,389
+Al contrario degli algoritmi
+utilizzati finora,
+
+5
+00:00:11,414 --> 00:00:14,637
+che descrivevano passo dopo passo
+come effettuare un'operazione,
+
+6
+00:00:14,662 --> 00:00:16,507
+un po' come una ricetta di cucina,
+
+7
+00:00:16,532 --> 00:00:19,794
+l'apprendimento automatico
+consiste nell'addestrare un programma
+
+8
+00:00:19,819 --> 00:00:22,028
+a fare delle previsioni
+sulla base di dati.
+
+9
+00:00:22,053 --> 00:00:23,441
+Può servire, ad esempio,
+
+10
+00:00:23,466 --> 00:00:25,588
+a prevedere cosa può piacere a un utente,
+
+11
+00:00:25,613 --> 00:00:28,939
+in base a cosa gli è piaciuto
+fino ad allora o a cosa ha guardato.
+
+12
+00:00:28,964 --> 00:00:29,973
+Proviamo.
+

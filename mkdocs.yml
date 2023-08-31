@@ -201,6 +201,25 @@ extra:
       url: "path/to/folder"
       cards:
         - url:
+            en: "1-Mooc/module-2-what-is-meant-by-ai/2-2-what-is-artificial-intelligence-actually/2-2-4-Activity-Discover-AI-innovations-EN/2-2-4-Origin-of-AI-innovations-EN.html"
+            fr: "fr/1-Mooc/module-2-what-is-meant-by-ai/2-2-what-is-artificial-intelligence-actually/2-2-4-Activity-Discover-AI-innovations-FR/2-2-4-Origin-of-AI-innovations-FR.html"
+            it: "it/1-Mooc/module-2-what-is-meant-by-ai/2-2-what-is-artificial-intelligence-actually/2-2-4-Activity-Discover-AI-innovations-IT/2-2-4-Origin-of-AI-innovations-IT.html"
+            de: "de/1-Mooc/module-2-what-is-meant-by-ai/2-2-what-is-artificial-intelligence-actually/2-2-4-Activity-Discover-AI-innovations-DE/2-2-4-Origin-of-AI-innovations-DE.html"
+            sl: "sl/1-Mooc/module-2-what-is-meant-by-ai/2-2-what-is-artificial-intelligence-actually/2-2-4-Activity-Discover-AI-innovations-SI/2-2-4-Origin-of-AI-innovations-SI.html"
+          img: "assets/Home-Timeline.png"
+          title:
+            en: "AI Historical Timeline"
+            fr: "Frise historique de l'IA"
+            it: "Cronologia storica dell'IA"
+            de: "AI Historischer Zeitstrahl"
+            sl: "Zgodovinska časovnica umetne inteligence"
+          desc:
+            en: "Milestones of AI developments from the first concept of a programmable machine by Ada Lovelace in 1837 to the most recent advances."
+            fr: "Les grandes étapes du développement de l'IA, depuis le premier concept d'une machine programmable par Ada Lovelace en 1837 jusqu'aux avancées les plus récentes."
+            it: "Pietre miliari dello sviluppo dell'IA, dal primo concetto di macchina programmabile di Ada Lovelace nel 1837 ai progressi più recenti."
+            de: "Meilensteine der KI-Entwicklung vom ersten Konzept einer programmierbaren Maschine von Ada Lovelace im Jahr 1837 bis zu den jüngsten Fortschritten."
+            sl: "Mejniki razvoja umetne inteligence od prvega koncepta programirljivega stroja Ade Lovelace leta 1837 do najnovejših dosežkov."
+        - url:
             en: "https://pixees.fr/classcodeiai/app/tuto1/?lang=en"
             fr: "https://pixees.fr/classcodeiai/app/tuto1/"
             it: "https://pixees.fr/classcodeiai/app/tuto1/?lang=it"
@@ -257,71 +276,6 @@ extra:
             it: "Un'introduzione alla comprensione delle GAN."
             de: "Eine Einführung in das Verständnis von GANs."
             sl: "Uvod v razumevanje GAN."
-    - title:
-        en: "A Full Training on AI in Education of the AI4T Erasmus+ Programme"
-        fr: "Une formation sur l'IA et l'éducation du programme Erasmus+ AI4T"
-        it: "Una formazione completa sull'intelligenza artificiale nell'istruzione del programma Erasmus+ AI4T"
-        de: "Eine umfassende Schulung zu KI in der Bildung im Rahmen des AI4T Erasmus+ Programms"
-        sl: "Celotno usposabljanje o umetni inteligenci v izobraževanju v okviru programa AI4T Erasmus+"
-      url: "path/to/folder"
-      cards:
-        - url:
-            en: "1-Mooc/general-presentation/0-1-what-does-this-training-offer-us/0-1-3-a-full-training-path.html"
-            fr: "fr/1-Mooc/general-presentation/0-1-what-does-this-training-offer-us/0-1-3-a-full-training-path.html"
-            it: "it/1-Mooc/general-presentation/0-1-what-does-this-training-offer-us/0-1-3-a-full-training-path.html"
-            de: "de/1-Mooc/general-presentation/0-1-what-does-this-training-offer-us/0-1-3-a-full-training-path.html"
-            sl: "sl/1-Mooc/general-presentation/0-1-what-does-this-training-offer-us/0-1-3-a-full-training-path.html"
-          img: "assets/Home-Full-training-path.png"
-          title:
-            en: "Training Path"
-            fr: "Parcours de formation"
-            it: "Percorso formativo"
-            de: "Ausbildungsweg"
-            sl: "Pot usposabljanja"
-          desc:
-            en: "A full training path to investigate, experiment and question the use of AI in Education."
-            fr: "Un parcours de formation pour étudier, expérimenter et questionner l'usage de l'IA dans l'éducation."
-            it: "Un percorso formativo completo per indagare, sperimentare e interrogarsi sull'uso dell'IA nell'istruzione."
-            de: "Ein vollständiger Ausbildungsweg, um den Einsatz von KI im Bildungswesen zu untersuchen, zu experimentieren und zu hinterfragen."
-            sl: "Popolna pot usposabljanja za raziskovanje, eksperimentiranje in preizkušanje uporabe umetne inteligence v izobraževanju."
-        - url:
-            en: "https://www.youtube.com/embed/ybYPaPxRcBo?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1"
-            fr: "https://www.youtube.com/embed/ybYPaPxRcBo?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1"
-            it: "https://www.youtube.com/embed/ybYPaPxRcBo?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1"
-            de: "https://www.youtube.com/embed/ybYPaPxRcBo?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1"
-            sl: "https://www.youtube.com/embed/ybYPaPxRcBo?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1"
-          img: "assets/Home-training-objectives.png"
-          title:
-            en: "Training Objectives"
-            fr: "Objectifs de la formation"
-            it: "Obiettivi della formazione"
-            de: "Ziele der Ausbildung"
-            sl: "Cilji usposabljanja"
-          desc:
-            en: "Demystify and understand AI - Experiment AI educational resources - Raise awareness on the ethical use of AI in Education."
-            fr: "Démystifier et comprendre l'IA - Expérimenter des ressources éducatives basées sur l'IA - Sensibiliser à l'utilisation éthique de l'IA dans l'éducation."
-            it: "Demistificare e comprendere l'IA - Sperimentare risorse educative basate sull'IA - Sensibilizzare sull'uso etico dell'IA nell'istruzione."
-            de: "Entmystifizierung und Verständnis von KI - Experimentieren mit KI-basierten Bildungsressourcen - Sensibilisierung für den ethischen Einsatz von KI in der Bildung."
-            sl: "Demistificirati in razumeti umetno inteligenco - Eksperimentirati z izobraževalnimi viri, ki temeljijo na umetni inteligenci - Ozaveščati o etični uporabi umetne inteligence v izobraževanju.s"
-        - url:
-            en: "1-Mooc/general-presentation/0-4-Credits/0-4-1-Credits.html"
-            fr: "fr/1-Mooc/general-presentation/0-4-Credits/0-4-1-Credits.html"
-            it: "it/1-Mooc/general-presentation/0-4-Credits/0-4-1-Credits.html"
-            de: "de/1-Mooc/general-presentation/0-4-Credits/0-4-1-Credits.html"
-            sl: "sl/1-Mooc/general-presentation/0-4-Credits/0-4-1-Credits.html"
-          img: "assets/Home-Partners.png"
-          title:
-            en: "AI4T Project Partners"
-            fr: "Partenaires du projet AI4T"
-            it: "Partner del progetto AI4T"
-            de: "AI4T-Projektpartner"
-            sl: "Partnerji projekta AI4T"
-          desc:
-            en: "Erasmus+ K3 project designed by France, Ireland, Italy, Luxembourg and Slovenia for teachers and school leaders."
-            fr: "Un projet Erasmus+ K3 conçu par la France, l'Irlande, l'Italie, le Luxembourg et la Slovénie pour les enseignants et les chefs d'établissement."
-            it: "Progetto Erasmus+ K3 ideato da Francia, Irlanda, Italia, Lussemburgo e Slovenia per insegnanti e dirigenti scolastici."
-            de: "Erasmus+ K3-Projekt, das von Frankreich, Irland, Italien, Luxemburg und Slowenien für Lehrer und Schulleiter entwickelt wurde."
-            sl: "Projekt Erasmus+ K3, ki so ga oblikovale Francija, Irska, Italija, Luksemburg in Slovenija za učitelje in vodstva šol."
   # Traductions autres
   trad:
     "See":

@@ -1,0 +1,74 @@
+1
+00:00:00,020 --> 00:00:02,526
+ABBIAMO APPENA ADDESTRATO
+IL NOSTRO PRIMO PROGRAMMA!
+
+2
+00:00:02,551 --> 00:00:03,560
+Complimenti!
+
+3
+00:00:03,585 --> 00:00:05,980
+Come abbiamo potuto vedere,
+non c'è nulla di magico.
+
+4
+00:00:06,051 --> 00:00:08,428
+Prima, gli abbiamo detto
+cosa gli avremmo mostrato
+
+5
+00:00:08,453 --> 00:00:10,722
+poi, gli abbiamo mostrato
+immagini di esempio.
+
+6
+00:00:10,747 --> 00:00:12,414
+Questa è la fase di apprendimento.
+
+7
+00:00:12,439 --> 00:00:15,023
+Chiamiamo "modello"
+il programma che addestriamo.
+
+8
+00:00:15,048 --> 00:00:18,382
+Adesso è in grado di indovinare
+a quale categoria appartiene un'immagine.
+
+9
+00:00:18,407 --> 00:00:20,941
+Le sue previsioni
+restano approssimazioni statistiche,
+
+10
+00:00:20,966 --> 00:00:22,435
+da qui le percentuali.
+
+11
+00:00:22,460 --> 00:00:24,977
+Secondo i suoi calcoli,
+ci sono più probabilità
+
+12
+00:00:25,002 --> 00:00:28,230
+che quell'immagine appartenga
+a tale categoria piuttosto che a un'altra.
+
+13
+00:00:28,255 --> 00:00:29,669
+Ma può riconoscere tutto?
+
+14
+00:00:29,769 --> 00:00:32,298
+Se lo addestriamo
+a riconoscere dei cani o dei gatti,
+
+15
+00:00:32,323 --> 00:00:34,448
+potrà riconoscere dei leoni o delle tigri?
+
+16
+00:00:34,473 --> 00:00:36,506
+Il nostro programma potrebbe sbagliarsi?
+

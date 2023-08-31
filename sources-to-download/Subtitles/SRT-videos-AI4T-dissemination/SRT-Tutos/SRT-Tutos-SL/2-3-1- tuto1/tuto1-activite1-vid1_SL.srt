@@ -1,0 +1,63 @@
+1
+00:00:00,048 --> 00:00:02,715
+Kaj je umetna inteligenca?
+
+2
+00:00:02,982 --> 00:00:06,514
+Umetna inteligenca (UI)
+je sklop računalniških orodij,
+
+3
+00:00:06,624 --> 00:00:08,271
+ki posnemajo aktivnosti,
+
+4
+00:00:08,359 --> 00:00:10,524
+ki smo jih doslej povezovali le 
+s človeškim umom.
+
+5
+00:00:10,549 --> 00:00:12,572
+Ponavadi gre za kognitivne aktivnosti.
+
+6
+00:00:12,669 --> 00:00:16,437
+UI lahko recimo prepozna,
+kaj je na sliki, ali prevede besedilo.
+
+7
+00:00:16,656 --> 00:00:18,289
+UI je povsod okrog nas.
+
+8
+00:00:18,383 --> 00:00:20,540
+Telefoni prepoznajo obraze
+na podobah,
+
+9
+00:00:20,565 --> 00:00:24,265
+spletni prevajalniki samodejno
+prepoznajo jezik naše komunikacije.
+
+10
+00:00:24,361 --> 00:00:27,773
+Družbena omrežja
+prepoznajo obraze na naših fotografijah
+
+11
+00:00:27,798 --> 00:00:29,506
+in jim dodajo zajčja ušesa.
+
+12
+00:00:29,548 --> 00:00:31,539
+Govorimo lahko
+z virtualnimi asistenti.
+
+13
+00:00:31,587 --> 00:00:32,545
+A ni to super?
+
+14
+00:00:32,570 --> 00:00:33,715
+Poglejmo pobliže.
+

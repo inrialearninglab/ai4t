@@ -1,0 +1,449 @@
+﻿1
+00:00:04,240 --> 00:00:08,240
+L'utilisation éthique de l'intelligence artificielle dans l'éducation :
+défis européeens
+
+2
+00:00:08,280 --> 00:00:11,760
+Pour relever les défis
+dans le contexte européen,
+
+3
+00:00:11,920 --> 00:00:17,320
+avec l'aide d'un guide pour l'utilisation
+éthique de l'IA et des données en éducation
+
+4
+00:00:17,560 --> 00:00:20,800
+qui est produit
+par la Commission européenne,
+
+5
+00:00:21,960 --> 00:00:25,000
+il y a plusieurs défis
+à plusieurs niveaux.
+
+6
+00:00:27,760 --> 00:00:31,320
+Le premier défi, bien entendu,
+dans un contexte européen,
+
+7
+00:00:31,440 --> 00:00:36,440
+c'est de pouvoir adresser
+des systèmes éducatifs différents.
+
+8
+00:00:36,520 --> 00:00:40,680
+C'est de pouvoir adresser
+des systèmes de formation différents,
+
+9
+00:00:40,760 --> 00:00:45,040
+alors qu'on a les mêmes questions
+les uns et les autres.
+
+10
+00:00:45,120 --> 00:00:49,640
+Dans ce contexte européen,
+c'est de relever ce défi et de le faire
+
+11
+00:00:49,760 --> 00:00:55,960
+au niveau de questions identiques,
+de solutions qui peuvent être les mêmes,
+
+12
+00:00:56,040 --> 00:00:59,640
+en prenant en compte aussi
+tout un tas de variations
+
+13
+00:00:59,880 --> 00:01:04,280
+entre les pays, entre les régions,
+dans mon système local,
+
+14
+00:01:04,360 --> 00:01:07,880
+du local au national et à l'européen.
+
+15
+00:01:07,960 --> 00:01:12,160
+On va dire quelque part, c'est déjà
+de relever ce défi et de bien identifier
+
+16
+00:01:12,320 --> 00:01:17,800
+ensemble quels sont les problèmes
+à résoudre et les solutions à proposer,
+
+17
+00:01:18,200 --> 00:01:24,080
+tout en laissant cette marge d'adaptation
+à chacun puisque bien entendu, il s'agit,
+
+18
+00:01:24,320 --> 00:01:26,400
+en fonction des priorités
+des États membres,
+
+19
+00:01:26,480 --> 00:01:29,440
+d'apporter ici une plus-value
+à l'échelle européenne
+
+20
+00:01:29,520 --> 00:01:31,360
+dans le cadre
+des compétences de chacun.
+
+21
+00:01:35,000 --> 00:01:40,040
+Le second défi, il est de pouvoir avoir
+une approche éthique et raisonnée
+
+22
+00:01:40,280 --> 00:01:44,960
+qui invite à expérimenter
+et à identifier
+
+23
+00:01:45,040 --> 00:01:48,400
+les cas d'usages dans lesquels cette IA
+
+24
+00:01:48,480 --> 00:01:52,600
+et ces données
+à mobiliser sont pertinentes
+
+25
+00:01:52,680 --> 00:01:56,320
+pour résoudre finalement
+un objectif que l'on s'est fixé,
+
+26
+00:01:56,400 --> 00:01:59,400
+un objectif d'apprentissage
+ou un objectif de parcours.
+
+27
+00:02:00,000 --> 00:02:03,680
+Pour identifier cela, finalement,
+c'est utiliser l'IA
+
+28
+00:02:03,840 --> 00:02:10,400
+pour adapter aux besoins de chacun
+des élèves les solutions
+
+29
+00:02:10,600 --> 00:02:13,320
+que l'on peut apporter,
+de travailler sur les rythmes,
+
+30
+00:02:13,400 --> 00:02:15,120
+de travailler sur les parcours
+
+31
+00:02:15,200 --> 00:02:17,840
+qu'ils peuvent effectuer
+tout au long de leur scolarité,
+
+32
+00:02:18,040 --> 00:02:20,840
+mais aussi d'apporter
+dans d'autres cas,
+
+33
+00:02:20,920 --> 00:02:22,880
+comme celui des élèves
+à besoins particuliers,
+
+34
+00:02:22,960 --> 00:02:26,000
+des solutions adaptées
+qui permettent effectivement,
+
+35
+00:02:26,080 --> 00:02:29,800
+je dirais, d'être au service
+de l'apprenant,
+
+36
+00:02:29,880 --> 00:02:31,800
+au service de l'enseignant.
+
+37
+00:02:31,920 --> 00:02:33,560
+Ça, c'est vraiment très important.
+
+38
+00:02:33,640 --> 00:02:40,160
+Ce défi doit s'accompagner également
+de retours sur ce que l'on fait
+
+39
+00:02:40,400 --> 00:02:46,280
+et un important lien probablement
+avec la recherche en éducation
+
+40
+00:02:46,360 --> 00:02:50,680
+et en numérique éducatif,
+ici est aussi un des défis,
+
+41
+00:02:50,800 --> 00:02:52,360
+c'est-à-dire d'être accompagné
+
+42
+00:02:52,640 --> 00:02:55,240
+autant que faire se peut
+et ne pas rester seul.
+
+43
+00:02:55,320 --> 00:02:57,600
+En tout cas ne jamais rester seul,
+travailler en équipe.
+
+44
+00:02:57,680 --> 00:03:01,160
+C'est quelque chose d'essentiel
+sur ce second défi
+
+45
+00:03:01,240 --> 00:03:04,400
+pour une approche effectivement
+éthique et raisonnée,
+
+46
+00:03:04,720 --> 00:03:08,160
+au service et au bénéfice
+des apprentissages des élèves.
+
+47
+00:03:11,640 --> 00:03:14,840
+Il y a également
+un troisième défi à relever
+
+48
+00:03:14,920 --> 00:03:17,480
+qui est celui finalement
+de la nouveauté,
+
+49
+00:03:17,600 --> 00:03:22,200
+puisque l'IA
+et les données en éducation,
+
+50
+00:03:22,320 --> 00:03:25,160
+y compris par rapport
+au numérique classique
+
+51
+00:03:25,240 --> 00:03:27,720
+que les enseignants peuvent pratiquer,
+
+52
+00:03:27,920 --> 00:03:32,360
+c'est celui d'une approche
+systémique et évolutive.
+
+53
+00:03:32,440 --> 00:03:37,880
+En réalité, effectivement, les données
+que l'on propose en entrée
+
+54
+00:03:37,960 --> 00:03:42,000
+pour une analyse de ce qui est fait
+sur les traces d'apprentissage,
+
+55
+00:03:42,080 --> 00:03:44,160
+en particulier si on prend le cas
+de l'adaptive learning
+
+56
+00:03:44,240 --> 00:03:47,760
+par exemple,
+l'apprentissage adaptatif en bon français.
+
+57
+00:03:47,880 --> 00:03:53,920
+C'est de pouvoir tenir compte
+de l'aide qui va m'être apportée,
+
+58
+00:03:54,000 --> 00:04:00,120
+mais qui n'est pas l'aide
+que je pouvais avoir
+
+59
+00:04:00,200 --> 00:04:03,120
+à partir d'une entrée fixe
+pour un résultat fixe attendu.
+
+60
+00:04:03,200 --> 00:04:07,560
+Autrement dit, y compris dans l'exercice,
+dans une succession d'exercices,
+
+61
+00:04:07,680 --> 00:04:12,320
+je vais avoir probablement des éléments
+qui vont me donner
+
+62
+00:04:12,400 --> 00:04:16,240
+des signaux forts ou des signaux faibles
+sur ce que l'élève va apprendre.
+
+63
+00:04:16,320 --> 00:04:19,240
+Ça veut dire que
+dans ma pratique professionnelle,
+
+64
+00:04:19,320 --> 00:04:21,080
+dans mon développement professionnel,
+
+65
+00:04:21,200 --> 00:04:26,240
+il faut aussi que je m'habitue
+à utiliser à bon escient
+
+66
+00:04:28,680 --> 00:04:32,760
+les analyses que l'IA peut apporter
+
+67
+00:04:32,920 --> 00:04:36,240
+dans le traitement des données
+et de nombreuses données,
+
+68
+00:04:36,320 --> 00:04:39,680
+parfois sur des durées plus longues
+que je ne peux le faire moi-même,
+
+69
+00:04:39,760 --> 00:04:43,640
+de manière à pouvoir
+aborder sereinement
+
+70
+00:04:44,240 --> 00:04:46,760
+les choses que je n'avais pas
+nécessairement prévues
+
+71
+00:04:47,200 --> 00:04:49,200
+et par conséquent
+à m'adapter également.
+
+72
+00:04:49,280 --> 00:04:52,080
+C'est un développement
+de la culture professionnelle
+
+73
+00:04:52,160 --> 00:04:55,000
+aussi de l'enseignant
+qui est en jeu derrière,
+
+74
+00:04:55,240 --> 00:04:58,120
+mais comme dans l'ensemble
+de la société,
+
+75
+00:04:58,200 --> 00:05:01,640
+avec une utilisation de plus en plus large
+des techniques d'IA
+
+76
+00:05:01,720 --> 00:05:04,400
+associées aux différents outils
+et services numériques.
+
+77
+00:05:04,960 --> 00:05:08,960
+En conclusion, on peut dire
+que si les défis sont principalement
+
+78
+00:05:09,160 --> 00:05:10,840
+pédagogiques et didactiques,
+
+79
+00:05:10,920 --> 00:05:13,840
+en particulier
+dans la relation professeur-élève,
+
+80
+00:05:14,080 --> 00:05:19,920
+ils sont aussi un petit peu plus larges,
+puisqu'ils réinterrogent.
+
+81
+00:05:20,000 --> 00:05:22,720
+Comme à chaque fois
+avec l'utilisation du numérique,
+
+82
+00:05:22,800 --> 00:05:26,360
+c'est l'occasion de se réinterroger
+sur ce que l'on apprend,
+
+83
+00:05:26,440 --> 00:05:29,200
+pourquoi on l'apprend,
+comment on l'apprend.
+
+84
+00:05:29,480 --> 00:05:35,360
+De pouvoir tester, expérimenter
+et ouvrir de nouveaux possibles,
+
+85
+00:05:35,480 --> 00:05:38,800
+grâce finalement à une technique
+qui permet
+
+86
+00:05:39,120 --> 00:05:42,880
+une utilisation de données plus massive,
+de données dans le temps
+
+87
+00:05:42,960 --> 00:05:46,760
+qui sont, je dirais même
+quand on est un excellent professeur,
+
+88
+00:05:47,480 --> 00:05:52,840
+très utiles dès lors qu'on les utilise
+comme un assistant
+
+89
+00:05:52,920 --> 00:05:57,080
+et que l'on prend l'entière responsabilité
+de ce que l'on fait.
+
+90
+00:05:57,160 --> 00:06:01,760
+C'est-à-dire que la relation humaine
+est aussi essentielle ici.
+
+91
+00:06:01,840 --> 00:06:03,760
+Bien entendu,
+c'est l'enseignant qui décide,
+
+92
+00:06:03,840 --> 00:06:05,640
+ce n'est pas la machine
+qui décide in fine.

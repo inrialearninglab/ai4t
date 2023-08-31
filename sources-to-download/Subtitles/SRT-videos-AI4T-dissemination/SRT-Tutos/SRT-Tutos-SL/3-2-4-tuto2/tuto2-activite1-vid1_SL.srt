@@ -1,0 +1,39 @@
+WEBVTT
+
+00:00:00.090 --> 00:00:02.048 
+Algoritmi in podatki.
+
+00:00:02.256 --> 00:00:05.298 
+Ko danes govorimo
+o umetni inteligenci,
+
+00:00:05.340 --> 00:00:07.506 
+imamo večinoma v mislih strojno učenje.
+
+00:00:07.548 --> 00:00:10.340 
+V nasprotju z dosedanjimi algoritmi,
+
+00:00:10.715 --> 00:00:14.215 
+ki kakor kuharski recept 
+s točno določenim zaporedjem korakov opisujejo,
+
+00:00:14.756 --> 00:00:16.840 
+kako izvesti določeno opravilo,
+
+00:00:16.881 --> 00:00:20.131 
+je bistvo strojnega učenja v tem,
+da program naučimo predvidevanja
+
+00:00:20.173 --> 00:00:22.131 
+na podlagi podatkov.
+
+00:00:22.631 --> 00:00:26.340 
+Na primer, program predvidi, kaj bo uporabniku všeč
+
+00:00:26.381 --> 00:00:28.756 
+na podlagi tega,
+kar mu je bilo všeč v preteklosti 
+ali na podlagi že ogledanih vsebin.
+
+00:00:28.798 --> 00:00:29.756 
+Preizkusimo.

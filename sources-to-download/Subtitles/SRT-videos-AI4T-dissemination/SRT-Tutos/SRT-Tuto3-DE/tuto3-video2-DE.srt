@@ -1,0 +1,87 @@
+1
+00:00:04,397 --> 00:00:06,150
+Sind Sie also ein gutes
+
+2
+00:00:06,150 --> 00:00:08,096
+neuronales Netz?
+
+3
+00:00:08,096 --> 00:00:10,670
+Jedes Mal, wenn das generierte Bild
+
+4
+00:00:10,670 --> 00:00:12,559
+vom Diskriminator als echt angesehen wird,
+
+5
+00:00:12,559 --> 00:00:14,619
+verstärkt das generative Netzwerk
+
+6
+00:00:14,619 --> 00:00:17,293
+seine Parameter 
+und verbessert sich so schrittweise.
+
+7
+00:00:17,293 --> 00:00:19,230
+Einige Elemente des Bildes
+
+8
+00:00:19,230 --> 00:00:21,920
+können eine generative KI 
+allerdings verraten:
+
+9
+00:00:21,920 --> 00:00:23,807
+Hintergrund des Bildes,
+
+10
+00:00:23,807 --> 00:00:24,865
+Zähne,
+
+11
+00:00:24,865 --> 00:00:27,645
+Asymmetrie des Gesichts oder der Augen,
+
+12
+00:00:27,645 --> 00:00:30,000
+unerwartet unscharfe Bereiche,
+
+13
+00:00:30,000 --> 00:00:31,840
+unerwartete Auffälligkeiten 
+im Bereich der Haare.
+
+14
+00:00:31,840 --> 00:00:33,524
+Wenn man genau hinschaut,
+
+15
+00:00:33,524 --> 00:00:35,565
+sind die von GANs erzeugten Bilder
+
+16
+00:00:35,565 --> 00:00:37,392
+noch erkennbar,
+
+17
+00:00:37,392 --> 00:00:40,000
+aber diese “Fehler” könnten in den nächsten
+
+18
+00:00:40,000 --> 00:00:41,671
+Somit wird es immer schwieriger,
+
+19
+00:00:41,671 --> 00:00:44,000
+künstlich erzeugte 
+Veränderungen zu erkennen!
+
+20
+00:00:44,000 --> 00:00:45,627
+Wollen Sie es noch einmal versuchen?
+
+21
+00:00:45,627 --> 00:00:48,142
+Es liegt an Ihnen!

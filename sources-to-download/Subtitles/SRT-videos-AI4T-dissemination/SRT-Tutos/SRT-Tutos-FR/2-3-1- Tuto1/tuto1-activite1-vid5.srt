@@ -1,0 +1,66 @@
+﻿1
+00:00:00,093 --> 00:00:01,413
+Et il peut se tromper.
+
+2
+00:00:01,621 --> 00:00:03,321
+Il ne s'agit que d'une prédiction.
+
+3
+00:00:03,847 --> 00:00:06,110
+Le fait de pouvoir reconnaître 
+des choses dans des positions
+
+4
+00:00:06,192 --> 00:00:08,458
+ou contextes différents 
+s'appelle la généralisation,
+
+5
+00:00:08,540 --> 00:00:09,770
+et c'est ce qu'on essaye de faire
+
+6
+00:00:09,852 --> 00:00:11,875
+quand on entraîne un programme
+à reconnaître des choses.
+
+7
+00:00:12,002 --> 00:00:16,042
+Nous sommes très forts pour généraliser
+car nous sommes assez approximatifs.
+
+8
+00:00:16,508 --> 00:00:19,000
+Notre programme, lui, est très puissant
+car très précis,
+
+9
+00:00:19,280 --> 00:00:21,333
+mais donc moins bon pour généraliser.
+
+10
+00:00:21,880 --> 00:00:24,376
+Cependant, 
+si on l'entraîne correctement
+
+11
+00:00:24,458 --> 00:00:26,762
+avec des milliers et des milliers 
+d'exemples variés,
+
+12
+00:00:26,888 --> 00:00:29,583
+il peut dans certains cas devenir 
+plus précis que l'humain.
+
+13
+00:00:29,823 --> 00:00:33,189
+Aujourd'hui, on a ainsi des programmes
+qui sont capables de lire
+
+14
+00:00:33,278 --> 00:00:35,752
+des images médicales de façon 
+plus fiable que l'homme.
+

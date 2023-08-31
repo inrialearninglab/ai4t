@@ -1,0 +1,63 @@
+1
+00:00:00,465 --> 00:00:02,164
+Data bias.
+
+2
+00:00:02,492 --> 00:00:04,606
+The program doesn't see like we do.
+
+3
+00:00:04,631 --> 00:00:07,092
+It does not know what a man or a woman is.
+
+4
+00:00:07,117 --> 00:00:10,640
+It makes what are called
+statistical approximations.
+
+5
+00:00:10,879 --> 00:00:12,933
+Is this image statistically closer
+
+6
+00:00:12,958 --> 00:00:14,754
+to images labelled "female"
+
+7
+00:00:14,868 --> 00:00:16,590
+or to those labelled "male"?
+
+8
+00:00:16,798 --> 00:00:17,840
+What did it see?
+
+9
+00:00:18,081 --> 00:00:19,238
+The blue background?
+
+10
+00:00:19,673 --> 00:00:20,923
+The skin colour?
+
+11
+00:00:21,173 --> 00:00:22,659
+A pair of glasses?
+
+12
+00:00:23,073 --> 00:00:26,057
+How we choose our input data
+is fundamental.
+
+13
+00:00:26,368 --> 00:00:29,368
+Choosing your data
+is a big responsibility.
+
+14
+00:00:30,423 --> 00:00:32,976
+Let's now try to correct our data set
+
+15
+00:00:33,001 --> 00:00:34,668
+to eliminate any bias.
+
