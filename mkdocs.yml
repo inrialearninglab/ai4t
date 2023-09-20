@@ -71,42 +71,23 @@ extra:
   # Liens vers des pages à afficher dans la page d'accueil (cards)
   parts:
     - title:
-        en: "Access to the Mooc contents"
-        fr: "Accès aux contenus du Mooc"
-        it: "Accesso ai contenuti del Mooc"
-        de: "Zugang zu den Mooc-Inhalten"
-        sl: "Pregled vsebine programa Mooc"
+        en: "Mooc contents"
+        fr: "Contenus du Mooc"
+        it: "Contenuti del Mooc"
+        de: "Mooc-Inhalten"
+        sl: "Mooc vsebina"
       url: "path/to/folder"
       cards:
-        - url:
-            en: "en/1-Mooc/general-presentation/0-1-what-does-this-training-offer-us/0-1-1v-why-this-training.html"
-            fr: "fr/1-Mooc/general-presentation/0-1-what-does-this-training-offer-us/0-1-1v-why-this-training.html"
-            it: "it/1-Mooc/general-presentation/0-1-what-does-this-training-offer-us/0-1-1v-why-this-training.html"
-            de: "de/1-Mooc/general-presentation/0-1-what-does-this-training-offer-us/0-1-1v-why-this-training.html"
-            sl: "sl/1-Mooc/general-presentation/0-1-what-does-this-training-offer-us/0-1-1v-why-this-training.html"
-          img: "assets/Home-Mooc-Illustration.png"
-          title:
-            en: "Presentation"
-            fr: "Presentation"
-            it: "Presentazione"
-            de: "Präsentation"
-            sl: "Predstavitev"
-          desc:
-             en: "Access to the Mooc presentation."
-             fr: "Accès à la présentation du Mooc."
-             it: "Accesso alla presentazione del Mooc."
-             de: "Zugang zur Mooc-Präsentation."
-             sl: "Dostop do predstavitve Mooc."
         - url:
             en: "en/1-Mooc/module-1-using-AI-and-Education/1-0-introduction/1-0-1-Presentation-module-1.html"
             fr: "fr/1-Mooc/module-1-using-AI-and-Education/1-0-introduction/1-0-1-Presentation-module-1.html"
             it: "it/1-Mooc/module-1-using-AI-and-Education/1-0-introduction/1-0-1-Presentation-module-1.html"
             de: "de/1-Mooc/module-1-using-AI-and-Education/1-0-introduction/1-0-1-Presentation-module-1.html"
             sl: "sl/1-Mooc/module-1-using-AI-and-Education/1-0-introduction/1-0-1-Presentation-module-1.html"
-          img: "assets/Home-Mooc-Illustration.png"
+          img: "assets/Home-Mooc-Illustration-M1.png"
           title:
             en: "Module 1 - Using AI in education"
-            fr: "Module 1 - Utiliser l'IA dans l'éducation"
+            fr: "Module 1 - Utiliser l'IA en éducation"
             it: "Module 1 - Utilizzo dell'IA nell'istruzione"
             de: "Module 1 - Einsatz von KI in der Bildung"
             sl: "Module 1 - Uporaba UI v izobraževanju"
@@ -122,7 +103,7 @@ extra:
             it: "it/1-Mooc/module-2-what-is-meant-by-ai/2-0-introduction/2-0-1-Presentation.html"
             de: "de/1-Mooc/module-2-what-is-meant-by-ai/2-0-introduction/2-0-1-Presentation.html"
             sl: "sl/1-Mooc/module-2-what-is-meant-by-ai/2-0-introduction/2-0-1-Presentation.html"
-          img: "assets/Home-Mooc-Illustration.png"
+          img: "assets/ Home-Mooc-Illustration-M2.png"
           title:
             en: "Module 2 - What is meant by AI?"
             fr: "Module 2 - Qu'est-ce que l'IA ?"
@@ -141,7 +122,7 @@ extra:
             it: "it/1-Mooc/module-3-how-does-AI-work/3-0-introduction/3-0-1-presentation.html"
             de: "de/1-Mooc/module-3-how-does-AI-work/3-0-introduction/3-0-1-presentation.html"
             sl: "sl/1-Mooc/module-3-how-does-AI-work/3-0-introduction/3-0-1-presentation.html"
-          img: "assets/Home-Mooc-Illustration.png"
+          img: "assets/Home-Mooc-Illustration-M3.png"
           title:
             en: "Module 3 - How does AI work?"
             fr: "Module 3 - Comment fonctionne l'IA ?"
@@ -160,7 +141,7 @@ extra:
             it: "it/1-Mooc/module-4-AI-at-our-service-as-teachers/4-0-introduction/4-0-1-Presentation.html"
             de: "de/1-Mooc/module-4-AI-at-our-service-as-teachers/4-0-introduction/4-0-1-Presentation.html"
             sl: "sl/1-Mooc/module-4-AI-at-our-service-as-teachers/4-0-introduction/4-0-1-Presentation.html"
-          img: "assets/Home-Mooc-Illustration.png"
+          img: "assets/Home-Mooc-Illustration-M4.png"
           title:
             en: "Module 4 - AI at our service as teachers?"
             fr: "Module 4 - L'IA à notre service en tant qu'enseignants ?"
@@ -169,29 +150,11 @@ extra:
             sl: "Module 4 - UI v službi učiteljev ?"
           desc:
             en: "Make informed use of AI tools in education, having identified the potential risks associatedwith their use."
-            fr: "Faisons un usage éclairé des outils d'IA dans l'éducation en connaissance de cause en ayant identifié les risques potentiels liés à leur utilisation."
+            fr: "Faisons un usage éclairé des outils d'IA en éducation en ayant identifié les risques potentiels liés à leur utilisation."
             it: "Utilizzare con cognizione di causa gli strumenti di IA nel campo dell'istruzione, dopo aver identificato i rischi potenziali del loro utilizzo."
             de: "Informierter Einsatz von KI-Tools im Bildungsbereich nach Ermittlung der potenziellen Risiken ihres Einsatzes."
             sl: "ozaveščena uporaba orodij UI v izobraževanju po opredelitvi morebitnih tveganj, povezanih z njihovo uporabo."
-        - url:
-            en: "en/1-Mooc/to-conclude/7-0-1v-ethical-use-of-artificial-intelligence-in-education.html"
-            fr: "fr/1-Mooc/to-conclude/7-0-1v-ethical-use-of-artificial-intelligence-in-education.html"
-            it: "it/1-Mooc/to-conclude/7-0-1v-ethical-use-of-artificial-intelligence-in-education.html"
-            de: "de/1-Mooc/to-conclude/7-0-1v-ethical-use-of-artificial-intelligence-in-education.html"
-            sl: "sl/1-Mooc/to-conclude/7-0-1v-ethical-use-of-artificial-intelligence-in-education.html"
-          img: "assets/Home-Mooc-Illustration.png"
-          title:
-            en: "Conclusion"
-            fr: "Conclusion"
-            it: "Conclusione"
-            de: "Schlussfolgerung"
-            sl: "Zaključek"
-          desc:
-            en: "Access to the Mooc conclusion."
-            fr: "Accès à la conclusion du Mooc."
-            it: "Accesso alla conclusione del Mooc."
-            de: "Zugang zum Mooc-Schluss."
-            sl: "Dostop do sklepa Mooc."
+
     - title:
         en: "Mooc Activities"
         fr: "Activités du Mooc"
