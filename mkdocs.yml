@@ -188,7 +188,7 @@ extra:
             it: "https://pixees.fr/classcodeiai/app/tuto1/?lang=it"
             de: "https://pixees.fr/classcodeiai/app/tuto1/?lang=de"
             sl: "https://pixees.fr/classcodeiai/app/tuto1/?lang=sl"
-          img: "assets/Home-a-walk-trough-AI.png"
+          img: "assets/Home-Tutorial-1.png"
           title:
             en: "Tutorial 1 - Did you say IA?"
             fr: "Tutoriel 1 - Vous avez dit IA ?"
@@ -196,18 +196,18 @@ extra:
             de: "Anleitung 1 - Haben sir KI gesagt ?"
             sl: "Učno gradivo 1 -  Did you say IA? "
           desc:
-            en: "A series of 3 introductory videos to explore the role of Artificial Intelligence, and more specifically Learning Analytics in education."
-            fr: "Une série de 3 vidéos d'introduction pour explorer le rôle de l'intelligence artificielle, et plus spécifiquement de l'analytique des apprentissage dans l'éducation."
-            it: "Una serie di 3 video introduttivi per esplorare il ruolo dell'Intelligenza Artificiale e, nello specifico, della Learning Analytics nell'istruzione."
-            de: "Eine Reihe von 3 Einführungsvideos, die die Rolle der Künstlichen Intelligenz und insbesondere von Learning Analytics im Bildungswesen erkunden."
-            sl: "Serija treh uvodnih videoposnetkov o vlogi umetne inteligence in natančneje analitike učenja v izobraževanju."
+            en: "Train a program to recognize cats and dogs and find out that programs can be trained, but also fooled!"
+            fr: "Entraînez un programme à reconnaître les chats et les chiens et découvrez que les programmes peuvent être entraînés, mais aussi trompés !"
+            it: "Addestrare un programma a riconoscere cani e gatti e scoprire che i programmi possono essere addestrati, ma anche ingannati!"
+            de: "Trainieren Sie ein Programm, um Katzen und Hunde zu erkennen, und finden Sie heraus, dass Programme trainiert, aber auch getäuscht werden können!"
+            sl: "Usposobite program za prepoznavanje mačk in psov ter ugotovite, da je programe mogoče usposobiti, a tudi prevarati!"
         - url:
             en: "https://pixees.fr/classcodeiai/app/tuto2/?lang=en"
             fr: "https://pixees.fr/classcodeiai/app/tuto2/"
             it: "https://pixees.fr/classcodeiai/app/tuto2/?lang=it"
             de: "https://pixees.fr/classcodeiai/app/tuto2?lang=de"
             sl: "https://pixees.fr/classcodeiai/app/tuto2/?lang=si"
-          img: "assets/Home-Template.png"
+          img: "assets/Home-Tutorial-2.png"
           title:
             en: "Tutorial 2 - Boosted with AI?"
             fr: "Tutoriel 2 - Boosté à l'IA ?"
@@ -215,18 +215,18 @@ extra:
             de: "Anleitung 2 - Boosted durch KI ?"
             sl: "Učno gradivo 2 -Boosted with AI ?"
           desc:
-            en: "A list of questions to ask about AI-based educational resources to help users make informed use of them."
-            fr: "Une liste de questions à poser sur les ressources éducatives basées sur l'IA pour aider les utilisateurs à en faire un usage éclairé."
-            it: "Un elenco di domande da porre sulle risorse educative basate sull'IA per aiutare gli utenti a farne un uso consapevole."
-            de: "Eine Liste von Fragen, die man sich bei KI-basierten Bildungsressourcen stellen sollte, um den Nutzern zu helfen, sie sachkundig zu verwenden."
-            sl: "Seznam vprašanj o izobraževalnih virih, ki temeljijo na umetni inteligenci, ki bodo uporabnikom pomagala pri njihovi ozaveščeni uporabi."
+            en: "Understand how machine learning and program training work by correctly preparing a data set.."
+            fr: "Comprendre le fonctionnement de l'apprentissage automatique et de l'entraînement des programmes en préparer correctement un ensemble de données."
+            it: "Capire come funziona l'apprendimento automatico e l'addestramento dei programmi preparando correttamente il set di dati."
+            de: "Verstehen Sie, wie maschinelles Lernen und Programmtraining funktionieren, indem Sie den Datensatz richtig vorbereiten."
+            sl: "Razumite, kako delujeta strojno učenje in usposabljanje programov, tako da pravilno pripravite nabor podatkov."
         - url:
             en: "https://pixees.fr/classcodeiai/app/tuto3-ai4t/?lang=en"
             fr: "https://pixees.fr/classcodeiai/app/tuto3-ai4t/"
             it: "https://pixees.fr/classcodeiai/app/tuto3-ai4t/?lang=it"
             de: "https://pixees.fr/classcodeiai/app/tuto3-ai4t/?lang=de"
             sl: "https://pixees.fr/classcodeiai/app/tuto3-ai4t/?lang=sl"
-          img: "assets/Home-AItypesclassification.jpg"
+          img: "assets/Home-Tutorial-3.png"
           title:
             en: "Tutorial 3 - Detecting AI: AI or human?"
             fr: "Tutoriel 3 - Détection de l'IA : IA ou humain ?"
@@ -234,11 +234,11 @@ extra:
             de: "Anleitung 3 - Erkennen von KI : KI oder Mensch ?"
             sl: "Učno gradivo 3 - Odkrivanje Umetne Inteligence: Umetna Inteligenca ali Človek ?"
           desc:
-            en: "An introduction to understand GANs."
-            fr: "Une introduction à la compréhension des GAN."
-            it: "Un'introduzione alla comprensione delle GAN."
-            de: "Eine Einführung in das Verständnis von GANs."
-            sl: "Uvod v razumevanje GAN."
+            en: "Identifying whether an image is real or produced by an AI -  an experimental activity to understand GANs (Generative Adversarial Networks)."
+            fr: "Identifier si une image est réelle ou produite par une IA - une activité expérimentale pour comprendre les GAN (Réseaux Antagonistes Génératifs)."
+            it: "Identificare se un'immagine è reale o prodotta da un'IA - un'attività sperimentale per comprendere le GAN (Generative Adversarial Networks)."
+            de: "Erkennen, ob ein Bild echt ist oder von einer KI erzeugt wurde - ein Experiment zum Verständnis von GANs (Generative Adversarial Networks)."
+            sl: "Ugotavljanje, ali je slika resnična ali jo je ustvarila umetna inteligenca - eksperimentalna dejavnost za razumevanje GAN (Generative Adversarial Networks)."
   # Traductions autres
   trad:
     "See":
