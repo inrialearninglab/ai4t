@@ -20,4 +20,4 @@ All collected traces related to the learning paths are pseudo-anonymized in orde
 
 In addition, this follow-up is never carried out in order to evaluate participants but is used for the experimentation and research purposes of this current experimentation only.
 
-This experimentation is conducted during the large-scale experimentation phase of the AI4T project from November 2022 to March 2023.
+This experiment was carried out during the large-scale testing phase of the AI4T project (autumn 2022 / spring 2023).

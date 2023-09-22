@@ -18,7 +18,7 @@ description: How to use the Mooc resources - licences, precaution of use
 ## Terms of use
 
 Developed by the partners of the AI4T consortium, all the contents of this Mooc are to be consulted and reused according to your goals and needs.  
-The AI4T consortium has therefore agreed on a licence that will allow many opportunities to use the Mooc content.
+The AI4T consortium has decided to adopt a licence that will allow the Mooc content to be used and adapted in a wide variety of ways. 
 
 ### Use of the educational resources of the Mooc
 

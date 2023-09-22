@@ -17,7 +17,7 @@ description: Beschreibung des allgemeinen Ausbildungsweges, der für alle Partne
 
 Der vollständige Schulungspfad wurde für europäische Lehrer und Schulleiter entwickelt, die den Einsatz von KI in der Bildung untersuchen, ausprobieren und sich selbst in Frage stellen möchten. Er erstreckt sich über einen Zeitraum von 3 Monaten und beinhaltet:
 
-- den vorliegenden Online-Schulungskurs, der als Mooc konzipiert ist und derzeit aus 4 Modulen mit einer Gesamtdauer von 2 bis 3 Stunden besteht,
+- den vorliegenden Online-Schulungskurs, der als Mooc konzipiert ist aus 4 Modulen mit einer Gesamtdauer von 2 bis 3 Stunden besteht,
 
 - Online-Schulungsressourcen zur Vertiefung des Themas KI und Bildung,
 
@@ -29,10 +29,9 @@ Der vollständige Schulungspfad wurde für europäische Lehrer und Schulleiter e
 
 Die Gesamtdauer der Schulung ist für drei Monate geplant und erstreckt sich über einen Zeitraum von November 2022 bis März 2023, abhängig von den am Experiment beteiligten Ländern.
 
-Manchmal hilft eine grafische Darstellung, um zu verstehen, wie es funktionieren wird.
+Manchmal hilft eine grafische Darstellung, um zu verstehen, wie es funktioniert hat.
 
 <figure>
   <img src="Images/AI4T-Training-pathway-en.png" alt="AI4T total project duration"/>
 </figure>
 
-Herzlich willkommen!

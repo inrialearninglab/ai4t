@@ -18,7 +18,7 @@ description: Come utilizzare le risorse del Mooc - licenze, precauzioni d'uso
 ## Condizioni d'uso
 
 Sviluppato dai partner del consorzio AI4T, tutti i contenuti di questo Mooc possono essere consultati e riutilizzati in base ai propri obiettivi ed esigenze.  
-Il consorzio AI4T ha pertanto concordato una licenza che consentirà molte opportunità di utilizzo dei contenuti del Mooc.
+Il consorzio AI4T ha deciso di adottare una licenza che consentirà di utilizzare e adattare i contenuti del Mooc in un'ampia gamma di modi. 
 
 ### Uso delle risorse educative del Mooc
 

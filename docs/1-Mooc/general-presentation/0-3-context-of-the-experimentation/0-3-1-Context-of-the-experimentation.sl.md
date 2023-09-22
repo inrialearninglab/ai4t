@@ -20,4 +20,4 @@ Vse zbrane sledi, povezane z učnimi potmi, so psevdoanonimizirane, da se v skla
 
 Poleg tega se to spremljanje nikoli ne izvaja z namenom ocenjevanja udeležencev, temveč se uporablja samo za namene eksperimentiranja in raziskovanja tega trenutnega eksperimentiranja.
 
-To eksperimentiranje se izvaja v fazi obsežnega eksperimentiranja projekta AI4T od novembra 2022 do marca 2023.
+Ta poskus je bil izveden v fazi obsežnega testiranja projekta AI4T (jesen 2022 / pomlad 2023).

@@ -18,7 +18,7 @@ description: Wie man die Mooc-Ressourcen nutzt - Lizenzen, Vorsichtsmaßnahmen b
 ## Benutzungsbedingungen
 
 Der gesamte Inhalt dieser Mooc wurde von den Partnern des AI4T-Konsortiums entwickelt und darf entsprechend Ihren Zielen und Bedürfnissen konsultiert und wiederverwendet werden.  
-Das AI4T-Konsortium hat sich daher auf eine Lizenz geeinigt, die viele Möglichkeiten zur Nutzung der Mooc-Inhalte bietet.
+Das AI4T-Konsortium hat sich für eine Lizenz entschieden, die mehr Möglichkeiten für die Nutzung und Anpassung der Mooc-Inhalte bietet. 
 
 ### Nutzung der Bildungsressourcen der Mooc
 

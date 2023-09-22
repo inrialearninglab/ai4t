@@ -18,7 +18,6 @@ description: Einordnung der Fortbildung in den europäischen Rahmen
 
 ## Künstliche Intelligenz in der Bildung
 
-Das Training zu Künstlicher Intelligenz für Lehrer und Schulleiter wurde in einem gemischten Format mit eigenständigen Online-Teilen und angeleiteten persönlichen Sitzungen entwickelt und auf europäischer Ebene in 5 Ländern erprobt: Frankreich, Irland, Italien, Luxemburg und Slowenien.
 
 Das Ziel dieser Fortbildung besteht aus mehreren Ebenen:
 

@@ -18,7 +18,7 @@ description: Kako uporabljati vire Mooc - licence, previdnostni ukrepi uporabe
 ## Pogoji uporabe
 
 Vse vsebine tega Mooc-a, ki so jih razvili partnerji konzorcija AI4T, lahko uporabljate v skladu s svojimi cilji in potrebami.  
-Konzorcij AI4T se je zato dogovoril za licenco, ki bo omogočila številne možnosti uporabe vsebine Mooc.
+Konzorcij AI4T se je odločil, da bo sprejel licenco, ki bo omogočala uporabo in prilagajanje vsebine Mooc na najrazličnejše načine. 
 
 ### Uporaba izobraževalnih virov Mooc
 

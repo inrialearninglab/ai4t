@@ -17,7 +17,7 @@ description: Descrizione del percorso formativo generico comune a tutti i partne
 
 Il percorso di formazione completo è stato progettato e creato per gli insegnanti e i dirigenti scolastici europei per indagare, sperimentare e interrogarsi sull'uso dell'IA nell'istruzione. Si estende su un periodo di 3 mesi e comprende:
 
-- il presente corso di formazione online, progettato come un Mooc, e composto per ora da 4 moduli con una durata totale da 2 a 3 ore,
+- il presente corso di formazione online, progettato come un Mooc, e composto da 4 moduli con una durata totale da 2 a 3 ore,
 
 - risorse di formazione online per approfondire il tema dell'IA e dell'istruzione,
 

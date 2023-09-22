@@ -20,4 +20,4 @@ Tutte le tracce raccolte relative ai percorsi di apprendimento sono pseudo-anoni
 
 Inoltre, questo follow-up non viene mai effettuato per valutare i partecipanti, ma viene utilizzato esclusivamente per gli scopi di sperimentazione e ricerca di questa sperimentazione in corso.
 
-Questa sperimentazione è condotta durante la fase di sperimentazione su larga scala del progetto AI4T da novembre 2022 a marzo 2023.
+Questo esperimento è stato condotto durante la fase di test su larga scala del progetto AI4T (autunno 2022 / primavera 2023)..

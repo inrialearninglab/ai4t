@@ -18,7 +18,7 @@ description: Conditions d'utilisation des ressources du Mooc - licences, précau
 ## Conditions d'utilisation
 
 Développé par les partenaires du consortium AI4T, l'ensemble du contenu de ce Mooc est à consulter et à réutiliser en fonction de vos objectifs et besoins.  
-Le consortium AI4T a donc convenu d'une licence qui permettra de multiplier les possibilités d'utilisation du contenu du Mooc.
+Le consortium AI4T a décidé d'adopter une licence qui permet de multiplier les possibilités d'utilisation et d'adaptation des contenus du Mooc. 
 
 ### Utilisation des ressources pédagogiques du Mooc
 

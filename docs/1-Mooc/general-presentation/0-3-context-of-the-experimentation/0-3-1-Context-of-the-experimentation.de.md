@@ -20,4 +20,4 @@ Alle gesammelten Spuren, die sich auf die Lernpfade beziehen, werden pseudo-anon
 
 Darüber hinaus wird diese Nachverfolgung niemals zur Bewertung der Teilnehmer durchgeführt, sondern dient ausschließlich den Versuchs- und Forschungszwecken dieses aktuellen Versuchs.
 
-Dieses Experiment wird während der groß angelegten Experimentierphase des AI4T-Projekts von November 2022 bis März 2023 durchgeführt.
+Dieses Experiment wurde während der groß angelegten Versuchsphase des AI4T-Projekts (Herbst 2022 / Frühjahr 2023) durchgeführt.
