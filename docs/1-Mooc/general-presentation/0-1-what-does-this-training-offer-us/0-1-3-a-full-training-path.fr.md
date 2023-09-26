@@ -13,23 +13,13 @@ description: Description du parcours de formation générique commun à tous les
     - Licence: CC BY 4.0
     - Date: 2022-11-15
 
-# Un parcours de formation complet sur l'IA et l'éducation
+# Un cours sous forme de Mooc au coeur d'un parcours de formation complet sur l'IA et l'éducation
 
-Le parcours de formation complet est conçu et créé pour que les enseignants et les chefs d'établissement européens puissent explorer, expérimenter et se questionner sur l'utilisation de l'IA en éducation. Il s'étend sur une période de 3 mois et comprend :
+Le parcours de formation complet articulé autour du Mooc a été conçu et développé pour que les enseignants et l'ensemble de la communauté éducative puissent explorer, expérimenter et se questionner sur l'utilisation de l'IA en éducation.
 
-- ce cours de formation en ligne, conçu comme un Mooc, et composé, pour l'instant, de 4 modules d'une durée totale de 2 à 3 heures,
+Il a été experimenté au cours du premier semestre 2023 dans les 5 pays partenaires du projet.
 
-- des ressources de formation en ligne pour aller plus loin sur l'IA et l'éducation,
-
-- un "manuel en ligne",
-
-- des webinaires pour partager des pratiques et des opinions,
-
-- et des formations guidées, en présentiel et en ligne, pour permettre aux participants d'interagir avec des experts en IA et en éducation.
-
-La durée de la formation est de trois mois sur une période allant de janvier 2023 à mars 2023 en fonction des pays impliqués dans l'expérience.
-
-Une représentation graphique aide à mieux comprendre comment cela va fonctionner.
+Voici la représentation graphique du parcours type proposé aux participants sur la base du Mooc.
 
 <figure>
   <img src="Images/AI4T-Training-pathway-fr.png" alt="AI4T total project duration"/>

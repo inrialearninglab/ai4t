@@ -18,7 +18,7 @@ description: Umestitev usposabljanja v evropski okvir
 
 ## Umetna inteligenca v izobraževanju
 
-Usposabljanje o umetni inteligenci za učitelje in vodstva šol je zasnovano v mešani obliki s samostojnimi spletnimi deli in vodenimi osebnimi srečanji, razvito in preizkušeno na evropski ravni v petih državah: Francija, Irska, Italija, Luksemburg in Slovenija.
+To usposabljanje o umetni inteligenci za učitelje in celotno izobraževalno skupnost je bilo preizkušeno na evropski ravni v petih državah: Francija, Irska, Italija, Luksemburg in Slovenija.
 
 Cilj tega usposabljanja je večplasten:
 
