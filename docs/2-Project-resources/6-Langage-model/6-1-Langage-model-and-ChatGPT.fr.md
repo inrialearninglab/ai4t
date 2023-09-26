@@ -30,7 +30,21 @@ Cette série de vidéos « ChatGPT en 5 mn » a été réalisée par Alexandre T
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/xXHWTC4mJBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
-Ces vidéos sont également accessibles sur le site de médiation d’Inria : [Pixees](https://pixees.fr/modeles-de-langage-avec-lexemple-de-chatgpt-explications-en-5-mn/)  
+Ces 3 premières vidéos sont également accessibles sur le site de médiation d’Inria : [Pixees](https://pixees.fr/modeles-de-langage-avec-lexemple-de-chatgpt-explications-en-5-mn/)
+
+### Episode#4 : Les forces des modèles de langage
+
+**Synopsis** "Cette vidéo présente les principales forces des modèles de langage tels que ChatGPT ou Bard". Explications en 8’. Cette vidéo rappelle qu'en dépit de faiblesse, les modèles de langage possèdent également un grand nombre de forces telles que:
+- leur capacité à analyser un contexte donné pour fournir une réponse adaptée à une tâche,
+- leur utilisation d'outils externes (par exemple Wikipedia),
+- la grande diversité des données sur lesquelles ils ont été entraîné,
+- leur capacité à produire des raisonnements basiques,
+- leur "sens commun" dans certains contextes,
+- leur capacité à nous aider à trouver des idées créatives."
+
+<center><iframe width="560" height="315" src="https://youtu.be/embed/5HVR3cVFot4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+
+L'ensemble de ces vidéos réaliseées par l'équipe Flowers sont également acessible sur le site [ChatGPT en 5 minutes](http://developmentalsystems.org/chatgpt_en_5_minutes/).
 
 ## 2 - Comprendre ce qu'est ChatGPT
 
