@@ -17,7 +17,7 @@ description: Description du parcours de formation générique commun à tous les
 
 Le parcours de formation complet articulé autour du Mooc a été conçu et développé pour que les enseignants et l'ensemble de la communauté éducative puissent explorer, expérimenter et se questionner sur l'utilisation de l'IA en éducation.
 
-Il a été experimenté au cours du premier semestre 2023 dans les 5 pays partenaires du projet.
+Il a été expérimenté au cours du premier semestre 2023 dans les 5 pays partenaires du projet.
 
 Voici la représentation graphique du parcours type proposé aux participants sur la base du Mooc.
 

@@ -16,7 +16,7 @@ description: Presentation of the content & organization of the Mooc
 # What is in this Course?
 
 ## Course objective
-The main objective of this course is to give teachers and school leaders a basic to solid culture about AI: understanding AI, how it works, its challenges and consequences.
+The main objective of this course is to give teachers and the entire educational community a basic to solid culture about AI: understanding AI, how it works, its challenges and consequences.
 
 In a more concrete way, this course has been designed to help teachers make up their own minds on the following questions:
 
