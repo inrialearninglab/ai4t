@@ -1,0 +1,294 @@
+1
+00:00:04,122 --> 00:00:08,349
+Lernende durch Beobachtung
+von Lernprozessen zum Erfolg führen.
+
+2
+00:00:09,326 --> 00:00:12,128
+Während der Interaktion
+mit digitalen Werkzeugen
+
+3
+00:00:12,153 --> 00:00:15,076
+hinterlassen die Lernenden
+viele digitale Spuren.
+
+4
+00:00:15,357 --> 00:00:17,763
+Es gibt Spuren,
+die sie unbemerkt hinterlassen:
+
+5
+00:00:18,075 --> 00:00:20,880
+So hinterlässt
+z.B. der Zugriff auf einen Dienst
+
+6
+00:00:20,982 --> 00:00:21,957
+oder einen Server
+
+7
+00:00:21,982 --> 00:00:23,497
+bestimmte Datenspuren.
+
+8
+00:00:23,708 --> 00:00:26,474
+Es gibt jedoch auch Spuren,
+die sie bewusst hinterlassen
+
+9
+00:00:26,607 --> 00:00:30,263
+und die eine gewisse Anstrengung erfordern,
+z.B. durch das Schreiben
+
+10
+00:00:30,288 --> 00:00:33,658
+von Kommentaren
+oder Bewertungen auf Online-Portalen.
+
+11
+00:00:33,878 --> 00:00:35,767
+Daneben gibt es auch Datenspuren,
+
+12
+00:00:35,792 --> 00:00:36,798
+die mit der Leistung
+
+13
+00:00:36,823 --> 00:00:38,861
+und den Ergebnissen bestimmter Aktivitäten
+
+14
+00:00:38,886 --> 00:00:41,581
+in der digitalen Lernumgebung
+verbunden sind
+
+15
+00:00:41,777 --> 00:00:44,566
+(z.B. Ergebnisse in einem Wissensquizz).
+
+16
+00:00:44,785 --> 00:00:47,073
+All diese Spuren bestehen aus Daten,
+
+17
+00:00:47,098 --> 00:00:50,800
+die mit Technologien der künstlichen
+Intelligenz analysiert werden können.
+
+18
+00:00:50,870 --> 00:00:52,432
+Hier drängt sich die Frage auf,
+
+19
+00:00:52,457 --> 00:00:54,282
+wie wir diese digitalen Spuren
+
+20
+00:00:54,307 --> 00:00:56,641
+analysieren und visualisieren können,
+
+21
+00:00:56,666 --> 00:00:58,704
+um Schülerinnen und Schüler beim Lernen
+
+22
+00:00:58,729 --> 00:01:01,816
+und Lehrkräfte bei der Lernbegleitung
+zu unterstützen.
+
+23
+00:01:01,979 --> 00:01:05,566
+Führen wir uns hierzu kurz
+die Möglichkeiten im Sport vor Augen:
+
+24
+00:01:05,683 --> 00:01:08,918
+Hier können wir Informationen
+über die Dauer der Aktivität,
+
+25
+00:01:09,043 --> 00:01:12,089
+die Schlafstunden
+oder die Erholungszeiten modellieren.
+
+26
+00:01:12,258 --> 00:01:15,535
+Weitere Parameter und Daten
+sind noch wesentlich präziser.
+
+27
+00:01:15,606 --> 00:01:17,606
+So können wir biometrische Daten,
+
+28
+00:01:17,631 --> 00:01:21,552
+einschließlich der Emotionen
+des oder der Sporttreibenden, erfassen.
+
+29
+00:01:21,789 --> 00:01:23,466
+Im Sinne der Trainingsoptimierung
+
+30
+00:01:23,491 --> 00:01:24,779
+ermöglichen diese Spuren
+
+31
+00:01:24,804 --> 00:01:27,639
+z.B. eine Feinabstimmung
+des Trainingsablaufs
+
+32
+00:01:27,664 --> 00:01:30,396
+oder die Bereitstellung
+geeigneten Sportmaterials.
+
+33
+00:01:30,421 --> 00:01:31,827
+Können wir uns ähnliche
+
+34
+00:01:31,852 --> 00:01:34,047
+KI-gestützte Werkzeuge vorstellen,
+
+35
+00:01:34,072 --> 00:01:37,477
+um digitale Spuren
+im Bildungskontext zu analysieren?
+
+36
+00:01:37,647 --> 00:01:39,524
+Wir können den Schülerinnen und Schülern
+
+37
+00:01:39,549 --> 00:01:43,215
+sehr leistungsfähige Werkzeuge
+an die Hand geben, die ihnen helfen,
+
+38
+00:01:43,240 --> 00:01:45,895
+eine Selbsteinschätzung
+ihres aktuellen Leistungs-
+
+39
+00:01:45,920 --> 00:01:47,732
+und Wissensstands im Vergleich
+
+40
+00:01:47,757 --> 00:01:51,029
+zu objektiven Kompetenzen
+oder Benchmarks vorzunehmen
+
+41
+00:01:51,054 --> 00:01:52,873
+- und zwar in Bezug auf die Fehler,
+
+42
+00:01:52,898 --> 00:01:54,576
+die sie möglicherweise gemacht haben,
+
+43
+00:01:54,724 --> 00:01:57,356
+aber auch in Bezug
+auf die erzielten Erfolge.
+
+44
+00:01:57,472 --> 00:01:59,364
+Mit Hilfe von Prognosemodellen
+
+45
+00:01:59,389 --> 00:02:02,427
+können wir ihnen nützliche
+Informationen zur Verfügung stellen,
+
+46
+00:02:02,543 --> 00:02:04,870
+z.B. personalisierte Ressourcen,
+
+47
+00:02:04,895 --> 00:02:06,957
+die sie auf ihrem Lernweg fördern können.
+
+48
+00:02:08,238 --> 00:02:10,863
+Aus der Sicht
+der Lehrkräfte stellt sich die Frage:
+
+49
+00:02:10,973 --> 00:02:13,129
+Wie können die verfügbaren Lernspuren
+
+50
+00:02:13,154 --> 00:02:16,698
+genutzt werden, um die Lehrkräfte
+bei der Anpassung ihrer Lehrstrategien
+
+51
+00:02:16,723 --> 00:02:18,394
+und -methoden zu unterstützen?
+
+52
+00:02:19,519 --> 00:02:21,558
+Dashboards ermöglichen den Lehrkräften
+
+53
+00:02:21,583 --> 00:02:24,761
+die Analyse und Visualisierung
+des Schülerverhaltens,
+
+54
+00:02:26,557 --> 00:02:29,440
+des aktuellen Leistungsstands
+oder der Entwicklung
+
+55
+00:02:29,465 --> 00:02:31,332
+über einen bestimmten Zeitraum.
+
+56
+00:02:34,200 --> 00:02:36,120
+Es können Empfehlungen
+für Maßnahmen
+
+57
+00:02:36,145 --> 00:02:38,035
+
+und Lernmaterialien gegeben werden,
+
+58
+00:02:38,067 --> 00:02:40,981
+die die Lehrkräfte
+auf Basis ihrer pädagogischen Erfahrung
+
+59
+00:02:41,006 --> 00:02:42,715
+einsetzen können oder nicht.
+
+60
+00:02:46,264 --> 00:02:47,724
+Schließlich stellt sich die Frage,
+
+61
+00:02:47,749 --> 00:02:51,380
+ob all diese von den KI-Anwendungen
+gelieferten Erkenntnisse
+
+62
+00:02:51,405 --> 00:02:55,262
+nicht auch die gesamte
+Institution Schule in die Lage versetzen,
+
+63
+00:02:55,287 --> 00:02:57,544
+sich selbst besser zu organisieren,
+
+64
+00:02:58,161 --> 00:02:59,263
+sich zu erneuern
+
+65
+00:02:59,356 --> 00:03:02,771
+und personalisierte Lernpfade
+zu ermöglichen.
+

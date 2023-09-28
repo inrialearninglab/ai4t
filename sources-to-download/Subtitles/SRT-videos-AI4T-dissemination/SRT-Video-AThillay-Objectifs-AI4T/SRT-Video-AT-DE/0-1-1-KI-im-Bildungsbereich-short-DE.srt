@@ -1,0 +1,111 @@
+1
+00:00:04,566 --> 00:00:06,486
+Künstliche Intelligenz im Bildungsbereich:
+
+2
+00:00:06,526 --> 00:00:09,246
+Verstehen, Testen und Entwickeln
+digitaler und ethischer Kompetenzen
+
+3
+00:00:09,286 --> 00:00:12,606
+Die Idee eines solchen Kurses
+im europäischen Kontext
+
+4
+00:00:12,646 --> 00:00:16,926
+besteht darin, das Thema
+auf drei verschiedenen Ebenen anzugehen:
+
+5
+00:00:18,126 --> 00:00:22,966
+Verstehen,
+was KI der Bildung bringen kann.
+
+6
+00:00:23,646 --> 00:00:30,606
+Experimentieren und Ressourcen testen,
+die KI auf "intelligente" Weise nutzen.
+
+7
+00:00:31,126 --> 00:00:37,966
+Und schließlich digitale Kompetenzen fördern,
+die heute von Lehrkräften und Lernenden
+
+8
+00:00:38,006 --> 00:00:41,206
+erwartet werden.
+
+9
+00:00:41,726 --> 00:00:46,166
+Wir müssen verstehen,
+dass KI Teil der Zukunft ist.
+
+10
+00:00:46,206 --> 00:00:49,526
+Daher muss auch der ethische Aspekt
+
+11
+00:00:49,566 --> 00:00:51,806
+von Beginn an mit gedacht werden.
+
+12
+00:00:51,846 --> 00:00:54,846
+Anders gefragt:
+Wofür eignet sich KI?
+
+13
+00:00:55,166 --> 00:00:59,686
+Welche Herausforderungen bestehen?
+Was kann erwartet werden?
+
+14
+00:01:00,086 --> 00:01:03,526
+Wie werden KI-Anwendungen
+implementiert und angewendet?
+
+15
+00:01:03,566 --> 00:01:07,046
+Und wie gehen wir mit Fragen um,
+
+16
+00:01:07,086 --> 00:01:13,126
+die von Beginn an ethische Überlegungen
+
+17
+00:01:13,166 --> 00:01:15,766
+jenseits von Regulierungsfragen
+mit sich bringen?
+
+18
+00:01:16,126 --> 00:01:19,446
+Aus diesem Grund fokussieren wir in diesem Kurs
+
+19
+00:01:19,486 --> 00:01:25,286
+Schülerinnen und Schüler
+im Alter von 15 bis 17 Jahren,
+
+20
+00:01:25,326 --> 00:01:27,766
+also Lernende,
+die vor wichtigen schulischen Entscheidungen stehen.
+
+21
+00:01:28,006 --> 00:01:30,446
+Dabei möchten wir KI insbesondere im Dienste der
+Mathematik und Wissenschaften
+
+22
+00:01:30,486 --> 00:01:32,766
+als auch der modernen Sprachen thematisieren,
+
+23
+00:01:32,806 --> 00:01:36,966
+denn wir möchten im Rahmen des Projekts
+verschiedene Disziplinen
+
+24
+00:01:37,006 --> 00:01:41,446
+und ihre Beziehungen zu KI aufzeigen.
+

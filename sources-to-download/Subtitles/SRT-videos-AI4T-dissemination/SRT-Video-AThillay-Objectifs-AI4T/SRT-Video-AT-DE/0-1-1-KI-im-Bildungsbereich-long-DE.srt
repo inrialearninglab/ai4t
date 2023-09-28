@@ -1,0 +1,447 @@
+1
+00:00:03,375 --> 00:00:07,906
+Künstliche Intelligenz in
+der europäischen Bildung: Warum und wozu?
+
+2
+00:00:08,166 --> 00:00:12,653
+Die Idee dieses Kurses zum Thema
+"Künstliche Intelligenz in der Schulbildung"
+
+3
+00:00:12,678 --> 00:00:15,871
+entstand 2019 im europäischen Kontext
+
+4
+00:00:15,896 --> 00:00:18,388
+während einer Peer-to-Peer-Lernaktivität
+
+5
+00:00:18,413 --> 00:00:23,178
+unter Kolleginnen und Kollegen
+aus Bildungsministerien in Slowenien.
+
+6
+00:00:24,726 --> 00:00:28,380
+Ich hatte die Möglichkeit,
+die KI-Innovationspartnerschaft
+
+7
+00:00:28,405 --> 00:00:30,021
+des französischen Ministeriums
+
+8
+00:00:30,046 --> 00:00:33,585
+zum (Er)Lernen von Französisch und Mathematik
+
+9
+00:00:33,610 --> 00:00:37,678
+für Schülerinnen und Schüler
+von 6 bis 8 Jahren vorzustellen.
+
+10
+00:00:37,703 --> 00:00:40,281
+Die Partnerschaft
+stieß auf großes Interesse.
+
+11
+00:00:40,446 --> 00:00:44,399
+Im Jahr 2019 kam KI in allen Branchen auf,
+
+12
+00:00:44,424 --> 00:00:45,759
+so auch in der Bildung,
+
+13
+00:00:45,809 --> 00:00:50,275
+und es stellten sich
+viele Fragen über eine (ungewisse) Zukunft.
+
+14
+00:00:52,260 --> 00:00:53,877
+Aus diesem Grund haben wir uns mit
+
+15
+00:00:53,902 --> 00:00:57,034
+Italien, Irland, Luxemburg und Slowenien
+
+16
+00:00:57,059 --> 00:01:01,027
+zusammengetan und
+das Projekt als Teil des Erasmus-Programms
+
+17
+00:01:01,052 --> 00:01:05,132
+vorgeschlagen,
+um diese dringenden Fragen gemeinsam anzugehen.
+
+18
+00:01:05,340 --> 00:01:07,794
+Wir wollten sie bewusst nicht einzeln angehen,
+
+19
+00:01:07,819 --> 00:01:11,598
+denn wir können viel aus unseren
+unterschiedlichen Bildungssystemen lernen.
+
+20
+00:01:12,913 --> 00:01:16,458
+Die Idee eines solchen Kurses
+im europäischen Kontext ist,
+
+21
+00:01:16,483 --> 00:01:19,882
+das Thema auf drei
+verschiedenen Ebenen anzugehen:
+
+22
+00:01:21,526 --> 00:01:25,432
+Verstehen,
+was KI der Bildung bringen kann.
+
+23
+00:01:27,086 --> 00:01:29,752
+Experimentieren und Ressourcen testen,
+
+24
+00:01:29,777 --> 00:01:32,897
+die KI auf "intelligente" Weise nutzen.
+
+25
+00:01:35,867 --> 00:01:38,896
+Und schließlich die digitalen Kompetenzen fördern,
+
+26
+00:01:38,921 --> 00:01:42,531
+die heute von Lehrkräften
+und Lernenden erwartet werden.
+
+27
+00:01:45,077 --> 00:01:48,702
+Wir müssen verstehen,
+dass KI Teil der Zukunft ist.
+
+28
+00:01:49,606 --> 00:01:51,691
+Daher muss auch der ethische Aspekt
+
+29
+00:01:51,716 --> 00:01:54,262
+von Beginn an mit gedacht werden.
+
+30
+00:01:55,422 --> 00:01:58,699
+Anders gefragt: Wofür eignet sich KI?
+
+31
+00:01:58,902 --> 00:02:03,126
+Welche Herausforderungen bestehen?
+Was kann erwartet werden?
+
+32
+00:02:04,867 --> 00:02:08,828
+Wie werden KI-Anwendungen
+implementiert und angewendet?
+
+33
+00:02:09,375 --> 00:02:11,296
+Und wie gehen wir mit Fragen um,
+
+34
+00:02:11,321 --> 00:02:13,617
+die von Beginn an ethische Überlegungen
+
+35
+00:02:13,642 --> 00:02:16,610
+jenseits von Regulierungsfragen
+mit sich bringen?
+
+36
+00:02:20,188 --> 00:02:22,766
+Aus diesem Grund fokussieren wir in diesem Kurs
+
+37
+00:02:22,791 --> 00:02:26,962
+Schülerinnen und Schüler
+im Alter von 15 bis 17 Jahren,
+
+38
+00:02:28,766 --> 00:02:32,798
+also Lernende, die vor wichtigen
+schulischen Entscheidungen stehen.
+
+39
+00:02:32,890 --> 00:02:37,609
+Dabei möchten wir KI insbesondere im Dienste der
+Mathematik und Wissenschaften
+
+40
+00:02:37,634 --> 00:02:40,546
+als auch der modernen Sprachen thematisieren,
+
+41
+00:02:40,571 --> 00:02:44,086
+denn wir möchten im Rahmen des Projekts
+verschiedene Disziplinen
+
+42
+00:02:44,111 --> 00:02:46,891
+und ihre Beziehungen zu KI aufzeigen.
+
+43
+00:02:47,055 --> 00:02:51,383
+Die erste Ebene „Verstehen,
+was KI der Bildung bringen kann“
+
+44
+00:02:51,677 --> 00:02:54,414
+soll diejenigen beruhigen,
+die Angst haben,
+
+45
+00:02:54,453 --> 00:02:57,695
+aber auch die,
+die vielleicht zu enthusiastisch sind.
+
+46
+00:02:57,890 --> 00:03:01,578
+So soll identifiziert werden,
+welche KI-Technologien
+
+47
+00:03:01,603 --> 00:03:04,085
+die passenden Lösungen
+zu den Problemen bieten,
+
+48
+00:03:04,110 --> 00:03:06,257
+die aktuell in der Schule anstehen.
+
+49
+00:03:06,391 --> 00:03:10,241
+Außerdem sollen mögliche Verzerrungen
+von Anfang an erkannt werden.
+
+50
+00:03:10,442 --> 00:03:13,468
+All diesen Fragen würde ich
+wie folgt zusammenfassen:
+
+51
+00:03:13,624 --> 00:03:17,740
+„Wir müssen KI-Technologien
+in einem sicheren Rahmen testen können,
+
+52
+00:03:17,795 --> 00:03:22,686
+und diese KI-Technologien sollten mit
+passenden Materialien verbunden sein,
+
+53
+00:03:22,850 --> 00:03:24,850
+so dass wir gemeinsam abwägen können,
+
+54
+00:03:24,875 --> 00:03:28,537
+was konkret (nicht) zu tun ist.
+
+55
+00:03:32,144 --> 00:03:36,659
+Bei KI handelt sich weder um Magie
+noch um etwas Angsteinflößendes.
+
+56
+00:03:39,021 --> 00:03:42,721
+Es gibt aktuell keinen Grund,
+sich vor KI zu fürchten.
+
+57
+00:03:43,276 --> 00:03:45,315
+Man muss nur die Grundlagen verstehen.
+
+58
+00:03:45,838 --> 00:03:50,422
+Man braucht kein KI-Experte zu sein,
+aber die Grundlagen sollte man verstehen,
+
+59
+00:03:50,447 --> 00:03:53,299
+um KI-Anwendungen sinnvoll einzusetzen.
+
+60
+00:03:53,541 --> 00:03:57,366
+Sie können der Lehrkraft (repetitive)
+Arbeiten abnehmen
+
+61
+00:03:57,391 --> 00:04:00,087
+oder Schülerinnen und Schüler
+beim selbstständigen Lernen
+
+62
+00:04:00,112 --> 00:04:02,580
+mit geeigneter Software unterstützen.
+
+63
+00:04:03,580 --> 00:04:06,869
+Auf der zweiten Ebene
+des Experimentierens und Testens
+
+64
+00:04:06,894 --> 00:04:10,611
+kann man, sobald man
+die anfänglichen Ängste überwunden hat,
+
+65
+00:04:15,945 --> 00:04:18,850
+die eigenen Bedürfnisse
+und Ziele klar bestimmen
+
+66
+00:04:18,875 --> 00:04:22,694
+und interessante Anwendungen
+in einem sicheren Rahmen testen.
+
+67
+00:04:25,888 --> 00:04:29,872
+Hierbei gilt es vor allem Vorschriften
+und Regeln sorgfältig zu prüfen,
+
+68
+00:04:29,897 --> 00:04:33,522
+so dass wir die Anwendungen
+auch in der Klasse einsetzen können.
+
+69
+00:04:38,882 --> 00:04:41,952
+Wir testen Ressourcen
+in einem vertrauensvollen Rahmen
+
+70
+00:04:41,977 --> 00:04:46,702
+und prüfen mit Kolleginnen und Kollegen,
+uns selbst sowie mit Lernenden,
+
+71
+00:04:46,785 --> 00:04:49,374
+was relevant ist und was nicht.
+
+72
+00:04:52,520 --> 00:04:56,255
+Im besten Fall würde man auch
+mit Forschungsteams zusammenarbeiten,
+
+73
+00:04:56,333 --> 00:04:59,215
+aber es kommt immer
+auf den eigenen Kontext an.
+
+74
+00:05:00,141 --> 00:05:02,422
+Wir müssen einfach
+mit klarem Kopf handeln
+
+75
+00:05:02,447 --> 00:05:04,883
+und alle wichtigen Vorkehrungen treffen.
+
+76
+00:05:08,023 --> 00:05:11,640
+Alle Verzerrung müssen
+von Anfang an beachtet werden.
+
+77
+00:05:12,972 --> 00:05:15,689
+Wir dürfen nie
+die Verantwortung verlieren für das,
+
+78
+00:05:15,714 --> 00:05:17,065
+was wir tun.
+
+79
+00:05:21,935 --> 00:05:24,833
+Das ermöglicht es Lehrkräften,
+Vertrauen zu gewinnen
+
+80
+00:05:24,858 --> 00:05:26,739
+und durch Diskussion und Feedback
+
+81
+00:05:26,764 --> 00:05:29,216
+KI-Technologien besser zu verstehen,
+
+82
+00:05:29,326 --> 00:05:33,873
+einzuschätzen, welche Anwendungen
+für welche Ziele eingesetzt werden,
+
+83
+00:05:38,804 --> 00:05:42,062
+und schließlich abzuschätzen,
+ob sie im Schulkontext
+
+84
+00:05:42,087 --> 00:05:45,749
+oder im allgemeinen Kontext
+relevant sind oder nicht.
+
+85
+00:05:48,990 --> 00:05:51,123
+Muss ich meine Unterrichtsplanung anpassen,
+
+86
+00:05:51,148 --> 00:05:53,248
+wenn die Lernenden vor mir sitzen?
+
+87
+00:05:57,526 --> 00:06:00,025
+Die dritte Ebene fordert Lehrpersonen auf,
+
+88
+00:06:00,050 --> 00:06:03,315
+sich nicht auf KI-Anwendungen
+und disziplinäres Lernen
+
+89
+00:06:03,340 --> 00:06:05,666
+mit KI-Technologien zu verlassen,
+
+90
+00:06:09,794 --> 00:06:13,747
+sondern gleichzeitig Teil
+des globalen Diskurses zu sein,
+
+91
+00:06:13,772 --> 00:06:17,583
+und so gemeinsam mit Bildungsexpertinnen
+und -experten,
+
+92
+00:06:17,608 --> 00:06:21,545
+bestmöglichst zum Lernpfad
+der Lernenden beizutragen
+
+93
+00:06:21,570 --> 00:06:25,090
+und dabei ethische Fragen zu berücksichtigen.
+
+94
+00:06:33,151 --> 00:06:35,969
+Es handelt sich dabei
+um digitale Kompetenzen,
+
+95
+00:06:35,994 --> 00:06:39,486
+die jede Lehrkraft, aber auch
+jede Schülerin und jeder Schüler
+
+96
+00:06:39,601 --> 00:06:41,596
+- wenn nicht sogar jeder Mensch –
+
+97
+00:06:41,621 --> 00:06:45,269
+im Zeitalter der Digitalisierung benötigt.
+

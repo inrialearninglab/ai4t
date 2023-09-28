@@ -1,0 +1,55 @@
+WEBVTT
+
+00:00:00.048 --> 00:00:02.506 
+Uspešno smo usposobili svoj prvi program.
+
+00:00:02.548 --> 00:00:03.548 
+Dobro opravljeno!
+
+00:00:03.840 --> 00:00:05.923 
+Kot smo videli,
+ne gre za nobeno čarovnijo.
+
+00:00:05.965 --> 00:00:08.006 
+Najprej smo programu povedali,
+kaj ga boom naučili,
+
+00:00:08.048 --> 00:00:09.673 
+nato pa smo mu pokazali veliko število primerov.
+
+00:00:09.881 --> 00:00:11.590 
+To je faza učenja.
+
+00:00:11.631 --> 00:00:13.840 
+Takšnemu učečemu se programu pravimo 'model'.
+
+00:00:14.423 --> 00:00:17.631 
+Zdaj zna že predvideti,
+v katero kategorijo sodi določena podoba.
+
+00:00:18.090 --> 00:00:20.798 
+Njegovo predvidevanje
+je sicer še vedno statistični približek,
+
+00:00:20.840 --> 00:00:22.131 
+izražen v odstotkih.
+
+00:00:22.340 --> 00:00:24.590 
+Glede na njegove izračune
+obstaja večja verjetnost,
+
+00:00:24.631 --> 00:00:27.381 
+da ta slika sodi v to kategorijo
+kot pa v kakšno drugo.
+
+00:00:27.715 --> 00:00:29.590 
+Toda ali model res zazna vse?
+
+00:00:29.631 --> 00:00:32.173 
+Če ga naučimo prepoznati mačke,
+
+00:00:32.215 --> 00:00:34.423 
+ali bo znal prepoznati tudi leve in tigre?
+
+00:00:34.465 --> 00:00:36.090 
+Se lahko naš program zmoti?

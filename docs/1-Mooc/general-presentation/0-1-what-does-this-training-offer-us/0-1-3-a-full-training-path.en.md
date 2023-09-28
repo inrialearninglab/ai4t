@@ -13,23 +13,13 @@ description: Description of the generic training pathway common to all partners
     - Licence: CC BY 4.0
     - Date: 2022-11-15
 
-# A Full Training Path on AI and Education
+#  A Mooc Course at the heart of a comprehensive training programm on AI and education
 
-The full training path is designed and created for European teachers and school leaders to investigate, experiment and question themselves about the use of AI in Education. It extends over a period of 3 months and includes:
+The complete training pathway based around the Mooc has been designed and developed so that teachers and the entire educational community can explore, experiment and question the use of AI in education.
 
--   the present online training course, designed as a Mooc, and consisting of 4 modules with a total duration from 2 to 3 hours,
+It was tested during the first half of 2023 in the 5 partner countries of the project.
 
--   online training resources to go further on AI and Education,
-
--   an online textbook,
-
--   webinars to share practices and opinions,
-
--   and guided trainings, in-person and online, for participants interactions with AI and Education experts.
-
-The total duration of the training is planned for 3 months over a period from November 2022 to March 2023 depending on the countries involved in the experiment.
-
-A graphical representation sometimes helps to understand how it worked.
+Here is a graphic representation of the typical training path proposed to participants on the basis of the Mooc
 
 <figure>
   <img src="Images/AI4T-Training-pathway-en.png" alt="AI4T total project duration"/>

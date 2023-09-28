@@ -1,0 +1,303 @@
+﻿1
+00:00:04,096 --> 00:00:08,096
+L’observation de l’apprentissage de l’élève
+pour le guider vers la réussite
+
+2
+00:00:09,650 --> 00:00:12,539
+De nombreuses traces numériques
+sont laissées par les apprenants
+
+3
+00:00:12,564 --> 00:00:14,431
+lorsqu’ils utilisent des outils numériques.
+
+4
+00:00:15,267 --> 00:00:17,876
+Tout d’abord, il y a toutes les traces
+qu’ils laissent naturellement,
+
+5
+00:00:17,947 --> 00:00:18,947
+sans faire quoi que ce soit.
+
+6
+00:00:18,972 --> 00:00:21,456
+Par exemple, en accédant à un service,
+à un serveur,
+
+7
+00:00:21,649 --> 00:00:23,917
+ils laissent une trace de leur connexion
+à ce service.
+
+8
+00:00:24,438 --> 00:00:26,546
+Il y a aussi toutes les traces
+laissées volontairement,
+
+9
+00:00:26,571 --> 00:00:29,102
+en écrivant,
+en laissant des commentaires
+
+10
+00:00:29,368 --> 00:00:31,710
+ou en évaluant avec des étoiles,
+par exemple.
+
+11
+00:00:32,250 --> 00:00:35,024
+Il y a aussi les données
+associées aux performances
+
+12
+00:00:35,049 --> 00:00:36,657
+ou résultats obtenus
+
+13
+00:00:36,682 --> 00:00:38,836
+dans un environnement
+numérique d’apprentissage.
+
+14
+00:00:40,571 --> 00:00:42,797
+Tout cela génère un ensemble de données
+
+15
+00:00:42,937 --> 00:00:47,366
+qui peuvent être analysées par les
+technologies d’intelligence artificielle.
+
+16
+00:00:49,124 --> 00:00:51,187
+La question que l’on peut alors se poser :
+
+17
+00:00:51,671 --> 00:00:54,663
+Comment est-il possible d’analyser
+cet ensemble d’informations
+
+18
+00:00:54,688 --> 00:00:56,592
+pour aider les élèves
+dans leurs apprentissages
+
+19
+00:00:56,962 --> 00:00:59,362
+et les enseignants dans leur pédagogie ?
+
+20
+00:01:01,108 --> 00:01:03,467
+Si on fait un parallèle
+avec l’entraînement sportif,
+
+21
+00:01:03,492 --> 00:01:06,545
+on peut modéliser des informations
+sur les temps d’activité,
+
+22
+00:01:06,647 --> 00:01:08,639
+le nombre d’heures de sommeil
+ou de récupération.
+
+23
+00:01:09,053 --> 00:01:10,926
+D’autres traces sont beaucoup plus précises
+
+24
+00:01:10,951 --> 00:01:13,349
+et peuvent capter des signaux dits
+biologiques,
+
+25
+00:01:13,954 --> 00:01:16,132
+voire des émotions.
+
+26
+00:01:17,747 --> 00:01:19,400
+Dans le contexte sportif,
+
+27
+00:01:19,400 --> 00:01:21,411
+les traces permettent,
+par exemple,
+
+28
+00:01:21,436 --> 00:01:23,399
+d’ajuster les moyens pour s'entraîner
+
+29
+00:01:23,887 --> 00:01:25,782
+ou de fournir de meilleures chaussures.
+
+30
+00:01:27,040 --> 00:01:28,501
+Ne peut-on imaginer,
+
+31
+00:01:29,063 --> 00:01:31,782
+grâce à l’intelligence artificielle,
+
+32
+00:01:32,712 --> 00:01:34,258
+des outils similaires
+
+33
+00:01:34,815 --> 00:01:37,016
+dans le contexte éducatif ?
+
+34
+00:01:38,882 --> 00:01:40,529
+On peut doter les élèves d’outils
+
+35
+00:01:40,554 --> 00:01:42,351
+qui vont leur permettre d’estimer
+
+36
+00:01:42,376 --> 00:01:45,624
+où ils se situent par rapport
+au comportement qu’ils devraient avoir,
+
+37
+00:01:46,651 --> 00:01:48,936
+par rapport aux erreurs
+qu’ils ont pu commettre
+
+38
+00:01:49,970 --> 00:01:53,370
+mais aussi par rapport à tous les succès
+qu’ils ont pu rencontrer.
+
+39
+00:01:53,882 --> 00:01:55,298
+Il est aussi possible de leur fournir
+
+40
+00:01:55,323 --> 00:01:57,626
+un certain nombre
+d’informations complémentaires,
+
+41
+00:01:57,880 --> 00:01:59,946
+en utilisant des modèles prédictifs.
+
+42
+00:02:00,196 --> 00:02:01,320
+On peut, par exemple,
+
+43
+00:02:01,383 --> 00:02:03,922
+leur proposer des ressources
+additionnelles personnalisées
+
+44
+00:02:04,008 --> 00:02:07,774
+qui vont leur permettre de mieux réussir
+leur chemin d’apprentissage.
+
+45
+00:02:08,953 --> 00:02:10,781
+Et du point de vue des enseignants,
+
+46
+00:02:11,797 --> 00:02:13,756
+comment les observations disponibles
+
+47
+00:02:13,781 --> 00:02:15,202
+peuvent-elles les aider à adapter
+
+48
+00:02:15,227 --> 00:02:17,304
+leur enseignement et leur pédagogie ?
+
+49
+00:02:18,257 --> 00:02:20,343
+Avec un outil comme un tableau de bord,
+
+50
+00:02:20,421 --> 00:02:23,483
+la visualisation et l’analyse
+des comportements numériques
+
+51
+00:02:24,032 --> 00:02:25,325
+peuvent permettre aux enseignants
+
+52
+00:02:25,350 --> 00:02:27,999
+de mieux comprendre
+ce qui se passe pour un élève
+
+53
+00:02:28,200 --> 00:02:29,499
+ou un groupe d’élèves
+
+54
+00:02:29,524 --> 00:02:31,969
+à un moment donné ou au cours du temps.
+
+55
+00:02:32,211 --> 00:02:33,899
+Ce tableau de bord permet, éventuellement,
+
+56
+00:02:33,924 --> 00:02:36,516
+de proposer des recommandations,
+des suggestions
+
+57
+00:02:36,541 --> 00:02:38,375
+en utilisant
+des outils d’aide à la décision.
+
+58
+00:02:39,016 --> 00:02:41,804
+Ces recommandations
+peuvent être associées à des explications
+
+59
+00:02:41,829 --> 00:02:43,804
+pour permettre aux enseignants de décider
+
+60
+00:02:43,829 --> 00:02:45,468
+s’ils vont les exploiter ou non.
+
+61
+00:02:46,959 --> 00:02:47,828
+Et finalement,
+
+62
+00:02:47,853 --> 00:02:49,242
+tout cet ensemble d’observations
+
+63
+00:02:49,267 --> 00:02:51,107
+peut-il également permettre à l’institution
+
+64
+00:02:51,132 --> 00:02:53,720
+de mieux s’organiser, se renouveler,
+
+65
+00:02:53,980 --> 00:02:56,853
+et ne plus avoir ces couloirs
+aussi bien tracés,
+
+66
+00:02:57,913 --> 00:03:00,038
+mais des trajets plus vallonnés,
+
+67
+00:03:00,755 --> 00:03:03,475
+un peu plus tourmentés,
+voire, surtout,
+
+68
+00:03:03,500 --> 00:03:05,296
+beaucoup plus individualisés ?
+

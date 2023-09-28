@@ -1,0 +1,551 @@
+1
+00:00:03,178 --> 00:00:05,991
+INTELLIGENZA ARTIFICIALE
+NELL'ISTRUZIONE IN EUROPA:
+
+2
+00:00:06,016 --> 00:00:07,809
+PERCHÉ E A CHE SCOPO?
+
+3
+00:00:09,116 --> 00:00:12,251
+La creazione di questa formazione
+nel contesto europeo
+
+4
+00:00:12,276 --> 00:00:14,882
+sull'intelligenza artificiale
+nell'istruzione
+
+5
+00:00:15,576 --> 00:00:18,722
+è nata in realtà da un'attività
+di apprendimento tra pari,
+
+6
+00:00:19,036 --> 00:00:21,046
+tra i colleghi di diversi ministeri
+
+7
+00:00:21,086 --> 00:00:24,139
+in Slovenia, a partire dal 2019.
+
+8
+00:00:25,126 --> 00:00:27,407
+Lì, ho avuto l'opportunità di presentare
+
+9
+00:00:27,432 --> 00:00:30,878
+il Partenariato d'Innovazione
+sull'Intelligenza Artificiale
+
+10
+00:00:30,903 --> 00:00:33,676
+per l'apprendimento
+del francese e della matematica
+
+11
+00:00:33,837 --> 00:00:36,066
+nei bambini dai sei agli otto anni
+
+12
+00:00:36,213 --> 00:00:39,193
+che il ministero francese
+aveva appena avviato.
+
+13
+00:00:40,259 --> 00:00:43,544
+Ciò ha suscitato un grande interesse
+in tutti i partecipanti.
+
+14
+00:00:43,804 --> 00:00:46,579
+In un momento in cui, nel 2019,
+
+15
+00:00:46,604 --> 00:00:51,062
+l'IA emergeva in tutti i settori
+di attività e anche nell'istruzione,
+
+16
+00:00:51,340 --> 00:00:53,326
+si discuteva molto su cosa fare.
+
+17
+00:00:53,933 --> 00:00:56,781
+Di conseguenza, con l'Italia, l'Irlanda,
+
+18
+00:00:56,806 --> 00:00:58,739
+il Lussemburgo e la Slovenia,
+
+19
+00:00:58,805 --> 00:01:03,372
+abbiamo deciso di proporre questo progetto
+nell'ambito del programma Erasmus
+
+20
+00:01:03,566 --> 00:01:05,832
+per trattare insieme questi interrogativi
+
+21
+00:01:05,879 --> 00:01:08,452
+e non affrontarli Paese per Paese,
+
+22
+00:01:08,653 --> 00:01:12,052
+considerando il fatto
+che abbiamo sistemi educativi differenti.
+
+23
+00:01:13,219 --> 00:01:16,667
+L'obiettivo di questa formazione
+nel contesto europeo
+
+24
+00:01:16,692 --> 00:01:20,996
+è quello di poter finalmente affrontare
+questo tema su tre livelli:
+
+25
+00:01:21,963 --> 00:01:26,763
+demistificare e comprendere
+ciò che l'IA può apportare all'istruzione,
+
+26
+00:01:27,589 --> 00:01:29,950
+sperimentare e utilizzare risorse
+
+27
+00:01:29,975 --> 00:01:33,926
+che includono l'IA
+in modo informato, naturalmente,
+
+28
+00:01:35,403 --> 00:01:39,479
+e, infine, sviluppare
+in tutti gli insegnanti e gli studenti
+
+29
+00:01:39,504 --> 00:01:42,572
+le competenze digitali necessarie
+al giorno d'oggi,
+
+30
+00:01:42,966 --> 00:01:44,686
+e l'IA è una di queste,
+
+31
+00:01:45,429 --> 00:01:48,909
+o almeno far capire
+che l'utilizzo dell'IA ne è parte,
+
+32
+00:01:49,046 --> 00:01:51,430
+in modo da integrare la dimensione etica
+
+33
+00:01:51,455 --> 00:01:53,695
+fin dall'inizio in questi progetti.
+
+34
+00:01:55,125 --> 00:01:58,445
+In altre parole, a cosa serve l'IA?
+
+35
+00:01:59,766 --> 00:02:02,799
+Per quali sfide usare l'IA?
+
+36
+00:02:03,526 --> 00:02:05,686
+Per ottenere quali risultati?
+
+37
+00:02:06,298 --> 00:02:10,221
+Come implementare e utilizzare
+queste risorse d'IA?
+
+38
+00:02:11,266 --> 00:02:13,826
+Infine, come integrare fin dall'inizio
+
+39
+00:02:13,851 --> 00:02:16,797
+le domande in grado di indurre
+una riflessione etica
+
+40
+00:02:16,822 --> 00:02:19,142
+al di là delle questioni normative?
+
+41
+00:02:20,990 --> 00:02:24,151
+Per questa ragione, abbiamo scelto
+di provare ad approcciare
+
+42
+00:02:24,176 --> 00:02:26,949
+l'introduzione dell'IA in ambito educativo
+
+43
+00:02:26,974 --> 00:02:30,902
+a partire da una fascia d'età
+di 15-16 anni,
+
+44
+00:02:31,446 --> 00:02:34,286
+con alunni al primo anno
+della scuola superiore,
+
+45
+00:02:34,315 --> 00:02:37,276
+nella matematica
+e nelle scienze da una parte
+
+46
+00:02:37,301 --> 00:02:40,375
+e nell'apprendimento
+delle lingue moderne dall'altra,
+
+47
+00:02:40,957 --> 00:02:44,492
+poiché necessitavamo
+di due campi di sperimentazione
+
+48
+00:02:44,937 --> 00:02:47,303
+due aree di sperimentazione,
+
+49
+00:02:47,410 --> 00:02:51,071
+che potessero essere portate avanti
+per tutta la durata del progetto.
+
+50
+00:02:53,275 --> 00:02:57,024
+Il primo livello,
+demistificare e comprendere l'IA,
+
+51
+00:02:57,049 --> 00:03:00,818
+mira sia a rassicurare
+coloro che sono più timorosi,
+
+52
+00:03:00,843 --> 00:03:04,289
+sia a moderare
+coloro che sono più entusiasti,
+
+53
+00:03:04,615 --> 00:03:07,874
+in modo da identificare bene
+quali tecniche d'IA
+
+54
+00:03:07,899 --> 00:03:10,020
+possono apportare soluzioni ai problemi
+
+55
+00:03:10,045 --> 00:03:12,045
+che si stanno cercando di risolvere,
+
+56
+00:03:12,219 --> 00:03:16,367
+sia a identificare quali pregiudizi
+possono presentarsi all'inizio.
+
+57
+00:03:17,024 --> 00:03:21,075
+Sono tutte domande, direi,
+che permettono di dire:
+
+58
+00:03:21,100 --> 00:03:23,453
+"Bisogna, in un contesto di fiducia,
+
+59
+00:03:23,478 --> 00:03:26,086
+poter testare degli algoritmi dell'IA
+
+60
+00:03:26,111 --> 00:03:29,191
+e le tecniche d'IA
+associate a delle risorse,
+
+61
+00:03:29,216 --> 00:03:31,102
+così da poter fare, quindi,
+
+62
+00:03:31,127 --> 00:03:32,775
+un tentativo concreto
+
+63
+00:03:32,800 --> 00:03:35,346
+di valutare cosa fare in proposito."
+
+64
+00:03:35,371 --> 00:03:37,106
+Non è nulla di magico,
+
+65
+00:03:37,131 --> 00:03:38,933
+né di spaventoso, direi.
+
+66
+00:03:38,958 --> 00:03:41,571
+È inutile avere paura di queste tecniche.
+
+67
+00:03:41,596 --> 00:03:44,554
+Bisogna comprenderne i principi generali.
+
+68
+00:03:44,579 --> 00:03:46,556
+Non bisogna essere specialisti,
+
+69
+00:03:46,581 --> 00:03:49,429
+ma solo comprendere i principi generali,
+
+70
+00:03:49,454 --> 00:03:53,352
+per poter utilizzare in modo efficace
+queste tecniche d'IA
+
+71
+00:03:53,377 --> 00:03:57,237
+per assistere un professore
+nel suo compito d'insegnamento
+
+72
+00:03:57,262 --> 00:04:00,550
+o per assistere uno studente
+nell'apprendimento autonomo,
+
+73
+00:04:00,575 --> 00:04:04,083
+fornendo loro, per esempio,
+un software di supporto.
+
+74
+00:04:04,108 --> 00:04:08,014
+Il secondo livello
+è sperimentare e testare le risorse
+
+75
+00:04:08,039 --> 00:04:10,785
+che permettono
+di utilizzare al meglio l'IA.
+
+76
+00:04:11,552 --> 00:04:16,366
+Ciò significa, una volta superati
+i timori o l'entusiasmo generale,
+
+77
+00:04:16,406 --> 00:04:19,738
+essere in grado
+di identificare i propri bisogni,
+
+78
+00:04:19,763 --> 00:04:22,918
+di definire chiaramente i propri obiettivi
+
+79
+00:04:22,943 --> 00:04:26,483
+e di sperimentare, quindi,
+in un contesto di fiducia,
+
+80
+00:04:26,508 --> 00:04:29,143
+in particolare, avendo cura di considerare
+
+81
+00:04:29,168 --> 00:04:32,356
+cosa era conforme alle regole, alle norme,
+
+82
+00:04:32,690 --> 00:04:34,643
+in modo da poter, finalmente,
+
+83
+00:04:34,668 --> 00:04:37,014
+testare per davvero, vorrei dire,
+
+84
+00:04:37,039 --> 00:04:39,799
+le risorse in un contesto di fiducia
+
+85
+00:04:41,019 --> 00:04:43,563
+e verificare con i propri colleghi,
+
+86
+00:04:43,588 --> 00:04:46,548
+con sé stessi o con gli studenti,
+
+87
+00:04:46,572 --> 00:04:49,658
+cos'è rilevante e cosa non lo è.
+
+88
+00:04:50,952 --> 00:04:54,552
+Infatti, si tratta
+di esplorare e valutare,
+
+89
+00:04:54,577 --> 00:04:58,903
+anche con gruppi di ricerca,
+se possibile, ma tutto dipende.
+
+90
+00:05:00,074 --> 00:05:01,607
+È veramente un tentativo
+
+91
+00:05:01,632 --> 00:05:03,941
+da fare senza eccessivo ottimismo,
+
+92
+00:05:05,485 --> 00:05:08,083
+prendendo tutte le precauzioni necessarie,
+
+93
+00:05:08,232 --> 00:05:09,670
+dal punto di vista, direi,
+
+94
+00:05:09,695 --> 00:05:12,815
+di tutti quelli che possono essere
+i pregiudizi iniziali
+
+95
+00:05:12,840 --> 00:05:14,870
+e i pregiudizi sui risultati,
+
+96
+00:05:15,666 --> 00:05:18,396
+restando sempre consapevoli, diciamo così,
+
+97
+00:05:18,421 --> 00:05:20,885
+di quello che si fa e fiduciosi.
+
+98
+00:05:21,618 --> 00:05:25,165
+Questo permette anche agli insegnanti
+di acquistare fiducia
+
+99
+00:05:25,190 --> 00:05:26,476
+e, di conseguenza,
+
+100
+00:05:26,501 --> 00:05:30,230
+anche di demistificare
+quelle che sono le tecniche d'IA,
+
+101
+00:05:30,850 --> 00:05:32,643
+di utilizzarle bene,
+
+102
+00:05:33,799 --> 00:05:38,059
+di identificare quali tecniche usare
+e per quali obiettivi,
+
+103
+00:05:39,290 --> 00:05:42,883
+e, infine, di poter valutare
+se sono rilevanti o meno
+
+104
+00:05:42,908 --> 00:05:44,816
+nel contesto della propria classe
+
+105
+00:05:44,841 --> 00:05:48,553
+e nel contesto generale, diciamo,
+
+106
+00:05:48,578 --> 00:05:51,218
+di cosa fare
+in relazione ai piani di studio,
+
+107
+00:05:51,374 --> 00:05:53,414
+considerando, al momento T,
+
+108
+00:05:53,439 --> 00:05:57,052
+a che punto si è con gli studenti
+che si hanno di fronte.
+
+109
+00:05:58,100 --> 00:06:00,921
+Il terzo livello, infine,
+invita l'insegnante
+
+110
+00:06:00,946 --> 00:06:04,223
+a non rimanere concentrato
+solo sulle tecniche di IA,
+
+111
+00:06:04,248 --> 00:06:06,194
+o sull'apprendimento disciplinare
+
+112
+00:06:06,219 --> 00:06:08,685
+e sulle tecniche di IA che utilizza,
+
+113
+00:06:09,700 --> 00:06:13,420
+ma lo invita a inserirsi
+in una discussione più globale,
+
+114
+00:06:14,166 --> 00:06:16,903
+con i propri colleghi, il corpo docenti
+
+115
+00:06:16,928 --> 00:06:19,571
+e con il resto del personale scolastico.
+
+116
+00:06:20,904 --> 00:06:23,616
+In questo modo,
+potrà partecipare pienamente
+
+117
+00:06:23,641 --> 00:06:26,156
+al percorso educativo dello studente,
+
+118
+00:06:26,679 --> 00:06:29,323
+integrando le questioni etiche da un lato,
+
+119
+00:06:29,378 --> 00:06:34,131
+ma anche pensando che tutto questo
+fa parte dello sviluppo digitale,
+
+120
+00:06:34,806 --> 00:06:36,963
+delle competenze digitali estese,
+per così dire,
+
+121
+00:06:36,988 --> 00:06:40,964
+che ogni insegnante, ogni studente
+
+122
+00:06:40,989 --> 00:06:43,056
+e ogni individuo, più in generale,
+
+123
+00:06:43,081 --> 00:06:47,401
+deve possedere nell'attuale contesto
+di transizione digitale.
+

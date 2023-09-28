@@ -1,0 +1,343 @@
+1
+00:00:00,421 --> 00:00:03,007
+Aspetta, so chi possiamo chiamare.
+Ora vedi.
+
+2
+00:00:04,766 --> 00:00:05,685
+Il numero verde.
+
+3
+00:00:05,710 --> 00:00:08,039
+Guillaume, buongiorno. Da quanto tempo!
+
+4
+00:00:08,148 --> 00:00:09,726
+Come posso aiutarla oggi?
+
+5
+00:00:09,831 --> 00:00:11,987
+- Intelligenza artificiale.
+- Ottimo!
+
+6
+00:00:12,086 --> 00:00:13,925
+Più ne sento parlare, meno ne capisco.
+
+7
+00:00:13,950 --> 00:00:15,867
+All'inizio, pensavo che fosse fantastica.
+
+8
+00:00:15,892 --> 00:00:17,321
+Ora sono con mio cugino Théo,
+
+9
+00:00:17,346 --> 00:00:19,686
+che mi ha appena mostrato
+un articolo su Stephen Hawking.
+
+10
+00:00:19,718 --> 00:00:22,453
+- Sa, il brillante ricercatore.
+- Capisco.
+
+11
+00:00:22,486 --> 00:00:25,566
+Diceva: "Lo sviluppo
+di una piena intelligenza artificiale
+
+12
+00:00:25,606 --> 00:00:26,838
+potrebbe mettere fine della razza umana".
+
+13
+00:00:27,086 --> 00:00:29,332
+È inquietante,
+quello che dice questo tipo.
+
+14
+00:00:30,063 --> 00:00:31,463
+Chi ha paura dell'IA?
+
+15
+00:00:33,286 --> 00:00:34,486
+Certo, Guillaume,
+
+16
+00:00:34,526 --> 00:00:36,486
+però bisogna chiedersi chi è a dirlo.
+
+17
+00:00:36,790 --> 00:00:38,498
+Gliel'ho detto, è mio cugino Théo.
+
+18
+00:00:38,523 --> 00:00:39,092
+Salve!
+
+19
+00:00:39,326 --> 00:00:41,566
+Ma no, mi riferisco a Stephen Hawking!
+
+20
+00:00:41,591 --> 00:00:43,693
+È stato un grande studioso dell'universo,
+
+21
+00:00:43,718 --> 00:00:45,631
+ma l'IA non era il suo campo.
+
+22
+00:00:45,656 --> 00:00:48,567
+Ascoltate piuttosto
+un vero specialista in materia
+
+23
+00:00:48,592 --> 00:00:51,897
+come Jean-Gabriel Ganascia,
+ricercatore in campo informatico
+
+24
+00:00:51,922 --> 00:00:55,061
+e responsabile
+del Comitato etico del CNRS.
+
+25
+00:00:55,086 --> 00:00:57,654
+C'è sempre un po' di confusione
+su questo termine.
+
+26
+00:00:57,679 --> 00:00:58,803
+Molte persone dicono:
+
+27
+00:00:58,828 --> 00:00:59,951
+"Esiste davvero?
+
+28
+00:00:59,976 --> 00:01:02,185
+Credete all'intelligenza artificiale?"
+
+29
+00:01:02,210 --> 00:01:06,390
+perché la immaginano
+come una specie di fantasmagoria.
+
+30
+00:01:06,422 --> 00:01:09,875
+Hanno l'idea che una macchina si animi
+tutt'a un tratto e diventi intelligente.
+
+31
+00:01:09,900 --> 00:01:11,421
+E vi dimostro che non è così.
+
+32
+00:01:11,446 --> 00:01:13,703
+L'intelligenza artificiale
+è una disciplina scientifica,
+
+33
+00:01:13,728 --> 00:01:14,805
+questo è importante.
+
+34
+00:01:15,187 --> 00:01:17,170
+Sì, ma esistono di certo delle storie
+
+35
+00:01:17,195 --> 00:01:19,805
+su personaggi artificiali
+dotati di intelligenza.
+
+36
+00:01:19,830 --> 00:01:21,734
+Pinocchio, Frankenstein...
+
+37
+00:01:21,759 --> 00:01:23,852
+Terminator! Ci uccideranno tutti.
+
+38
+00:01:23,996 --> 00:01:25,476
+No, vi interrompo subito.
+
+39
+00:01:25,539 --> 00:01:27,675
+Un robot non è necessariamente un'IA.
+
+40
+00:01:27,700 --> 00:01:29,917
+È una carcassa meccanica con dei sensori
+
+41
+00:01:29,942 --> 00:01:31,425
+e un computer al suo interno
+
+42
+00:01:31,450 --> 00:01:33,290
+e a volte, ma solo a volte,
+
+43
+00:01:33,315 --> 00:01:37,300
+ci sono anche degli algoritmi detti
+"intelligenza artificiale" al suo interno.
+
+44
+00:01:37,494 --> 00:01:38,494
+Vedi, Théo?
+
+45
+00:01:38,519 --> 00:01:41,112
+Guarda il tuo smartphone,
+non puoi dire che somigli a un robot.
+
+46
+00:01:41,326 --> 00:01:42,766
+Ma non c'è IA qui dentro.
+
+47
+00:01:42,806 --> 00:01:45,056
+- Certo che c'è!
+- Sì, confermo.
+
+48
+00:01:45,081 --> 00:01:46,446
+Ma torniamo a Terminator.
+
+49
+00:01:46,471 --> 00:01:49,040
+Sapete, nella realtà,
+non esiste un'intelligenza
+
+50
+00:01:49,065 --> 00:01:51,337
+in grado di fare
+tutto ciò che si vede nei film
+
+51
+00:01:51,366 --> 00:01:53,653
+e non abbiamo la certezza
+che prima o poi accadrà.
+
+52
+00:01:53,708 --> 00:01:56,536
+E poi, ognuno è libero
+di credere a ciò che vuole,
+
+53
+00:01:56,561 --> 00:01:59,194
+ma non sono altro che credenze,
+non è scienza.
+
+54
+00:01:59,287 --> 00:02:01,847
+D'accordo, ma anche Elon Musk
+e altre persone
+
+55
+00:02:01,872 --> 00:02:05,216
+in particolare alcuni dirigenti del web,
+anche loro sono molto allarmisti
+
+56
+00:02:05,241 --> 00:02:08,430
+e sono loro gli stessi responsabili
+dello sviluppo di queste tecnologie.
+
+57
+00:02:08,455 --> 00:02:08,995
+Vero.
+
+58
+00:02:09,020 --> 00:02:10,981
+Ecco, questa storia puzza di fregatura.
+
+59
+00:02:11,006 --> 00:02:12,969
+Non serve farsi prendere dalla paranoia.
+
+60
+00:02:12,994 --> 00:02:14,526
+Ma è vero che queste tecnologie
+
+61
+00:02:14,566 --> 00:02:16,791
+sollevano questioni
+etiche e sociali importanti
+
+62
+00:02:16,816 --> 00:02:19,976
+che bisogna affrontare
+di pari passo con i progressi scientifici.
+
+63
+00:02:20,486 --> 00:02:22,976
+"Scienza senza coscienza
+non è che rovina dell'anima",
+
+64
+00:02:23,001 --> 00:02:24,812
+diceva già Rabelais nel XV secolo.
+
+65
+00:02:24,837 --> 00:02:25,798
+Bravo, Guillaume.
+
+66
+00:02:25,823 --> 00:02:29,118
+Certo, le preoccupazioni attuali
+sono del tutto legittime,
+
+67
+00:02:29,143 --> 00:02:32,183
+poiché l'IA ha un impatto concreto
+sulla società.
+
+68
+00:02:32,208 --> 00:02:36,023
+È fondamentale che chiunque
+comprenda di cosa si tratta realmente
+
+69
+00:02:36,048 --> 00:02:37,523
+per essere in grado di discutere
+
+70
+00:02:37,548 --> 00:02:40,484
+le scelte economiche e sociali
+che devono essere fatte.
+
+71
+00:02:40,846 --> 00:02:42,486
+Vedi, Théo? Tuo padre ha ragione.
+
+72
+00:02:42,511 --> 00:02:45,289
+Non è necessario che tu sia un meccanico
+per guidare un'auto,
+
+73
+00:02:45,314 --> 00:02:47,258
+ma è comunque meglio
+di guardare nel cofano
+
+74
+00:02:47,283 --> 00:02:49,408
+per capire come mettere in moto
+e come frenare.
+
+75
+00:02:49,454 --> 00:02:51,566
+Bene, ci penseremo su. D'accordo?
+
+76
+00:02:51,829 --> 00:02:52,533
+Okay.
+
+77
+00:02:53,246 --> 00:02:55,486
+Quindi, l'intelligenza artificiale, cos'è?
+

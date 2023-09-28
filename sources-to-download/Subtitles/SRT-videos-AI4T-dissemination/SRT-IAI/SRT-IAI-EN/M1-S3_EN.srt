@@ -1,0 +1,770 @@
+﻿1
+00:00:09,806 --> 00:00:12,326
+What is artificial intelligence?
+
+2
+00:00:14,286 --> 00:00:17,926
+Hi! I've been looking
+into this artificial intelligence thing.
+
+3
+00:00:17,966 --> 00:00:19,246
+It's fascinating.
+
+4
+00:00:19,326 --> 00:00:22,926
+I investigated and spoke
+with experts and researchers.
+
+5
+00:00:23,006 --> 00:00:25,526
+I read articles, attended conferences,
+
+6
+00:00:25,566 --> 00:00:27,046
+delved deeper, and dug.
+
+7
+00:00:27,126 --> 00:00:29,726
+I went all the way to the Pharaoh's tomb.
+
+8
+00:00:29,766 --> 00:00:32,646
+Basically, I went as far as I could.
+
+9
+00:00:32,686 --> 00:00:34,366
+Watch out! This is serious stuff.
+
+10
+00:00:35,246 --> 00:00:37,766
+By the way, we thought of you
+because we gave you all the sources.
+
+11
+00:00:37,806 --> 00:00:39,606
+That way, you can check for yourself
+
+12
+00:00:39,686 --> 00:00:42,806
+and, above all,
+explore the subjects that interest you.
+
+13
+00:00:42,886 --> 00:00:45,486
+All good? Here we go.
+
+14
+00:00:46,206 --> 00:00:47,726
+History of Algorithms.
+
+15
+00:00:49,886 --> 00:00:53,086
+Algorithms are all around us.
+
+16
+00:00:53,166 --> 00:00:56,246
+Content recommendations
+on Facebook are algorithms.
+
+17
+00:00:56,286 --> 00:01:00,766
+GPS location that tells me
+about traffic jams is an algorithm.
+
+18
+00:01:00,806 --> 00:01:02,726
+-Facial recognition...
+-Algorithm.
+
+19
+00:01:02,806 --> 00:01:06,006
+Good. Yes, but what are algorithms?
+
+20
+00:01:06,246 --> 00:01:08,766
+Let's start from the beginning, computing.
+
+21
+00:01:08,806 --> 00:01:11,966
+Computing is about processing information
+
+22
+00:01:12,006 --> 00:01:14,006
+automatically.
+
+23
+00:01:14,086 --> 00:01:17,446
+It relies on machines
+capable of processing data
+
+24
+00:01:17,486 --> 00:01:18,766
+-thanks to...
+-Algorithms.
+
+25
+00:01:18,806 --> 00:01:22,406
+Good, Theo, that's good.
+You're with me, that's nice.
+
+26
+00:01:22,646 --> 00:01:24,006
+Now, algorithms,
+
+27
+00:01:24,046 --> 00:01:26,286
+stop me if I'm wrong, are a bit like...
+
+28
+00:01:27,006 --> 00:01:28,926
+a cooking recipe.
+
+29
+00:01:29,006 --> 00:01:31,886
+It is a series of instructions
+to be followed in a certain order
+
+30
+00:01:31,966 --> 00:01:33,966
+to perform a task automatically.
+
+31
+00:01:34,006 --> 00:01:38,126
+Automatically means without the need
+to understand or think.
+
+32
+00:01:38,206 --> 00:01:40,206
+This is perfect for a machine.
+
+33
+00:01:40,766 --> 00:01:42,766
+Once you have this list of instructions,
+
+34
+00:01:42,806 --> 00:01:45,686
+you translate it into a language
+that a computer can understand,
+
+35
+00:01:45,726 --> 00:01:48,726
+and you get a computer program.
+
+36
+00:01:49,046 --> 00:01:54,886
+Computers run any program that describes
+an algorithm perfectly and very quickly,
+
+37
+00:01:54,926 --> 00:01:56,286
+and that's very impressive.
+
+38
+00:01:56,326 --> 00:01:59,686
+Moreover, in the 1950s,
+researchers began to dream.
+
+39
+00:01:59,726 --> 00:02:03,246
+They imagined algorithms
+that would make computers
+
+40
+00:02:03,286 --> 00:02:05,286
+as intelligent as humans.
+
+41
+00:02:05,846 --> 00:02:08,126
+As Nicolas Rougier,
+an Inria researcher, explains,
+
+42
+00:02:08,166 --> 00:02:11,646
+there were some great advances
+up until the end of the 1970s,
+
+43
+00:02:11,686 --> 00:02:13,086
+but then we were discouraged.
+
+44
+00:02:13,126 --> 00:02:14,726
+The promised results were not forthcoming.
+
+45
+00:02:14,926 --> 00:02:17,006
+Research funds stopped flowing,
+
+46
+00:02:17,046 --> 00:02:19,246
+and there was the first AI winter.
+
+47
+00:02:19,806 --> 00:02:22,966
+Ten years later,
+there was a surge in expert systems
+
+48
+00:02:23,006 --> 00:02:26,646
+that tried to reproduce the reasoning
+of a specialist such as a doctor.
+
+49
+00:02:26,686 --> 00:02:29,526
+Still, the human knowledge
+had to be put into the machines,
+
+50
+00:02:29,566 --> 00:02:32,566
+whereas what we wanted was
+for the machines to learn by themselves.
+
+51
+00:02:32,766 --> 00:02:34,726
+A second AI winter happened.
+
+52
+00:02:34,766 --> 00:02:37,126
+At the end of the 1990s,
+a breakthrough came.
+
+53
+00:02:37,206 --> 00:02:39,806
+Deep Blue, IBM's supercomputer,
+
+54
+00:02:39,846 --> 00:02:42,766
+beat the world chess champion,
+Garry Kasparov.
+
+55
+00:02:42,806 --> 00:02:46,846
+In 2016, another breakthrough,
+a Google algorithm
+
+56
+00:02:46,886 --> 00:02:48,726
+beat one of the best Go players
+in the world,
+
+57
+00:02:48,766 --> 00:02:51,486
+despite not having been thought possible
+for several years.
+
+58
+00:02:52,206 --> 00:02:55,526
+In fact,
+the history of artificial intelligence
+
+59
+00:02:55,566 --> 00:02:57,846
+alternates between high-profile advances
+
+60
+00:02:57,886 --> 00:02:59,166
+and major disappointments.
+
+61
+00:02:59,206 --> 00:03:01,526
+Now we're back in the boom phase.
+
+62
+00:03:01,566 --> 00:03:05,086
+Have our computers
+become intelligent or not?
+
+63
+00:03:05,166 --> 00:03:07,966
+We should clearly understand and define
+
+64
+00:03:08,006 --> 00:03:12,726
+what biological intelligence is
+to define artificial intelligence.
+
+65
+00:03:12,806 --> 00:03:17,086
+Before, being an excellent chess player
+was a sign of intelligence.
+
+66
+00:03:17,126 --> 00:03:21,366
+Today, that is no longer enough
+because the machine does it automatically.
+
+67
+00:03:21,406 --> 00:03:23,686
+Biological intelligence is defined
+
+68
+00:03:23,766 --> 00:03:26,966
+in the same way
+as artificial intelligence,
+
+69
+00:03:27,006 --> 00:03:28,686
+which is a fascinating question.
+
+70
+00:03:28,726 --> 00:03:30,846
+I will try to explain to you today
+
+71
+00:03:30,886 --> 00:03:34,886
+what biological intelligence is in 2020.
+
+72
+00:03:35,366 --> 00:03:37,086
+Biological intelligence.
+
+73
+00:03:38,486 --> 00:03:40,406
+At the same time
+as artificial intelligence,
+
+74
+00:03:40,446 --> 00:03:44,446
+the cognitive sciences were born,
+which study human intelligence.
+
+75
+00:03:44,686 --> 00:03:47,366
+They have made it possible
+to identify the various mechanisms
+
+76
+00:03:47,406 --> 00:03:49,926
+at work in the way thought functions.
+
+77
+00:03:49,966 --> 00:03:54,446
+This thought allows us
+to perceive, speak, move,
+
+78
+00:03:54,486 --> 00:03:59,126
+memorise, reason, plan,
+be abstract at times
+
+79
+00:03:59,166 --> 00:04:01,086
+or creative for the best of us.
+
+80
+00:04:01,366 --> 00:04:03,286
+These are our cognitive functions.
+
+81
+00:04:03,846 --> 00:04:05,566
+To stimulate human intelligence,
+
+82
+00:04:05,606 --> 00:04:08,526
+the idea was
+to reproduce cognitive functions.
+
+83
+00:04:08,766 --> 00:04:11,806
+To achieve this,
+the researchers favoured two approaches
+
+84
+00:04:11,846 --> 00:04:14,286
+which are somewhat similar
+to how we learn,
+
+85
+00:04:14,326 --> 00:04:17,566
+either through the transmission
+of knowledge or through trial and error
+
+86
+00:04:17,606 --> 00:04:20,726
+based on observation
+of the world and experimentation.
+
+87
+00:04:20,766 --> 00:04:23,086
+The two complement each other.
+
+88
+00:04:23,766 --> 00:04:27,246
+The symbolic approach tries to imitate
+how humans reason logically
+
+89
+00:04:27,286 --> 00:04:28,966
+and use their knowledge.
+
+90
+00:04:29,566 --> 00:04:32,686
+As Thalita Firmo Drumond,
+an Inria doctoral student, explains,
+
+91
+00:04:32,726 --> 00:04:35,926
+a certain amount of knowledge
+is transmitted to us through experiences,
+
+92
+00:04:35,966 --> 00:04:37,846
+rules and procedures.
+
+93
+00:04:38,366 --> 00:04:40,846
+This is how school learning,
+
+94
+00:04:40,886 --> 00:04:43,126
+such as learning how to add, is done.
+
+95
+00:04:43,166 --> 00:04:44,486
+When I add something,
+
+96
+00:04:44,526 --> 00:04:46,846
+I can explain how I do it step by step.
+
+97
+00:04:47,286 --> 00:04:49,566
+It is then possible to write a program
+
+98
+00:04:49,606 --> 00:04:52,806
+explaining to the machine
+how to proceed step by step.
+
+99
+00:04:53,326 --> 00:04:56,286
+The machine will then be able
+to perform it much faster than I can
+
+100
+00:04:56,326 --> 00:04:57,726
+and without any mistakes.
+
+101
+00:04:58,446 --> 00:05:00,686
+This approach has given rise
+to expert systems
+
+102
+00:05:00,726 --> 00:05:03,126
+that try to reproduce the reasoning
+of a specialist,
+
+103
+00:05:03,166 --> 00:05:06,006
+such as a doctor or lawyer,
+to solve a problem.
+
+104
+00:05:06,246 --> 00:05:09,806
+This approach was very popular
+in the 1980s.
+
+105
+00:05:11,006 --> 00:05:12,926
+Other knowledge comes from experience,
+
+106
+00:05:12,966 --> 00:05:15,086
+where it is much more difficult to explain
+
+107
+00:05:15,126 --> 00:05:16,926
+how it is achieved, such as
+
+108
+00:05:16,966 --> 00:05:19,206
+riding a bike or recognising a cat.
+
+109
+00:05:19,246 --> 00:05:21,166
+I can explain to you how to ride a bike,
+
+110
+00:05:21,206 --> 00:05:23,166
+but you'll only know
+how to ride if you pedal.
+
+111
+00:05:23,206 --> 00:05:25,206
+You have to experience it.
+
+112
+00:05:25,566 --> 00:05:29,846
+The other approach,
+the digital or connectionist approach,
+
+113
+00:05:29,886 --> 00:05:33,246
+tries to imitate
+how humans learn by trial and error
+
+114
+00:05:33,286 --> 00:05:34,966
+from their experiences.
+
+115
+00:05:35,246 --> 00:05:36,606
+This approach is the one
+
+116
+00:05:36,646 --> 00:05:38,646
+that is in the spotlight today.
+
+117
+00:05:39,046 --> 00:05:42,286
+You know, machine learning
+and the famous neural networks.
+
+118
+00:05:42,566 --> 00:05:45,246
+OK, but you still haven't answered
+the real question.
+
+119
+00:05:45,286 --> 00:05:46,726
+What is intelligence?
+
+120
+00:05:47,046 --> 00:05:49,406
+Biological intelligence?
+I'm getting there.
+
+121
+00:05:49,446 --> 00:05:53,246
+Frédéric Alexandre,
+a computational neuroscience researcher,
+
+122
+00:05:53,286 --> 00:05:55,046
+gives us the following answer.
+
+123
+00:05:55,126 --> 00:05:57,646
+"Intelligence means being able
+to respond quickly
+
+124
+00:05:57,686 --> 00:05:59,246
+to a complex situation.
+
+125
+00:05:59,966 --> 00:06:03,366
+Intelligence means finding
+the right answer
+
+126
+00:06:03,406 --> 00:06:05,646
+rather than the best one.
+
+127
+00:06:05,886 --> 00:06:09,366
+Intelligence means finding out
+what is important in the information.
+
+128
+00:06:09,606 --> 00:06:13,086
+Intelligence means knowing
+how to adapt if conditions change
+
+129
+00:06:13,126 --> 00:06:15,486
+or how to react
+to an unexpected situation."
+
+130
+00:06:15,806 --> 00:06:18,846
+All of this is done by using
+a strategy typical of living beings
+
+131
+00:06:18,886 --> 00:06:21,806
+that combines emotion,
+motivation and creativity.
+
+132
+00:06:21,886 --> 00:06:24,886
+What is strong and specific
+about biological intelligence,
+
+133
+00:06:24,926 --> 00:06:27,126
+which artificial intelligence
+does not have,
+
+134
+00:06:27,206 --> 00:06:30,526
+is the complementarity
+of these emotional and logical aspects.
+
+135
+00:06:30,566 --> 00:06:32,526
+Yes. Common sense.
+
+136
+00:06:32,566 --> 00:06:33,566
+If you like.
+
+137
+00:06:33,846 --> 00:06:36,566
+Avoiding the illusions
+of general intelligence,
+
+138
+00:06:36,606 --> 00:06:38,206
+which is far from the case,
+
+139
+00:06:38,286 --> 00:06:42,086
+it would be better to speak
+of artificial intelligence in the plural.
+
+140
+00:06:42,166 --> 00:06:45,126
+All the artificial intelligences
+we encounter in real life
+
+141
+00:06:45,606 --> 00:06:48,366
+are just very technical and specific.
+
+142
+00:06:48,566 --> 00:06:50,166
+They can only do the task
+
+143
+00:06:50,206 --> 00:06:52,646
+they have been programmed
+or configured for.
+
+144
+00:06:53,086 --> 00:06:55,366
+A program
+that beats the world chess champion
+
+145
+00:06:55,446 --> 00:06:57,246
+cannot recognise a duck.
+
+146
+00:06:57,606 --> 00:07:00,366
+However, when it comes to a specific task,
+
+147
+00:07:01,086 --> 00:07:05,206
+they are highly efficient
+and often better than us.
+
+148
+00:07:07,726 --> 00:07:09,526
+From the lab to our homes.
+
+149
+00:07:11,126 --> 00:07:13,086
+In recent years, artificial intelligence
+
+150
+00:07:13,166 --> 00:07:16,046
+has once again entered a phase
+of exponential development.
+
+151
+00:07:16,086 --> 00:07:18,686
+This is thanks to the increase
+in available data,
+
+152
+00:07:18,726 --> 00:07:20,646
+the processing power of computers,
+
+153
+00:07:20,686 --> 00:07:23,726
+and the optimisation
+of algorithms, of course.
+
+154
+00:07:24,046 --> 00:07:27,886
+Voice or image recognition
+or translation programs,
+
+155
+00:07:27,926 --> 00:07:30,286
+which were scoffed at a few years ago,
+
+156
+00:07:30,326 --> 00:07:33,366
+now work in a way that can be astonishing
+
+157
+00:07:33,406 --> 00:07:35,806
+thanks to machine learning.
+
+158
+00:07:36,486 --> 00:07:39,046
+Artificial intelligence has emerged
+from laboratories
+
+159
+00:07:39,086 --> 00:07:42,166
+and is now permeating
+and impacting all areas of society,
+
+160
+00:07:42,206 --> 00:07:44,006
+from finance to agriculture,
+
+161
+00:07:44,046 --> 00:07:47,166
+from medicine to education,
+and even into our homes.
+
+162
+00:07:47,646 --> 00:07:49,326
+In today's digital world,
+
+163
+00:07:49,366 --> 00:07:52,166
+we unknowingly encounter
+and use artificial intelligence
+
+164
+00:07:52,206 --> 00:07:54,766
+in our everyday objects,
+
+165
+00:07:54,806 --> 00:07:58,406
+cameras,
+recommendation systems on social networks,
+
+166
+00:07:58,446 --> 00:07:59,686
+and connected speakers.
+
+167
+00:07:59,926 --> 00:08:01,686
+A world of algorithms.
+
+168
+00:08:01,726 --> 00:08:04,486
+Humans must decide
+
+169
+00:08:04,526 --> 00:08:07,566
+what the systems can do for us,
+not the other way around.
+
+170
+00:08:07,926 --> 00:08:11,166
+As these technologies
+profoundly shape our society,
+
+171
+00:08:11,206 --> 00:08:14,406
+understanding how they work is crucial.
+

@@ -1,0 +1,66 @@
+1
+00:00:00,473 --> 00:00:02,806
+CHE COS'È L'INTELLIGENZA ARTIFICIALE?
+
+2
+00:00:02,831 --> 00:00:05,060
+L'IA o intelligenza artificiale
+
+3
+00:00:05,085 --> 00:00:06,957
+è un insieme di strumenti informatici
+
+4
+00:00:06,982 --> 00:00:10,476
+che simulano attività
+finora realizzate unicamente dagli umani.
+
+5
+00:00:10,501 --> 00:00:12,536
+Interessa perlopiù le attività cognitive.
+
+6
+00:00:12,561 --> 00:00:15,290
+Ad esempio, riconoscere un'immagine
+o tradurre un testo.
+
+7
+00:00:15,315 --> 00:00:16,790
+La troviamo ovunque intorno a noi:
+
+8
+00:00:16,815 --> 00:00:19,650
+i nostri telefoni, che riconoscono
+il nostro viso nelle foto,
+
+9
+00:00:19,681 --> 00:00:22,400
+i siti di traduzione
+che riconoscono la lingua parlata
+
+10
+00:00:22,425 --> 00:00:23,994
+ancor prima di averla impostata,
+
+11
+00:00:24,019 --> 00:00:26,080
+i social network, capaci di riconoscere
+
+12
+00:00:26,105 --> 00:00:28,966
+il nostro viso nelle foto
+per aggiungere delle orecchie di coniglio,
+
+13
+00:00:28,991 --> 00:00:31,234
+gli assistenti vocali,
+con cui possiamo parlare.
+
+14
+00:00:31,259 --> 00:00:32,360
+Straordinario, no?
+
+15
+00:00:32,385 --> 00:00:33,879
+Diamo un'occhiata più da vicino.
+

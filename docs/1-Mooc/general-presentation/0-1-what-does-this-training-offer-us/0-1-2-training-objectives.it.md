@@ -18,6 +18,8 @@ description: Collocare la formazione nel quadro europeo
 
 #Intelligenza artificiale nell'istruzione
 
+Questa formazione sull'intelligenza artificiale per gli insegnanti e l'intera comunità educativa è stata sviluppata e testata a livello europeo in 5 paesi: Francia, Irlanda, Italia, Lussemburgo e Slovenia.
+
 L'obiettivo di questa formazione è a più livelli:
 
 - **Demistificare e comprendere l'IA**;

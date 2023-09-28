@@ -1,0 +1,105 @@
+﻿1
+00:00:00,286 --> 00:00:03,667
+Et si on jouait avec les données
+pour tromper la machine ?
+
+2
+00:00:04,120 --> 00:00:07,495
+Le programme va faire des prédictions
+à partir des catégories
+
+3
+00:00:07,577 --> 00:00:10,167
+que l'on a définies et des exemples
+qu'on lui a montrés.
+
+4
+00:00:10,287 --> 00:00:12,737
+Une fois entraîné,
+il est possible de le tromper.
+
+5
+00:00:12,819 --> 00:00:14,068
+Il existe par exemple
+
+6
+00:00:14,395 --> 00:00:17,742
+des bijoux capables de tromper
+la reconnaissance faciale.
+
+7
+00:00:17,962 --> 00:00:20,487
+Ou encore des pancartes
+avec des motifs
+
+8
+00:00:20,907 --> 00:00:24,333
+capables de contourner les vidéos
+de surveillance automatique.
+
+9
+00:00:24,553 --> 00:00:25,878
+Mais comme on l'a compris,
+
+10
+00:00:25,960 --> 00:00:27,885
+on peut aussi tromper la machine
+avec nos données.
+
+11
+00:00:27,967 --> 00:00:30,448
+On peut par exemple entraîner
+un programme à reconnaître
+
+12
+00:00:30,530 --> 00:00:32,417
+des gens beaux et des gens moches,
+
+13
+00:00:32,656 --> 00:00:35,208
+en ne montrant que notre tête
+comme exemple de gens beaux.
+
+14
+00:00:35,602 --> 00:00:38,583
+De manière générale,
+toutes les catégories subjectives,
+
+15
+00:00:38,703 --> 00:00:42,292
+mignon, pas mignon,
+idiot, intelligent
+
+16
+00:00:42,451 --> 00:00:44,917
+dépendent de la personne
+qui va préparer les données.
+
+17
+00:00:45,163 --> 00:00:47,292
+On peut aussi entraîner un programme
+
+18
+00:00:47,374 --> 00:00:49,998
+à reconnaître s'il y a des personnes
+ou non sur l'image
+
+19
+00:00:50,212 --> 00:00:53,843
+en mettant tous nos exemples de têtes
+dans la catégorie aucune personne.
+
+20
+00:00:53,983 --> 00:00:55,704
+On passe ainsi incognito.
+
+21
+00:00:55,786 --> 00:00:59,493
+On va maintenant détourner les données
+pour créer un programme biaisé.
+
+22
+00:00:59,873 --> 00:01:02,327
+Comment peut-on tromper
+la machine avec nos données ?
+

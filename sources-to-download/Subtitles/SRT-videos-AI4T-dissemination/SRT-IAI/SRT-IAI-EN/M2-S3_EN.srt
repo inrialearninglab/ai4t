@@ -1,0 +1,667 @@
+WEBVTT
+
+00:00:10.286 --> 00:00:12.406 
+Machine learning and data.
+
+00:00:14.246 --> 00:00:17.286 
+When we talk
+about artificial intelligence today,
+
+00:00:17.326 --> 00:00:20.126 
+we most often hear "machine learning".
+
+00:00:20.166 --> 00:00:21.806 
+
+00:00:21.886 --> 00:00:23.566 
+There are two ways to learn.
+
+00:00:23.606 --> 00:00:26.446 
+The one that comes from the knowledge
+that is passed on to us
+
+00:00:26.486 --> 00:00:29.206 
+is the symbolic approach,
+and the one that comes from experience
+
+00:00:29.246 --> 00:00:31.846 
+that we acquire is the digital approach.
+
+00:00:32.126 --> 00:00:37.366 
+Machine learning is based on
+the digital approach, i.e., experience.
+
+00:00:37.446 --> 00:00:40.886 
+The principle is not telling
+the computer exactly what to do.
+
+00:00:40.926 --> 00:00:44.246 
+No, we'll program it
+to learn from examples
+
+00:00:44.286 --> 00:00:46.366 
+based on statistical approaches.
+
+00:00:47.646 --> 00:00:48.966 
+Learning to learn.
+
+00:00:50.846 --> 00:00:52.806 
+I'll use the example of David Louapre,
+
+00:00:53.046 --> 00:00:55.526 
+researcher and science populariser,
+to explain.
+
+00:00:55.566 --> 00:00:57.206 
+Let's say you are a botanist.
+
+00:00:57.246 --> 00:00:58.366 
+You are walking in the forest.
+
+00:00:58.446 --> 00:00:59.846 
+You make some observations.
+
+00:01:00.166 --> 00:01:02.726 
+You measure the height
+and diameter of the trees
+
+00:01:02.766 --> 00:01:04.606 
+and record it all in a data table.
+
+00:01:04.686 --> 00:01:06.166 
+Once you get home,
+
+00:01:06.246 --> 00:01:09.126 
+you draw a graph
+with the diameter on the x-axis
+
+00:01:09.166 --> 00:01:12.726 
+and the height on the y-axis,
+and place your data on it.
+
+00:01:12.766 --> 00:01:17.406 
+You quickly you realise that the two
+are linked and that by drawing,
+
+00:01:17.446 --> 00:01:19.886 
+in this case,
+a straight line through the points,
+
+00:01:19.926 --> 00:01:23.046 
+this will allow you to
+predict the height of a tree
+
+00:01:23.086 --> 00:01:24.686 
+from its diameter.
+
+00:01:24.966 --> 00:01:27.126 
+Machine learning works the same way.
+
+00:01:27.166 --> 00:01:29.406 
+You provide the calculation
+with input data,
+
+00:01:29.446 --> 00:01:30.726 
+and output data.
+
+00:01:30.766 --> 00:01:34.886 
+You train it to find the relationship
+between the two, the straight line,
+
+00:01:35.086 --> 00:01:37.286 
+by adjusting the parameters
+of the calculation.
+
+00:01:37.326 --> 00:01:39.606 
+This is what we call generalisation.
+
+00:01:40.526 --> 00:01:42.646 
+Once this learning phase is done,
+
+00:01:42.926 --> 00:01:46.446 
+we can make predictions.
+That means producing a correct answer
+
+00:01:46.486 --> 00:01:49.926 
+for similar data,
+that the program wasn't trained on.
+
+00:01:51.126 --> 00:01:53.406 
+That's what machine learning is all about.
+
+00:01:53.446 --> 00:01:55.446 
+To be able to make predictions.
+
+00:01:55.646 --> 00:01:58.126 
+Predictions
+that are not necessarily predictable.
+
+00:01:58.366 --> 00:02:00.206 
+How do these machines learn?
+
+00:02:00.646 --> 00:02:02.966 
+In fact,
+there are several learning techniques.
+
+00:02:03.486 --> 00:02:05.126 
+We'll just talk about the two main ones.
+
+00:02:05.446 --> 00:02:09.086 
+Supervised learning is the example
+of the botanist that we just saw.
+
+00:02:09.286 --> 00:02:10.766 
+First, there is a training phase
+
+00:02:10.806 --> 00:02:13.886 
+where data labelled
+by humans feed the algorithm.
+
+00:02:13.926 --> 00:02:15.686 
+That's why it's called "supervised".
+
+00:02:18.646 --> 00:02:20.086 
+CAT
+
+00:02:22.126 --> 00:02:24.646 
+Then, there's a prediction phase
+where the algorithm
+
+00:02:24.686 --> 00:02:27.486 
+will give an answer
+for data that it has never seen.
+
+00:02:28.766 --> 00:02:31.886 
+98% CAT
+
+00:02:31.926 --> 00:02:33.726 
+This is used to extrapolate value,
+
+00:02:33.766 --> 00:02:36.966 
+but it's also used to differentiate
+cats from dogs, for example.
+
+00:02:38.526 --> 00:02:40.806 
+2% CAT
+
+00:02:41.446 --> 00:02:43.766 
+Then, there is reinforcement learning
+
+00:02:44.046 --> 00:02:47.246 
+where the algorithm learns
+by being immersed in an environment,
+
+00:02:47.286 --> 00:02:50.566 
+and where it will adjust its parameters
+depending on the positive
+
+00:02:50.606 --> 00:02:52.926 
+or negative reaction
+that follows each of its actions.
+
+00:02:52.966 --> 00:02:55.886 
+A bit like a child learning to ride a bike
+
+00:02:55.926 --> 00:02:58.406 
+who falls and gets up again,
+
+00:02:58.446 --> 00:03:01.086 
+This algorithm is mainly used for robots
+
+00:03:01.126 --> 00:03:03.566 
+or autonomous agents
+and also works very well
+
+00:03:03.606 --> 00:03:06.406 
+in virtual worlds
+or in specific situations.
+
+00:03:08.286 --> 00:03:10.926 
+Perfect for the game of Go,
+but not so good for autonomous driving.
+
+00:03:11.006 --> 00:03:14.166 
+Imagine if a car had to crash
+thousands of times
+
+00:03:14.526 --> 00:03:16.406 
+before a machine learns to drive it.
+
+00:03:17.326 --> 00:03:18.606 
+Every app has its own algorithm.
+
+00:03:18.646 --> 00:03:20.806 
+I've heard of deep learning.
+
+00:03:20.846 --> 00:03:22.006 
+What is it exactly?
+
+00:03:22.286 --> 00:03:24.006 
+Neural networks.
+
+00:03:25.126 --> 00:03:28.126 
+Deep learning is a machine learning method
+
+00:03:28.166 --> 00:03:30.446 
+which is based
+on artificial neural networks.
+
+00:03:30.526 --> 00:03:33.126 
+Artificial neural networks
+offer a calculation method
+
+00:03:33.166 --> 00:03:34.846 
+which is inspired by the brain.
+
+00:03:35.686 --> 00:03:38.886 
+Biological neurons are cells
+connected to each other.
+
+00:03:38.926 --> 00:03:41.926 
+Simply put,
+when a neuron receives a signal,
+
+00:03:41.966 --> 00:03:45.766 
+it can either send nothing,
+or send its own signal.
+
+00:03:47.246 --> 00:03:50.046 
+Artificial neurons
+are mathematical constructs
+
+00:03:50.086 --> 00:03:53.206 
+that roughly mimic how real neurons work.
+
+00:03:54.086 --> 00:03:57.686 
+Each neuron combines its inputs
+and provides an output.
+
+00:03:58.886 --> 00:04:02.046 
+To make complicated functions,
+you can combine many neurons.
+
+00:04:02.086 --> 00:04:04.766 
+That's what we call
+an artificial neural network.
+
+00:04:06.006 --> 00:04:07.406 
+This method is not new.
+
+00:04:07.446 --> 00:04:08.966 
+In fact, it dates back to the 1950s,
+
+00:04:09.046 --> 00:04:12.726 
+but it requires
+considerable computing power and data.
+
+00:04:12.806 --> 00:04:16.206 
+In the mid-2000s,
+with the increase in processor capacity
+
+00:04:16.246 --> 00:04:19.926 
+and the mass of data
+made available by the Internet,
+
+00:04:20.446 --> 00:04:22.526 
+everything changed
+and we could move to the deep phase.
+
+00:04:23.006 --> 00:04:25.326 
+The neurons are arranged
+in successive layers.
+
+00:04:26.646 --> 00:04:28.806 
+The results of the first layer of neurons
+
+00:04:28.846 --> 00:04:30.726 
+will be used as an input
+to the calculations of the others,
+
+00:04:31.846 --> 00:04:32.886 
+and so on.
+
+00:04:36.166 --> 00:04:38.286 
+The more layers there are,
+the deeper the network.
+
+00:04:38.486 --> 00:04:41.646 
+That's why learning
+by deep neural networks
+
+00:04:41.686 --> 00:04:43.166 
+is called deep learning.
+
+00:04:43.766 --> 00:04:45.966 
+Let's take an example
+on image recognition.
+
+00:04:46.246 --> 00:04:48.806 
+How is the neural network
+able to learn on its own
+
+00:04:48.846 --> 00:04:51.926 
+how to recognise a picture of a cat,
+when all it sees are pixels?
+
+00:04:52.286 --> 00:04:54.646 
+From the thousands of cat photos
+that it was exposed to,
+
+00:04:54.686 --> 00:04:58.326 
+labelled as a cat,
+it will be able to adjust the parameters
+
+00:04:58.366 --> 00:05:01.126 
+of its calculation
+to extract characteristics
+
+00:05:01.166 --> 00:05:03.686 
+that determine what a cat is.
+
+00:05:06.086 --> 00:05:09.206 
+Once the programme has acquired
+the notion of what a cat is,
+
+00:05:09.246 --> 00:05:12.446 
+it can make a prediction on a new image.
+
+00:05:13.926 --> 00:05:17.246 
+Sure, at the beginning,
+the network will get a lot wrong,
+
+00:05:17.286 --> 00:05:18.286 
+lots of mistakes,
+
+00:05:18.326 --> 00:05:20.446 
+but the model will be built by adjustment,
+
+00:05:20.526 --> 00:05:22.926 
+by little successive changes.
+
+00:05:22.966 --> 00:05:26.246 
+By comparing these results
+and adjusting its calculation,
+
+00:05:26.286 --> 00:05:30.926 
+it can identify a cat in a picture
+that it's never seen before.
+
+00:05:31.446 --> 00:05:33.686 
+Exactly! It's about statistics.
+
+00:05:33.726 --> 00:05:35.286 
+As Marc Schoenauer explains,
+
+00:05:35.326 --> 00:05:38.526 
+research director at Inria,
+"It's not about programming one thing
+
+00:05:38.566 --> 00:05:41.006 
+to get an exact result,
+
+00:05:41.046 --> 00:05:45.366 
+but rather to find patterns,
+even if inaccurate, from data."
+
+00:05:45.446 --> 00:05:47.206 
+Hence, the importance of data.
+
+00:05:47.246 --> 00:05:49.326 
+You can have the best algorithm
+in the world.
+
+00:05:49.366 --> 00:05:52.566 
+But if the data is bad,
+or poorly classified,
+
+00:05:52.766 --> 00:05:54.086 
+the results will be too.
+
+00:05:55.246 --> 00:05:56.646 
+The data challenge.
+
+00:05:58.446 --> 00:06:02.966 
+For example, if we train an algorithm
+to recognise a sheep in a picture
+
+00:06:03.046 --> 00:06:05.286 
+by showing it white sheep,
+
+00:06:05.326 --> 00:06:07.286 
+it won't be able to recognise black sheep.
+
+00:06:07.366 --> 00:06:10.606 
+The data must be varied
+and sufficiently numerous.
+
+00:06:10.646 --> 00:06:13.326 
+Without this,
+generalisation is not possible.
+
+00:06:13.726 --> 00:06:15.526 
+You also need well classified data.
+
+00:06:15.886 --> 00:06:18.966 
+To properly train AI
+to recognise sheep in a picture,
+
+00:06:19.006 --> 00:06:21.326 
+not only do you need many sheep pictures,
+
+00:06:21.366 --> 00:06:24.246 
+but they also have to be well annotated.
+
+00:06:24.286 --> 00:06:27.086 
+In other words, in this case,
+the sheep is framed
+
+00:06:27.126 --> 00:06:29.846 
+and that it is specified that the frame
+corresponds to a sheep.
+
+00:06:32.646 --> 00:06:35.326 
+As we have seen,
+this involves thousands of images
+
+00:06:35.366 --> 00:06:38.726 
+which must be annotated by hand
+so that the AI can learn correctly
+
+00:06:38.766 --> 00:06:40.566 
+and then make good predictions afterwards
+
+00:06:40.606 --> 00:06:43.206 
+from images which are no longer annotated.
+
+00:06:44.166 --> 00:06:48.086 
+A long and arduous task,
+but also very important
+
+00:06:48.126 --> 00:06:51.166 
+because bad annotations
+lead to bad predictions.
+
+00:06:52.566 --> 00:06:55.286 
+Sometimes we annotate data
+without even realising it.
+
+00:06:55.366 --> 00:06:57.086 
+You know, like some CAPTCHAs
+
+00:06:57.126 --> 00:06:59.646 
+where you have to find the boxes
+that have cars in them.
+
+00:07:00.046 --> 00:07:04.246 
+You are annotating an image or checking
+that it has been properly annotated,
+
+00:07:04.286 --> 00:07:07.686 
+and not necessarily proving
+that you are a human being.
+
+00:07:07.726 --> 00:07:10.846 
+What's more,
+there is a great deal of invisible work
+
+00:07:10.886 --> 00:07:13.846 
+done by humans
+who are paid a few euros per day
+
+00:07:13.886 --> 00:07:15.846 
+to click on hundreds of images.
+
+00:07:15.886 --> 00:07:17.926 
+Have you heard about
+Amazon's Mechanical Turk?
+
+00:07:17.966 --> 00:07:19.886 
+Yes, I went to the site.
+
+00:07:20.326 --> 00:07:23.086 
+-Indeed, the rates are ridiculous.
+-The click workers.
+
+00:07:23.486 --> 00:07:25.646 
+Where does the data come from?
+
+00:07:25.726 --> 00:07:28.206 
+Data can be collected automatically
+
+00:07:28.246 --> 00:07:32.966 
+via sensors such as telescopes,
+surveillance cameras, microphones
+
+00:07:33.206 --> 00:07:35.726 
+and sensors measuring air quality.
+
+00:07:35.966 --> 00:07:39.086 
+They can also be produced by users,
+
+00:07:39.126 --> 00:07:41.806 
+in particular via the queries
+submitted to a search engine,
+
+00:07:42.006 --> 00:07:44.886 
+publications, comments on social networks,
+
+00:07:44.926 --> 00:07:49.326 
+connected objects and purchases
+made on a credit card.
+
+00:07:50.286 --> 00:07:53.646 
+It is an exchange of free services
+between the big groups and us.
+
+00:07:53.686 --> 00:07:54.526 
+That's it.
+
+00:07:54.566 --> 00:07:56.326 
+When it's free, you are the product.
+
+00:07:57.166 --> 00:07:59.126 
+Yes, it's true.
+
+00:07:59.166 --> 00:08:03.686 
+The big American or Chinese private groups
+have large amounts of data on tap,
+
+00:08:03.726 --> 00:08:05.686 
+which raises problems related to independence.
+
+00:08:05.966 --> 00:08:08.846 
+Today in China,
+a social node system has been set up
+
+00:08:08.886 --> 00:08:11.046 
+to evaluate citizens' behaviour.
+
+00:08:11.686 --> 00:08:14.606 
+Data is mainly collected
+via surveillance cameras,
+
+00:08:14.646 --> 00:08:18.126 
+social networks,
+and an AI assigns a score that allows
+
+00:08:18.166 --> 00:08:20.486 
+or not to access public service.
+
+00:08:21.566 --> 00:08:25.086 
+This mass of data is boosting
+start-ups at the same time
+
+00:08:25.126 --> 00:08:28.246 
+because whoever has the data
+has the power to run the models
+
+00:08:28.286 --> 00:08:29.326 
+and improve them.
+
+00:08:29.366 --> 00:08:32.926 
+Hence the importance of the GDPR
+to regulate all these practices,
+
+00:08:32.966 --> 00:08:35.446 
+so that the European states
+and their citizens
+
+00:08:35.486 --> 00:08:38.206 
+have a little more control
+over their personal data.
+
+00:08:38.286 --> 00:08:41.446 
+Big data consumes a lot, doesn't it?
+
+00:08:42.086 --> 00:08:44.646 
+Data is stored in data centres.
+
+00:08:44.686 --> 00:08:47.686 
+The cloud is not an actual cloud.
+It's pizza boxes,
+
+00:08:47.726 --> 00:08:51.126 
+entire server towers
+that heat up and need to be cooled
+
+00:08:51.166 --> 00:08:52.326 
+with air conditioning.
+
+00:08:52.366 --> 00:08:55.086 
+Algorithms, when they are at AI level
+
+00:08:55.286 --> 00:08:58.726 
+need exceptional computing capacity,
+
+00:08:58.926 --> 00:09:02.646 
+which means supercomputers
+which bring together several dozen
+
+00:09:02.686 --> 00:09:05.566 
+of thousands of processors
+in huge buildings.
+
+00:09:05.966 --> 00:09:09.526 
+Yes, it consumes a lot
+and it's a risk for the whole system.
+
+00:09:09.926 --> 00:09:12.526 
+It is up to us to be vigilant
+about the cost-effectiveness
+
+00:09:12.566 --> 00:09:14.206 
+of artificial intelligence.
+
+00:09:14.246 --> 00:09:18.006 
+It can be a great tool
+which provide a lot of services,
+
+00:09:18.206 --> 00:09:21.886 
+but also there are also apps
+that push us to consume or track us.
+
+00:09:21.926 --> 00:09:24.766 
+Like any technology,
+it depends on how it is used.
+
+00:09:24.846 --> 00:09:26.846 
+It's up to us to make sense of it!

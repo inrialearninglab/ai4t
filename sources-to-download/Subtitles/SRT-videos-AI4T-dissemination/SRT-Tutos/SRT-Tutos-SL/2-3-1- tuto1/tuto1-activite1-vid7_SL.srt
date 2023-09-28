@@ -1,0 +1,92 @@
+WEBVTT
+
+00:00:00.131 --> 00:00:02.215 
+Izjemno! Ampak čemu služi?
+
+00:00:02.506 --> 00:00:03.631 
+Res je izjemno, kajne?
+
+00:00:03.673 --> 00:00:04.965 
+Ja, saj se strinjamo.
+
+00:00:05.006 --> 00:00:07.298 
+Program v resnici
+ne prepozna naših kategorij,
+
+00:00:07.340 --> 00:00:10.506 
+vendar jih poveže z oznakami (opisi),
+s katerimi smo opremili posamezne primere.
+
+00:00:10.840 --> 00:00:13.381 
+Sposobnost prepoznavanja stvari
+je lahko zelo uporabna,
+
+00:00:13.423 --> 00:00:15.923 
+in umetna inteligenca
+je v naših življenjih vse bolj prisotna.
+
+00:00:15.965 --> 00:00:18.131 
+Samodejno lahko prevede besedilo,
+
+00:00:18.173 --> 00:00:21.173 
+se sporazumeva z virtualnimi asistenti,
+
+00:00:21.215 --> 00:00:22.881 
+ali izboljšuje ustreznost zdravstvenih diagnoz.
+
+00:00:22.923 --> 00:00:25.423 
+Računalničarji UI uporabljajo tudi
+
+00:00:25.465 --> 00:00:26.965 
+pri zasnovi samovozečih avtomobilov,
+
+00:00:27.006 --> 00:00:29.298 
+v prihodnosti pa bomo odkrivali
+še veliko drugih načinov uporabe UI,
+
+00:00:29.340 --> 00:00:31.548 
+zaradi katerih bo svet lepši, pravičnejši,
+
+00:00:31.590 --> 00:00:33.006 
+bolj trajnosten in preprostejši.
+
+00:00:33.048 --> 00:00:35.173 
+Z UI si bodo lahko pomagali invalidi,
+
+00:00:35.215 --> 00:00:38.173 
+na primer z aplikacijami
+
+00:00:38.215 --> 00:00:40.631 
+za opisovanje okolice
+
+00:00:40.673 --> 00:00:42.923 
+ali za pretvorbo govora v besedilo.
+
+00:00:42.965 --> 00:00:45.798 
+UI delo nam delo olajša in popestri
+
+00:00:45.840 --> 00:00:48.090 
+z avtomatiziranjem
+določenih ponavljajočih se opravil.
+
+00:00:48.298 --> 00:00:51.256 
+Z zagotavljanjem
+natančnejših napovedi za prihodnost
+
+00:00:51.298 --> 00:00:53.756 
+lahko pomaga tudi pri 
+omejevanju vplivov globalnega segrevanja.
+
+00:00:54.048 --> 00:00:56.256 
+Kaj še lahko počnemo z umetno inteligenco zdaj,
+
+00:00:56.298 --> 00:00:58.881 
+ko vemo, kaj to je?
+
+00:00:58.923 --> 00:01:01.881 
+Kakšnih rešitev
+se bomo domislili za prihodnost?
+
+00:01:01.923 --> 00:01:04.173 
+Kako si lahko z UI pomagamo
+v vsakdanjem življenju?

@@ -1,0 +1,118 @@
+1
+00:00:00,131 --> 00:00:02,215
+Impressive, but what is it for?
+
+2
+00:00:02,506 --> 00:00:03,631
+Impressive, right?
+
+3
+00:00:03,673 --> 00:00:04,965
+All right, we agree.
+
+4
+00:00:05,006 --> 00:00:07,298
+The program doesn't see our categories,
+
+5
+00:00:07,340 --> 00:00:10,506
+but it associates the label we've chosen
+with the examples we show it.
+
+6
+00:00:10,840 --> 00:00:13,381
+This ability to identify things
+can be very useful,
+
+7
+00:00:13,423 --> 00:00:17,011
+and AIs are becoming increasingly common
+in our day-to-day lives.
+
+8
+00:00:17,043 --> 00:00:19,293
+It can automatically translate text,
+
+9
+00:00:19,318 --> 00:00:21,173
+communicate with voice assistants
+
+10
+00:00:21,215 --> 00:00:22,881
+or improve medical diagnoses.
+
+11
+00:00:22,923 --> 00:00:25,423
+Computer scientists are also using it
+
+12
+00:00:25,465 --> 00:00:26,965
+to try to build autonomous cars,
+
+13
+00:00:27,073 --> 00:00:30,479
+but many uses are still to be invented
+for the world of tomorrow,
+
+14
+00:00:30,565 --> 00:00:32,401
+which will be more beautiful, fairer,
+
+15
+00:00:32,426 --> 00:00:33,943
+more sustainable and simpler.
+
+16
+00:00:33,975 --> 00:00:36,559
+Helping people with reduced autonomy, 
+for example,
+
+17
+00:00:36,584 --> 00:00:38,173
+by developing applications
+
+18
+00:00:38,215 --> 00:00:40,631
+that can describe their surroundings
+by seeing us
+
+19
+00:00:40,673 --> 00:00:43,365
+or enabling paralysed people
+to write text.
+
+20
+00:00:43,432 --> 00:00:45,993
+Making work easier and more interesting
+
+21
+00:00:46,018 --> 00:00:48,273
+by automating certain repetitive tasks.
+
+22
+00:00:48,607 --> 00:00:50,076
+Limiting global warming
+
+23
+00:00:50,101 --> 00:00:53,756
+by allowing more accurate predictions
+of the future.
+
+24
+00:00:54,048 --> 00:00:56,256
+Now that we know what AI is,
+
+25
+00:00:56,298 --> 00:00:57,885
+what else can we do with it?
+
+26
+00:00:58,120 --> 00:01:00,620
+What solutions can we invent
+for the future?
+
+27
+00:01:00,979 --> 00:01:04,173
+How can we use it
+in our day-to-day lives to help us?
+

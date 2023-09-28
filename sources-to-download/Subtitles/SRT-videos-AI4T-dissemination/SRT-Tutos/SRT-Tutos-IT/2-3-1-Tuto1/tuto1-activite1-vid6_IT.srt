@@ -1,0 +1,38 @@
+1
+00:00:00,048 --> 00:00:02,381
+COSA SI PUÒ FARE CON QUESTO PROGRAMMA?
+
+2
+00:00:02,423 --> 00:00:05,968
+Ora che abbiamo capito come addestrare
+un'intelligenza artificiale,
+
+3
+00:00:05,993 --> 00:00:08,326
+possiamo addestrarla
+con quello che vogliamo.
+
+4
+00:00:08,924 --> 00:00:12,530
+Posso addestrare un programma
+a distinguere una tazza da un bicchiere?
+
+5
+00:00:12,896 --> 00:00:15,230
+O la mia mano chiusa
+dalla mia mano aperta?
+
+6
+00:00:15,548 --> 00:00:17,937
+O una camicetta blu da una T-shirt rossa?
+
+7
+00:00:17,962 --> 00:00:21,306
+Scegli tu due categorie
+e dieci esempi per ciascuna di esse.
+
+8
+00:00:21,331 --> 00:00:24,226
+Assicurati che le due categorie
+siano ben distinte.
+

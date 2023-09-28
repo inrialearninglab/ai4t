@@ -14,10 +14,7 @@ description: Bedingungen der Lernerspurensammlung
     - Date: 2022-11-15
 
 # Kontext des Experiments
-Auf den verschiedenen Lernplattformen (LMS oder CMS), die von den 5 Ländern, die an diesem KI-Training für Lehrer und Schulleiter teilnehmen, verwendet werden, ist es möglich, den Lernweg der Teilnehmer zu verfolgen. Dies geschieht mit Hilfe von "Lernspuren", die die Handlungen der Lernenden beim Durchsuchen des Kursinhalts, beim Ansehen eines Videos oder bei der Durchführung einer Online-Aktivität widerspiegeln.
 
-Alle gesammelten Spuren, die sich auf die Lernpfade beziehen, werden pseudo-anonymisiert, um die Identifizierung der Lernenden in Übereinstimmung mit den RGPD-Grundsätzen zu verhindern.
+Die Erprobungsphase fand in der ersten Hälfte des Jahres 2023 statt.
 
-Darüber hinaus wird diese Nachverfolgung niemals zur Bewertung der Teilnehmer durchgeführt, sondern dient ausschließlich den Versuchs- und Forschungszwecken dieses aktuellen Versuchs.
-
-Dieses Experiment wurde während der groß angelegten Versuchsphase des AI4T-Projekts (Herbst 2022 / Frühjahr 2023) durchgeführt.
+Der Mooc wurde den Teilnehmern in den 5 Partnerländern auf den nationalen Plattformen für die Lehrerausbildung angeboten.

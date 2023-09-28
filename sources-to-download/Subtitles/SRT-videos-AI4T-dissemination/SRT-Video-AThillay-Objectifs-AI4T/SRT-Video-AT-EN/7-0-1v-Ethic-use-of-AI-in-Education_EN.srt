@@ -1,0 +1,415 @@
+1
+00:00:08,366 --> 00:00:11,886
+To face the challenges
+in the European context,
+
+2
+00:00:11,926 --> 00:00:17,725
+with the help of a guide to use
+AI and data in education ethically,
+
+3
+00:00:17,975 --> 00:00:20,806
+which the European Commission produced,
+
+4
+00:00:20,966 --> 00:00:23,486
+there are different levels.
+
+5
+00:00:27,951 --> 00:00:32,191
+Of course, the first challenge
+in a European context
+
+6
+00:00:32,216 --> 00:00:36,486
+is to be able to address
+different education systems.
+
+7
+00:00:36,526 --> 00:00:40,283
+It is to be able to address
+different training systems,
+
+8
+00:00:40,308 --> 00:00:43,449
+even though
+we all have the same questions.
+
+9
+00:00:44,016 --> 00:00:51,033
+So, in this European context,
+we need to face this challenge and do it
+
+10
+00:00:51,058 --> 00:00:55,216
+through identical questions
+and solutions which can be the same
+
+11
+00:00:55,241 --> 00:00:58,920
+while considering
+a whole range of variations
+
+12
+00:00:58,945 --> 00:01:03,425
+between countries, regions
+and in my local system.
+
+13
+00:01:05,007 --> 00:01:08,655
+From the local
+to the national and the European,
+
+14
+00:01:08,734 --> 00:01:12,351
+the first challenge we must face
+is to identify
+
+15
+00:01:12,376 --> 00:01:16,675
+the problems to be solved
+and the solutions to be proposed together,
+
+16
+00:01:16,700 --> 00:01:20,751
+while still leaving room for adaptation
+to each Member State.
+
+17
+00:01:21,357 --> 00:01:24,430
+Of course, depending on
+the Member States' priorities,
+
+18
+00:01:24,923 --> 00:01:28,274
+we must provide added value
+on a European scale
+
+19
+00:01:28,713 --> 00:01:31,138
+as per each one's competences.
+
+20
+00:01:35,246 --> 00:01:40,238
+The second challenge is to have
+an ethical and reasoned approach
+
+21
+00:01:40,263 --> 00:01:43,470
+that invites us to experiment and identify
+
+22
+00:01:43,495 --> 00:01:45,759
+the use cases in which this AI
+
+23
+00:01:45,784 --> 00:01:48,744
+and these data to be mobilised are relevant
+
+24
+00:01:48,769 --> 00:01:52,767
+to achieve an objective
+that we have set ourselves,
+
+25
+00:01:53,199 --> 00:01:58,433
+whether it's a learning objective
+or a learning path objective.
+
+26
+00:02:00,006 --> 00:02:04,599
+In the end, to identify this, it is about using AI
+
+27
+00:02:04,624 --> 00:02:09,553
+to adapt the solutions we can provide
+to the needs of each student,
+
+28
+00:02:09,578 --> 00:02:11,952
+to work on the rhythms,
+
+29
+00:02:11,984 --> 00:02:13,226
+to work on the paths
+
+30
+00:02:13,251 --> 00:02:15,931
+they may take throughout their schooling,
+
+31
+00:02:16,828 --> 00:02:19,628
+but also to provide in other cases,
+
+32
+00:02:20,105 --> 00:02:23,269
+such as that of pupils
+with special needs,
+
+33
+00:02:24,644 --> 00:02:27,681
+adapted solutions
+which effectively allow us
+
+34
+00:02:27,706 --> 00:02:29,050
+to serve the learner
+
+35
+00:02:29,075 --> 00:02:30,582
+and the teacher.
+
+36
+00:02:31,966 --> 00:02:34,489
+This is really very important.
+
+37
+00:02:34,778 --> 00:02:39,391
+This challenge must also be combined
+with feedback on what we are doing
+
+38
+00:02:39,452 --> 00:02:44,579
+and an important link with research
+in education and digital education,
+
+39
+00:02:44,604 --> 00:02:47,291
+which is also one of the challenges,
+
+40
+00:02:47,376 --> 00:02:49,689
+in other words, to be accompanied
+
+41
+00:02:49,714 --> 00:02:53,143
+as much as possible
+and not to remain alone.
+
+42
+00:02:53,673 --> 00:02:57,701
+We must never be left alone.
+We must work as a team.
+
+43
+00:02:58,198 --> 00:03:01,206
+This is essential
+for this second challenge,
+
+44
+00:03:01,246 --> 00:03:04,406
+for an effective ethical
+and reasoned approach
+
+45
+00:03:04,766 --> 00:03:07,971
+to serve and benefit the pupils' learning.
+
+46
+00:03:11,766 --> 00:03:14,901
+There is also a third challenge
+to be faced:
+
+47
+00:03:15,243 --> 00:03:17,606
+the challenge of novelty.
+
+48
+00:03:17,646 --> 00:03:21,100
+Since AI and data in education,
+
+49
+00:03:21,451 --> 00:03:25,053
+including in relation to
+the traditional digital technology
+
+50
+00:03:25,078 --> 00:03:26,764
+that teachers can use,
+
+51
+00:03:27,270 --> 00:03:31,750
+introduce a complex and evolving systemic nature.
+
+52
+00:03:32,840 --> 00:03:36,246
+Actually,
+the data that we propose as input
+
+53
+00:03:36,271 --> 00:03:39,793
+for an analysis of what is done
+on the learning traces,
+
+54
+00:03:40,455 --> 00:03:44,813
+in particular,
+if we take the case of adaptive learning
+
+55
+00:03:44,838 --> 00:03:46,377
+for example.
+
+56
+00:03:47,886 --> 00:03:52,875
+This means being able to consider the help
+that will be given to me,
+
+57
+00:03:54,006 --> 00:03:56,390
+but which is not the help
+that I could have had
+
+58
+00:03:56,415 --> 00:04:00,914
+from a fixed input
+for a fixed expected result.
+
+59
+00:04:03,206 --> 00:04:08,643
+In other words, including in the exercise,
+in a succession of exercises,
+
+60
+00:04:09,198 --> 00:04:12,268
+I will probably have elements
+that will give me
+
+61
+00:04:12,293 --> 00:04:16,173
+strong or weak signals
+about what the student will learn.
+
+62
+00:04:17,298 --> 00:04:20,680
+This means that
+in my professional practice,
+
+63
+00:04:20,720 --> 00:04:22,782
+in my professional development,
+
+64
+00:04:24,321 --> 00:04:27,001
+I also have to get used to making good use
+
+65
+00:04:27,026 --> 00:04:29,821
+of the analyses that AI can provide
+
+66
+00:04:29,846 --> 00:04:33,246
+in data processing and numerous data,
+
+67
+00:04:35,819 --> 00:04:39,139
+sometimes over longer periods
+than I can do it myself,
+
+68
+00:04:40,172 --> 00:04:42,445
+so that I can calmly approach things
+
+69
+00:04:42,470 --> 00:04:44,375
+that I had not necessarily planned
+
+70
+00:04:44,400 --> 00:04:48,219
+and consequently also adapt myself.
+
+71
+00:04:49,703 --> 00:04:52,166
+The professional culture of the teacher
+
+72
+00:04:52,206 --> 00:04:54,195
+is also at stake here,
+
+73
+00:04:55,246 --> 00:04:57,570
+but as in society as a whole,
+
+74
+00:04:57,595 --> 00:05:00,371
+with increased use of AI techniques
+
+75
+00:05:00,396 --> 00:05:04,129
+associated with
+various digital tools and services.
+
+76
+00:05:05,809 --> 00:05:09,141
+In summary,
+we can say that if the challenges
+
+77
+00:05:09,166 --> 00:05:12,626
+are mainly pedagogical and didactic,
+
+78
+00:05:12,651 --> 00:05:15,650
+especially
+in the teacher-pupil relationship,
+
+79
+00:05:15,892 --> 00:05:19,274
+they are also a little broader
+since they re-examine,
+
+80
+00:05:19,299 --> 00:05:22,454
+as always
+with the use of digital technology,
+
+81
+00:05:22,806 --> 00:05:26,406
+and provide an opportunity
+to rethink what we learn,
+
+82
+00:05:26,446 --> 00:05:29,461
+why we learn it and how we learn it.
+
+83
+00:05:31,071 --> 00:05:36,101
+To be able to test,
+experiment and open up new possibilities,
+
+84
+00:05:36,929 --> 00:05:39,310
+thanks to a technique that enables
+
+85
+00:05:39,335 --> 00:05:42,926
+large amounts of data to be used over time
+
+86
+00:05:42,966 --> 00:05:46,806
+which are,
+even when you are an excellent teacher,
+
+87
+00:05:46,853 --> 00:05:49,208
+very useful when you use them as an aid
+
+88
+00:05:49,233 --> 00:05:52,614
+and take full responsibility
+for what you do.
+
+89
+00:05:53,806 --> 00:05:57,842
+That means that the human relationship
+is also essential here.
+
+90
+00:05:58,541 --> 00:06:01,821
+Of course, it is the teacher who decides,
+
+91
+00:06:01,884 --> 00:06:05,563
+and not the machine in the end.
+

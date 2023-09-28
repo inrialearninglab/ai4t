@@ -1,0 +1,121 @@
+﻿1
+00:00:04,240 --> 00:00:09,240
+Intelligence artificielle dans l'éducation :
+comprendre, expérimenter,
+développer des compétences digitales et ethiques
+
+2
+00:00:09,480 --> 00:00:12,200
+L'objectif de cette formation
+dans le contexte européen,
+
+3
+00:00:12,280 --> 00:00:16,880
+c'est de pouvoir finalement aborder
+les choses à trois niveaux, probablement.
+
+4
+00:00:17,960 --> 00:00:22,960
+Démystifier et comprendre
+ce que l'IA peut apporter en éducation.
+
+5
+00:00:23,440 --> 00:00:27,000
+Expérimenter et utiliser des ressources
+
+6
+00:00:27,080 --> 00:00:30,640
+qui comprennent de l'IA
+de manière intelligente, justement.
+
+7
+00:00:31,640 --> 00:00:36,320
+Enfin, développer chez tous les éducateurs
+et chez tous les élèves
+
+8
+00:00:36,400 --> 00:00:41,320
+des compétences numériques nécessaires
+aujourd'hui, l'IA en fait partie.
+
+9
+00:00:41,400 --> 00:00:46,080
+En tout cas, de bien comprendre
+l'utilisation de l'IA en fait partie,
+
+10
+00:00:46,160 --> 00:00:49,320
+de manière aussi
+à intégrer la dimension éthique
+
+11
+00:00:49,400 --> 00:00:51,720
+dès le départ dans les projets.
+
+12
+00:00:51,800 --> 00:00:54,840
+Autrement dit, l'IA,
+pour quoi faire ?
+
+13
+00:00:54,920 --> 00:00:59,800
+L'IA, pour quel défi,
+pour quel résultat attendu ?
+
+14
+00:00:59,880 --> 00:01:03,640
+Comment mettre en œuvre
+et utiliser ces ressources d'IA ?
+
+15
+00:01:03,720 --> 00:01:07,040
+Finalement,
+comment intégrer aussi dès le départ
+
+16
+00:01:07,120 --> 00:01:13,120
+les questions qui peuvent
+introduire une réflexion éthique
+
+17
+00:01:13,200 --> 00:01:15,720
+au-delà même
+des questions réglementaires ?
+
+18
+00:01:15,800 --> 00:01:19,400
+C'est pour ça qu'on a choisi
+d'essayer d'aborder
+
+19
+00:01:19,480 --> 00:01:25,200
+cette IA en éducation à partir
+d'une classe d'âge 15-16 ans
+
+20
+00:01:25,280 --> 00:01:27,760
+chez des élèves du début du lycée
+
+21
+00:01:27,840 --> 00:01:30,720
+pour les mathématiques
+et les sciences d'une part,
+
+22
+00:01:30,800 --> 00:01:32,880
+pour l'apprentissage
+des langues vivantes d'autre part,
+
+23
+00:01:32,960 --> 00:01:35,320
+parce qu'il nous fallait
+deux terrains d'expérimentation,
+
+24
+00:01:35,400 --> 00:01:37,160
+deux domaines d'expérimentations,
+
+25
+00:01:37,240 --> 00:01:41,320
+qui soit réalisables
+dans la durée du projet.

@@ -1,0 +1,53 @@
+WEBVTT
+
+00:00:00.090 --> 00:00:01.131 
+Seksistično?
+
+00:00:01.423 --> 00:00:02.673 
+In če so takšni tudi naši podatki?
+
+00:00:03.298 --> 00:00:06.215 
+Najbrž ste opazili,
+
+00:00:06.256 --> 00:00:08.465 
+da je naš model vse osebe z dolgimi lasmi
+označil kot ženske,
+
+00:00:08.506 --> 00:00:10.506 
+tiste s kratkimi pa kot moške.
+
+00:00:10.881 --> 00:00:12.090 
+Ne da bi se zavedali,
+
+00:00:12.465 --> 00:00:14.548 
+smo modelu posredovali podatke,
+
+00:00:14.590 --> 00:00:16.673 
+razvrščene na podlagi drugačnega
+kriterija, kot smo ga izbrali.
+
+00:00:17.381 --> 00:00:20.340 
+Na razvrščanje podatkov
+je vplivalo naše dojemanje problema (okoliščin).
+
+00:00:20.798 --> 00:00:23.506 
+Ko se zgodi kaj takega,
+rečemo, da so podatki pristranski.
+
+00:00:23.923 --> 00:00:26.131 
+Algoritmi UI obstajajo že dolgo,
+
+00:00:26.340 --> 00:00:29.340 
+vendar včasih niso bili tako učinkoviti,
+ker podatki niso bili označeni.
+
+00:00:29.798 --> 00:00:31.965 
+Danes so nam na voljo
+velike količine podatkov.
+
+00:00:32.423 --> 00:00:34.340 
+Prav zato je UI tako razširjena.
+
+00:00:34.756 --> 00:00:37.923 
+Vseeno moramo biti previdni,
+saj lahko podatki vsebujejo predsodke (so pristranski).

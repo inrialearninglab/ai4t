@@ -1,0 +1,70 @@
+﻿1
+00:00:00,479 --> 00:00:02,062
+Des biais dans les données.
+
+2
+00:00:02,271 --> 00:00:04,229
+Le programme ne vois pas comme nous.
+
+3
+00:00:04,437 --> 00:00:06,687
+Il ne connaît pas le concept
+d'homme ou de femme.
+
+4
+00:00:06,937 --> 00:00:10,104
+Il fait ce qu'on appelle
+des approximations statistiques.
+
+5
+00:00:10,744 --> 00:00:12,476
+Cette image se rapproche-t-elle
+
+6
+00:00:12,501 --> 00:00:15,187
+statistiquement plus
+des images étiquetées « femme »
+
+7
+00:00:15,312 --> 00:00:16,646
+ou des images étiquetées « homme ».
+
+8
+00:00:16,771 --> 00:00:17,854
+Qu'a-t-il vu ?
+
+9
+00:00:18,354 --> 00:00:19,354
+Le fond bleu ?
+
+10
+00:00:19,646 --> 00:00:20,937
+La couleur de peau ?
+
+11
+00:00:21,146 --> 00:00:22,312
+Une paire de lunettes ?
+
+12
+00:00:22,521 --> 00:00:24,521
+La manière
+dont nous choisissons nos données
+
+13
+00:00:24,604 --> 00:00:26,146
+en entrée est fondamentale.
+
+14
+00:00:26,937 --> 00:00:29,937
+Choisir ses données s'avère être
+une grande responsabilité.
+
+15
+00:00:30,396 --> 00:00:33,146
+Essayons maintenant
+ de corriger notre set de données
+
+16
+00:00:33,187 --> 00:00:34,687
+pour éliminer tous les biais.
+

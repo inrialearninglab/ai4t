@@ -1,0 +1,247 @@
+﻿1
+00:00:04,560 --> 00:00:09,280
+Pot do uspeha skozi opazovanje učnih procesov
+
+2
+00:00:09,280 --> 00:00:11,480
+Pri interakciji z digitalnimi orodji
+
+3
+00:00:11,480 --> 00:00:12,760
+uporabniki (učenci) za seboj puščajo
+
+4
+00:00:12,760 --> 00:00:14,680
+številne »digitalne sledi«.
+
+5
+00:00:14,680 --> 00:00:19,560
+Nekatere sledi pustijo 
+za seboj povsem nenačrtno,
+
+6
+00:00:19,560 --> 00:00:23,280
+zgolj z dostopanjem
+do storitev ali strežnikov.
+
+7
+00:00:23,280 --> 00:00:25,960
+Včasih pa sledi ustvarijo prostovoljno,
+
+8
+00:00:25,960 --> 00:00:28,880
+na primer vsakič, 
+ko si na spletu dopisujejo,
+
+9
+00:00:28,880 --> 00:00:31,640
+komentirajo ali ocenijo 
+določeno storitev ali izkušnjo.
+
+10
+00:00:31,640 --> 00:00:35,080
+Tretja vrsta sledi je povezana z uspešnostjo
+
+11
+00:00:35,080 --> 00:00:37,160
+oz. z dosežki (rezultati)
+v okviru dejavnosti,
+
+12
+00:00:37,160 --> 00:00:40,080
+ki se izvajajo v digitalnih učnih okoljih.
+
+13
+00:00:40,080 --> 00:00:44,000
+Vse naštete oblike digitalnih
+sledi skupaj generirajo podatke,
+
+14
+00:00:44,000 --> 00:00:45,720
+ki jih je mogoče analizirati
+
+15
+00:00:45,720 --> 00:00:48,680
+s pomočjo tehnologij umetne inteligence.
+
+16
+00:00:48,680 --> 00:00:51,480
+Na tej točki se vprašamo:
+
+17
+00:00:51,480 --> 00:00:55,680
+na kakšen način bi lahko 
+analizirali podatke digitalnih sledi,
+
+18
+00:00:55,680 --> 00:00:58,040
+da bi s tem pomagali učencem pri učenju
+
+19
+00:00:58,040 --> 00:01:00,840
+in učiteljem pri poučevanju?
+
+20
+00:01:00,840 --> 00:01:03,520
+Vzemimo za primer športno vadbo.
+S pomočjo aplikacij lahko modeliramo
+
+21
+00:01:03,520 --> 00:01:06,040
+npr. informacije o trajanju aktivnosti,
+
+22
+00:01:06,040 --> 00:01:08,360
+urah spanja ali urah okrevanja.
+
+23
+00:01:08,360 --> 00:01:12,360
+Druge digitalne sledi
+zagotavljajo še bolj natančne podatke
+
+24
+00:01:12,360 --> 00:01:17,040
+in lahko zajamejo
+t. i. biološke signale uporabnika.
+
+25
+00:01:17,040 --> 00:01:21,720
+V kontekstu športa
+digitalne sledi torej omogočajo
+
+26
+00:01:21,720 --> 00:01:24,520
+izboljšanje vadbene rutine
+
+27
+00:01:24,520 --> 00:01:37,960
+(uporabnika usmerijo, na primer,
+v nakup boljših športnih copat).
+
+28
+00:01:37,960 --> 00:01:42,200
+Učencem lahko omogočimo 
+uporabo zmogljivih orodij,
+
+29
+00:01:42,200 --> 00:01:45,600
+ki jim bodo v pomoč pri 
+samoocenjevanju trenutnega stanja
+
+30
+00:01:45,600 --> 00:01:48,120
+v primerjavi z objektivnimi
+kompetencami in vedenjem,
+
+31
+00:01:48,120 --> 00:01:49,480
+ob upoštevanju morebitnih napak,
+
+32
+00:01:49,480 --> 00:01:53,840
+ki so jih naredili
+ter že doseženih uspehov.
+
+33
+00:01:53,840 --> 00:01:57,880
+Z uporabo modelov za
+napovedovanje učencem zagotavljamo
+
+34
+00:01:57,880 --> 00:01:59,640
+tudi druge koristne informacije:
+
+35
+00:01:59,640 --> 00:02:01,320
+ponudimo jim, na primer,
+
+36
+00:02:01,320 --> 00:02:04,680
+dodatne, personalizirane učne materiale,
+
+37
+00:02:04,680 --> 00:02:05,880
+s pomočjo katerih se povečajo
+
+38
+00:02:05,880 --> 00:02:08,440
+njihove možnosti za dober učni uspeh.
+
+39
+00:02:08,440 --> 00:02:11,280
+Z vidika učiteljev se lahko vprašamo:
+
+40
+00:02:11,280 --> 00:02:13,520
+kako uporabiti digitalne sledi učenja
+
+41
+00:02:13,520 --> 00:02:18,000
+za prilagajanje učnih
+strategij in načinov poučevanja?
+
+42
+00:02:18,000 --> 00:02:20,600
+Z uporabo orodja,
+kot je npr. nadzorna plošča,
+
+43
+00:02:20,600 --> 00:02:25,280
+lahko tako generirana analiza
+in vizualizacija vedenja učencev
+
+44
+00:02:25,280 --> 00:02:31,000
+omogočita učiteljem boljše razumevanje
+statusa učenca v danem trenutku ali obdobju,
+
+45
+00:02:31,000 --> 00:02:33,160
+v končni fazi pa takšna orodja ponujajo tudi
+
+46
+00:02:33,160 --> 00:02:37,880
+priporočila za ukrepanje in vire,
+ki podpirajo odločitev učitelja.
+
+47
+00:02:37,880 --> 00:02:42,280
+Priporočila pogosto vključujejo razlage,
+
+48
+00:02:42,280 --> 00:02:45,920
+ki učiteljem olajšajo odločitev,
+ali jih bodo uporabili ali ne.
+
+49
+00:02:45,920 --> 00:02:50,280
+Ali torej lahko vsa ta spoznanja,
+ki jih prinaša uporaba orodij UI,
+
+50
+00:02:50,280 --> 00:02:51,960
+institucijam omogočijo
+
+51
+00:02:51,960 --> 00:02:55,160
+boljšo organiziranost,
+posodobitev, prenovo?
+
+52
+00:02:55,160 --> 00:02:57,600
+Lahko s tem dosežemo,
+
+53
+00:02:57,600 --> 00:02:59,000
+da »koridorji u?nih programov«
+ne bi bili več tako strogo začrtani, zaprti,
+
+54
+00:02:59,000 --> 00:03:03,200
+temveč bi predstavljali poti,
+ki so bolj fleksibilne, dopuščajo več manevrov,
+
+55
+00:03:03,200 --> 00:03:07,840
+ki so, z eno besedo,
+resnično personalizirane?

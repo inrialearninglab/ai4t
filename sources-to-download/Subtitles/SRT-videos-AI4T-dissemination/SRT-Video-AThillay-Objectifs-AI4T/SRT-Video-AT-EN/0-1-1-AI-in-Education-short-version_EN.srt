@@ -1,0 +1,114 @@
+1
+00:00:09,082 --> 00:00:12,246
+The objective of this training
+in the European context
+
+2
+00:00:12,645 --> 00:00:15,809
+is to finally approach things
+at three levels.
+
+3
+00:00:18,008 --> 00:00:22,500
+Demystify and understand
+what AI can bring to education.
+
+4
+00:00:23,661 --> 00:00:26,016
+To experiment and use resources
+
+5
+00:00:26,041 --> 00:00:30,494
+that include AI
+in an intelligent way, funnily enough.
+
+6
+00:00:31,966 --> 00:00:35,270
+And lastly,
+to develop the necessary digital skills
+
+7
+00:00:35,295 --> 00:00:40,887
+among all educators and students today,
+and AI is part of that.
+
+8
+00:00:41,686 --> 00:00:46,126
+At any rate, a good understanding
+of how AI is used is part of it,
+
+9
+00:00:46,166 --> 00:00:48,589
+in order to integrate
+the ethical dimension
+
+10
+00:00:48,614 --> 00:00:50,989
+into the projects from the start.
+
+11
+00:00:51,806 --> 00:00:54,886
+In other words, what is AI for?
+
+12
+00:00:55,642 --> 00:00:59,486
+What is the challenge
+and the expected result of AI?
+
+13
+00:01:00,478 --> 00:01:04,281
+How can we implement
+and use these AI resources?
+
+14
+00:01:05,141 --> 00:01:08,634
+Finally,
+how can we also integrate questions
+
+15
+00:01:08,659 --> 00:01:11,274
+that can introduce ethical reflection
+
+16
+00:01:11,471 --> 00:01:14,892
+beyond the regulatory issues
+from the start?
+
+17
+00:01:15,947 --> 00:01:18,744
+This is why
+we chose to try to approach this AI
+
+18
+00:01:18,769 --> 00:01:22,795
+in education from an age group
+of 15-16 years old
+
+19
+00:01:23,054 --> 00:01:25,264
+with students at the beginning
+of high school
+
+20
+00:01:25,353 --> 00:01:27,975
+for mathematics and science
+on the one hand,
+
+21
+00:01:28,361 --> 00:01:31,006
+and learning foreign languages
+on the other hand,
+
+22
+00:01:31,629 --> 00:01:34,532
+because we needed two experimental fields,
+
+23
+00:01:34,882 --> 00:01:37,063
+two experimental domains,
+
+24
+00:01:37,366 --> 00:01:41,446
+which would be feasible
+over the duration of the project.
+

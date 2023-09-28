@@ -1,0 +1,273 @@
+1
+00:00:04,269 --> 00:00:06,007
+Analytisches Lernen
+
+2
+00:00:06,800 --> 00:00:08,612
+Rund um’s Lehren und Lernen
+
+3
+00:00:08,637 --> 00:00:12,550
+hat sich in den vergangenen Jahren
+ein ganzes digitales Ökosystem entwickelt.
+
+4
+00:00:12,745 --> 00:00:14,526
+Die digitale Nutzung ist durch
+
+5
+00:00:14,551 --> 00:00:17,968
+die unterschiedlichsten Geräte
+und Technologien weit verbreitet:
+
+6
+00:00:18,038 --> 00:00:19,619
+Tablets, Computer
+
+7
+00:00:19,644 --> 00:00:21,465
+und natürlich WLAN-Zugang.
+
+8
+00:00:23,066 --> 00:00:26,081
+Diese digitale Umgebung
+bietet im schulischen Kontext
+
+9
+00:00:26,106 --> 00:00:28,830
+Zugang zu Informationen,
+Lernumgebungen,
+
+10
+00:00:28,855 --> 00:00:31,183
+Arbeitsbereichen, Lehrbüchern,
+
+11
+00:00:31,620 --> 00:00:33,651
+Zeugnissen, Schulberichten
+
+12
+00:00:33,676 --> 00:00:37,011
+sowie (kostenlosen)
+Online-Bildungsinhalten,
+
+13
+00:00:38,041 --> 00:00:42,050
+wie z.B. Open Educational Ressources (OER).
+
+14
+00:00:43,047 --> 00:00:45,883
+Natürlich ersetzen
+all diese Materialien und Ressourcen
+
+15
+00:00:45,908 --> 00:00:47,486
+nicht den Reichtum
+
+16
+00:00:47,511 --> 00:00:50,578
+der direkten menschlichen
+Interaktionen zwischen Lehrenden
+
+17
+00:00:50,603 --> 00:00:53,142
+und Lernenden sowie zwischen
+den Lernenden selbst.
+
+18
+00:00:53,211 --> 00:00:56,820
+So passieren bei der Interaktion
+mit einer digitalen Plattform,
+
+19
+00:00:56,890 --> 00:01:00,859
+einem Touchscreen oder ähnlichem
+zwar verschiedene Interaktionen,
+
+20
+00:01:00,930 --> 00:01:03,398
+jedoch sehen wir hier meist
+nur das Ergebnis.
+
+21
+00:01:03,423 --> 00:01:05,054
+Die Lehrkräfte sind es jedoch gewöhnt,
+
+22
+00:01:05,079 --> 00:01:08,125
+in einem physischen Klassenzimmer
+eine Vielzahl von Hinweisen
+
+23
+00:01:08,150 --> 00:01:11,218
+bezüglich der Lernenden
+und des Lernprozesses aufzunehmen.
+
+24
+00:01:11,243 --> 00:01:14,274
+In einer digitalen Lernumgebung
+ist dies eher ungewohnt
+
+25
+00:01:14,299 --> 00:01:15,985
+und vielen nur schwer zugänglich.
+
+26
+00:01:16,010 --> 00:01:17,883
+Die Anhaltspunkte, die Lehrkräfte
+
+27
+00:01:17,908 --> 00:01:20,789
+in einer realen Situation
+im Klassenzimmer wahrnehmen,
+
+28
+00:01:20,814 --> 00:01:22,089
+sind vor allem Engagement
+
+29
+00:01:22,114 --> 00:01:23,126
+und Motivation.
+
+30
+00:01:23,151 --> 00:01:24,579
+Sie können zum Beispiel sehen,
+
+31
+00:01:24,604 --> 00:01:27,204
+ob ein Lernender aufmerksam
+ist oder nicht.
+
+32
+00:01:27,229 --> 00:01:29,312
+Wenn der Geräuschpegel plötzlich ansteigt,
+
+33
+00:01:29,337 --> 00:01:31,462
+besteht die Vermutung,
+dass etwas passiert ist.
+
+34
+00:01:31,487 --> 00:01:35,320
+Wenn bei der Erklärung eines Konzepts
+an der Tafel alle Köpfe gesenkt sind,
+
+35
+00:01:35,345 --> 00:01:38,977
+ist eine Aussage über das allgemeine
+Verständnis des Gesagten schwierig.
+
+36
+00:01:39,002 --> 00:01:41,655
+Auch wenn es viele
+unterschiedliche Erklärungsansätze
+
+37
+00:01:41,680 --> 00:01:43,196
+für
+diese Beobachtungen gibt,
+
+38
+00:01:43,221 --> 00:01:45,212
+ist es wichtig, diese Hinweise
+
+39
+00:01:45,237 --> 00:01:47,869
+oder auch das Fehlen
+von Hinweisen zu erkennen.
+
+40
+00:01:47,944 --> 00:01:49,639
+Wenn die Lernenden nicht mehr physisch
+
+41
+00:01:49,664 --> 00:01:51,460
+im selben Raum
+sind wie die Lehrkraft,
+
+42
+00:01:51,563 --> 00:01:53,006
+woran können wir dann erkennen,
+
+43
+00:01:53,031 --> 00:01:54,514
+dass sie nicht mehr folgen können,
+
+44
+00:01:54,584 --> 00:01:57,530
+weil die Inhalte
+oder Erklärungen zu kompliziert sind
+
+45
+00:01:57,555 --> 00:01:59,640
+oder das Lernformat nicht zu ihnen passt
+
+46
+00:01:59,722 --> 00:02:01,219
+oder weil sie nicht verstehen,
+
+47
+00:02:01,244 --> 00:02:03,484
+warum sie diesem Kurs überhaupt folgen sollten?
+
+48
+00:02:03,509 --> 00:02:04,906
+Gerade in den Bereichen,
+
+49
+00:02:04,931 --> 00:02:06,805
+wie Engagement oder Motivation,
+
+50
+00:02:06,830 --> 00:02:08,664
+kann die Nutzung digitaler Spuren
+
+51
+00:02:08,689 --> 00:02:12,079
+in Kombination mit KI-Technologien
+sowohl dem Lehrenden
+
+52
+00:02:12,104 --> 00:02:13,824
+als auch dem Lernenden helfen.
+
+53
+00:02:13,977 --> 00:02:17,883
+Ganz allgemein können
+nach Gartners Modell KI-Technologien
+
+54
+00:02:17,908 --> 00:02:21,172
+dem Lehrenden helfen,
+eine Lernsituation zu beschreiben
+
+55
+00:02:21,231 --> 00:02:22,500
+(was ist passiert?),
+
+56
+00:02:22,556 --> 00:02:25,266
+zu diagnostizieren
+(warum ist es passiert?),
+
+57
+00:02:25,291 --> 00:02:27,805
+vorherzusagen (was wird passieren?)
+
+58
+00:02:27,845 --> 00:02:29,258
+oder vorzuschreiben
+
+59
+00:02:29,306 --> 00:02:31,899
+(wie ist entsprechend
+der möglichen Entwicklung zu handeln?),
+
+60
+00:02:31,937 --> 00:02:33,773
+um sie besser an einen Lernenden
+
+61
+00:02:33,798 --> 00:02:36,878
+oder eine Gruppe von Lernenden anzupassen.
+

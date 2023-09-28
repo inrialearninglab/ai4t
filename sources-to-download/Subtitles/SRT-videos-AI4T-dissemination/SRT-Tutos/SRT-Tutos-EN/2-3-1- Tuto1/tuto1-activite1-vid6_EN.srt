@@ -1,0 +1,41 @@
+1
+00:00:00,046 --> 00:00:02,006
+What can we do with this program?
+
+2
+00:00:02,423 --> 00:00:05,798
+Now that we have understood
+how to train artificial intelligence,
+
+3
+00:00:05,840 --> 00:00:08,173
+we can teach it to do whatever we want.
+
+4
+00:00:08,590 --> 00:00:10,881
+Can I train a program
+to tell the difference
+
+5
+00:00:10,923 --> 00:00:12,715
+between my cup and my glass?
+
+6
+00:00:12,763 --> 00:00:15,097
+Or between my closed hand
+and my open hand?
+
+7
+00:00:15,423 --> 00:00:17,756
+My blue shirt and a red t-shirt?
+
+8
+00:00:17,798 --> 00:00:21,465
+You choose your two categories
+and your ten examples for each.
+
+9
+00:00:21,715 --> 00:00:24,090
+Make sure
+your two categories are distinct.
+

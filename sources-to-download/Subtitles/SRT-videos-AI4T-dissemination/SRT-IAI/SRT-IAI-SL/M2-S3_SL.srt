@@ -1,0 +1,859 @@
+1
+00:00:10,365 --> 00:00:13,552
+Strojno učenje in podatki.
+
+2
+00:00:14,414 --> 00:00:16,921
+Ko danes govorimo o umetni inteligenci,
+
+3
+00:00:16,946 --> 00:00:20,015
+pogosto naletimo na besedno zvezo
+machine learning,
+
+4
+00:00:20,085 --> 00:00:21,970
+kar prevajamo
+kot strojno učenje.
+
+5
+00:00:21,995 --> 00:00:23,789
+Učiti se je mogoče na dva načina.
+
+6
+00:00:23,814 --> 00:00:26,194
+Znanje lahko na nas prenesejo drugi.
+
+7
+00:00:26,219 --> 00:00:29,959
+Gre za simbolni pristop.
+Znanje lahko pridobimo tudi z izkušnjami.
+
+8
+00:00:29,984 --> 00:00:31,918
+Gre za digitalni pristop.
+
+9
+00:00:32,296 --> 00:00:37,062
+Strojno učenje temelji
+na digitalnem pristopu, torej izkušnjah.
+
+10
+00:00:37,563 --> 00:00:40,901
+Računalniku ne narekujemo,
+kaj natančno mora narediti.
+
+11
+00:00:41,078 --> 00:00:43,848
+Ne, programiramo ga tako,
+da se uči iz primerov,
+
+12
+00:00:43,873 --> 00:00:46,401
+pri čemer se opira
+na statistične pristope.
+
+13
+00:00:47,423 --> 00:00:49,842
+Učiti se učenja.
+
+14
+00:00:50,659 --> 00:00:53,349
+Pojasnil vam bom
+s pomočjo primera Davida Louapra,
+
+15
+00:00:53,374 --> 00:00:55,797
+raziskovalca in popularizatorja znanosti.
+
+16
+00:00:55,822 --> 00:00:57,371
+Recimo, da ste botanik.
+
+17
+00:00:57,396 --> 00:00:58,801
+Sprehajate se po gozdu.
+
+18
+00:00:58,826 --> 00:00:59,846
+Opazujete.
+
+19
+00:01:00,132 --> 00:01:02,692
+Izmerite višino in premer dreves.
+
+20
+00:01:02,717 --> 00:01:04,557
+Podatke zapišete v tabelo.
+
+21
+00:01:04,686 --> 00:01:05,881
+Ko pridete domov,
+
+22
+00:01:05,906 --> 00:01:09,446
+narišete graf.
+Na osi x so podatki o premerih,
+
+23
+00:01:09,471 --> 00:01:13,716
+na osi y pa podatki o višini.
+V graf vnesete podatke.
+
+24
+00:01:13,741 --> 00:01:17,271
+Ugotovite,
+da sta višina in premer povezana
+
+25
+00:01:17,678 --> 00:01:19,977
+in da lahko, če pike povežete s črto,
+
+26
+00:01:20,077 --> 00:01:21,988
+predvidite višino drevesa,
+
+27
+00:01:22,151 --> 00:01:24,536
+in to na podlagi njegovega premera.
+
+28
+00:01:24,665 --> 00:01:27,102
+Strojno učenje deluje na enak način.
+
+29
+00:01:27,127 --> 00:01:29,722
+Na podlagi vhodnih podatkov
+pripravite izračun
+
+30
+00:01:29,747 --> 00:01:31,256
+in dobite izhodne podatke.
+
+31
+00:01:31,281 --> 00:01:35,624
+Naučite ga razumeti povezavo med njima,
+prav tako pa slavno ravno črto,
+
+32
+00:01:35,649 --> 00:01:38,596
+in sicer tako,
+da prilagodite parametre izračuna.
+
+33
+00:01:38,621 --> 00:01:40,645
+Temu rečemo generalizacija.
+
+34
+00:01:40,925 --> 00:01:42,246
+Ko s to fazo zaključimo,
+
+35
+00:01:42,271 --> 00:01:46,089
+lahko začnemo s predvidevanjem.
+Dobimo torej ustrezen odgovor
+
+36
+00:01:46,114 --> 00:01:50,229
+za podobne podatke,
+ki pa jih program ni uporabljal pri učenju.
+
+37
+00:01:51,321 --> 00:01:53,509
+Pri strojnem učenju gre prav za to,
+
+38
+00:01:53,894 --> 00:01:55,347
+za predvidevanje.
+
+39
+00:01:55,439 --> 00:01:58,461
+Za predvidevanja,
+ki niso nujno predvidljiva.
+
+40
+00:01:58,486 --> 00:02:00,228
+Kako se stroji učijo?
+
+41
+00:02:00,479 --> 00:02:02,799
+V bistvu poznamo več metod učenja.
+
+42
+00:02:03,139 --> 00:02:05,305
+Izpostavili bomo samo glavni dve.
+
+43
+00:02:05,330 --> 00:02:10,098
+Primer nadzorovanega učenja je učenje,
+ki ga je uporabljal naš botanik.
+
+44
+00:02:10,123 --> 00:02:12,555
+Najprej je na vrsti faza usposabljanja.
+
+45
+00:02:12,580 --> 00:02:15,947
+Podatki, ki jih označi človek,
+so vstavljeni v algoritem.
+
+46
+00:02:15,972 --> 00:02:18,621
+Zato temu pravimo nadzorovano učenje.
+
+47
+00:02:18,659 --> 00:02:20,099
+MAČKA
+
+48
+00:02:22,126 --> 00:02:23,934
+Sledi faza predvidevanja.
+
+49
+00:02:23,959 --> 00:02:27,986
+Algoritem ponudi odgovor
+za podatke, ki jih ne pozna.
+
+50
+00:02:28,766 --> 00:02:31,247
+98-ODSTOTNO PREPRIČAN,
+DA JE TO MAČKA
+
+51
+00:02:31,272 --> 00:02:33,276
+Tako pride do ekstrapolacije,
+
+52
+00:02:33,301 --> 00:02:37,288
+pa tudi stroj se nauči
+razlikovati mačke od psov.
+
+53
+00:02:38,526 --> 00:02:41,195
+2-ODSTOTNO PREPRIČAN,
+DA JE TO MAČKA
+
+54
+00:02:41,220 --> 00:02:43,540
+Potem je tukaj še učenje z utrjevanjem,
+
+55
+00:02:43,565 --> 00:02:47,327
+pri katerem se algoritem uči tako,
+da je potopljen v okolje,
+
+56
+00:02:47,352 --> 00:02:50,898
+v katerem določene parametre prilagodi
+glede na pozitiven
+
+57
+00:02:50,923 --> 00:02:53,813
+ali negativen odziv,
+ki sledi vsakemu dejanju.
+
+58
+00:02:53,838 --> 00:02:56,094
+Podobno kot se otrok uči voziti kolo.
+
+59
+00:02:56,119 --> 00:02:57,986
+Pade in se spet pobere.
+
+60
+00:02:58,011 --> 00:03:00,910
+Ta algoritem
+v glavnem uporabljajo pri robotih
+
+61
+00:03:00,935 --> 00:03:02,580
+ali avtonomnih agentih.
+
+62
+00:03:02,605 --> 00:03:07,241
+Odlično deluje tudi v virtualnih svetovih
+ali v specifičnih situacijah.
+
+63
+00:03:07,266 --> 00:03:11,316
+Idealen je za igranje igre Go,
+manj uspešen pa je pri avtonomni vožnji vozil.
+
+64
+00:03:11,341 --> 00:03:14,501
+Predstavljajte si,
+da bi moral avto trčiti večtisočkrat,
+
+65
+00:03:14,526 --> 00:03:16,488
+preden bi se stroj naučil, kako ga voziti.
+
+66
+00:03:16,513 --> 00:03:18,621
+Vsaka aplikacija ima svoj algoritem.
+
+67
+00:03:18,646 --> 00:03:20,673
+Slišal sem za globoko učenje.
+
+68
+00:03:20,698 --> 00:03:22,043
+Za kaj točno gre?
+
+69
+00:03:22,286 --> 00:03:24,650
+Nevronske mreže.
+
+70
+00:03:25,613 --> 00:03:28,053
+Globoko učenje je metoda strojnega učenja,
+
+71
+00:03:28,078 --> 00:03:30,358
+ki temelji na umetnih nevronskih mrežah.
+
+72
+00:03:30,601 --> 00:03:33,660
+Umetne nevronske mreže
+temeljijo na metodah,
+
+73
+00:03:33,685 --> 00:03:35,997
+podobnih tistim v naših možganih.
+
+74
+00:03:36,022 --> 00:03:39,252
+Biološki nevroni
+so med seboj povezane celice.
+
+75
+00:03:39,277 --> 00:03:42,260
+Preprosto rečeno:
+ko nevron prejme signal,
+
+76
+00:03:42,285 --> 00:03:47,035
+ima dve možnosti.
+Naprej lahko pošlje svoj signal, ali pa ne naredi ničesar.
+
+77
+00:03:47,060 --> 00:03:49,860
+Umetni nevroni
+so matematični konstrukti,
+
+78
+00:03:49,885 --> 00:03:53,447
+ki v grobem posnemajo
+delovanje bioloških nevronov.
+
+79
+00:03:53,817 --> 00:03:58,861
+Vsak nevron operira s svojimi vhodnimi podatki
+in ustvari izhodni podatek.
+
+80
+00:03:58,886 --> 00:04:03,227
+Če želimo posnemati kompleksne funkcije,
+lahko kombiniramo več nevronov.
+
+81
+00:04:03,252 --> 00:04:05,932
+Temu rečemo umetna nevronska mreža.
+
+82
+00:04:06,107 --> 00:04:07,303
+Ta metoda ni novost.
+
+83
+00:04:07,328 --> 00:04:09,763
+Poznamo jo že iz 50. let 20. stoletja,
+
+84
+00:04:09,788 --> 00:04:13,020
+vendar zahteva veliko zmogljivost
+računalnika in veliko podatkov.
+
+85
+00:04:13,045 --> 00:04:17,817
+Sredi prvega desetletja 21. stoletja se je
+zaradi povečane zmogljivosti procesorjev
+
+86
+00:04:17,842 --> 00:04:20,340
+in velike količine podatkov,
+ki jih je omogočil splet,
+
+87
+00:04:20,365 --> 00:04:23,080
+vse spremenilo.
+Nastopila je globoka faza.
+
+88
+00:04:23,105 --> 00:04:25,779
+Nevroni so razporejeni
+v zaporedne plasti.
+
+89
+00:04:25,845 --> 00:04:28,853
+Rezultat,
+ki ga bo ustvarila prva plast nevronov,
+
+90
+00:04:28,878 --> 00:04:31,859
+bo služil
+kot vhodni podatek za druge plasti.
+
+91
+00:04:31,959 --> 00:04:33,219
+In tako naprej.
+
+92
+00:04:35,791 --> 00:04:38,741
+Številnejše ko so plasti,
+globlja je mreža.
+
+93
+00:04:38,766 --> 00:04:43,022
+Prav zato učenju, ki poteka
+na podlagi globokih nevronskih mrež,
+
+94
+00:04:43,047 --> 00:04:44,899
+rečemo globoko učenje.
+
+95
+00:04:44,924 --> 00:04:47,005
+Oglejmo si primer prepoznavanja podob.
+
+96
+00:04:47,030 --> 00:04:49,591
+Kako se lahko mreža nevronov sama nauči,
+
+97
+00:04:49,616 --> 00:04:53,977
+kako prepoznati sliko mačke,
+če pa ima pred seboj samo slikovne točke?
+
+98
+00:04:54,002 --> 00:04:57,669
+Na podlagi več tisoč slik mačk,
+ki jim je bila izpostavljena
+
+99
+00:04:57,694 --> 00:05:00,175
+in na katerih je pisalo, da gre za mačko,
+
+100
+00:05:00,200 --> 00:05:04,052
+bo lahko prilagodila parametre izračuna
+in izpostavila značilnosti,
+
+101
+00:05:04,077 --> 00:05:05,401
+ki določajo mačko.
+
+102
+00:05:05,845 --> 00:05:08,833
+Ko program dobi predstavo o tem,
+kakšna je mačka,
+
+103
+00:05:08,883 --> 00:05:12,530
+lahko predvideva,
+ali gre pri novi podobi za mačko ali ne.
+
+104
+00:05:12,557 --> 00:05:14,205
+ENOSTAVNO, TO JE MAČKA.
+
+105
+00:05:14,230 --> 00:05:16,987
+Seveda
+se bo mreža na začetku velikokrat zmotila,
+
+106
+00:05:17,517 --> 00:05:18,652
+zares velikokrat,
+
+107
+00:05:19,104 --> 00:05:21,970
+vendar se bo model izpopolnil
+s pomočjo prilagoditev,
+
+108
+00:05:21,995 --> 00:05:23,610
+z zaporedjem majhnih sprememb.
+
+109
+00:05:24,128 --> 00:05:27,117
+Ko bo primerjal rezultate
+in prilagodil svoje izračune,
+
+110
+00:05:27,142 --> 00:05:30,255
+bo lahko na sliki prepoznal mačko,
+ki je še ni videl.
+
+111
+00:05:31,269 --> 00:05:33,509
+Točno tako! Za statistiko gre.
+
+112
+00:05:33,534 --> 00:05:35,480
+Kot je pojasnil Marc Schoenauer,
+
+113
+00:05:35,505 --> 00:05:39,291
+direktor na področju raziskav na INRII:
+Ne gre za programiranje,
+
+114
+00:05:39,316 --> 00:05:41,111
+ki bi prineslo točen rezultat,
+
+115
+00:05:41,136 --> 00:05:45,346
+temveč za prepoznavanje vzorcev,
+četudi netočnih, na podlagi podatkov.
+
+116
+00:05:45,603 --> 00:05:47,422
+Zato so podatki tako pomembni!
+
+117
+00:05:47,468 --> 00:05:49,746
+Lahko imaš najboljši algoritem na svetu,
+
+118
+00:05:49,833 --> 00:05:53,154
+ampak če so podatki slabi
+ali neustrezno razvrščeni,
+
+119
+00:05:53,179 --> 00:05:54,540
+bo slab tudi rezultat.
+
+120
+00:05:55,359 --> 00:05:58,178
+Izziv, ki ga predstavljajo podatki.
+
+121
+00:05:58,446 --> 00:06:02,438
+Primer: če algoritem naučimo,
+da na sliki prepozna ovco,
+
+122
+00:06:02,572 --> 00:06:05,237
+in to tako,
+da mu pokažemo sliko bele ovce,
+
+123
+00:06:05,262 --> 00:06:07,431
+ne bo znal prepoznati črne ovce.
+
+124
+00:06:07,456 --> 00:06:10,583
+Podatki morajo biti raznoliki
+in dovolj številni.
+
+125
+00:06:10,608 --> 00:06:13,288
+Brez tega generalizacija ni mogoča.
+
+126
+00:06:13,392 --> 00:06:16,168
+Podatki morajo biti
+tudi ustrezno razvrščeni.
+
+127
+00:06:16,193 --> 00:06:19,781
+Če želimo UI ustrezno naučiti,
+da na sliki prepozna ovco,
+
+128
+00:06:19,806 --> 00:06:22,850
+ne zadošča samo veliko slik,
+na katerih je ovca.
+
+129
+00:06:22,875 --> 00:06:25,595
+Ob slikah morajo biti tudi ustrezni opisi.
+
+130
+00:06:25,620 --> 00:06:28,898
+Z drugimi besedami:
+na tej sliki je ovca v kvadratu,
+
+131
+00:06:28,923 --> 00:06:31,420
+zato je zapisano, da je v kvadratu ovca.
+
+132
+00:06:31,445 --> 00:06:34,020
+Kot smo lahko videli,
+je vključenih na tisoče slik,
+
+133
+00:06:34,045 --> 00:06:38,537
+ki jim je treba ročno dodati opise,
+da se lahko UI ustrezno nauči,
+
+134
+00:06:38,562 --> 00:06:40,927
+nato pa je treba ustrezno predvidevati,
+
+135
+00:06:40,952 --> 00:06:44,141
+in to na podlagi slik,
+ki niso več opremljene z opisi.
+
+136
+00:06:44,166 --> 00:06:47,219
+Gre za dolgotrajno in naporno,
+vendar pomembno delo,
+
+137
+00:06:47,244 --> 00:06:51,909
+saj lahko neustrezni opisi
+vplivajo na neustrezno predvidevanje.
+
+138
+00:06:52,439 --> 00:06:55,479
+Včasih podatkom dodamo opise,
+ne da bi se sploh zavedali.
+
+139
+00:06:55,504 --> 00:06:57,227
+Recimo pri določenih testih CAPTCHA,
+
+140
+00:06:57,252 --> 00:07:00,091
+kjer moramo prepoznati kvadrate,
+ki vsebujejo avtomobil.
+
+141
+00:07:00,116 --> 00:07:04,450
+Takrat podobam dodajamo opise ali preverjamo,
+če so opremljene z ustreznimi opisi.
+
+142
+00:07:04,475 --> 00:07:07,038
+S tem pa še nismo nujno dokazali,
+da nismo robot!
+
+143
+00:07:07,079 --> 00:07:10,983
+Pa še nekaj:
+nekateri ljudje opravljajo nevidno delo.
+
+144
+00:07:11,008 --> 00:07:12,689
+Dobijo nekaj evrov na dan,
+
+145
+00:07:12,714 --> 00:07:14,869
+zato da klikajo na stotine podob.
+
+146
+00:07:14,894 --> 00:07:18,830
+Ste že slišali
+za Amazonovo platformo Mechanical Turk?
+
+147
+00:07:19,023 --> 00:07:21,160
+Ja, ogledal sem si spletno stran.
+
+148
+00:07:21,227 --> 00:07:23,914
+Tarife so res bizarne.
+-Spletni delavci.
+
+149
+00:07:23,939 --> 00:07:25,437
+Od kod pridejo podatki?
+
+150
+00:07:25,462 --> 00:07:27,942
+Podatki so lahko zbrani avtomatsko,
+
+151
+00:07:28,092 --> 00:07:33,021
+in sicer s pomočjo teleskopov,
+nadzornih kamer, mikrofonov
+
+152
+00:07:33,346 --> 00:07:35,866
+in senzorjev, ki merijo kakovost zraka.
+
+153
+00:07:35,981 --> 00:07:38,220
+Lahko jih ustvarijo tudi uporabniki,
+
+154
+00:07:38,445 --> 00:07:40,520
+z iskanji
+v spletnem iskalniku,
+
+155
+00:07:40,652 --> 00:07:44,039
+z objavami, s komentarji
+na družbenih omrežjih,
+
+156
+00:07:44,145 --> 00:07:48,657
+s povezanimi napravami in z nakupi,
+opravljenimi s kreditnimi karticami.
+
+157
+00:07:50,396 --> 00:07:53,988
+Gre za izmenjavo brezplačnih storitev
+med velikimi podjetji in nami.
+
+158
+00:07:54,013 --> 00:07:54,564
+To je to.
+
+159
+00:07:54,589 --> 00:07:57,772
+Če je nekaj brezplačno,
+µsi izdelek v resnici kar ti sam.
+
+160
+00:07:57,797 --> 00:07:58,989
+Ja, res je.
+
+161
+00:07:59,014 --> 00:08:03,590
+Velika ameriška in kitajska zasebna
+podjetja imajo shranjenih veliko podatkov,
+
+162
+00:08:03,615 --> 00:08:06,002
+kar predstavlja težave
+Na področju zasebnosti.
+
+163
+00:08:06,034 --> 00:08:09,221
+Na Kitajskem so vzpostavili
+sistem družbenih vozlišč,
+
+164
+00:08:09,246 --> 00:08:12,194
+s pomočjo katerega
+se ocenjuje vedenje državljanov.
+
+165
+00:08:12,219 --> 00:08:14,964
+Večino podatkov zberejo
+s pomočjo nadzornih kamer
+
+166
+00:08:14,989 --> 00:08:17,793
+in družbenih omrežij.
+Na tak način dobijo oceno,
+
+167
+00:08:17,818 --> 00:08:21,339
+ki določa,
+ali lahko oseba uporablja javne storitve ali ne.
+
+168
+00:08:21,701 --> 00:08:25,066
+Poplava podatkov hkrati
+spodbuja nastanek zagonskih podjetij.
+
+169
+00:08:25,091 --> 00:08:28,088
+Kdor ima dostop do podatkov,
+ima moč upravljanja z modeli
+
+170
+00:08:28,113 --> 00:08:29,538
+in možnost, da jih izboljšuje.
+
+171
+00:08:29,563 --> 00:08:33,702
+Zato je pomembno, da imamo Splošno uredbo
+o varstvu podatkov, ki ureja te prakse.
+
+172
+00:08:33,727 --> 00:08:35,346
+To omogoča državljanom Evrope
+
+173
+00:08:35,371 --> 00:08:38,091
+malce več nadzora
+nad svojimi osebnimi podatki.
+
+174
+00:08:38,352 --> 00:08:41,720
+Masovni podatki povzročajo
+veliko porabo energije, kajne?
+
+175
+00:08:41,866 --> 00:08:44,526
+Podatki so shranjeni
+v podatkovnih središčih.
+
+176
+00:08:44,762 --> 00:08:47,436
+Računalništvo v oblaku ni zares v oblaku.
+
+177
+00:08:47,527 --> 00:08:49,502
+Strežniški stopli se segrejejo
+
+178
+00:08:49,572 --> 00:08:51,896
+in jih je treba ohladiti s klimatskimi napravami.
+
+179
+00:08:52,366 --> 00:08:54,414
+Za algoritme, ki so na ravni UI,
+
+180
+00:08:54,439 --> 00:08:56,591
+so potrebne izjemne zmogljivosti,
+
+181
+00:08:56,819 --> 00:09:00,137
+torej superračunalniki,
+ki združujejo na tisoče procesorjev,
+
+182
+00:09:00,162 --> 00:09:01,954
+v eni ogromni zgradbi.
+
+183
+00:09:02,939 --> 00:09:07,024
+Ja, poraba pri tem je velika
+in predstavlja tveganje za celoten sistem.
+
+184
+00:09:07,292 --> 00:09:10,179
+Sami moramo poskrbeti
+za stroškovno učinkovitost,
+
+185
+00:09:10,204 --> 00:09:11,945
+ko gre za umetno inteligenco.
+
+186
+00:09:12,172 --> 00:09:15,932
+Ta se lahko izkaže kot izjemno orodje,
+ki nam nadvse koristi,
+
+187
+00:09:15,957 --> 00:09:20,176
+obstajajo pa tudi aplikacije,
+ki nas silijo v porabo, ali nam sledijo.
+
+188
+00:09:20,399 --> 00:09:24,074
+Tudi pri tej tehnologiji je vse odvisno
+od tega, kako jo uporabljamo.
+
+189
+00:09:24,186 --> 00:09:26,186
+Osmisliti jo moramo sami!
+

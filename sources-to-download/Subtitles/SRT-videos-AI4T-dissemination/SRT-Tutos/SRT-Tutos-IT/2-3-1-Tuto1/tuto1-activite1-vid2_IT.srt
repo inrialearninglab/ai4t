@@ -1,0 +1,58 @@
+1
+00:00:00,560 --> 00:00:01,856
+MAGIA?
+
+2
+00:00:01,881 --> 00:00:04,353
+Perché un programma impari
+a riconoscere delle immagini,
+
+3
+00:00:04,378 --> 00:00:05,633
+è necessario addestrarlo.
+
+4
+00:00:05,658 --> 00:00:08,048
+È ciò che chiamiamo
+"apprendimento automatico"
+
+5
+00:00:08,073 --> 00:00:09,940
+o "<i>machine learning</i>", in inglese.
+
+6
+00:00:09,965 --> 00:00:13,321
+Gli vengono mostrati degli esempi,
+specificando di cosa si tratta:
+
+7
+00:00:13,346 --> 00:00:16,201
+questa è l'immagine di un gatto,
+questa è l'immagine di un cane...
+
+8
+00:00:16,226 --> 00:00:19,676
+Gliene vengono mostrati migliaia
+per ogni cosa che vogliamo che riconosca.
+
+9
+00:00:19,735 --> 00:00:21,582
+All'inizio, sbaglierà, e tanto,
+
+10
+00:00:21,655 --> 00:00:23,256
+ma dopo aver visto molti esempi,
+
+11
+00:00:23,281 --> 00:00:25,557
+sarà in grado di riconoscere
+l'immagine di un gatto
+
+12
+00:00:25,582 --> 00:00:27,241
+anche in una foto che non ha mai visto.
+
+13
+00:00:27,266 --> 00:00:29,813
+Adesso, possiamo addestrare la nostra IA.
+

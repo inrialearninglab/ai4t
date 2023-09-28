@@ -1,0 +1,307 @@
+﻿1
+00:00:05,085 --> 00:00:08,880
+Il processo di apprendimento nell'istruzione
+
+2
+00:00:08,905 --> 00:00:10,644
+Immaginate questa metafora
+
+3
+00:00:10,669 --> 00:00:13,417
+che raffigura un punto di vista ristretto 
+della scuola,
+
+4
+00:00:13,473 --> 00:00:15,684
+vedendola
+come un luogo che offre corsi
+
+5
+00:00:15,709 --> 00:00:17,466
+che possono essere rappresentati
+
+6
+00:00:17,491 --> 00:00:19,880
+come "corridoi di corsi" ben definiti.
+
+7
+00:00:19,926 --> 00:00:22,847
+Questi "corridoi di corsi"
+hanno un punto di ingresso,
+
+8
+00:00:22,872 --> 00:00:23,996
+che è quello attraverso
+
+9
+00:00:24,021 --> 00:00:26,658
+il quale entriamo
+nel sistema educativo formale,
+
+10
+00:00:26,683 --> 00:00:27,988
+e hanno anche un obiettivo
+
+11
+00:00:28,013 --> 00:00:29,138
+più o meno lontano,
+
+12
+00:00:29,169 --> 00:00:31,396
+che è quello che ci permette di arrivare,
+
+13
+00:00:31,421 --> 00:00:33,411
+a lungo termine, al mondo professionale.
+
+14
+00:00:33,520 --> 00:00:35,720
+Questi corridoi sono relativamente
+
+15
+00:00:35,720 --> 00:00:38,400
+ben tracciati, chiari e ben definiti
+
+16
+00:00:38,400 --> 00:00:40,241
+e sono pensati per gli alunni
+
+17
+00:00:40,266 --> 00:00:41,938
+che sono pronti a percorrerli.
+
+18
+00:00:42,540 --> 00:00:44,360
+Gli alunni sono ben allineati,
+
+19
+00:00:44,360 --> 00:00:46,832
+ben posizionati nei blocchi di partenza
+
+20
+00:00:46,871 --> 00:00:48,800
+e pronti a iniziare a lavorare
+
+21
+00:00:48,825 --> 00:00:51,120
+e ad apprendere in modo efficiente.
+
+22
+00:00:51,981 --> 00:00:54,302
+Naturalmente, come tutti ben sappiamo
+
+23
+00:00:54,396 --> 00:00:56,802
+ed in particolare, come sono consapevoli
+
+24
+00:00:56,827 --> 00:00:58,849
+gli attori
+dei sistemi educativi formali,
+
+25
+00:00:58,874 --> 00:00:59,810
+per alcuni alunni
+
+26
+00:01:00,075 --> 00:01:01,796
+ogni corridoio è una corsa a ostacoli
+
+27
+00:01:01,849 --> 00:01:03,760
+con difficoltà talvolta significative.
+
+28
+00:01:03,760 --> 00:01:06,080
+Alcuni alunni abbandoneranno.
+
+29
+00:01:06,080 --> 00:01:10,320
+Altri, fortunatamente, avranno successo.
+
+30
+00:01:11,449 --> 00:01:12,299
+Ma la realtà
+
+31
+00:01:12,324 --> 00:01:14,222
+è molto più complessa di così.
+
+32
+00:01:15,980 --> 00:01:18,230
+Quando guardiamo la linea di partenza,
+
+33
+00:01:18,255 --> 00:01:19,513
+vediamo alunni che sono
+
+34
+00:01:19,538 --> 00:01:21,713
+effettivamente ben preparati
+e pronti a partire.
+
+35
+00:01:22,104 --> 00:01:24,646
+Ci sono altri che, 
+pur essendo pronti a partire,
+
+36
+00:01:24,671 --> 00:01:26,802
+non sono ben equipaggiati o formati:
+
+37
+00:01:26,857 --> 00:01:28,746
+non hanno gli strumenti giusti,
+
+38
+00:01:28,771 --> 00:01:30,520
+non hanno i concetti giusti.
+
+39
+00:01:30,520 --> 00:01:32,558
+Non hanno la giusta preparazione
+
+40
+00:01:32,583 --> 00:01:33,542
+o il giusto ambiente
+
+41
+00:01:33,567 --> 00:01:35,448
+che permetta loro di avere successo.
+
+42
+00:01:35,933 --> 00:01:38,440
+Altri sono lì, pronti a partecipare,
+
+43
+00:01:38,440 --> 00:01:39,760
+ma non comprendono appieno
+
+44
+00:01:39,760 --> 00:01:41,520
+ciò che ci si aspetta da loro
+
+45
+00:01:41,520 --> 00:01:43,251
+e si trovano quindi in difficoltà.
+
+46
+00:01:44,119 --> 00:01:45,915
+E poi ci sono quelli che,
+
+47
+00:01:45,940 --> 00:01:47,999
+fin dall'inizio, si arrendono rapidamente
+
+48
+00:01:48,024 --> 00:01:50,415
+o non sono davvero pronti a iniziare.
+
+49
+00:01:51,036 --> 00:01:53,232
+Naturalmente, ogni allievo costruisce
+
+50
+00:01:53,257 --> 00:01:54,960
+il proprio percorso di apprendimento
+
+51
+00:01:54,960 --> 00:01:56,400
+con l'aiuto degli insegnanti,
+
+52
+00:01:56,400 --> 00:01:58,440
+e tutti i percorsi sono validi.
+
+53
+00:01:58,440 --> 00:02:01,098
+Che si tratti di attraversare
+le dune di sabbia
+
+54
+00:02:01,123 --> 00:02:03,642
+o di rimanere nei corridoi ben segnalati,
+
+55
+00:02:03,721 --> 00:02:05,043
+di prendere altre strade
+
+56
+00:02:05,068 --> 00:02:06,651
+o di fare delle pause
+
+57
+00:02:06,676 --> 00:02:08,720
+per recuperare le forze e riprendersi.
+
+58
+00:02:09,310 --> 00:02:11,680
+A seconda delle preferenze individuali,
+
+59
+00:02:11,680 --> 00:02:14,368
+questi percorsi possono
+essere seguiti da soli
+
+60
+00:02:14,462 --> 00:02:16,202
+o supportati da altri alunni,
+
+61
+00:02:16,227 --> 00:02:18,177
+insegnanti o supervisori.
+
+62
+00:02:18,380 --> 00:02:19,911
+Quindi, dove e come
+
+63
+00:02:19,936 --> 00:02:22,005
+si può usare l'intelligenza artificiale
+
+64
+00:02:22,058 --> 00:02:23,661
+per garantire che ogni alunno
+
+65
+00:02:23,694 --> 00:02:25,154
+segua il percorso di apprendimento
+
+66
+00:02:25,179 --> 00:02:26,888
+più adatto alle sue esigenze
+
+67
+00:02:26,913 --> 00:02:29,911
+e che questo percorso
+gli permetta di avere successo?
+
+68
+00:02:30,221 --> 00:02:31,548
+Perché non possiamo fare
+
+69
+00:02:31,573 --> 00:02:33,962
+come le applicazioni di motion tracking?
+
+70
+00:02:33,987 --> 00:02:36,187
+Cioè, fornendo una migliore analisi,
+
+71
+00:02:36,212 --> 00:02:38,092
+attraverso l'intelligenza artificiale,
+
+72
+00:02:38,117 --> 00:02:40,530
+dei comportamenti di apprendimento digitale
+
+73
+00:02:41,040 --> 00:02:43,320
+e di conseguenza andando verso una maggiore
+
+74
+00:02:43,320 --> 00:02:46,240
+personalizzazione
+dei percorsi di apprendimento.
+

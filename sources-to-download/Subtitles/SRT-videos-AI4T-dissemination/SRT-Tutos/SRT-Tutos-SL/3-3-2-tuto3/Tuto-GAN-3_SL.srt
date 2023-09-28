@@ -1,0 +1,79 @@
+﻿1
+00:00:04,120 --> 00:00:06,160
+Generativne kontradiktorne mreže
+
+2
+00:00:06,160 --> 00:00:07,600
+sprožajo veliko vprašanj,
+
+3
+00:00:07,600 --> 00:00:09,840
+saj je ta nova vrsta nevronskih
+mrež uporabna za vse tipe medijev:
+
+4
+00:00:09,840 --> 00:00:13,480
+za besedilo, glasbo,
+animirane podobe ali video posnetke.
+
+5
+00:00:13,480 --> 00:00:16,080
+Ali je torej to,
+kar vidimo, resnično, ali lažno?
+
+6
+00:00:16,080 --> 00:00:17,920
+Veščina razločevanja med tem,
+
+7
+00:00:17,920 --> 00:00:19,960
+ali je določena podoba
+resnična ali strojno generirana,
+
+8
+00:00:19,960 --> 00:00:21,280
+postaja vse bolj pomembna.
+
+9
+00:00:21,280 --> 00:00:22,960
+Toda koliko časa nas še loči od trenutka,
+
+10
+00:00:22,960 --> 00:00:24,480
+ko drobnih razlik ne bo več mogoče razločiti?
+
+11
+00:00:24,480 --> 00:00:26,640
+Ali možnosti, ki jih prinaša generativna UI,
+
+12
+00:00:26,640 --> 00:00:28,600
+vplivajo na vse vrste vsebin?
+
+13
+00:00:28,600 --> 00:00:30,640
+Kako je z avtorstvom?
+
+14
+00:00:30,640 --> 00:00:32,760
+Je avtor podobe oseba,
+ki je izdelala računalniški program?
+
+15
+00:00:32,760 --> 00:00:34,440
+Ali pa je to program,
+ki je ustvaril podobe,
+
+16
+00:00:34,440 --> 00:00:35,680
+ki pred tem niso obstajale?
+
+17
+00:00:35,680 --> 00:00:37,560
+In – če nismo prepričani,
+ali je podoba resnična
+
+18
+00:00:37,560 --> 00:00:40,280
+– ali to pomeni,
+da fikcija ne obstaja več?

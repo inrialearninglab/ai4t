@@ -1,0 +1,614 @@
+WEBVTT
+
+00:00:10.206 --> 00:00:12.966
+Ali umetna inteligenca deluje v naš prid?
+
+00:00:14.366 --> 00:00:16.046
+UI je povsod okrog nas.
+
+00:00:16.326 --> 00:00:20.646
+Postavlja vprašanja, ki se navezujejo
+na družbo, demokracijo, etiko in politiko.
+
+00:00:21.406 --> 00:00:22.886
+Za kaj oz. za koga opravlja to delo?
+
+00:00:23.246 --> 00:00:24.046
+Kdo nadzira koga?
+
+00:00:24.326 --> 00:00:25.726
+Kakšno vlogo ji bomo določili?
+
+00:00:25.766 --> 00:00:27.846
+Na kratko: v kakšni družbi želimo živeti?
+
+00:00:28.486 --> 00:00:31.766
+Pri raziskovanju umetne inteligence
+je najzanimivejše to,
+
+00:00:31.806 --> 00:00:33.206
+da nam pomaga bolje razumeti,
+
+00:00:33.246 --> 00:00:34.926
+kako deluje človeška inteligenca.
+
+00:00:35.326 --> 00:00:38.326
+Raziskovanje tehnologij UI
+nas prav tako sili k razmisleku o tem,
+
+00:00:38.366 --> 00:00:40.526
+kaj pomeni biti človek,
+
+00:00:40.846 --> 00:00:43.326
+biti državljan, biti del družbe.
+
+00:00:44.086 --> 00:00:46.006
+To je pomembna tema,
+ki si zasluži vašo pozornost.
+
+00:00:47.326 --> 00:00:48.486
+Bomo o njej razmislili skupaj?
+
+00:00:49.286 --> 00:00:50.806
+Čustva in ustvarjalnost.
+
+00:00:52.326 --> 00:00:55.446
+Najprej se vprašajmo
+o odnosu med človekom in strojem.
+
+00:00:55.526 --> 00:00:57.006
+Pri simulaciji človeške inteligence
+
+00:00:57.246 --> 00:01:00.806
+skuša UI posnemati kognitivne funkcije ljudi.
+
+00:01:01.126 --> 00:01:04.126
+Mišljenje, motorika, jezik in vid,
+
+00:01:04.166 --> 00:01:05.006
+ampak to še ni vse.
+
+00:01:05.086 --> 00:01:08.606
+Med kognitivne funkcije
+sodi tudi ustvarjalnost.
+
+00:01:08.966 --> 00:01:10.846
+Medtem ko vam takole razlagam,
+
+00:01:11.286 --> 00:01:15.006
+UI ustvarja glasbo,
+knjige, filmske scenarije,
+
+00:01:15.406 --> 00:01:17.566
+slike...
+ - in celo pice.
+
+00:01:19.046 --> 00:01:20.846
+Rezultati so lahko izjemni.
+
+00:01:21.606 --> 00:01:23.566
+No, za pico tega še ne morem reči,
+
+00:01:23.606 --> 00:01:24.606
+ker je še nisem pokusil.
+
+00:01:24.886 --> 00:01:27.846
+Ali to pomeni, da je UI ustvarjalna?
+
+00:01:27.926 --> 00:01:30.766
+Reči moram,
+da smo še daleč od Hergéja ali Beatlov!
+
+00:01:31.446 --> 00:01:34.166
+Umetna inteligenca
+ki jo imamo trenutno, ne zna izumljati,
+
+00:01:34.566 --> 00:01:36.046
+zna pa posnemati.
+
+00:01:37.046 --> 00:01:38.126
+Kot pravi Albertine Meunier,
+
+00:01:38.486 --> 00:01:41.206
+digitalna umetnica,
+ki material črpa iz spleta:
+
+00:01:41.646 --> 00:01:43.006
+UI je samo orodje,
+
+00:01:43.246 --> 00:01:45.886
+ki pa ponuja neskončno število
+priložnosti, novih oblik
+
+00:01:46.086 --> 00:01:48.366
+in možnosti,
+na katere sami ne bi pomislili.
+
+00:01:49.326 --> 00:01:51.446
+Imajo stroji čustva?
+
+00:01:51.726 --> 00:01:54.366
+Stroji se lahko na videz obnašajo kot ljudje.
+
+00:01:54.726 --> 00:01:57.406
+Na področju zaznavanja človeških čustev
+in odzivanja v skladu z določenim čustvom
+
+00:01:57.726 --> 00:02:00.286
+je bil storjen velik napredek.
+
+00:02:00.646 --> 00:02:02.646
+Ampak kot pravi Laurence Devillers,
+
+00:02:02.726 --> 00:02:04.966
+vodja raziskav pri LIMSI/CNRS,
+
+00:02:05.326 --> 00:02:07.166
+stroji ničesar ne čutijo.
+Stroji simulirajo.
+
+00:02:07.806 --> 00:02:10.926
+Ljudi pa lahko prepričamo, da čutijo.
+
+00:02:11.206 --> 00:02:12.846
+Recimo z uporabo senzorjev.
+
+00:02:13.286 --> 00:02:15.646
+Če se dotaknete senzorja,
+je zaznan signal
+
+00:02:15.966 --> 00:02:17.046
+in stroj se odzove.
+
+00:02:17.846 --> 00:02:19.846
+V resnici sploh ni treba,
+
+00:02:19.886 --> 00:02:21.446
+da se program nahaja v robotu.
+
+00:02:21.526 --> 00:02:23.166
+Prevzame nas lahko že samo glas.
+
+00:02:23.406 --> 00:02:25.206
+Samo poglejte,
+kako na nas vplivajo glasovni ukazi npr. navigacije.
+
+00:02:25.606 --> 00:02:27.966
+Po 300 m zavijte desno.
+
+00:02:28.766 --> 00:02:31.406
+Pri tem ne smemo zanemariti
+človeške nagnjenosti k antropomorfizmu,
+
+00:02:31.446 --> 00:02:32.726
+ki ima pomemben vlliv na nas.
+
+00:02:33.166 --> 00:02:34.446
+Če si že postavljam vsa ta vprašanja,
+
+00:02:34.886 --> 00:02:36.766
+se moram spraševati tudi o odnosu,
+
+00:02:36.806 --> 00:02:38.566
+ki ga bomo imeli s temi stroji,
+
+00:02:38.806 --> 00:02:40.646
+in seveda o tem, kje bo njihovo mesto.
+
+00:02:41.286 --> 00:02:42.646
+Pripomočki za sprejemanje odločitev?
+
+00:02:44.366 --> 00:02:46.406
+Algoritmi umetne inteligence
+
+00:02:46.806 --> 00:02:50.286
+namesto nas
+ne opravljajo le mehanskih opravil.
+
+00:02:50.646 --> 00:02:53.486
+Na več področjih se uporabljajo
+kot orodja za podporo pri sprejemanju odločitev,
+
+00:02:53.726 --> 00:02:57.326
+na primer na področju transporta,
+bančništva, zavarovalništva
+
+00:02:57.526 --> 00:02:58.366
+in varnosti.
+
+00:02:58.726 --> 00:03:01.406
+Eno zanimivejših področij je medicina.
+
+00:03:02.086 --> 00:03:03.006
+Na primer,
+
+00:03:03.086 --> 00:03:08.206
+algoritmi lahko z analizo rentgenske slike
+pomagajo diagnosticirati tumorje.
+
+00:03:08.566 --> 00:03:11.926
+V prihodnosti bi algoritmi
+lahko diagnosticirali vnetje slepiča
+
+00:03:12.166 --> 00:03:13.646
+ali predvideli lokacijo tumorja,
+
+00:03:13.966 --> 00:03:15.766
+še preden bi bil viden na sliki.
+
+00:03:16.406 --> 00:03:17.566
+To je res neverjetno!
+
+00:03:17.886 --> 00:03:18.686
+Genialno!
+
+00:03:19.406 --> 00:03:20.846
+Ja, ampak le če bodo šle stvari po načrtu.
+
+00:03:21.326 --> 00:03:23.486
+Algoritmi so lahko pomanjkljivi.
+
+00:03:23.846 --> 00:03:27.966
+Če priporočajo samo, katero zobno ščetko
+naj kupimo, posledice ne bodo usodne.
+
+00:03:28.366 --> 00:03:32.046
+Kaj pa, ko gre za odločitve,
+povezane z osebnim življenjem,
+
+00:03:32.286 --> 00:03:34.686
+npr. zdravstvene ali pravne odločitve?
+
+00:03:35.406 --> 00:03:37.566
+Saj vendar ne bomo rekli: 
+
+00:03:37.886 --> 00:03:40.326
+"Gospod sodnik, nič nisem imel pri tem.
+Stroj se je odločil."
+
+00:03:40.686 --> 00:03:41.526
+Ne!
+
+00:03:41.606 --> 00:03:43.886
+Ključnega pomena je, da imamo pojasnilo
+
+00:03:44.126 --> 00:03:46.886
+oz. utemeljitev za izbrana priporočila
+
+00:03:47.206 --> 00:03:48.406
+oz. odločitve, ki smo jih sprejeli.
+
+00:03:48.886 --> 00:03:51.366
+Saj to je bistvo "pojasnljivosti".
+
+00:03:51.646 --> 00:03:53.846
+Metoda, ki je danes vse bolj priljubljena,
+
+00:03:54.126 --> 00:03:55.766
+učenje globokih nevronskih mrež
+
+00:03:56.046 --> 00:03:57.006
+oziroma globoko učenje,
+
+00:03:57.326 --> 00:03:58.966
+deluje podobno kot črna škatla.
+
+00:03:59.606 --> 00:04:00.806
+Ne moremo zares pojasniti,
+
+00:04:00.846 --> 00:04:02.686
+kako se nevronska mreža dokoplje
+do rezultata,
+
+00:04:02.926 --> 00:04:05.126
+vsaj ne tako,
+da bi bilo razumljivo človeškim bitjem.
+
+00:04:05.406 --> 00:04:08.366
+Da bi lahko te sisteme bolje razumeli,
+raziskovalci opravljajo raziskave.
+
+00:04:08.606 --> 00:04:10.686
+Na tem področju
+je prišlo do velikega napredka.
+
+00:04:11.286 --> 00:04:14.006
+Alexei Grinbaum,
+filozof znanosti pri CERNA
+
+00:04:14.046 --> 00:04:14.846
+in fizik pri CEA,
+
+00:04:15.366 --> 00:04:18.006
+pojasnjuje,
+da je sistem treba zasnovati tako,
+
+00:04:18.206 --> 00:04:19.926
+da bo vedno obstajala možnost,
+
+00:04:19.966 --> 00:04:21.246
+da se dokopljemo do vzročne verige,
+
+00:04:21.526 --> 00:04:24.166
+ki je stroj spodbudila
+h kateremukoli dejanju ali odločitvi.
+
+00:04:24.606 --> 00:04:27.246
+Če recimo vzpostavimo 
+nov (drugi) sistem za učenje,
+
+00:04:27.446 --> 00:04:29.286
+ki pojasni, kaj počne prvi sistem,
+
+00:04:29.646 --> 00:04:31.766
+dobimo prvi vpogled v dogajanje v tem sistemu.
+
+00:04:32.406 --> 00:04:35.766
+Učinek črne škatle zakriva
+izvor predsodkov.
+
+00:04:35.846 --> 00:04:38.526
+Predsodki izvirajo iz podatkov,
+uporabljenih za učenje programa,
+
+00:04:38.846 --> 00:04:40.846
+vendar jih je težko analizirati naknadno.
+
+00:04:41.366 --> 00:04:44.566
+Program za učenje potrebuje
+ogromne količine podatkov.
+
+00:04:44.646 --> 00:04:45.526
+Pravijo, da
+
+00:04:45.566 --> 00:04:47.646
+stroj hitro razume,
+vendar za to potrebuje ogromno pojasnil.
+
+00:04:48.246 --> 00:04:49.446
+Če nimamo dovolj podatkov,
+
+00:04:50.046 --> 00:04:50.846
+če niso dovolj raznoliki
+
+00:04:51.406 --> 00:04:53.446
+ali niso ustrezno opisani,
+lahko dobimo slabe rezultate.
+
+00:04:53.726 --> 00:04:56.846
+Če algoritem naučimo,
+kako na fotografiji prepoznati ovco...
+
+00:04:56.926 --> 00:04:58.046
+Beeeee!
+
+00:04:58.086 --> 00:04:59.646
+in mu pokažemo samo slike črnih ovc,
+
+00:04:59.686 --> 00:05:01.246
+ne bo znal prepoznati belih ovc.
+
+00:05:01.646 --> 00:05:03.326
+Potem pa pravijo, da je UI rasistična!
+
+00:05:03.846 --> 00:05:06.366
+Podatki so v resnici pristranski
+zaradi naših stereotipov.
+
+00:05:06.686 --> 00:05:08.766
+Stroj,
+ki ga učimo s pristranskimi podatki,
+
+00:05:09.166 --> 00:05:11.366
+ponavlja iste predsodke,
+ne da bi jih sploh razumel.
+
+00:05:11.606 --> 00:05:12.406
+Beeeee!
+
+00:05:12.886 --> 00:05:15.606
+Raziskava,
+objavljena leta 2017 v reviji Science,
+
+00:05:15.966 --> 00:05:18.726
+je pokazala,
+da je jezik poln predsodkov.
+
+00:05:19.246 --> 00:05:23.526
+Moške slovnične oblike so veliko pogosteje povezane
+z izrazi za vodilne položaje,
+
+00:05:23.726 --> 00:05:25.806
+zlasti na področjih znanosti
+in inženirstva.
+
+00:05:26.126 --> 00:05:27.406
+Ženske slovnične oblike
+
+00:05:27.646 --> 00:05:31.366
+pa so pogosteje povezane z asistentskimi položaji
+na področjih umetnosti in humanistike.
+
+00:05:31.686 --> 00:05:35.326
+Podobno, afroameriška imena
+vodijo do neustreznih zaključkov.
+
+00:05:35.846 --> 00:05:37.566
+Torej, če ne boste pozorni,
+
+00:05:37.646 --> 00:05:42.246
+bo UI v postopku izbire
+kandidata za delovno mesta inženirja,
+
+00:05:42.486 --> 00:05:44.406
+življenjepis temnopolte osebe ženskega spola
+uvrstila na dno seznama.
+
+00:05:45.566 --> 00:05:48.446
+Serge Abiteboul, raziskovalec
+na oddelku za računalništvo
+
+00:05:48.486 --> 00:05:50.046
+na École Normale Supérieure,
+
+00:05:50.246 --> 00:05:53.326
+nam je opisal nenavaden eksperiment,
+ki so ga izvedli v Izraelu.
+
+00:05:53.846 --> 00:05:57.846
+Ugotovili so, da je verjetnost,
+oprostitve na sodišču
+
+00:05:58.046 --> 00:06:00.966
+večja v času po kosilu kot pa pred njim.
+
+00:06:01.886 --> 00:06:04.646
+To me je spodbudilo k razmisleku o tem,
+kakšna so moja lastna merila odločanja.
+
+00:06:04.966 --> 00:06:07.886
+Na srečo so pri tem pomembni
+tudi drugi dejavniki,
+
+00:06:07.926 --> 00:06:09.126
+ne pa zgolj to, kako siti ali lačni so sodniki.
+
+00:06:09.406 --> 00:06:13.566
+V vsakem primeru lahko rečemo,
+da UI vedno posnema isto vedenje,
+
+00:06:13.886 --> 00:06:15.726
+pri čemer izhaja iz podatkov, ki jih dobi.
+
+00:06:16.246 --> 00:06:18.166
+Prav iz tega izhajata pomembnost podatkov
+
+00:06:18.366 --> 00:06:20.446
+in motiviranost tistih,
+ki razvijajo takšne stroje.
+
+00:06:21.366 --> 00:06:23.046
+Vprašanje demokratičnosti.
+
+00:06:24.566 --> 00:06:27.806
+To je večno vprašanje, kako ravnati z določenim orodjem.
+
+00:06:28.326 --> 00:06:31.726
+Seveda so ljudje tisti,
+ki določajo namen programske opreme.
+
+00:06:32.246 --> 00:06:33.446
+Z ljudmi lahko o tem razpravljamo,
+
+00:06:33.686 --> 00:06:35.326
+no, v bistvu moramo razpravljati.
+
+00:06:35.726 --> 00:06:36.726
+In - niso vsi človekoljubi!
+
+00:06:37.206 --> 00:06:40.126
+Tudi če imaš najboljše namene na svetu,
+
+00:06:40.166 --> 00:06:41.286
+se postavlja vprašanje,
+
+00:06:41.686 --> 00:06:42.486
+kdo bi moral odločati.
+
+00:06:43.046 --> 00:06:46.246
+Serge Abiteboul svari,
+da ne smejo biti informatiki tisti,
+
+00:06:46.606 --> 00:06:50.126
+ki odločajo o tem, kako razviti algoritem,
+ki nato odloča o usodi študentov,
+
+00:06:50.406 --> 00:06:52.086
+podobno kot Google ne bi smel odločati
+
+00:06:52.126 --> 00:06:54.686
+o odstranitvi spletnih strani s skrajnimi vsebinami
+ali dezinformacijami, lažnimi novicami.
+
+00:06:55.246 --> 00:06:56.806
+Digitalni svet se razvija neznansko hitro.
+
+00:06:57.166 --> 00:06:59.526
+Še vedno je v fazi divjega zahoda:
+
+00:06:59.766 --> 00:07:01.086
+povsod se dogajajo krivice,
+
+00:07:01.126 --> 00:07:03.966
+država pa dogajanja ne razume dovolj dobro,
+da bi lahko sprejemala potrebne zakone,
+
+00:07:04.206 --> 00:07:05.366
+in državljani so izgubljeni.
+
+00:07:06.406 --> 00:07:08.286
+Veliko raziskovalcev si je enotnih,
+
+00:07:08.526 --> 00:07:11.166
+da nam lahko stroji pomagajo
+pri sprejemanju odločitev,
+
+00:07:11.206 --> 00:07:12.926
+tako da nam ponudijo ideje in rešitve.
+
+00:07:13.206 --> 00:07:14.366
+Vseeno pa smo ljudje tisti, ki moramo odločiti,
+
+00:07:14.686 --> 00:07:16.806
+katera pravila naj upošteva stroj,
+
+00:07:17.046 --> 00:07:20.046
+in če se pojavi dvom,
+moramo ljudje sprejeti končno odločitev.
+
+00:07:20.566 --> 00:07:22.206
+Kaj naj torej počnemo,
+medtem ko čakamo na šerifa?
+
+00:07:22.486 --> 00:07:24.606
+Trkamo na vest ustvarjalcev algoritmov.
+
+00:07:25.046 --> 00:07:26.726
+Oblikujemo etična pravila.
+
+00:07:26.766 --> 00:07:30.166
+Državljanom dajemo možnost,
+da se odzovejo, če je to potrebno.
+
+00:07:30.246 --> 00:07:31.606
+Prav to počnemo!
+
+00:07:31.806 --> 00:07:33.046
+Ja, Theo, res je,
+
+00:07:33.246 --> 00:07:34.606
+korak za korakom.
+
+00:07:34.686 --> 00:07:37.606
+Kakorkoli že, upam,
+da ti to skromno delo,
+
+00:07:37.646 --> 00:07:39.046
+ki so ga v celoti opravili ljudje,
+
+00:07:39.246 --> 00:07:40.646
+pomaga razjasniti pogled na celotno zadevo.
+
+00:07:40.966 --> 00:07:43.486
+Na vseh nas je,
+da sprejmemo umetno inteligenco
+
+00:07:43.766 --> 00:07:46.966
+in se domislimo novih načinov njene uporabe
+ter si tako olajšamo življenje,
+
+00:07:47.006 --> 00:07:48.046
+ga popestrimo,
+
+00:07:48.366 --> 00:07:49.606
+ali preprosto - polepšamo.

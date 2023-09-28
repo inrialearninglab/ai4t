@@ -1,0 +1,72 @@
+1
+00:00:04,159 --> 00:00:06,160
+This type of new neural network
+
+2
+00:00:06,160 --> 00:00:07,603
+raises many questions
+
+3
+00:00:07,603 --> 00:00:09,850
+as these GANs exist for all media:
+
+4
+00:00:09,850 --> 00:00:13,509
+text, music, animated images or videos.
+
+5
+00:00:13,509 --> 00:00:16,084
+So, real or fake?
+
+6
+00:00:16,084 --> 00:00:17,930
+It is becoming essential to learn
+
+7
+00:00:17,930 --> 00:00:19,990
+to recognize whether an image is real
+
+8
+00:00:19,990 --> 00:00:21,281
+or machine generated.
+
+9
+00:00:21,281 --> 00:00:22,969
+But how long before the details
+
+10
+00:00:22,969 --> 00:00:24,460
+are no longer visible?
+
+11
+00:00:24,710 --> 00:00:26,670
+Are all types of content affected
+
+12
+00:00:26,670 --> 00:00:28,629
+by these generative possibilities?
+
+13
+00:00:28,629 --> 00:00:30,648
+Who is the author of these images?
+
+14
+00:00:30,648 --> 00:00:32,770
+The person who created the programme?
+
+15
+00:00:32,770 --> 00:00:34,460
+The programme that created images
+
+16
+00:00:34,460 --> 00:00:35,703
+that did not exist?
+
+17
+00:00:35,703 --> 00:00:37,582
+And if we don't know if it's real,
+
+18
+00:00:37,582 --> 00:00:40,309
+is there an annihilation of fiction?
+

@@ -1,0 +1,264 @@
+﻿1
+00:00:04,200 --> 00:00:06,800
+Učna analitika
+
+2
+00:00:06,800 --> 00:00:08,800
+Okoli uporabnikov spleta 
+– učiteljev, učencev,
+
+3
+00:00:08,800 --> 00:00:12,280
+se postopoma razvija digitalni ekosistem.
+
+4
+00:00:12,280 --> 00:00:15,160
+Uporaba digitalne tehnologije
+
+5
+00:00:15,160 --> 00:00:17,520
+je danes zelo razširjena
+
+6
+00:00:17,520 --> 00:00:18,880
+prek najrazličnejših naprav
+(tablice, računalniki),
+
+7
+00:00:18,880 --> 00:00:21,120
+kar omogočajo
+brezžične povezave (WI-FI).
+
+8
+00:00:21,120 --> 00:00:26,200
+Digitalna okolja
+nam omogočajo dostop do informacij,
+
+9
+00:00:26,200 --> 00:00:28,120
+učnih okolij,
+delovnih prostorov, učbenikov,
+
+10
+00:00:28,120 --> 00:00:32,480
+skript, šolskih poročil
+in številnih drugih informacij in orodij.
+
+11
+00:00:32,480 --> 00:00:34,320
+Med našteto spadajo tudi
+
+12
+00:00:34,320 --> 00:00:37,720
+spletne izobraževalne vsebine:
+
+13
+00:00:37,720 --> 00:00:40,440
+učbeniki ali razne brezplačne vsebine
+
+14
+00:00:40,440 --> 00:00:43,080
+(odprti izobraževalni viri, OER).
+
+15
+00:00:43,080 --> 00:00:45,720
+Takšna gradiva in viri seveda ne morejo
+
+16
+00:00:45,720 --> 00:00:47,640
+nadomestiti bogastva interakcij,
+
+17
+00:00:47,640 --> 00:00:49,600
+ki potekajo v živo med učitelji in učenci
+
+18
+00:00:49,600 --> 00:00:52,200
+ali med učenci samimi.
+
+19
+00:00:52,200 --> 00:00:53,440
+Za zasloni naših računalnikov
+v ozadju raznih spletnih platform
+
+20
+00:00:53,440 --> 00:00:54,880
+poteka veliko število procesov,
+vendar kot uporabniki največkrat vidimo
+
+21
+00:00:54,880 --> 00:00:57,720
+le njihove končne izdelke,
+podatke, rezultate.
+
+22
+00:00:57,720 --> 00:00:59,720
+V fizičnem prostoru so učivitelji navajeni
+
+23
+00:00:59,720 --> 00:01:02,680
+prepoznavati določena sporočila
+– namige, ki pa v primeru digitalnih orodij
+
+24
+00:01:02,680 --> 00:01:07,920
+niso na voljo v isti obliki.
+
+25
+00:01:07,920 --> 00:01:10,720
+V resničnih situacijah v razredu
+
+26
+00:01:10,720 --> 00:01:13,000
+učitelji zlahka zaznavajo predvsem
+
+27
+00:01:13,000 --> 00:01:16,960
+stopnjo zavzetosti
+oz. motivacije učencev za delo.
+
+28
+00:01:16,960 --> 00:01:18,160
+Učitelj bo npr. zagotovo opazil,
+
+29
+00:01:18,160 --> 00:01:20,040
+če med učno uro nekdo spi.
+
+30
+00:01:20,040 --> 00:01:21,840
+Če se poveča hrupnost, je to znak,
+
+31
+00:01:21,840 --> 00:01:23,920
+da se v razredu nekaj dogaja.
+
+32
+00:01:23,920 --> 00:01:26,760
+In če med učiteljevo razlago 
+nekega pojma pred tablo
+
+33
+00:01:26,760 --> 00:01:29,560
+vsi učenci sedijo s sklonjenimi glavami,
+
+34
+00:01:29,560 --> 00:01:31,600
+se gotovo dogaja nekaj nenavadnega.
+
+35
+00:01:31,600 --> 00:01:33,480
+Za vsako vedenje sicer
+obstaja veliko možnih razlag,
+
+36
+00:01:33,480 --> 00:01:35,720
+vendar je v splošnem sposobnost učitelja,
+
+37
+00:01:35,720 --> 00:01:37,920
+da prepozna takšne namige
+ali njihovo odsotnost,
+
+38
+00:01:37,920 --> 00:01:40,560
+izrednega pomena.
+
+39
+00:01:40,560 --> 00:01:43,920
+Kadar pa učenci niso
+neposredno pred učiteljem,
+
+40
+00:01:43,920 --> 00:01:46,040
+je seveda težko ugotoviti,
+
+41
+00:01:46,040 --> 00:01:48,760
+da jih snov več ne zanima,
+ali da ne sledijo več,
+
+42
+00:01:48,760 --> 00:01:51,200
+bodisi zaradi zapletenosti snovi, ali zato,
+
+43
+00:01:51,200 --> 00:01:54,200
+ker format učenja ni ustrezno prilagojen,
+
+44
+00:01:54,200 --> 00:01:57,000
+ali preprosto zato, ker ne razumejo,
+
+45
+00:01:57,000 --> 00:01:59,160
+zakaj morajo sploh biti
+prisotni pri učni uri.
+
+46
+00:01:59,160 --> 00:02:01,840
+Zlasti v tem smislu
+
+47
+00:02:01,840 --> 00:02:04,000
+prepoznavanja stopnje zavzetosti
+oz. motivacije učencev
+
+48
+00:02:04,000 --> 00:02:06,560
+lahko digitalne sledi
+ob uporabi tehnologij UI
+
+49
+00:02:06,560 --> 00:02:09,240
+bistveno pomagajo tako učiteljem,
+
+50
+00:02:09,240 --> 00:02:10,960
+kakor tudi učencem.
+
+51
+00:02:10,960 --> 00:02:12,440
+V skladu z Gartnerjevim modelom
+
+52
+00:02:12,440 --> 00:02:15,560
+lahko tehnologije UI,
+
+53
+00:02:15,560 --> 00:02:18,240
+od najbolj osnovnih
+do tistih najnaprednejših,
+
+54
+00:02:18,240 --> 00:02:20,160
+pomagajo učiteljem pri opisovanju
+
+55
+00:02:20,160 --> 00:02:21,080
+(kaj se je zgodilo?),
+
+56
+00:02:21,080 --> 00:02:23,600
+diagnosticiranju (zakaj se je zgodilo?),
+
+57
+00:02:23,600 --> 00:02:26,240
+predvidevanju (kaj se bo zgodilo?)
+
+58
+00:02:26,240 --> 00:02:27,720
+in predpisovanju
+
+59
+00:02:27,720 --> 00:02:30,640
+(kako ravnati glede na razvoj?)
+
+60
+00:02:30,640 --> 00:02:33,560
+vsake učne situacije,
+z namenom, da le-to bolje prilagodijo
+
+61
+00:02:33,560 --> 00:02:36,640
+učencu ali skupini učencev.

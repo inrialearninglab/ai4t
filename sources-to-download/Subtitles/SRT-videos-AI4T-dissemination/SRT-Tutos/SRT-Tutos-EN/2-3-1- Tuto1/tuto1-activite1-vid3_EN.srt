@@ -1,0 +1,70 @@
+1
+00:00:00,048 --> 00:00:02,506
+We have just trained our first programme.
+
+2
+00:00:02,548 --> 00:00:03,548
+Well done.
+
+3
+00:00:03,708 --> 00:00:06,511
+As we saw,
+there's actually nothing magical about it.
+
+4
+00:00:06,536 --> 00:00:08,389
+First, we told it what we would show it,
+
+5
+00:00:08,414 --> 00:00:10,586
+and then we showed it some example images.
+
+6
+00:00:10,633 --> 00:00:11,998
+This is the learning phase.
+
+7
+00:00:12,023 --> 00:00:14,497
+The programme being trained
+is called a 'model'.
+
+8
+00:00:14,857 --> 00:00:18,065
+It can now predict
+which category an image belongs to.
+
+9
+00:00:18,090 --> 00:00:20,798
+Its prediction
+is still a statistical approximation,
+
+10
+00:00:20,840 --> 00:00:22,131
+hence the percentage.
+
+11
+00:00:22,340 --> 00:00:24,915
+According to its calculation,
+there is a greater chance
+
+12
+00:00:24,940 --> 00:00:27,690
+that this image belongs
+to this category than another.
+
+13
+00:00:27,966 --> 00:00:29,590
+But can it detect everything?
+
+14
+00:00:29,631 --> 00:00:32,173
+If we teach it to recognise cats,
+
+15
+00:00:32,215 --> 00:00:34,423
+could it identify lions or tigers?
+
+16
+00:00:34,465 --> 00:00:36,090
+Can our programme be wrong?
+

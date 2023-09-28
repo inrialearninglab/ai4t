@@ -1,0 +1,626 @@
+WEBVTT
+
+00:00:10.206 --> 00:00:12.966 
+Is Artificial intelligence working for us?
+
+00:00:14.366 --> 00:00:16.046 
+AI is all around us,
+
+00:00:16.326 --> 00:00:20.646 
+and asks societal, democratic, ethical
+and political questions.
+
+00:00:21.406 --> 00:00:22.886 
+Who and what does it work for?
+
+00:00:23.246 --> 00:00:24.046 
+Who controls whom?
+
+00:00:24.326 --> 00:00:25.726 
+What role will we let it play?
+
+00:00:25.766 --> 00:00:27.846 
+In short, what kind of society
+do we want to live in?
+
+00:00:28.486 --> 00:00:31.766 
+The exciting part
+of research on artificial intelligence
+
+00:00:31.806 --> 00:00:33.206 
+is that it allows us to make advances
+
+00:00:33.246 --> 00:00:34.926 
+on our understanding
+of human intelligence.
+
+00:00:35.326 --> 00:00:38.326 
+At the same time,
+the debates about this technology
+
+00:00:38.366 --> 00:00:40.526 
+push us to reflect on what makes us human,
+
+00:00:40.846 --> 00:00:43.326 
+our place as citizens and our societies.
+
+00:00:44.086 --> 00:00:46.006 
+It's a huge topic
+that merits your attention.
+
+00:00:47.326 --> 00:00:48.486 
+Shall we think about it together?
+
+00:00:49.286 --> 00:00:50.806 
+Emotions and creativity.
+
+00:00:52.326 --> 00:00:55.446 
+Firstly, I would like to question
+the human-machine relationship.
+
+00:00:55.526 --> 00:00:57.006 
+To simulate human intelligence,
+
+00:00:57.246 --> 00:01:00.806 
+AI attempts to replicate
+human cognitive functions.
+
+00:01:01.126 --> 00:01:04.126 
+Reasoning, motor skills,
+language and vision,
+
+00:01:04.166 --> 00:01:05.006 
+but that's not all.
+
+00:01:05.086 --> 00:01:08.606 
+Being creative is also part
+of these cognitive functions.
+
+00:01:08.966 --> 00:01:10.846 
+As I'm speaking,
+
+00:01:11.286 --> 00:01:15.006 
+AIs are creating music,
+books, film scripts,
+
+00:01:15.406 --> 00:01:17.566 
+-paintings...
+-and even pizza.
+
+00:01:19.046 --> 00:01:20.846 
+The results can be amazing.
+
+00:01:21.606 --> 00:01:23.566 
+Well, I can't say just yet
+in the case of pizza,
+
+00:01:23.606 --> 00:01:24.606 
+as I haven't tasted it.
+
+00:01:24.886 --> 00:01:27.846 
+Does this mean that AI is creative?
+
+00:01:27.926 --> 00:01:30.766 
+I have to say that we are still far
+from Hergé or the Beatles!
+
+00:01:31.446 --> 00:01:34.166 
+Current AIs that we design
+are not capable of inventing.
+
+00:01:34.566 --> 00:01:36.046 
+On the other hand, they can imitate.
+
+00:01:37.046 --> 00:01:38.126 
+According to Albertine Meunier,
+
+00:01:38.486 --> 00:01:41.206 
+a digital artist
+who uses the web as material,
+
+00:01:41.646 --> 00:01:43.006 
+AI is only a tool,
+
+00:01:43.246 --> 00:01:45.886 
+but it offers an infinite number
+of possibilities, new shapes
+
+00:01:46.086 --> 00:01:48.366 
+and options we wouldn't have thought of.
+
+00:01:49.326 --> 00:01:51.446 
+And can machines have emotions?
+
+00:01:51.726 --> 00:01:54.366 
+Machines can behave like us in appearance.
+
+00:01:54.726 --> 00:01:57.406 
+Significant progress has been made
+to detect human emotion
+
+00:01:57.726 --> 00:02:00.286 
+and react accordingly
+with the appropriate emotion.
+
+00:02:00.646 --> 00:02:02.646 
+But, as Laurence Devillers said,
+
+00:02:02.726 --> 00:02:04.966 
+research director at LIMSI/CNRS,
+
+00:02:05.326 --> 00:02:07.166 
+Machines don't feel anything.
+They simulate.
+
+00:02:07.806 --> 00:02:10.926 
+But you can make people believe
+that they feel something
+
+00:02:11.206 --> 00:02:12.846 
+using sensors, for example.
+
+00:02:13.286 --> 00:02:15.646 
+If you touch the sensor,
+a signal is detected,
+
+00:02:15.966 --> 00:02:17.046 
+and the machine reacts
+
+00:02:17.846 --> 00:02:19.846 
+But in fact, we don't even really need
+
+00:02:19.886 --> 00:02:21.446 
+to have a robot around the program.
+
+00:02:21.526 --> 00:02:23.166 
+Voice alone is enough to captivate us.
+
+00:02:23.406 --> 00:02:25.206 
+Just look at the effect
+of the voice speakers.
+
+00:02:25.606 --> 00:02:27.966 
+In 300 metres, turn right.
+
+00:02:28.766 --> 00:02:31.406 
+We must not neglect our inclination
+towards anthropomorphism,
+
+00:02:31.446 --> 00:02:32.726 
+which is very powerful.
+
+00:02:33.166 --> 00:02:34.446 
+If I ask myself all these questions,
+
+00:02:34.886 --> 00:02:36.766 
+it seems necessary to me to question
+
+00:02:36.806 --> 00:02:38.566 
+the relationship
+we're going to have with these machines,
+
+00:02:38.806 --> 00:02:40.646 
+and above all, where they will fit in.
+
+00:02:41.286 --> 00:02:42.646 
+Decision-making aids?
+
+00:02:44.366 --> 00:02:46.406 
+Artificial intelligence algorithms
+
+00:02:46.806 --> 00:02:50.286 
+don't just reproduce
+mechanical tasks for us.
+
+00:02:50.646 --> 00:02:53.486 
+They can be great decision-support tools
+
+00:02:53.726 --> 00:02:57.326 
+in a lot of sectors
+like transport, banking, insurance
+
+00:02:57.526 --> 00:02:58.366 
+and protection.
+
+00:02:58.726 --> 00:03:01.406 
+One of the most interesting areas
+is medicine.
+
+00:03:02.086 --> 00:03:03.006 
+For example,
+
+00:03:03.086 --> 00:03:08.206 
+algorithms can help diagnose tumours
+by analysing X-rays.
+
+00:03:08.566 --> 00:03:11.926 
+In the future,
+algorithms could diagnose appendicitis
+
+00:03:12.166 --> 00:03:13.646 
+or predict the appearance of a tumour
+
+00:03:13.966 --> 00:03:15.766 
+before it is visible on the image.
+
+00:03:16.406 --> 00:03:17.566 
+This is incredible!
+
+00:03:17.886 --> 00:03:18.686 
+It's great.
+
+00:03:19.406 --> 00:03:20.846 
+Of course,
+as long as everything goes to plan.
+
+00:03:21.326 --> 00:03:23.486 
+Algorithms can be flawed.
+
+00:03:23.846 --> 00:03:27.966 
+It's nothing serious when deciding
+on toothbrush recommendations,
+
+00:03:28.366 --> 00:03:32.046 
+but what if these decisions
+have an impact on my personal life,
+
+00:03:32.286 --> 00:03:34.686 
+in the medical or judicial field?
+
+00:03:35.406 --> 00:03:37.566 
+You can't just respond,
+
+00:03:37.886 --> 00:03:40.326 
+"I had nothing to do with it, officer.
+It was the machine's decision".
+
+00:03:40.686 --> 00:03:41.526 
+No!
+
+00:03:41.606 --> 00:03:43.886 
+It's essential to provide explanations
+
+00:03:44.126 --> 00:03:46.886 
+and justifications for the recommendations
+that have been made,
+
+00:03:47.206 --> 00:03:48.406 
+or the decisions taken, right?
+
+00:03:48.886 --> 00:03:51.366 
+That's the whole point
+of what we call "explainability".
+
+00:03:51.646 --> 00:03:53.846 
+The technique that is trending today,
+
+00:03:54.126 --> 00:03:55.766 
+deep neural network learning,
+
+00:03:56.046 --> 00:03:57.006 
+or deep learning,
+
+00:03:57.326 --> 00:03:58.966 
+works a bit like a black box.
+
+00:03:59.606 --> 00:04:00.806 
+We can't really explain
+
+00:04:00.846 --> 00:04:02.686 
+how the neural network gets its results,
+
+00:04:02.926 --> 00:04:05.126 
+at least in a way
+that is intelligible to a human being.
+
+00:04:05.406 --> 00:04:08.366 
+So there is research
+to make these systems more transparent,
+
+00:04:08.606 --> 00:04:10.686 
+and in addition,
+we are making huge progress in this area.
+
+00:04:11.286 --> 00:04:14.006 
+Alexei Grinbaum,
+a philosopher of science CERNA
+
+00:04:14.046 --> 00:04:14.846 
+and CEA physicist,
+
+00:04:15.366 --> 00:04:18.006 
+explains that we need to design a system
+
+00:04:18.206 --> 00:04:19.926 
+in such a way
+that it will always be possible
+
+00:04:19.966 --> 00:04:21.246 
+to trace the causal chains
+
+00:04:21.526 --> 00:04:24.166 
+that led to any action
+or decision made by the machine.
+
+00:04:24.606 --> 00:04:27.246 
+For example,
+putting another learning system
+
+00:04:27.446 --> 00:04:29.286 
+to explain what the first system does,
+
+00:04:29.646 --> 00:04:31.766 
+provides the first look
+at what is going on inside.
+
+00:04:32.406 --> 00:04:35.766 
+The black box effect
+masks the origin of bias.
+
+00:04:35.846 --> 00:04:38.526 
+These biases come
+from the data used to train the program,
+
+00:04:38.846 --> 00:04:40.846 
+but it isn't easy
+to analyse it afterwards.
+
+00:04:41.366 --> 00:04:44.566 
+The programme needs vast amounts
+of data to learn.
+
+00:04:44.646 --> 00:04:45.526 
+As they say,
+
+00:04:45.566 --> 00:04:47.646 
+it understands quickly,
+but it needs a long explanation.
+
+00:04:48.246 --> 00:04:49.446 
+Not enough data,
+
+00:04:50.046 --> 00:04:50.846 
+or not varied enough,
+
+00:04:51.406 --> 00:04:53.446 
+or badly annotated
+can lead to poor results.
+
+00:04:53.726 --> 00:04:56.846 
+For example, if we train an algorithm
+to recognise a sheep in a picture...
+
+00:04:56.926 --> 00:04:58.046 
+Baaah!
+
+00:04:58.086 --> 00:04:59.646 
+...and it is only shown black sheep,
+
+00:04:59.686 --> 00:05:01.246 
+it will not be able
+to recognise any white sheep.
+
+00:05:01.646 --> 00:05:03.326 
+And then they call the AI racist!
+
+00:05:03.846 --> 00:05:06.366 
+In fact, the data is biased
+by our own stereotypes.
+
+00:05:06.686 --> 00:05:08.766 
+A machine trained with biased data
+
+00:05:09.166 --> 00:05:11.366 
+reproduces these biases
+without even understanding them.
+
+00:05:11.606 --> 00:05:12.406 
+Baaah!
+
+00:05:12.886 --> 00:05:15.606 
+A study published
+in the journal Science in 2017
+
+00:05:15.966 --> 00:05:18.726 
+has shown that many biases exist
+in human language.
+
+00:05:19.246 --> 00:05:23.526 
+The word man is more often associated
+with terms for leadership positions
+
+00:05:23.726 --> 00:05:25.806 
+in the science or engineering sectors.
+
+00:05:26.126 --> 00:05:27.406 
+In contrast, the word woman
+
+00:05:27.646 --> 00:05:31.366 
+is associated with assistant positions
+in the arts and humanities sector.
+
+00:05:31.686 --> 00:05:35.166 
+Also, African-American names
+lead to bad words.
+
+00:05:35.846 --> 00:05:37.566 
+So, if you don't pay attention
+
+00:05:37.646 --> 00:05:42.246 
+when it comes to AI choosing a candidate
+for an engineer position,
+
+00:05:42.486 --> 00:05:44.406 
+the CV of a black woman
+will go to the bottom of the pile.
+
+00:05:45.566 --> 00:05:48.446 
+Serge Abiteboul, a researcher
+at the Computer Science Department
+
+00:05:48.486 --> 00:05:50.046 
+of the École Normale Supérieure,
+
+00:05:50.246 --> 00:05:53.326 
+tells us about an amazing experiment
+done in Israel.
+
+00:05:53.846 --> 00:05:57.846 
+They realised that the probability
+of being released by going before a judge
+
+00:05:58.046 --> 00:06:00.966 
+was greater after lunch than before.
+
+00:06:01.886 --> 00:06:04.646 
+It makes me wonder
+about my own decision criteria.
+
+00:06:04.966 --> 00:06:07.886 
+Well,
+luckily, they have other decision factors
+
+00:06:07.926 --> 00:06:09.126 
+than how full their stomachs are.
+
+00:06:09.406 --> 00:06:13.566 
+In any case, we can say that AI
+always reproduces the same behaviour
+
+00:06:13.886 --> 00:06:15.726 
+from the data provided.
+
+00:06:16.246 --> 00:06:18.166 
+Once again we see data's importance
+
+00:06:18.366 --> 00:06:20.446 
+and the motivations
+of those who design these machines.
+
+00:06:21.366 --> 00:06:23.046 
+A democratic issue.
+
+00:06:24.566 --> 00:06:27.806 
+It's the eternal question
+of the tool and what to do with it.
+
+00:06:28.326 --> 00:06:31.726 
+Of course, it's the humans
+who define the software's objectives.
+
+00:06:32.246 --> 00:06:33.446 
+We can discuss this with them,
+
+00:06:33.686 --> 00:06:35.326 
+in fact, it's a must.
+
+00:06:35.726 --> 00:06:36.726 
+And there are not only philanthropists!
+
+00:06:37.206 --> 00:06:40.126 
+Even when you have the best intentions
+in the world,
+
+00:06:40.166 --> 00:06:41.286 
+the question remains,
+
+00:06:41.686 --> 00:06:42.486 
+who should decide?
+
+00:06:43.046 --> 00:06:46.246 
+Serge Abiteboul said
+that it's not up to the IT people
+
+00:06:46.606 --> 00:06:50.126 
+to decide how to develop an algorithm
+that calculates students' fate,
+
+00:06:50.406 --> 00:06:52.086 
+just like it shouldn't be Google
+
+00:06:52.126 --> 00:06:54.686 
+that decides to ban extremist
+or fake news sites.
+
+00:06:55.246 --> 00:06:56.806 
+The digital world has developed so fast
+
+00:06:57.166 --> 00:06:59.526 
+that it is still in the western stage,
+
+00:06:59.766 --> 00:07:01.086 
+injustice is everywhere,
+
+00:07:01.126 --> 00:07:03.966 
+the state does not understand enough
+to legislate properly
+
+00:07:04.206 --> 00:07:05.366 
+and the citizens are lost.
+
+00:07:06.406 --> 00:07:08.286 
+Many researchers agree that
+
+00:07:08.526 --> 00:07:11.166 
+machines can help us evolve our decisions
+
+00:07:11.206 --> 00:07:12.926 
+by offering us ideas and solutions,
+
+00:07:13.206 --> 00:07:14.366 
+but it's up to humans
+
+00:07:14.686 --> 00:07:16.806 
+to decide which rules
+the machines should follow
+
+00:07:17.046 --> 00:07:20.046 
+and, in case of doubt,
+to make the final decision.
+
+00:07:20.566 --> 00:07:22.206 
+So what should we do
+while we wait for the sheriff?
+
+00:07:22.486 --> 00:07:24.606 
+We are addressing the conscience
+of the people who create the algorithms.
+
+00:07:25.046 --> 00:07:26.726 
+We create ethical rules.
+
+00:07:26.766 --> 00:07:30.166 
+The citizens are given keys
+so that they can mobilise if necessary.
+
+00:07:30.246 --> 00:07:31.606 
+This is what we are doing!
+
+00:07:31.806 --> 00:07:33.046 
+Yes Theo, exactly,
+
+00:07:33.246 --> 00:07:34.606 
+one building block at a time.
+
+00:07:34.686 --> 00:07:37.606 
+Anyway, I hope this humble work,
+
+00:07:37.646 --> 00:07:39.046 
+made entirely by humans,
+
+00:07:39.246 --> 00:07:40.646 
+will help you to see it more clearly.
+
+00:07:40.966 --> 00:07:43.486 
+It's up to all of us
+to embrace artificial intelligence
+
+00:07:43.766 --> 00:07:46.966 
+and invent new uses
+to make our lives easier,
+
+00:07:47.006 --> 00:07:48.046 
+more interesting
+
+00:07:48.366 --> 00:07:49.606 
+or simply more beautiful.

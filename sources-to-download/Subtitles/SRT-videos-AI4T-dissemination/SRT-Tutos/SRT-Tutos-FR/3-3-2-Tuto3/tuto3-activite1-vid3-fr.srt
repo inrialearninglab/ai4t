@@ -1,0 +1,79 @@
+1
+00:00:01,068 --> 00:00:04,146
+Réel ou généré par l'IA :
+Quelle importance ?
+
+2
+00:00:04,421 --> 00:00:06,160
+Ce nouveau type de réseau de neurones
+
+3
+00:00:06,160 --> 00:00:07,390
+soulève de nombreuses questions
+
+4
+00:00:07,415 --> 00:00:09,966
+d’autant que les GAN
+existent pour tous les médias :
+
+5
+00:00:10,099 --> 00:00:13,130
+texte, musique,
+images animées ou vidéos.
+
+6
+00:00:13,895 --> 00:00:15,559
+Alors, vrai ou faux ?
+
+7
+00:00:16,127 --> 00:00:18,394
+Il devient essentiel d'apprendre
+à reconnaître
+
+8
+00:00:18,419 --> 00:00:19,614
+si une image est réelle
+
+9
+00:00:19,639 --> 00:00:20,959
+ou générée par une machine.
+
+10
+00:00:21,053 --> 00:00:23,085
+Mais combien de temps avant que ces détails
+
+11
+00:00:23,110 --> 00:00:24,306
+ne soient plus visibles ?
+
+12
+00:00:24,337 --> 00:00:26,071
+Tous les types de contenus sont concernés
+
+13
+00:00:26,096 --> 00:00:29,306
+par ces possibilités créatives
+ou devrais-je dire génératives.
+
+14
+00:00:29,377 --> 00:00:32,408
+De l’homme ou de la machine,
+qui est l'auteur de ces nouvelles images ?
+
+15
+00:00:32,433 --> 00:00:34,533
+La personne qui a créé le programme ?
+
+16
+00:00:34,603 --> 00:00:37,134
+Le programme qui a créé des images
+qui n'existaient pas ?
+
+17
+00:00:37,206 --> 00:00:38,923
+Et si on ne sait pas si c'est réel,
+
+18
+00:00:38,948 --> 00:00:40,970
+y a-t-il annihilation de la fiction ?
+

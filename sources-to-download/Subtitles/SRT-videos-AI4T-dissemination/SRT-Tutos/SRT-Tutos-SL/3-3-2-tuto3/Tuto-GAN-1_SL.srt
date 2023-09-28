@@ -1,0 +1,66 @@
+﻿1
+00:00:04,520 --> 00:00:07,320
+Pri ustvarjanju podob se umetna inteligenca
+
+2
+00:00:07,320 --> 00:00:09,760
+zanaša na prav posebne nevronske mreže,
+
+3
+00:00:09,760 --> 00:00:14,000
+generativne kontradiktorne mreže (GAN).
+
+4
+00:00:14,000 --> 00:00:16,640
+Takšne mreže delujejo kot čarovnija
+
+5
+00:00:16,640 --> 00:00:18,040
+pri ustvarjanju podob.
+
+6
+00:00:18,040 --> 00:00:20,720
+Vsako sestavljata po dve nevronski mreži,
+
+7
+00:00:20,720 --> 00:00:22,120
+ki med seboj merita moči:
+
+8
+00:00:22,120 --> 00:00:24,600
+generator in diskriminator.
+
+9
+00:00:24,600 --> 00:00:28,040
+Mreži med seboj tekmujeta
+
+10
+00:00:28,040 --> 00:00:30,080
+in poskušata pretentati ena drugo.
+
+11
+00:00:30,080 --> 00:00:33,000
+Naloga generatorja je
+
+12
+00:00:33,000 --> 00:00:35,520
+ustvarjati na tisoče novih podob.
+
+13
+00:00:35,520 --> 00:00:37,800
+Naloga diskriminatorja pa je, da ugotovi,
+
+14
+00:00:37,800 --> 00:00:40,160
+ali je bila podoba
+umetno generirana ali ne.
+
+15
+00:00:40,160 --> 00:00:42,920
+Kaj pa vi, ali delujete
+kot učinkovita nevronska mreža?
+
+16
+00:00:42,920 --> 00:00:45,680
+Boste znali razločiti podobe,
+generirane s pomočjo UI?

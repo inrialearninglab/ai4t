@@ -1,0 +1,78 @@
+1
+00:00:04,528 --> 00:00:07,349
+Die künstliche Intelligenz setzt 
+bei der Erstellung von Bildern
+
+2
+00:00:07,349 --> 00:00:09,771
+auf ganz besondere neuronale Netze...
+
+3
+00:00:09,771 --> 00:00:12,261
+Generative Adversarial Networks,
+
+4
+00:00:12,261 --> 00:00:14,031
+besser bekannt als GAN.
+
+5
+00:00:14,031 --> 00:00:16,670
+Das GAN ist eine Art “Wundermaschine”
+
+6
+00:00:16,670 --> 00:00:18,055
+zur Bilderzeugung.
+
+7
+00:00:18,055 --> 00:00:20,729
+GAN besteht aus zwei gegeneinander
+
+8
+00:00:20,729 --> 00:00:22,135
+konkurrierenden neuronalen Netzen
+
+9
+00:00:22,135 --> 00:00:24,621
+- dem Generator und dem Diskriminator.
+
+10
+00:00:24,621 --> 00:00:26,604
+Die beiden neuronalen Netze
+
+11
+00:00:26,604 --> 00:00:28,074
+konkurrieren miteinander
+
+12
+00:00:28,074 --> 00:00:30,111
+und eines versucht, 
+das andere zu überlisten.
+
+13
+00:00:30,111 --> 00:00:33,000
+Die Aufgabe des Generators besteht darin,
+
+14
+00:00:33,000 --> 00:00:35,525
+Tausende und Abertausende 
+von neuen Bildern zu erzeugen.
+
+15
+00:00:35,525 --> 00:00:37,830
+Die Aufgabe des Diskriminators 
+ist es, zu erkennen,
+
+16
+00:00:37,830 --> 00:00:40,194
+ob das Bild “künstlich” 
+erzeugt wurde oder nicht.
+
+17
+00:00:40,194 --> 00:00:42,920
+Und Sie, 
+sind Sie ein gutes neuronales Netz?
+
+18
+00:00:42,920 --> 00:00:45,703
+Werden Sie in der Lage sein, 
+die KI zu überlisten?

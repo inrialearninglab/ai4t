@@ -1,0 +1,258 @@
+WEBVTT
+
+00:00:00.646 --> 00:00:02.846 line:73%
+Počakajte! Vem, koga je
+treba poklicati. Boste videli.
+
+00:00:04.766 --> 00:00:05.726 line:80%
+Podpora uporabnikom.
+
+00:00:05.766 --> 00:00:07.806 line:73%
+<c.red>Guillaume, živjo,</c>
+<c.red>dolgo se že nisva slišala.</c>
+
+00:00:08.086 --> 00:00:09.526 line:80%
+<c.red>Kaj pa vas je danes priklicalo?</c>
+
+00:00:09.886 --> 00:00:11.726 line:73%
+-Umetna inteligenca.
+<c.red>-Super.</c>
+
+00:00:11.966 --> 00:00:14.286 line:73%
+Več ko o tem slišim,
+manj mi je jasno, kaj to je.
+
+00:00:14.326 --> 00:00:16.126 line:80%
+Mislil sem, da gre za nekaj izjemnega.
+
+00:00:16.166 --> 00:00:17.886 line:80%
+Z mano je bratranec Theo.
+
+00:00:17.926 --> 00:00:19.526 line:80%
+Pokazal mi je članek o Stephenu Hawkingu,
+
+00:00:19.566 --> 00:00:22.006 line:73%
+saj veš, najboljšem raziskovalcu vseh časov.
+<c.red>-Ja, ja.</c>
+
+00:00:22.046 --> 00:00:25.526 line:73%
+Hawking je dejal: Če bi
+umetno inteligenco razvili do popolnosti,
+
+00:00:25.566 --> 00:00:27.046 line:80%
+bi to lahko pomenilo konec za človeštvo.
+
+00:00:27.086 --> 00:00:28.926 line:73%
+<c.blue>To zveni</c>
+<c.blue>precej zastrašujoče, ja.</c>
+
+00:00:30.126 --> 00:00:31.526 line:80%
+<c.red>Kdo se boji UI?</c>
+
+00:00:33.286 --> 00:00:34.446 line:80%
+<c.red>Ja, ampak, Guillaume,</c>
+
+00:00:34.486 --> 00:00:36.486 line:80%
+<c.red>vprašati se moraš: kdo je to izjavil?</c>
+
+00:00:36.686 --> 00:00:39.206 line:73%
+Sem že povedal, da bratranec Theo.
+<c.blue>-Živjo.</c>
+
+00:00:39.246 --> 00:00:41.686 line:80%
+<c.red>Ne, mislim na Stephena Hawkinga.</c>
+
+00:00:41.726 --> 00:00:44.206 line:73%
+<c.red>Bil je vrhunski kozmolog,</c>
+
+
+00:00:44.246 --> 00:00:46.486 line:80%
+<c.red>na UI pa se ni spoznal.</c>
+
+00:00:46.526 --> 00:00:48.926 line:73%
+<c.red>Raje prisluhnite</c>
+<c.red>pravemu strokovnjaku s tega področja,</c>
+
+00:00:48.966 --> 00:00:52.406 line:73%
+<c.red>kot je Jean-Gabriel Ganascia,</c>
+<c.red>raziskovalec na področju računalništva</c>
+
+00:00:52.446 --> 00:00:55.006 line:73%
+<c.red>in vodja odbora za etiko pri francoskem Nacionalnem</c>
+<c.red>centru za znanstvene raziskave (CNRS).</c>
+
+00:00:55.086 --> 00:00:57.166 line:80%
+Ljudje tega izraza še vedno ne razumejo.
+
+00:00:57.206 --> 00:00:59.566 line:80%
+Veliko se jih sprašuje: ali to sploh obstaja?
+
+00:00:59.606 --> 00:01:01.846 line:80%
+Ali verjamete v umetno inteligenco?
+
+00:01:01.886 --> 00:01:06.526 line:80%
+Ker mislijo, da gre za izmišljotino,
+
+00:01:06.566 --> 00:01:09.166 line:80%
+za idejo, da bo nek stroj
+
+00:01:09.206 --> 00:01:10.286 line:80%
+nenadoma oživel s pomočjo inteligence.
+
+00:01:10.326 --> 00:01:11.926 line:80%
+Pokazal vam bom, da stvar ni v tem.
+
+00:01:11.966 --> 00:01:14.086 line:80%
+Umetna inteligenca je znanstvena veda.
+
+00:01:14.126 --> 00:01:15.206 line:80%
+To tisto, kar je pomembno.
+
+00:01:15.246 --> 00:01:17.086 line:80%
+Seveda obstajajo številne domišljijske zgodbe,
+
+00:01:17.126 --> 00:01:19.406 line:80%
+ki govorijo o umetno ustvarjenih bitjih z inteligenco.
+
+00:01:20.046 --> 00:01:21.806 line:80%
+Ostržek, Frankenstein.
+
+00:01:21.846 --> 00:01:24.246 line:80%
+<c.blue>Terminator. Vse nas bodo pobili.</c>
+
+00:01:24.486 --> 00:01:26.006 line:80%
+<c.red>Ne, ne, naj te prekinem kar takoj.</c>
+
+00:01:26.046 --> 00:01:28.206 line:80%
+<c.red>Ni vsak robot umetna inteligenca.</c>
+
+00:01:28.246 --> 00:01:30.406 line:80%
+<c.red>Robot je mehansko telo opremljeno s senzorji</c>
+
+00:01:30.446 --> 00:01:31.926 line:80%
+<c.red>in računalnikom v svoji notranjosti.</c>
+
+00:01:31.966 --> 00:01:33.806 line:80%
+<c.red>Robot lahko vsebuje (ni pa nujno)</c>
+
+00:01:33.846 --> 00:01:37.086 line:73%
+<c.red>algoritme,</c>
+<c.red>ki jim pravimo 'umetna inteligenca'.</c>
+
+00:01:38.166 --> 00:01:39.846 line:73%
+Za razliko od tega, Theo,
+pa pomisli npr. na svoj pametni telefon.
+
+00:01:39.886 --> 00:01:41.286 line:80%
+Ne spominja na robota.
+
+00:01:41.326 --> 00:01:42.766 line:80%
+<c.blue>V njem ni umetne inteligence.</c>
+
+00:01:42.806 --> 00:01:44.606 line:73%
+Ja, pa je.
+<c.red>-Točno tako.</c>
+
+00:01:44.646 --> 00:01:46.526 line:80%
+<c.red>Vrnimo se k Terminatorju.</c>
+
+00:01:47.206 --> 00:01:49.806 line:73%
+<c.red>V resničnem svetu</c>
+<c.red>ne obstaja nobena oblika inteligence,</c>
+
+00:01:49.846 --> 00:01:51.326 line:73%
+<c.red>ki bi znala početi vse to,</c>
+<c.red>kar vidimo v filmih.</c>
+
+00:01:51.366 --> 00:01:53.126 line:80%
+<c.red>Težko bi trdili, da bo v prihodnosti to možno.</c>
+
+00:01:53.166 --> 00:01:55.606 line:73%
+<c.red>Konec koncev ima vsakdo pravico do tega,</c>
+<c.red>da verjame, kar hoče,</c>
+
+00:01:55.646 --> 00:01:58.366 line:73%
+<c.red>vendar so to zgolj prepričanja</c>
+<c.red>in ne za znanost.</c>
+
+00:01:58.926 --> 00:02:01.726 line:80%
+Ampak tudi Elon Musk
+
+00:02:01.766 --> 00:02:05.486 line:80%
+in drugi akterji, ki obvladujejo splet,
+
+00:02:05.526 --> 00:02:07.366 line:80%
+so zaskrbljeni, čeprav so prav oni tisti,
+
+00:02:07.406 --> 00:02:09.246 line:73%
+ki razvijajo te tehnologije.
+<c.red>-Res je.</c>
+
+00:02:09.286 --> 00:02:10.966 line:80%
+<c.blue>Ja, diši po prevari.</c>
+
+00:02:11.006 --> 00:02:12.646 line:80%
+<c.red>Ne smemo postati paranoični.</c>
+
+00:02:12.686 --> 00:02:15.606 line:73%
+<c.red>Te tehnologije</c>
+<c.red>brez dvoma odpirajo pomembna etična</c>
+
+00:02:15.646 --> 00:02:18.646 line:73%
+<c.red>pa tudi družbena vprašanja,</c>
+<c.red>ki jih je treba nasloviti</c>
+
+00:02:18.686 --> 00:02:20.166 line:73%
+<c.red>vzporedno z napredkom znanosti.</c>
+
+00:02:20.486 --> 00:02:22.726 line:80%
+Znanost brez vesti je pogubljenje duše,
+
+00:02:22.766 --> 00:02:24.766 line:80%
+je dejal Rabelais v 15. stoletju.
+
+00:02:24.806 --> 00:02:26.326 line:80%
+<c.red>Bravo, Guillaume.</c>
+
+00:02:26.726 --> 00:02:29.766 line:73%
+<c.red>Res je, zaskrbljenost</c>
+<c.red>je popolnoma upravičena,</c>
+
+00:02:29.806 --> 00:02:32.686 line:80%
+<c.red>saj ima UI velik vpliv na družbo.</c>
+
+00:02:32.886 --> 00:02:36.446 line:73%
+<c.red>Pomembno je, da vsi razumejo,</c>
+<c.red>za kaj pravzaprav gre.</c>
+
+00:02:36.486 --> 00:02:38.726 line:73%
+<c.red>Potem se lahko začnemo pogovarjati</c>
+<c.red>o ekonomskih</c>
+
+00:02:38.766 --> 00:02:40.806 line:73%
+<c.red>in tudi družbenih vidikih odločitev,</c>
+<c.red>ki jih je treba sprejeti.</c>
+
+00:02:40.846 --> 00:02:42.486 line:80%
+Vidiš, Theo, tvoj oče ima prav.
+
+00:02:42.526 --> 00:02:44.726 line:73%
+Če želiš voziti avto,
+ni treba, da si avtomehanik,
+
+00:02:44.766 --> 00:02:46.446 line:73%
+v vsakem primeru
+pa je dobro kdaj pogledati pod pokrov
+
+00:02:46.486 --> 00:02:48.886 line:73%
+in razumeti kako avtomobil deluje. Še
+posebej zavore.
+
+00:02:49.086 --> 00:02:51.566 line:80%
+Se bom še poglobil v to, prav?
+
+00:02:51.606 --> 00:02:52.646 line:80%
+<c.red>Prav.</c>
+
+00:02:53.246 --> 00:02:55.726 line:80%
+Kaj je torej umetna inteligenca?

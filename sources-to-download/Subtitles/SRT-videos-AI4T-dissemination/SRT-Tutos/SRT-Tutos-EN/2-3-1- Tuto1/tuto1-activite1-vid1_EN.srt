@@ -1,0 +1,60 @@
+1
+00:00:00,048 --> 00:00:02,715
+What is artificial intelligence?
+
+2
+00:00:03,381 --> 00:00:06,756
+AI or artificial intelligence
+is a set of computer tools
+
+3
+00:00:06,798 --> 00:00:10,506
+that mimic activities
+previously performed only by humans.
+
+4
+00:00:10,548 --> 00:00:12,381
+These are usually cognitive activities.
+
+5
+00:00:12,423 --> 00:00:16,604
+For example, it recognises
+what is in a picture or translates text.
+
+6
+00:00:16,643 --> 00:00:18,179
+It is all around us.
+
+7
+00:00:18,215 --> 00:00:20,881
+Our phones recognise faces in our photos,
+
+8
+00:00:20,923 --> 00:00:22,756
+translation sites recognise the language
+
+9
+00:00:22,798 --> 00:00:24,256
+we speak before we even tell them,
+
+10
+00:00:24,298 --> 00:00:27,756
+social networks can recognise faces
+in our pictures
+
+11
+00:00:27,798 --> 00:00:29,506
+and add bunny ears to them,
+
+12
+00:00:29,548 --> 00:00:31,131
+and we have voice assistants to talk to.
+
+13
+00:00:31,173 --> 00:00:32,131
+How cool is that?
+
+14
+00:00:32,173 --> 00:00:33,715
+Let's take a closer look.
+

@@ -1,0 +1,41 @@
+1
+00:00:00,423 --> 00:00:02,375
+The art of data preparation.
+
+2
+00:00:02,804 --> 00:00:06,937
+Preparing data to create AI
+is at least 70% of the work.
+
+3
+00:00:07,242 --> 00:00:09,953
+Data is very important
+in machine learning.
+
+4
+00:00:10,215 --> 00:00:11,490
+As we saw earlier,
+
+5
+00:00:11,515 --> 00:00:13,983
+the machine only learns
+from what we show it.
+
+6
+00:00:14,008 --> 00:00:17,271
+So you have to take the time
+to carefully select this data
+
+7
+00:00:17,296 --> 00:00:19,991
+and prepare it correctly
+to get good results.
+
+8
+00:00:20,298 --> 00:00:22,840
+This is not always as easy as it sounds.
+
+9
+00:00:23,129 --> 00:00:25,587
+Let's take a closer look and experiment.
+

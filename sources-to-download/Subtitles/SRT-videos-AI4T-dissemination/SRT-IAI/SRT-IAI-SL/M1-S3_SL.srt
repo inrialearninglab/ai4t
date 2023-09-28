@@ -1,0 +1,600 @@
+WEBVTT
+
+00:00:09.806 --> 00:00:12.326 line:80%
+<c.red>Kaj je umetna inteligenca?</c>
+
+00:00:14.286 --> 00:00:17.926 line:73%
+Pozdravljeni! Vrgel sem se
+v raziskovanje umetne inteligence.
+
+00:00:17.966 --> 00:00:19.246 line:80%
+Navdušen sem.
+
+00:00:19.326 --> 00:00:22.926 line:73%
+Raziskal sem, kdo so strokovnjaki,
+raziskovalci za to, ter govoril z njimi.
+
+00:00:23.006 --> 00:00:25.526 line:73%
+Prebiral sem članke,
+se udeleževal konferenc,
+
+00:00:25.566 --> 00:00:27.046 line:80%
+brskal in brskal.
+
+00:00:27.126 --> 00:00:29.726 line:80%
+Šel sem vse do faraonove grobnice.
+
+00:00:29.766 --> 00:00:32.646 line:80%
+Šel sem tako daleč, kot je bilo mogoče.
+
+00:00:32.686 --> 00:00:34.366 line:80%
+Pozor! To je resna stvar.
+
+00:00:35.246 --> 00:00:37.766 line:73%
+Tudi na vas smo pomislili,
+saj smo vam priskrbeli gradivo.
+
+00:00:37.806 --> 00:00:39.606 line:80%
+Pregledate ga lahko sami,
+
+00:00:39.686 --> 00:00:42.806 line:73%
+predvsem pa lahko raziščete teme,
+ki vas zanimajo.
+
+00:00:42.886 --> 00:00:45.486 line:80%
+Prav? Postrezite si.
+
+00:00:46.206 --> 00:00:47.726 line:80%
+<c.red>Zgodovina algoritmov.</c>
+
+00:00:49.886 --> 00:00:53.086 line:80%
+Algoritmi so povsod okrog nas.
+
+00:00:53.166 --> 00:00:56.206 line:73%
+Tisto, kar nam na Facebooku
+priporoča vsebine, so algoritmi.
+
+00:00:56.286 --> 00:01:00.766 line:73%
+GPS, ki me obvešča o prometnih zastojih,
+je algoritem.
+
+00:01:00.806 --> 00:01:02.726 line:73%
+Prepoznava obraza...
+<c.blue>-Algoritem.</c>
+
+00:01:02.806 --> 00:01:06.006 line:80%
+Prav. Ampak kaj so sploh algoritmi?
+
+00:01:06.246 --> 00:01:08.766 line:80%
+Začnimo na začetku, z računalništvom.
+
+00:01:08.806 --> 00:01:11.966 line:80%
+Cilj računalništva je obdelava podatkov,
+
+00:01:12.006 --> 00:01:14.006 line:80%
+ki poteka avtomatsko.
+
+00:01:14.086 --> 00:01:17.446 line:73%
+Odvisno je od naprav,
+ki lahko obdelujejo podatke,
+
+00:01:17.486 --> 00:01:18.766 line:73%
+kar omogočajo...
+<c.blue>-Algoritmi.</c>
+
+00:01:18.806 --> 00:01:22.406 line:80%
+Bravo, Theo, super. Lepo, da mi slediš.
+
+00:01:22.646 --> 00:01:24.006 line:80%
+Algoritmi,
+
+00:01:24.046 --> 00:01:26.286 line:80%
+ustavite me, če se motim, so kot...
+
+00:01:27.006 --> 00:01:28.926 line:80%
+Kuharski recepti.
+
+00:01:29.006 --> 00:01:31.886 line:73%
+Gre za zaporedje navodil, ki jih je treba
+upoštevati v pravilnem vrstnem redu,
+
+00:01:31.966 --> 00:01:33.966 line:73%
+kar omogoča,
+da se naloga avtomatsko opravi.
+
+00:01:34.006 --> 00:01:38.126 line:73%
+Avtomatsko pomeni
+brez potrebe po razumevanju in premisleku.
+
+00:01:38.206 --> 00:01:40.206 line:80%
+Za stroj je to popolno.
+
+00:01:40.766 --> 00:01:42.766 line:80%
+Ko imamo seznam navodil,
+
+00:01:42.806 --> 00:01:45.686 line:73%
+jih prevedemo v jezik,
+ki ga razume računalnik,
+
+00:01:45.726 --> 00:01:48.726 line:80%
+in že imamo računalniški program.
+
+00:01:49.046 --> 00:01:54.886 line:73%
+Računalniki hitro zaženejo vsak program,
+ki opiše algoritem,
+
+00:01:54.926 --> 00:01:56.286 line:80%
+kar je res neverjetno.
+
+00:01:56.326 --> 00:01:59.686 line:73%
+V 50. letih 20. stoletja
+so raziskovalci začeli sanjati.
+
+00:01:59.726 --> 00:02:03.246 line:73%
+Zamislili so si algoritme,
+ki bi omogočili,
+
+00:02:03.286 --> 00:02:05.286 line:73%
+da so računalniki
+tako inteligentni kot ljudje.
+
+00:02:05.846 --> 00:02:08.126 line:73%
+<c.red>Kot pojasni Nicolas Rougier,</c>
+<c.red>raziskovalec na inštitutu INRIA,</c>
+
+00:02:08.166 --> 00:02:11.646 line:73%
+<c.red>je do konca 70. let 20. stoletja prišlo</c>
+<c.red>do velikega napredka,</c>
+
+00:02:11.686 --> 00:02:13.086 line:80%
+<c.red>iz katerega ni bilo nič.</c>
+
+00:02:13.126 --> 00:02:14.726 line:80%
+<c.red>Obljubljenih rezultatov ni bilo.</c>
+
+00:02:14.926 --> 00:02:17.006 line:73%
+<c.red>Sredstva za raziskovalno delo</c>
+<c.red>so nehala pritekati.</c>
+
+00:02:17.046 --> 00:02:19.246 line:80%
+<c.red>Nastopila je zima umetne inteligence.</c>
+
+00:02:19.806 --> 00:02:22.966 line:73%
+<c.red>Deset let pozneje so postali</c>
+<c.red>vedno priljubljenejši ekspertni sistemi,</c>
+
+00:02:23.006 --> 00:02:26.646 line:73%
+<c.red>ki so skušali posnemati mišljenje</c>
+<c.red>strokovnjakov, kot so recimo zdravniki.</c>
+
+00:02:26.686 --> 00:02:29.526 line:73%
+<c.red>V stroje je bilo treba vložiti</c>
+<c.red>človeško znanje,</c>
+
+00:02:29.566 --> 00:02:32.566 line:80%
+<c.red>čeprav so želeli, da se stroji učijo sami.</c>
+
+00:02:32.766 --> 00:02:34.726 line:73%
+<c.red>Nastopila je</c>
+<c.red>druga zima umetne inteligence.</c>
+
+00:02:34.766 --> 00:02:37.126 line:73%
+<c.red>Na koncu 90. let 20. stoletja</c>
+<c.red>pa je prišlo do prelomnice.</c>
+
+00:02:37.206 --> 00:02:39.806 line:80%
+<c.red>Deep Blue, IBM-ov superračunalnik,</c>
+
+00:02:39.846 --> 00:02:42.766 line:73%
+<c.red>je premagal svetovnega prvaka v šahu,</c>
+<c.red>Garija Kasparova.</c>
+
+00:02:42.806 --> 00:02:46.846 line:73%
+<c.red>Leta 2016 je sledila nova prelomnica:</c>
+<c.red>Googlov algoritem</c>
+
+00:02:46.886 --> 00:02:48.726 line:73%
+<c.red>je premagal</c>
+<c.red>enega najboljših igralcev igre go,</c>
+
+00:02:48.766 --> 00:02:51.486 line:73%
+<c.red>čeprav so mislili,</c>
+<c.red>da to ne bo mogoče še vrsto let.</c>
+
+00:02:52.206 --> 00:02:55.526 line:80%
+V zgodovini umetne inteligence
+
+00:02:55.566 --> 00:02:57.846 line:80%
+so se izmenjavali odmevni napredki
+
+00:02:57.886 --> 00:02:59.166 line:80%
+in velika razočaranja.
+
+00:02:59.206 --> 00:03:01.526 line:80%
+Zdaj smo spet v obdobju razcveta.
+
+00:03:01.566 --> 00:03:05.086 line:73%
+<c.blue>So naši računalniki</c>
+<c.blue>torej postali inteligentni ali ne?</c>
+
+00:03:05.166 --> 00:03:07.966 line:80%
+Jasno moramo razumeti in opredeliti,
+
+00:03:08.006 --> 00:03:12.726 line:73%
+kaj je človeška inteligenca,
+če želimo definirati umetno inteligenco.
+
+00:03:12.806 --> 00:03:17.086 line:73%
+To, da si odličen igralec šaha,
+je bilo včasih znak inteligence.
+
+00:03:17.126 --> 00:03:21.366 line:73%
+Danes to ni več dovolj,
+saj lahko stroj isto doseže avtomatsko.
+
+00:03:21.406 --> 00:03:23.686 line:80%
+Definicijo človeške inteligence dobimo,
+
+00:03:23.766 --> 00:03:26.966 line:80%
+zatem ko se oblikuje umetna inteligenca,
+
+00:03:27.006 --> 00:03:28.686 line:80%
+kar je fascinantno.
+
+00:03:28.726 --> 00:03:30.846 line:80%
+Danes vam bom poskušal pojasniti,
+
+00:03:30.886 --> 00:03:34.886 line:80%
+kaj človeška inteligenca pomeni leta 2020.
+
+00:03:35.366 --> 00:03:37.086 line:80%
+<c.red>Človeška inteligenca.</c>
+
+00:03:38.486 --> 00:03:40.406 line:73%
+Ob istem času,
+kot je nastala umetna inteligenca,
+
+00:03:40.446 --> 00:03:44.446 line:73%
+se je razvila kognitivna znanost,
+ki preučuje človeško inteligenco.
+
+00:03:44.686 --> 00:03:47.366 line:73%
+Z njeno pomočjo
+lahko prepoznamo različne mehanizme,
+
+00:03:47.406 --> 00:03:49.926 line:80%
+ki omogočajo misel.
+
+00:03:49.966 --> 00:03:54.446 line:73%
+Ta misel nam omogoča,
+da zaznavamo, govorimo, se premikamo,
+
+00:03:54.486 --> 00:03:59.126 line:73%
+si zapomnimo stvari, mislimo,
+načrtujemo, da smo včasih abstraktni
+
+00:03:59.166 --> 00:04:01.086 line:73%
+ali kreativni,
+kar velja za najboljše od nas.
+
+00:04:01.366 --> 00:04:03.286 line:80%
+To so naše kognitivne funkcije.
+
+00:04:03.846 --> 00:04:05.566 line:73%
+Da bi lahko posnemali
+človeško inteligenco,
+
+00:04:05.606 --> 00:04:08.526 line:73%
+bi morali posnemati kognitivne funkcije,
+o čemer so bili prepričani.
+
+00:04:08.766 --> 00:04:11.806 line:80%
+Raziskovalci so zagovarjali dva pristopa,
+
+00:04:11.846 --> 00:04:14.286 line:80%
+ki spominjata na način, kako se učimo:
+
+00:04:14.326 --> 00:04:17.566 line:73%
+bodisi s posredovanjem znanja bodisi tako,
+da se učimo iz napak,
+
+00:04:17.606 --> 00:04:20.726 line:73%
+in sicer na podlagi opazovanja sveta
+in preizkušanja.
+
+00:04:20.766 --> 00:04:23.086 line:80%
+Gre za dopolnjujoča se načina učenja.
+
+00:04:23.766 --> 00:04:27.246 line:73%
+<c.red>Simbolni pristop skuša posnemati način,</c>
+<c.red>na katerega ljudje logično razmišljajo,</c>
+
+00:04:27.286 --> 00:04:28.966 line:80%
+<c.red>in uporabiti njihovo znanje.</c>
+
+00:04:29.566 --> 00:04:32.686 line:73%
+<c.red>Kot pojasni Thalita Firmo Drumond,</c>
+<c.red>doktorska študentka na inštitutu INRIA,</c>
+
+00:04:32.726 --> 00:04:35.926 line:73%
+<c.red>se določen del znanja prenese,</c>
+<c.red>ko pridobivamo izkušnje</c>
+
+00:04:35.966 --> 00:04:37.846 line:73%
+<c.red>ter usvajamo pravila</c>
+<c.red>in se učimo postopkov.</c>
+
+00:04:38.366 --> 00:04:40.846 line:80%
+<c.red>Na tak način se učimo v šoli,</c>
+
+00:04:40.886 --> 00:04:43.126 line:80%
+<c.red>recimo ko se učimo, kako seštevati.</c>
+
+00:04:43.166 --> 00:04:44.486 line:80%
+<c.red>Ko seštevam,</c>
+
+00:04:44.526 --> 00:04:46.846 line:73%
+<c.red>znam pojasniti,</c>
+<c.red>kako to počnem, korak za korakom.</c>
+
+00:04:47.286 --> 00:04:49.566 line:80%
+<c.red>Potem je mogoče napisati tudi program,</c>
+
+00:04:49.606 --> 00:04:52.806 line:73%
+<c.red>pri čemer stroju pojasnimo,</c>
+<c.red>kako ravnati korak za korakom.</c>
+
+00:04:53.326 --> 00:04:56.286 line:73%
+<c.red>Stroj bo nalogo opravil</c>
+<c.red>veliko hitreje kot jaz,</c>
+
+00:04:56.326 --> 00:04:57.726 line:80%
+<c.red>ne da bi napravil kakršnokoli napako.</c>
+
+00:04:58.446 --> 00:05:00.686 line:73%
+<c.red>Ta pristop je omogočil</c>
+<c.red>razvoj ekspertnih sistemov,</c>
+
+00:05:00.726 --> 00:05:03.126 line:73%
+<c.red>ki skušajo posnemati</c>
+<c.red>mišljenje strokovnjakov,</c>
+
+00:05:03.166 --> 00:05:06.006 line:73%
+<c.red>recimo zdravnikov ali odvetnikov,</c>
+<c.red>in na tak način rešujejo probleme.</c>
+
+00:05:06.246 --> 00:05:09.806 line:73%
+<c.red>Ta pristop je bil zelo priljubljen</c>
+<c.red>v 80. letih 20. stoletja.</c>
+
+00:05:11.006 --> 00:05:12.926 line:80%
+<c.red>Preostalo znanje je sad izkušenj.</c>
+
+00:05:12.966 --> 00:05:15.086 line:80%
+<c.red>Teže je pojasniti,</c>
+
+00:05:15.126 --> 00:05:16.926 line:80%
+<c.red>kako ga pridobimo,</c>
+
+00:05:16.966 --> 00:05:19.206 line:73%
+<c.red>kako znamo voziti kolo</c>
+<c.red>ali prepoznati mačko.</c>
+
+00:05:19.246 --> 00:05:21.166 line:80%
+<c.red>Lahko pojasnim, kako je treba voziti kolo,</c>
+
+00:05:21.206 --> 00:05:23.166 line:73%
+<c.red>ampak voziti se ga boste naučili le tako,</c>
+<c.red>da boste gonili.</c>
+
+00:05:23.206 --> 00:05:25.206 line:80%
+<c.red>To morate izkusiti na lastni koži.</c>
+
+00:05:25.566 --> 00:05:29.846 line:73%
+<c.red>Gre za digitalni</c>
+<c.red>ali konekcionistični pristop,</c>
+
+00:05:29.886 --> 00:05:33.246 line:73%
+<c.red>ki skuša posnemati način,</c>
+<c.red>kako se ljudje učijo iz napak,</c>
+
+00:05:33.286 --> 00:05:34.966 line:80%
+<c.red>iz izkušenj.</c>
+
+00:05:35.246 --> 00:05:36.606 line:80%
+<c.red>Gre za pristop,</c>
+
+00:05:36.646 --> 00:05:38.646 line:80%
+<c.red>ki je danes najbolj priljubljen.</c>
+
+00:05:39.046 --> 00:05:42.286 line:73%
+Saj veste, strojno učenje
+in slavne nevronske mreže.
+
+00:05:42.566 --> 00:05:45.246 line:73%
+<c.blue>Prav, ampak še vedno nisi odgovoril</c>
+<c.blue>na pomembno vprašanje.</c>
+
+00:05:45.286 --> 00:05:46.726 line:80%
+<c.blue>Kaj je inteligenca?</c>
+
+00:05:47.046 --> 00:05:49.406 line:73%
+Človeška inteligenca?
+Do tja bom še prišel.
+
+00:05:49.446 --> 00:05:53.246 line:73%
+Frédéric Alexandre, raziskovalec
+na področju računalniške nevroznanosti,
+
+00:05:53.286 --> 00:05:55.046 line:80%
+odgovarja takole.
+
+00:05:55.126 --> 00:05:57.646 line:73%
+Inteligenca pomeni,
+da je človek sposoben hitrega odziva
+
+00:05:57.686 --> 00:05:59.246 line:80%
+na kompleksno situacijo.
+
+00:05:59.966 --> 00:06:03.366 line:73%
+Inteligenca pomeni,
+da najdeš pravi (smiseln) odgovor, 
+
+00:06:03.406 --> 00:06:05.646 line:80%
+ne "najboljšega".
+
+00:06:05.886 --> 00:06:09.366 line:73%
+Pomeni, da znaš iz sklopa informacij
+izluščiti bistvo.
+
+00:06:09.606 --> 00:06:13.086 line:73%
+Pomeni, da se znaš prilagoditi 
+na novo nastale razmere,
+
+00:06:13.126 --> 00:06:15.486 line:73%
+da se znaš odzvati
+na nepričakovano situacijo.
+
+00:06:15.806 --> 00:06:18.846 line:73%
+Ljudje za vse to uporabljajo strategijo,
+
+
+00:06:18.886 --> 00:06:21.806 line:73%
+ki je kombinacija čustev,
+motivacije in ustvarjalnosti.
+
+00:06:21.886 --> 00:06:24.886 line:80%
+Prednost oz. posebnost človeške inteligence
+
+00:06:24.926 --> 00:06:27.126 line:80%
+je prav v tem dopolnjevanju čustvenih in razumskih vidikov,
+
+00:06:27.206 --> 00:06:30.526 line:73%
+česar umetna inteligenca ne zmore.
+
+00:06:30.566 --> 00:06:32.526 line:80%
+<c.blue>Tako je. Zdrava pamet torej.</c>
+
+00:06:32.566 --> 00:06:33.566 line:80%
+Lahko bi rekli tudi tako, ja.
+
+00:06:33.846 --> 00:06:36.566 line:73%
+Da bi se izognili iluziji o tem,
+da obstaja neka splošna inteligenca,
+
+00:06:36.606 --> 00:06:38.206 line:80%
+kar je daleč od resničnosti,
+
+00:06:38.286 --> 00:06:42.086 line:73%
+bi bilo ustrezneje o umetni
+inteligenci govoriti v množini.
+
+00:06:42.166 --> 00:06:45.126 line:73%
+Vse umetne inteligence,
+na katere naletimo v resničnem življenju,
+
+00:06:45.606 --> 00:06:48.366 line:80%
+so zelo tehnične in zelo specifične.
+
+00:06:48.566 --> 00:06:50.166 line:80%
+Opravijo lahko le nalogo,
+
+00:06:50.206 --> 00:06:52.646 line:73%
+za katero so bile programirane
+ali konfigurirane.
+
+00:06:53.086 --> 00:06:55.366 line:73%
+Progam,
+ki premaga svetovnega prvaka v šahu,
+
+00:06:55.446 --> 00:06:57.246 line:80%
+ne zna prepoznati race.
+
+00:06:57.606 --> 00:07:00.366 line:80%
+Ko pa imamo opravka s specifično nalogo,
+
+00:07:01.086 --> 00:07:05.206 line:73%
+se izkažejo za izjemno učinkovite
+in pogosto boljše od nas.
+
+00:07:07.726 --> 00:07:09.526 line:80%
+<c.red>Iz laboratorijev do naših domov.</c>
+
+00:07:11.126 --> 00:07:13.086 line:80%
+V zadnjih letih umetna inteligenca
+
+00:07:13.166 --> 00:07:16.046 line:80%
+znova doživlja skokovit razvoj.
+
+00:07:16.086 --> 00:07:18.686 line:73%
+Zahvala za to gre
+povečani količini razpoložljivih podatkov,
+
+00:07:18.726 --> 00:07:20.646 line:80%
+procesorski moči računalnikov
+
+00:07:20.686 --> 00:07:23.726 line:80%
+in seveda optimizaciji algoritmov.
+
+00:07:24.046 --> 00:07:27.886 line:73%
+Programi za prepoznavanje glasu ali podob
+ali programi za prevajanje,
+
+00:07:27.926 --> 00:07:30.286 line:80%
+ki so se jim še pred nekaj leti posmehovali,
+
+00:07:30.326 --> 00:07:33.366 line:80%
+danes po zaslugi strojnega učenja
+
+00:07:33.406 --> 00:07:35.806 line:80%
+delujejo presenetljivo dobro.
+ 
+
+00:07:36.486 --> 00:07:39.046 line:73%
+<c.red>Umetno inteligenco</c>
+<c.red>so ustvarili v laboratorijih.</c>
+
+00:07:39.086 --> 00:07:42.166 line:73%
+<c.red>Danes prodira in bistveno vpliva</c>
+<c.red>na vsa področja družbe,</c>
+
+00:07:42.206 --> 00:07:44.006 line:80%
+<c.red>od financ do kmetijstva,</c>
+
+00:07:44.046 --> 00:07:47.166 line:73%
+<c.red>od medicine do izobraževanja,</c>
+<c.red>pa vse do naših domov.</c>
+
+00:07:47.646 --> 00:07:49.326 line:80%
+<c.red>V današnji digitalni dobi</c>
+
+00:07:49.366 --> 00:07:52.166 line:73%
+<c.red>smo vsak dan nevede v stiku</c>
+<c.red>z umetno inteligenco,</c>
+
+00:07:52.206 --> 00:07:54.766 line:80%
+<c.red>npr. ko uporabljamo vsakdanje predmete,</c>
+
+00:07:54.806 --> 00:07:58.406 line:73%
+<c.red>kamere,</c>
+<c.red>priporočila na družbenih omrežjih</c>
+
+00:07:58.446 --> 00:07:59.686 line:80%
+<c.red>ali pametne zvočnike.</c>
+
+00:07:59.926 --> 00:08:01.686 line:80%
+Svet algoritmov.
+
+00:08:01.726 --> 00:08:04.486 line:80%
+Ljudje smo tisti, ki moramo odločiti,
+
+00:08:04.526 --> 00:08:07.566 line:73%
+kaj lahko umetni sistemi naredijo za nas.
+In ne obratno.
+
+00:08:07.926 --> 00:08:11.166 line:73%
+Ker te tehnologije
+pomembno sooblikujejo našo družbo,
+
+00:08:11.206 --> 00:08:14.406 line:80%
+je ključno, da razumemo, kako delujejo.

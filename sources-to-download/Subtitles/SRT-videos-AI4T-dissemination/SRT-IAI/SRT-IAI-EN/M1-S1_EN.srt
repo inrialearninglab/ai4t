@@ -1,0 +1,329 @@
+﻿1
+00:00:00,390 --> 00:00:03,078
+Hold on! I know who to call. You'll see.
+
+2
+00:00:04,766 --> 00:00:05,726
+The hotline.
+
+3
+00:00:05,766 --> 00:00:07,968
+Guillaume. Hello. Long time no speak.
+
+4
+00:00:07,993 --> 00:00:09,433
+What brings you here today?
+
+5
+00:00:09,745 --> 00:00:11,941
+-Artificial intelligence.
+-That's great.
+
+6
+00:00:11,981 --> 00:00:14,587
+The more I hear about it,
+the less I understand it.
+
+7
+00:00:14,612 --> 00:00:16,126
+I used to think it was great.
+
+8
+00:00:16,166 --> 00:00:19,955
+I'm with my cousin Theo who just showed me
+an article about Stephen Hawking,
+
+9
+00:00:20,033 --> 00:00:22,400
+-you know, the greatest researcher ever,
+-Yes.
+
+10
+00:00:22,462 --> 00:00:25,361
+-who says, "The development
+of full artificial intelligence
+
+11
+00:00:25,386 --> 00:00:27,211
+could spell the end of the human race."
+
+12
+00:00:27,289 --> 00:00:29,258
+Yeah, it's pretty scary what the guy says.
+
+13
+00:00:29,906 --> 00:00:31,383
+Who is afraid of AI?
+
+14
+00:00:33,363 --> 00:00:34,566
+Yes, but Guillaume,
+
+15
+00:00:34,649 --> 00:00:36,649
+you have to ask yourself who is talking?
+
+16
+00:00:36,686 --> 00:00:39,004
+-I told you, it's my cousin Theo.
+-Hi.
+
+17
+00:00:39,160 --> 00:00:40,918
+No, I mean Stephen Hawking.
+
+18
+00:00:40,943 --> 00:00:43,036
+He was a top scientist in cosmology,
+
+19
+00:00:43,136 --> 00:00:44,599
+but AI is not his field.
+
+20
+00:00:44,624 --> 00:00:47,302
+Instead, listen to a real expert
+on the subject,
+
+21
+00:00:47,411 --> 00:00:50,918
+such as Jean-Gabriel Ganascia,
+who is a computer science researcher
+
+22
+00:00:50,950 --> 00:00:53,840
+and head of the ethics committee
+at the CNRS.
+
+23
+00:00:55,086 --> 00:00:57,166
+The term is still misunderstood.
+
+24
+00:00:57,206 --> 00:00:59,343
+Many people say, "Does it exist?
+
+25
+00:00:59,473 --> 00:01:01,713
+Do you believe
+in artificial intelligence?"
+
+26
+00:01:01,738 --> 00:01:04,440
+because they imagine
+that it's a kind of fantasy,
+
+27
+00:01:04,511 --> 00:01:07,331
+the idea that a machine
+will suddenly be brought to life
+
+28
+00:01:07,356 --> 00:01:08,436
+by intelligence.
+
+29
+00:01:08,614 --> 00:01:10,675
+I will show you that this is not the case.
+
+30
+00:01:10,700 --> 00:01:13,535
+Artificial intelligence
+is a scientific discipline.
+
+31
+00:01:13,560 --> 00:01:15,035
+That's what's important.
+
+32
+00:01:15,246 --> 00:01:17,616
+Yes, of course, there are fantasies
+
+33
+00:01:17,641 --> 00:01:20,137
+about artificial characters
+with intelligence.
+
+34
+00:01:20,254 --> 00:01:21,806
+Pinocchio, Frankenstein.
+
+35
+00:01:21,846 --> 00:01:24,246
+Terminator, they're going to kill us all.
+
+36
+00:01:24,713 --> 00:01:26,574
+No, let me stop you right there.
+
+37
+00:01:26,652 --> 00:01:28,846
+A robot is not necessarily an AI,
+
+38
+00:01:28,871 --> 00:01:30,900
+it's a mechanical carcass with sensors
+
+39
+00:01:30,925 --> 00:01:32,042
+and a computer in it,
+
+40
+00:01:32,480 --> 00:01:33,558
+and only sometimes,
+
+41
+00:01:33,583 --> 00:01:36,652
+there are algorithms
+called artificial intelligence inside.
+
+42
+00:01:37,438 --> 00:01:40,007
+In contrast, Theo,
+look at your smartphone.
+
+43
+00:01:40,032 --> 00:01:41,421
+It doesn't look like a robot.
+
+44
+00:01:41,446 --> 00:01:42,796
+There's no AI in there.
+
+45
+00:01:42,821 --> 00:01:45,078
+-Yes, there is.
+-Exactly.
+
+46
+00:01:45,118 --> 00:01:46,719
+Getting back to the Terminator.
+
+47
+00:01:46,744 --> 00:01:48,899
+In the real world,
+there is no intelligence capable
+
+48
+00:01:48,924 --> 00:01:50,845
+of doing everything like we see in films,
+
+49
+00:01:51,250 --> 00:01:53,243
+and there's no saying it will ever happen.
+
+50
+00:01:53,313 --> 00:01:55,936
+After that, everyone is free
+to believe what they want,
+
+51
+00:01:55,961 --> 00:01:58,366
+but these are only beliefs, not science.
+
+52
+00:01:59,313 --> 00:02:01,172
+But Elon Musk and other figures,
+
+53
+00:02:01,205 --> 00:02:02,908
+including Internet bosses,
+
+54
+00:02:03,112 --> 00:02:06,454
+are also very concerned,
+even though they are the ones
+
+55
+00:02:06,479 --> 00:02:09,159
+-developing these technologies.
+-That's true.
+
+56
+00:02:09,184 --> 00:02:10,864
+Yes, it smells like a scam.
+
+57
+00:02:10,997 --> 00:02:12,528
+We must not become paranoid.
+
+58
+00:02:12,562 --> 00:02:15,076
+Of course,
+these technologies raise important ethical
+
+59
+00:02:15,101 --> 00:02:17,599
+and societal questions,
+which must be addressed
+
+60
+00:02:17,624 --> 00:02:19,256
+as scientific advances are made.
+
+61
+00:02:20,329 --> 00:02:23,117
+"Science without conscience
+is but the ruin of the soul",
+
+62
+00:02:23,142 --> 00:02:25,454
+said Rabelais in the 15th century.
+
+63
+00:02:25,890 --> 00:02:27,071
+Bravo, Guillaume.
+
+64
+00:02:27,532 --> 00:02:30,304
+Yes, all the current concerns
+are perfectly legitimate
+
+65
+00:02:30,329 --> 00:02:32,686
+because AI has a real impact on society.
+
+66
+00:02:33,165 --> 00:02:35,806
+Everyone must understand
+what it is really about
+
+67
+00:02:35,831 --> 00:02:37,290
+so that we can discuss the economic
+
+68
+00:02:37,315 --> 00:02:39,540
+and societal choices that must be made.
+
+69
+00:02:40,736 --> 00:02:42,820
+You see, Theo, your father is right.
+
+70
+00:02:42,845 --> 00:02:45,172
+You don't need to be a mechanic
+to drive a car,
+
+71
+00:02:45,197 --> 00:02:47,273
+but it's still better
+to look under the bonnet
+
+72
+00:02:47,298 --> 00:02:50,141
+to see how it works
+and especially how it brakes.
+
+73
+00:02:50,166 --> 00:02:51,910
+We'll look into it. OK?
+
+74
+00:02:51,935 --> 00:02:52,833
+OK.
+
+75
+00:02:53,246 --> 00:02:55,726
+What is artificial intelligence?
+

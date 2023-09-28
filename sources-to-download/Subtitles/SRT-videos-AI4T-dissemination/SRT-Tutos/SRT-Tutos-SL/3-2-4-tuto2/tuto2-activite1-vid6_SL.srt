@@ -1,0 +1,78 @@
+WEBVTT
+
+00:00:00.090 --> 00:00:03.673 
+Se lahko poigramo s podatki
+in tako pretentamo stroj?
+
+00:00:04.215 --> 00:00:07.548 
+Program bo predvideval
+na podlagi kategorij,
+
+00:00:07.590 --> 00:00:10.173 
+ki smo jih določili,
+in primerov, ki smo mu jih pokazali v faza učenja.
+
+00:00:10.215 --> 00:00:12.631 
+Ko se enkrat nauči,
+pa ga lahko tudi pretentamo.
+
+00:00:12.673 --> 00:00:14.090 
+Na primer...
+
+00:00:14.548 --> 00:00:17.756 
+Določen nakit lahko zavede
+program za prepoznavanje obraza.
+
+00:00:17.965 --> 00:00:20.506 
+Obstajajo tudi določenimi grafični vzorci,
+
+00:00:20.923 --> 00:00:24.465 
+ki se izmuznejo očem 
+avtomatskih nadzornih kamer.
+
+00:00:24.506 --> 00:00:25.923 
+Toda kot smo se že naučili,
+
+00:00:25.965 --> 00:00:27.881 
+lahko stroj pretentamo tudi v primeru našega nabora podatkov.
+
+00:00:27.923 --> 00:00:32.423 
+Lahko ga, denimo, naučimo razlikovati
+med lepimi in grdimi ljudi tako,
+
+00:00:32.840 --> 00:00:35.215 
+da mu kot primer lepega človeka 
+pokažemo samo podobo svojega obraza.
+
+00:00:35.798 --> 00:00:38.673 
+Vse subjektivne kategorije,
+
+00:00:38.715 --> 00:00:42.423 
+npr. prikupen, neprikupen, 
+neumen, pameten,
+
+00:00:42.465 --> 00:00:45.006 
+so odvisne od osebe,
+ki pripravlja podatke.
+
+00:00:45.048 --> 00:00:47.340 
+Program lahko naučimo tudi,
+
+00:00:47.381 --> 00:00:50.006 
+da prepozna,
+ali je na fotografiji človek ali ne.
+
+00:00:50.381 --> 00:00:53.965 
+To naredimo tako da vse svoje fotografije, 
+na katerih so obrazi
+uvrstimo v kategorijo "ni človek".
+
+00:00:54.006 --> 00:00:55.756 
+Na tak način lahko ostanemo anonimni.
+
+00:00:55.798 --> 00:00:59.506 
+Sedaj bomo prevzeli nadzor nad podatki
+in ustvarili pristranski program.
+
+00:01:00.048 --> 00:01:02.173 
+Kako lahko stroj pretentamo s pomočjo podatkov?

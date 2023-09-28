@@ -1,0 +1,48 @@
+WEBVTT
+
+00:00:00.173 --> 00:00:04.423 
+Naš program zna narediti samo to,
+kar smo ga naučili!
+
+00:00:04.465 --> 00:00:07.215 
+Program prepozna samo tisto,
+kar smo mu pokazali.
+
+00:00:07.256 --> 00:00:09.881 
+Če ga naučimo
+prepoznati mačke ali pse,
+
+00:00:09.923 --> 00:00:11.465 
+na podobi ne bo znal prepoznati leva,
+
+00:00:11.506 --> 00:00:14.423 
+znal pa bo povedati 
+v katero kategorijo najverjetneje spada,
+
+00:00:14.465 --> 00:00:15.548 
+torej med mačke.
+
+00:00:16.131 --> 00:00:18.006 
+Inteligenten je le toliko, kolikor ga naučimo.
+
+00:00:18.048 --> 00:00:19.465 
+Ko odkrijemo nekaj novega,
+
+00:00:19.548 --> 00:00:21.423 
+tudi ljudje sprva ne vemo, za kaj gre.
+
+00:00:21.465 --> 00:00:22.965 
+Ko pa se naučimo, 
+
+00:00:23.048 --> 00:00:26.215 
+znamo to stvar prepoznati tudi
+v različnih drugih okoliščinah oz. kontekstih.
+
+00:00:26.506 --> 00:00:28.381 
+Ali za naš program velja enako?
+
+00:00:28.673 --> 00:00:30.340 
+Če ga naučimo prepoznati leva,
+
+00:00:30.423 --> 00:00:32.673 
+ali bo znal razlikovati med pravo živaljo in plišasto igračo?

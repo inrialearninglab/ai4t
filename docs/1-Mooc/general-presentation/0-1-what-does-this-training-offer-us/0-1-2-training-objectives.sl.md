@@ -18,6 +18,8 @@ description: Umestitev usposabljanja v evropski okvir
 
 ## Umetna inteligenca v izobraževanju
 
+To usposabljanje o umetni inteligenci za učitelje in celotno izobraževalno skupnost je bilo preizkušeno na evropski ravni v petih državah: Francija, Irska, Italija, Luksemburg in Slovenija.
+
 Cilj tega usposabljanja je večplasten:
 
 - **Demistificirati in razumeti umetno inteligenco**;

@@ -1,0 +1,316 @@
+1
+00:00:09,283 --> 00:00:11,502
+During the interaction with digital tools,
+
+2
+00:00:11,502 --> 00:00:12,773
+the learners leave behind
+
+3
+00:00:12,798 --> 00:00:14,735
+many “digital traces”.
+
+4
+00:00:14,931 --> 00:00:17,314
+There are traces they leave without effort,
+
+5
+00:00:17,314 --> 00:00:19,589
+for example, by accessing a service,
+
+6
+00:00:19,589 --> 00:00:20,471
+or a server,
+
+7
+00:00:20,581 --> 00:00:22,076
+they leave a trace of their connection
+
+8
+00:00:22,076 --> 00:00:23,089
+to that service.
+
+9
+00:00:23,526 --> 00:00:25,984
+There are also the traces left voluntarily
+
+10
+00:00:25,984 --> 00:00:28,891
+that demands some effort, by writing,
+
+11
+00:00:28,891 --> 00:00:31,431
+leaving comments, or rating, for example.
+
+12
+00:00:31,947 --> 00:00:33,184
+There are also the traces
+
+13
+00:00:33,184 --> 00:00:35,108
+associated with performance
+
+14
+00:00:35,108 --> 00:00:37,180
+and the results in activities
+
+15
+00:00:37,180 --> 00:00:39,705
+present in the digital learning environment.
+
+16
+00:00:40,634 --> 00:00:44,093
+These whole sets of traces generate data
+
+17
+00:00:44,179 --> 00:00:45,826
+that can be analysed
+
+18
+00:00:45,851 --> 00:00:48,483
+by artificial intelligence technologies.
+
+19
+00:00:49,030 --> 00:00:51,265
+The question we can then ask ourselves is:
+
+20
+00:00:51,741 --> 00:00:53,370
+How is it possible to analyse
+
+21
+00:00:53,370 --> 00:00:55,707
+this dataset of digital traces
+
+22
+00:00:55,707 --> 00:00:58,074
+to help pupils during their learning
+
+23
+00:00:58,074 --> 00:01:00,492
+and teachers in their pedagogy?
+
+24
+00:01:01,227 --> 00:01:03,530
+If we look at sports training, we can model
+
+25
+00:01:03,530 --> 00:01:06,072
+information about the activity duration,
+
+26
+00:01:06,072 --> 00:01:08,379
+the sleep hours, or recovery hours.
+
+27
+00:01:08,379 --> 00:01:10,872
+Other traces are much more precise
+
+28
+00:01:10,872 --> 00:01:12,381
+and can capture the so-called
+
+29
+00:01:12,381 --> 00:01:14,083
+biological signals,
+
+30
+00:01:14,083 --> 00:01:16,701
+including the athlete’s emotions.
+
+31
+00:01:17,514 --> 00:01:19,436
+In this context of sport,
+
+32
+00:01:19,436 --> 00:01:21,723
+the traces make it possible, for example,
+
+33
+00:01:21,723 --> 00:01:24,541
+to finetune the athlete’s training routine
+
+34
+00:01:24,541 --> 00:01:26,887
+or to provide better shoes.
+
+35
+00:01:27,247 --> 00:01:30,702
+What if we dare to imagine similar tools
+
+36
+00:01:30,702 --> 00:01:33,039
+that rely on artificial intelligence
+
+37
+00:01:33,039 --> 00:01:34,867
+to analyse digital traces
+
+38
+00:01:34,867 --> 00:01:37,682
+but in the educational context?
+
+39
+00:01:38,315 --> 00:01:39,779
+We can provide the pupils
+
+40
+00:01:39,779 --> 00:01:42,229
+with very powerful tools that will help them
+
+41
+00:01:42,229 --> 00:01:43,749
+to make a self-assessment about
+
+42
+00:01:43,749 --> 00:01:45,601
+their current status in comparison
+
+43
+00:01:45,601 --> 00:01:48,127
+to their objective competences and behavior,
+
+44
+00:01:48,127 --> 00:01:49,498
+in relation to the mistakes
+
+45
+00:01:49,498 --> 00:01:50,462
+they may have made,
+
+46
+00:01:50,462 --> 00:01:53,844
+but also in relation to the achieved successes.
+
+47
+00:01:53,844 --> 00:01:56,125
+It is also possible to provide them
+
+48
+00:01:56,125 --> 00:01:57,901
+with other useful information,
+
+49
+00:01:57,901 --> 00:01:59,672
+using predictive models.
+
+50
+00:01:59,672 --> 00:02:01,353
+We can, for instance,
+
+51
+00:02:01,353 --> 00:02:04,688
+offer them additional personalized resources
+
+52
+00:02:04,688 --> 00:02:05,909
+that will help them to enhance
+
+53
+00:02:05,909 --> 00:02:07,109
+their chances to succeed
+
+54
+00:02:07,109 --> 00:02:08,216
+on their learning path.
+
+55
+00:02:08,677 --> 00:02:11,286
+From the teachers’ perspective, we can ask:
+
+56
+00:02:11,286 --> 00:02:13,523
+How can the available learning traces
+
+57
+00:02:13,523 --> 00:02:15,301
+be used to help teachers to adapt
+
+58
+00:02:15,301 --> 00:02:18,000
+their teaching strategies and pedagogy?
+
+59
+00:02:18,000 --> 00:02:20,601
+By using a tool such as a dashboard,
+
+60
+00:02:20,601 --> 00:02:22,820
+the analysis and visualization
+
+61
+00:02:22,820 --> 00:02:25,282
+of students’ behavior can allow teachers
+
+62
+00:02:25,282 --> 00:02:28,212
+to better understand the status of a pupil
+
+63
+00:02:28,212 --> 00:02:31,014
+or a group of pupils at a given moment
+
+64
+00:02:31,014 --> 00:02:33,171
+or over time and, eventually,
+
+65
+00:02:33,171 --> 00:02:34,980
+to offer recommendations of actions
+
+66
+00:02:34,980 --> 00:02:37,562
+and resources to support teachers’ decision.
+
+67
+00:02:38,203 --> 00:02:39,804
+These recommendations
+
+68
+00:02:39,829 --> 00:02:42,291
+can be associated with explanations
+
+69
+00:02:42,291 --> 00:02:44,090
+to enable teachers to decide
+
+70
+00:02:44,090 --> 00:02:45,687
+whether or not to exploit them.
+
+71
+00:02:46,234 --> 00:02:48,343
+Finally, can all these insights
+
+72
+00:02:48,343 --> 00:02:50,289
+provided by AI tools
+
+73
+00:02:50,289 --> 00:02:51,974
+also enable the institution
+
+74
+00:02:51,974 --> 00:02:55,191
+to organise itself better, to renew itself,
+
+75
+00:02:55,191 --> 00:02:57,620
+and to no longer have these corridors
+
+76
+00:02:57,620 --> 00:02:59,027
+so well defined,
+
+77
+00:02:59,027 --> 00:03:01,272
+but paths that are more undulating,
+
+78
+00:03:01,272 --> 00:03:03,205
+a little more complex, and even,
+
+79
+00:03:03,205 --> 00:03:07,880
+above all, much more personalised?
+

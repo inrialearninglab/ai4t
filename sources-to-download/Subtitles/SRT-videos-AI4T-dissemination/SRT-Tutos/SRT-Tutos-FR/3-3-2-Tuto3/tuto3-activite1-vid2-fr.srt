@@ -1,0 +1,87 @@
+1
+00:00:04,516 --> 00:00:05,180
+Alors,
+
+2
+00:00:05,205 --> 00:00:07,727
+êtes-vous
+un bon réseau neuronal discriminateur ?
+
+3
+00:00:08,508 --> 00:00:10,640
+Chaque fois que l'image
+générée est considérée
+
+4
+00:00:10,640 --> 00:00:12,664
+comme réelle par le réseau discriminateur,
+
+5
+00:00:12,789 --> 00:00:14,600
+le réseau générateur renforce
+
+6
+00:00:14,600 --> 00:00:17,068
+ses paramètres et s'améliore
+ainsi progressivement.
+
+7
+00:00:17,640 --> 00:00:19,200
+Certains éléments de l'image
+
+8
+00:00:19,200 --> 00:00:21,920
+peuvent particulièrement
+trahir une IA générative :
+
+9
+00:00:22,326 --> 00:00:23,568
+le fond de l'image,
+
+10
+00:00:23,998 --> 00:00:24,928
+les dents,
+
+11
+00:00:25,482 --> 00:00:27,421
+l'asymétrie du visage et des yeux,
+
+12
+00:00:28,070 --> 00:00:29,914
+des zones inopinément floues,
+
+13
+00:00:30,203 --> 00:00:31,710
+une chevelure un peu bizarre.
+
+14
+00:00:32,507 --> 00:00:33,773
+En faisant attention,
+
+15
+00:00:33,798 --> 00:00:36,758
+les images générées par les GAN
+sont encore reconnaissables,
+
+16
+00:00:37,930 --> 00:00:40,249
+mais il se pourrait bien
+que ces bugs soient corrigés
+
+17
+00:00:40,274 --> 00:00:41,188
+dans les années à venir
+
+18
+00:00:41,213 --> 00:00:43,844
+et qu’il soit de plus en plus difficile
+de les distinguer !
+
+19
+00:00:44,321 --> 00:00:45,493
+Vous voulez réessayer ?
+
+20
+00:00:45,678 --> 00:00:47,338
+C'est vous qui décidez !
+

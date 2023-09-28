@@ -1,0 +1,50 @@
+﻿1
+00:00:00,396 --> 00:00:02,065
+L'art de préparer les données.
+
+2
+00:00:02,440 --> 00:00:04,502
+Préparer les données
+pour créer une IA
+
+3
+00:00:04,527 --> 00:00:07,111
+correspond à au moins 70 % du travail.
+
+4
+00:00:07,270 --> 00:00:08,580
+Les données sont très importantes
+
+5
+00:00:08,613 --> 00:00:10,073
+dans l'apprentissage d'un programme.
+
+6
+00:00:10,198 --> 00:00:11,699
+Comme on l'a vu précédemment,
+
+7
+00:00:11,783 --> 00:00:13,993
+la machine n'apprend
+que de ce qu'on lui montre.
+
+8
+00:00:14,160 --> 00:00:16,871
+Il faut donc prendre le temps
+de bien sélectionner ces données
+
+9
+00:00:16,996 --> 00:00:20,041
+et les préparer correctement
+ pour obtenir de beaux résultats.
+
+10
+00:00:20,208 --> 00:00:22,752
+Ce n'est pas toujours aussi facile
+ que ça en a l'air.
+
+11
+00:00:22,877 --> 00:00:25,672
+Voyons d'un peu plus près
+ et expérimentons.
+
