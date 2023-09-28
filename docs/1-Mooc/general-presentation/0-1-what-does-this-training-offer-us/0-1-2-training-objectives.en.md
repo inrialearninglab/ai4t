@@ -18,6 +18,7 @@ description: Locate the training in the European framework
 
 ## Artificial Intelligence in Education
 
+This training on Artificial Intelligence for teachers and the entire educational community was developed and experimented at the European level in 5 countries: France, Ireland, Italy, Luxembourg, and Slovenia.
 
 The objective of this training has several layers:
 

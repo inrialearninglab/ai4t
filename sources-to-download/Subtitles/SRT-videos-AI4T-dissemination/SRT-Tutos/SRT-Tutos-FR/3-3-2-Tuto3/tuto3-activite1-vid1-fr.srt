@@ -1,0 +1,75 @@
+1
+00:00:04,020 --> 00:00:05,176
+Pour créer des images,
+
+2
+00:00:05,201 --> 00:00:07,770
+l’IA s'appuie sur des réseaux
+de neurones très particuliers :
+
+3
+00:00:07,795 --> 00:00:09,793
+les réseaux antagonistes génératifs,
+
+4
+00:00:09,820 --> 00:00:13,488
+plus connus sous le nom de GAN
+en anglais Generative Adversarial Networks.
+
+5
+00:00:13,761 --> 00:00:16,488
+Le GAN est une sorte
+d’abracadabra bagarreur
+
+6
+00:00:16,513 --> 00:00:17,668
+pour créer des images.
+
+7
+00:00:18,433 --> 00:00:20,816
+Le GAN est constitué
+de deux réseaux de neurones
+
+8
+00:00:20,841 --> 00:00:22,361
+en compétition l'un contre l'autre
+
+9
+00:00:22,386 --> 00:00:24,600
+- le générateur et le discriminateur.
+
+10
+00:00:25,600 --> 00:00:27,443
+Ces deux réseaux neurones s’affrontent
+
+11
+00:00:27,468 --> 00:00:28,881
+et l'un cherche à tromper l'autre.
+
+12
+00:00:30,080 --> 00:00:33,430
+Ici la tâche pour le générateur
+est de générer de nouvelles images,
+
+13
+00:00:33,455 --> 00:00:35,392
+des milliers et des milliers d’images.
+
+14
+00:00:36,244 --> 00:00:37,562
+Et pour le discriminateur,
+
+15
+00:00:37,587 --> 00:00:39,962
+ de savoir s' il s’agit
+d’une image générée ou pas.
+
+16
+00:00:40,447 --> 00:00:43,228
+Et vous, êtes-vous
+un bon réseau de neurones discriminateur ?
+
+17
+00:00:43,400 --> 00:00:45,048
+Saurez-vous débusquer l'IA ?
+

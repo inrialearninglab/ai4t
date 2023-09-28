@@ -13,25 +13,17 @@ description: Opis splošne poti usposabljanja, ki je skupna vsem partnerjem
     - Licence: CC BY 4.0
     - Date: 2022-11-15
 
-# A Full Training Path on AI and Education
 
-Celovita pot usposabljanja je zasnovana in ustvarjena za evropske učitelje in vodstva šol, da sami raziskujejo, eksperimentirajo in se sprašujejo o uporabi umetne inteligence v izobraževanju. Pot traja tri mesece in vključuje:
+# Tečaj Mooc v središču celovitega programa usposabljanja o umetni inteligenci in izobraževanju
 
-- spletni tečaj usposabljanja, ki je zasnovan kot Mooc in je sestavljen iz 4 modulov s skupnim trajanjem od 2 do 3 ur,
+Celotna pot usposabljanja, ki temelji na napravi Mooc, je bila zasnovana in razvita tako, da lahko učitelji in celotna izobraževalna skupnost raziskujejo, eksperimentirajo in se sprašujejo o uporabi umetne inteligence v izobraževanju.
 
-- spletne vire za usposabljanje za nadaljnje delo na področju umetne inteligence in izobraževanja,
+V prvi polovici leta 2023 je bil testiran v petih partnerskih državah projekta.
 
-- spletni učbenik,
-
-- spletni seminarji za izmenjavo praks in mnenj,
-
-- ter vodena usposabljanja, osebna in spletna, za interakcijo udeležencev s strokovnjaki za umetno inteligenco in izobraževanje.
-
-Skupno trajanje usposabljanja je načrtovano za 3 mesece v obdobju od novembra 2022 do marca 2023, odvisno od držav, vključenih v eksperiment.
-
-Grafični prikaz včasih pomaga razumeti, kako je delovala.
+Tukaj je grafični prikaz tipične poti usposabljanja, ki je udeležencem predlagana na podlagi sistema Mooc.
 
 <figure>
   <img src="Images/AI4T-Training-pathway-en.png" alt="AI4T total project duration"/>
 </figure>
 
+Dobrodošli!

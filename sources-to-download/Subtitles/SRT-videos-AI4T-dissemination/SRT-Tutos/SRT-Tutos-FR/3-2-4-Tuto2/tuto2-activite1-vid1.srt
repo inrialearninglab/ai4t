@@ -1,0 +1,56 @@
+﻿1
+00:00:00,273 --> 00:00:01,983
+Des algorithmes et des données.
+
+2
+00:00:02,086 --> 00:00:05,254
+Aujourd'hui, quand on parle
+d'IA ou d'intelligence artificielle,
+
+3
+00:00:05,338 --> 00:00:07,743
+on parle le plus
+souvent d'apprentissage machine.
+
+4
+00:00:07,823 --> 00:00:10,640
+Contrairement aux algorithmes
+qu'on utilisait jusqu'ici
+
+5
+00:00:10,720 --> 00:00:14,498
+et qui consistaient à décrire pas à pas
+comment effectuer une opération,
+
+6
+00:00:14,578 --> 00:00:16,840
+un peu à la manière
+d'une recette de cuisine,
+
+7
+00:00:16,912 --> 00:00:19,365
+l'apprentissage machine
+consiste à entraîner
+
+8
+00:00:19,390 --> 00:00:22,366
+un programme à faire des prédictions
+à partir de données.
+
+9
+00:00:22,695 --> 00:00:24,032
+On s'en sert par exemple
+
+10
+00:00:24,112 --> 00:00:26,540
+pour prédire ce qu'un utilisateur va aimer
+
+11
+00:00:26,620 --> 00:00:28,766
+en fonction de ce qu'il a déjà aimé
+ou regardé.
+
+12
+00:00:28,846 --> 00:00:29,961
+Testons.
+

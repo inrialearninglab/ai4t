@@ -1,0 +1,66 @@
+﻿1
+00:00:00,273 --> 00:00:04,400
+Notre programme sait uniquement
+faire ce pourquoi il a été entraîné!
+
+2
+00:00:04,613 --> 00:00:07,148
+Le programme ne peut reconnaître
+que ce qu'on lui a montré.
+
+3
+00:00:07,274 --> 00:00:09,833
+Si on lui apprend à reconnaître
+des chats ou des chiens,
+
+4
+00:00:09,915 --> 00:00:11,418
+il ne pourra pas reconnaître des lions,
+
+5
+00:00:11,552 --> 00:00:14,370
+mais pourra nous dire vers quelles
+catégories ça se rapproche le plus,
+
+6
+00:00:14,577 --> 00:00:15,577
+des chats.
+
+7
+00:00:15,929 --> 00:00:18,125
+Il n'est pas plus intelligent
+que ce qu'on lui apprend.
+
+8
+00:00:18,207 --> 00:00:19,500
+Quand on découvre une nouvelle chose,
+
+9
+00:00:19,582 --> 00:00:21,375
+nous aussi,
+on ne sait pas tout de suite ce que c'est,
+
+10
+00:00:21,495 --> 00:00:22,953
+mais une fois cette chose apprise,
+
+11
+00:00:23,035 --> 00:00:26,247
+on est capable de la reconnaître dans
+des positions ou des contextes différents.
+
+12
+00:00:26,560 --> 00:00:28,417
+Est-ce que c'est pareil
+pour notre programme ?
+
+13
+00:00:28,727 --> 00:00:30,375
+Si on lui apprend
+à reconnaître des lions,
+
+14
+00:00:30,457 --> 00:00:32,625
+est-ce qu'il pourra reconnaître des lions
+en peluche ?
+

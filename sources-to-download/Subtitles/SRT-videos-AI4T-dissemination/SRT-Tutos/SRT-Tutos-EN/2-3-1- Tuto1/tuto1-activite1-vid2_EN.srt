@@ -1,0 +1,51 @@
+﻿1
+00:00:00,090 --> 00:00:01,131
+Magic?
+
+2
+00:00:01,881 --> 00:00:06,335
+The first step in making a program learn
+to recognise images is to train it.
+
+3
+00:00:06,607 --> 00:00:09,940
+This is what we call machine learning.
+
+4
+00:00:09,965 --> 00:00:12,552
+We'll show examples
+by telling it what it is.
+
+5
+00:00:12,590 --> 00:00:15,465
+Whether it's a picture of a cat or a dog,
+
+6
+00:00:15,506 --> 00:00:17,173
+we'll show it thousands of examples
+
+7
+00:00:17,215 --> 00:00:18,506
+of each thing we want it to recognise.
+
+8
+00:00:19,173 --> 00:00:21,340
+At first, it will make many mistakes,
+
+9
+00:00:21,381 --> 00:00:23,256
+but after seeing numerous examples,
+
+10
+00:00:23,298 --> 00:00:25,048
+it will be able to identify
+a picture of a cat
+
+11
+00:00:25,090 --> 00:00:26,965
+even in a photo it has never seen.
+
+12
+00:00:27,006 --> 00:00:29,548
+Now we can train our own AI.
+

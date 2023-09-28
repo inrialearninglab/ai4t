@@ -1,0 +1,33 @@
+WEBVTT
+
+00:00:00.423 --> 00:00:02.090 
+Umetnost priprave podatkov.
+
+00:00:02.548 --> 00:00:07.131 
+Pri ustvarjanju UI
+70% dela predstavlja priprava podatkov.
+
+00:00:07.173 --> 00:00:10.173 
+Podatki
+so pri strojnem učenju zelo pomembni.
+
+00:00:10.215 --> 00:00:11.756 
+Kot smo videli prej,
+
+00:00:11.798 --> 00:00:13.798 
+se stroj uči samo na podlagi tega,
+kar mu pokažemo,
+
+00:00:14.215 --> 00:00:16.965 
+zato si je treba vzeti čas
+in skrbno izbrati podatke
+
+00:00:17.006 --> 00:00:19.798 
+ter jih ustrezno pripraviti,
+saj bomo le tako dobili dobre rezultate.
+
+00:00:20.298 --> 00:00:22.840 
+To pa ni vedno tako preprosto, kot se sliši.
+
+00:00:23.215 --> 00:00:25.673 
+Poglejmo podrobno in preizkusimo.

@@ -16,7 +16,7 @@ description: Präsentation des Inhalts und der Organisation des Mooc
 # Was ist in diesem Kurs?
 
 ## Kursziel
-Das Hauptziel dieses Kurses ist es, Lehrern und Schulleitern eine grundlegende bis solide Kultur über KI zu vermitteln: KI verstehen, wie sie funktioniert, ihre Herausforderungen und Konsequenzen.
+Das Hauptziel dieses Kurses ist es, Lehrern und der gesamten Bildungsgemeinschaft eine grundlegende bis solide Kultur über KI zu vermitteln: KI verstehen, wie sie funktioniert, ihre Herausforderungen und Konsequenzen.
 
 Konkret soll der Kurs Lehrern helfen, sich eine eigene Meinung zu den folgenden Fragen zu bilden:
 

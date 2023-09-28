@@ -1,0 +1,68 @@
+1
+00:00:00,090 --> 00:00:01,131
+Sexist?
+
+2
+00:00:01,156 --> 00:00:02,718
+What if it was our data...
+
+3
+00:00:02,743 --> 00:00:05,062
+{\an5}You may have noticed
+that our model recognised
+
+4
+00:00:05,087 --> 00:00:07,109
+all people with long hair as women
+
+5
+00:00:07,178 --> 00:00:09,101
+and all those with short hair as men.
+
+6
+00:00:09,126 --> 00:00:10,335
+Without realising it,
+
+7
+00:00:10,360 --> 00:00:12,407
+we provided it with data that was sorted
+
+8
+00:00:12,432 --> 00:00:15,743
+{\an5}according to criteria
+other than those we had defined.
+
+9
+00:00:15,768 --> 00:00:19,666
+{\an5}How we sorted the data was influenced
+by our perception of the problem.
+
+10
+00:00:19,691 --> 00:00:22,557
+{\an5}When this happens,
+we say the data is biased.
+
+11
+00:00:22,582 --> 00:00:25,361
+{\an5}AI algorithms have been around
+for a long time,
+
+12
+00:00:25,386 --> 00:00:28,769
+{\an5}but they didn't work so well
+because we lacked labelled data.
+
+13
+00:00:28,794 --> 00:00:31,527
+{\an5}Today,
+data is available in large quantities.
+
+14
+00:00:31,552 --> 00:00:33,796
+That's why AI is so widespread.
+
+15
+00:00:33,821 --> 00:00:38,250
+{\an5}However, we have to be careful
+because this data can contain biases.
+

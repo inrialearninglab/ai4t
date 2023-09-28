@@ -1,0 +1,32 @@
+WEBVTT
+
+00:00:00.048 --> 00:00:02.006 
+Kaj lahko počnemo s takšnim programom?
+
+00:00:02.423 --> 00:00:05.798 
+Zdaj ko razumemo,
+kako učiti umetno inteligenco,
+
+00:00:05.840 --> 00:00:08.173 
+jo lahko naučimo česarkoli.
+
+00:00:08.590 --> 00:00:10.881 
+Lahko program naučim,
+
+00:00:10.923 --> 00:00:12.715 
+da prepozna razliko
+med skodelico in kozarcem?
+
+00:00:12.756 --> 00:00:15.090 
+Ali med pestjo in odprto dlanjo?
+
+00:00:15.423 --> 00:00:17.756 
+Med mojo modro srajco
+in rdečo majico s kratkimi rokavi?
+
+00:00:17.798 --> 00:00:21.465 
+Izberite dve kategoriji
+in deset primerov za vsako.
+
+00:00:21.715 --> 00:00:24.090 
+Prepričajte se, da sta izbrani kategoriji raznoliki.

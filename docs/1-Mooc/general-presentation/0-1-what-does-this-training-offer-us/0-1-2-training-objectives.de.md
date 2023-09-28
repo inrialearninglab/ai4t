@@ -18,6 +18,7 @@ description: Einordnung der Fortbildung in den europäischen Rahmen
 
 ## Künstliche Intelligenz in der Bildung
 
+Diese Schulung über künstliche Intelligenz für Lehrer und die gesamte Bildungsgemeinschaft wurde auf europäischer Ebene in 5 Ländern erprobt: Frankreich, Irland, Italien, Luxemburg und Slowenien. 
 
 Das Ziel dieser Fortbildung besteht aus mehreren Ebenen:
 

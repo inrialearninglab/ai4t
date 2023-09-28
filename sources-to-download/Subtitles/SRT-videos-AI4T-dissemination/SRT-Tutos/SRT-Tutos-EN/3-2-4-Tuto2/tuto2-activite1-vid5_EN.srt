@@ -1,0 +1,58 @@
+1
+00:00:00,090 --> 00:00:02,215
+Mastering data sets.
+
+2
+00:00:02,404 --> 00:00:05,984
+Artificial intelligence can only recognise
+what it has been taught.
+
+3
+00:00:06,118 --> 00:00:07,968
+The data you train the programme with
+
+4
+00:00:07,993 --> 00:00:10,553
+therefore has a strong influence
+on the results.
+
+5
+00:00:10,578 --> 00:00:14,357
+Mastering the data is a key element
+in mastering this technology
+
+6
+00:00:14,382 --> 00:00:15,965
+and the results you get from it.
+
+7
+00:00:16,105 --> 00:00:17,590
+We must always be careful
+
+8
+00:00:17,615 --> 00:00:19,965
+when looking at an AI program's results
+
+9
+00:00:20,082 --> 00:00:23,832
+and ask ourselves
+what data was used to train it.
+
+10
+00:00:24,006 --> 00:00:25,148
+Deliberately or not,
+
+11
+00:00:25,173 --> 00:00:28,131
+it may contain
+mechanically reproduced biases
+
+12
+00:00:28,204 --> 00:00:30,231
+that have significant consequences,
+
+13
+00:00:30,256 --> 00:00:33,465
+for recruitment, for example,
+or access to credit.
+

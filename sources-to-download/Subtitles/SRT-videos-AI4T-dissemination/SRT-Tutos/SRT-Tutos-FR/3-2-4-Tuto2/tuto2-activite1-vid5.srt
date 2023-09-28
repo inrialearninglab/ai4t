@@ -1,0 +1,60 @@
+﻿1
+00:00:00,059 --> 00:00:02,198
+Maîtriser les jeux de données.
+
+2
+00:00:02,486 --> 00:00:04,660
+L'intelligence artificielle
+ne sait reconnaître
+
+3
+00:00:04,742 --> 00:00:06,183
+que ce qu'on lui a appris.
+
+4
+00:00:06,282 --> 00:00:08,397
+Les données avec lesquelles
+on entraîne le programme
+
+5
+00:00:08,479 --> 00:00:10,400
+influent donc fortement sur les résultats.
+
+6
+00:00:10,482 --> 00:00:14,373
+Maîtriser les données est un élément clé
+pour maîtriser cette technologie
+
+7
+00:00:14,455 --> 00:00:15,988
+et les résultats que l'on en tire.
+
+8
+00:00:16,070 --> 00:00:17,440
+Il faut toujours être vigilant
+
+9
+00:00:17,522 --> 00:00:19,956
+lorsque l'on regarde les résultats
+d'un programme d'IA
+
+10
+00:00:20,190 --> 00:00:23,938
+et toujours se demander à partir
+de quelles données il a été entraîné.
+
+11
+00:00:24,020 --> 00:00:26,900
+Volontairement ou non,
+il peut contenir des biais
+
+12
+00:00:26,982 --> 00:00:30,117
+qui sont mécaniquement reproduits
+et qui ont des conséquences importantes,
+
+13
+00:00:30,253 --> 00:00:33,509
+pour un recrutement par exemple
+ou encore l'accès à un crédit.
+

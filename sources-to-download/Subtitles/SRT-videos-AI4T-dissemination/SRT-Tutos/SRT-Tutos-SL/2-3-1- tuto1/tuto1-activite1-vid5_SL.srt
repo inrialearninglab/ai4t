@@ -1,0 +1,48 @@
+WEBVTT
+
+00:00:00.048 --> 00:00:01.631 
+Ja, stroj se lahko zmoti!
+
+00:00:01.673 --> 00:00:03.340 
+Kar počne, je zgolj predvidevanje.
+
+00:00:03.840 --> 00:00:06.173 
+Prepoznavanje stvari v različnih okoliščinah
+
+00:00:06.215 --> 00:00:08.506 
+ali kontekstih se imenuje generalizacija.
+
+00:00:08.548 --> 00:00:09.798 
+K temu stremite,
+
+00:00:09.840 --> 00:00:11.840 
+ko program učite,
+kako naj prepozna določeno stvar.
+
+00:00:11.881 --> 00:00:16.048 
+Ljudje smo v generalizaciji dobri,
+ker težimo k približkom.
+
+00:00:16.506 --> 00:00:19.090 
+Naš program pa je sicer zelo zmogljiv,
+saj je izjemno natančen,
+
+00:00:19.131 --> 00:00:21.340 
+generalizacija pa mu ne gre tako dobro.
+
+00:00:21.881 --> 00:00:24.423 
+Vendar, če ga pravilno učimo,
+
+00:00:24.465 --> 00:00:26.840 
+tako da mu pokažemo na tisoče različnih primerov,
+
+00:00:26.881 --> 00:00:29.590 
+je lahko v nekaterih primerih
+bistveno natančnejši od ljudi.
+
+00:00:29.840 --> 00:00:34.048 
+Danes v medicini obstajajo programi,
+
+00:00:34.090 --> 00:00:35.840 
+ki so pri interpretiranju izvidov
+uspešnejši kot ljudje.

@@ -1,0 +1,80 @@
+WEBVTT
+
+00:00:00.090 --> 00:00:01.381 
+Kako pretentati stroj?
+
+00:00:01.423 --> 00:00:02.756 
+Kot ste lahko videli,
+
+00:00:02.798 --> 00:00:05.715 
+imajo podatki ključno vlogo
+pri učenju umetne inteligence.
+
+00:00:05.756 --> 00:00:07.756 
+Stroj lahko zlahka zavedemo.
+
+00:00:07.798 --> 00:00:09.631 
+Če želite učiti umetno inteligenco,
+
+00:00:09.673 --> 00:00:12.048 
+potrebujete na tisoče primerov,
+
+00:00:12.090 --> 00:00:13.173 
+in dobro morate vedeti, kakšni so.
+
+00:00:13.673 --> 00:00:16.423 
+Danes brez težav najdemo
+veliko število primerov, ki vsebujejo oznake,
+
+00:00:16.465 --> 00:00:20.923 
+s pomočjo katerih
+lahko rešimo težave z UI.
+
+00:00:20.965 --> 00:00:23.173 
+Ustvarite lahko
+svojo lastno zbirko podatkov
+
+00:00:23.215 --> 00:00:25.381 
+ali uporabite že obstoječo,
+
+00:00:25.423 --> 00:00:26.881 
+a kot sedaj že veste,
+
+00:00:26.923 --> 00:00:28.131 
+morate biti pri tem previdni,
+
+00:00:28.173 --> 00:00:31.256 
+saj prav lahko naletite
+na pristranske podatke,
+
+00:00:31.298 --> 00:00:32.506 
+če ne zastavite pravih vprašanj
+
+00:00:32.548 --> 00:00:34.006 
+ali če podatke neustrezno razvrstite.
+
+00:00:34.048 --> 00:00:35.756 
+Poznamo dve vrsti pristranskosti.
+
+00:00:35.798 --> 00:00:37.673 
+Pristranskost statističnih ocen,
+
+00:00:37.715 --> 00:00:40.131 
+kar je povezano
+z neustrezno pripravo podatkov, 
+
+00:00:40.173 --> 00:00:41.923 
+in družbeno ali kognitivno pristranskost.
+
+00:00:41.965 --> 00:00:43.423 
+To so človeški predsodki,
+
+00:00:43.465 --> 00:00:45.048 
+npr. neenaka obravnava spolov.
+
+00:00:45.090 --> 00:00:48.298 
+Nenazadnje je UI sad človeškega dela
+in vsebuje tisto, kar je človek vnesel vanjo,
+
+00:00:48.340 --> 00:00:50.131 
+skupaj z dobrimi nameni, pa tudi s predsodki.

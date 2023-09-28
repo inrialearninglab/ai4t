@@ -1,0 +1,100 @@
+1
+00:00:00,090 --> 00:00:01,381
+INGANNARE LA MACCHINA!
+
+2
+00:00:01,423 --> 00:00:02,526
+Come hai potuto vedere,
+
+3
+00:00:02,551 --> 00:00:05,821
+i dati giocano un ruolo fondamentale
+nell'apprendimento di un'IA.
+
+4
+00:00:05,846 --> 00:00:07,749
+Si può facilmente ingannare la macchina.
+
+5
+00:00:07,774 --> 00:00:09,376
+Per poter addestrare un'IA,
+
+6
+00:00:09,401 --> 00:00:13,236
+sono necessari migliaia e migliaia
+di esempi e di sapere di cosa si tratta.
+
+7
+00:00:13,355 --> 00:00:15,528
+Al giorno d'oggi, è facile trovare esempi
+
+8
+00:00:15,553 --> 00:00:17,848
+con delle etichette,
+o "<i>labels</i>" in inglese,
+
+9
+00:00:17,873 --> 00:00:19,933
+per risolvere questi problemi con l'IA.
+
+10
+00:00:19,958 --> 00:00:21,547
+Puoi creare il tuo set di dati,
+
+11
+00:00:21,572 --> 00:00:23,734
+o utilizzarne uno
+tra quelli già esistenti.
+
+12
+00:00:23,759 --> 00:00:26,755
+Come ormai saprai,
+bisogna essere prudenti con questi dati,
+
+13
+00:00:26,780 --> 00:00:29,363
+poiché si possono ottenere
+facilmente dati distorti,
+
+14
+00:00:29,388 --> 00:00:31,069
+se non ci si pone le domande giuste
+
+15
+00:00:31,094 --> 00:00:32,957
+o se non li si ordina correttamente.
+
+16
+00:00:32,982 --> 00:00:34,697
+Esistono due tipi di "<i>bias</i>":
+
+17
+00:00:34,722 --> 00:00:37,098
+la "distorsione" o <i>bias </i>statistico,
+
+18
+00:00:37,123 --> 00:00:39,851
+ovvero quello che riguarda
+un'errata preparazione dei dati,
+
+19
+00:00:39,876 --> 00:00:41,906
+e il <i>bias </i>sociale o cognitivo,
+
+20
+00:00:41,931 --> 00:00:43,485
+che riguarda i pregiudizi umani,
+
+21
+00:00:43,510 --> 00:00:45,261
+le questioni di genere, ad esempio.
+
+22
+00:00:45,286 --> 00:00:48,488
+In fin dei conti,
+l'IA resta una creazione degli umani,
+
+23
+00:00:48,513 --> 00:00:50,360
+tra buone intenzioni e pregiudizi.
+

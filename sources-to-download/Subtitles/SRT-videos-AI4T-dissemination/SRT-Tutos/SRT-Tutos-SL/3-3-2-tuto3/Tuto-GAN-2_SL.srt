@@ -1,0 +1,82 @@
+﻿1
+00:00:04,360 --> 00:00:06,120
+Ali je torej vaša nevronska mreža
+
+2
+00:00:06,120 --> 00:00:08,080
+učinkovit diskriminator?
+
+3
+00:00:08,080 --> 00:00:10,640
+Vsakič, ko diskriminator generirano podobo
+
+4
+00:00:10,640 --> 00:00:12,520
+označi kot resnično,
+
+5
+00:00:12,520 --> 00:00:14,600
+generator podpre določene parametre
+
+6
+00:00:14,600 --> 00:00:17,280
+in se tako postopoma izboljšuje.
+
+7
+00:00:17,280 --> 00:00:19,200
+Še posebej določeni elementi
+nam lahko razkrijejo,
+
+8
+00:00:19,200 --> 00:00:21,920
+da gre za podobo, generirano s pomočjo UI:
+
+9
+00:00:21,920 --> 00:00:23,800
+ozadje,
+
+10
+00:00:23,800 --> 00:00:24,840
+zobje,
+
+11
+00:00:24,840 --> 00:00:27,640
+asimetrija obraza ali oči,
+
+12
+00:00:27,640 --> 00:00:30,000
+zamegljena območja na nepričakovanih mestih,
+
+13
+00:00:30,000 --> 00:00:31,840
+nenavaden videz las ali pričeske.
+
+14
+00:00:31,840 --> 00:00:33,520
+Če pozorno pogledate,
+
+15
+00:00:33,520 --> 00:00:35,560
+so podobe ustvarjene z mrežami GAN
+
+16
+00:00:35,560 --> 00:00:37,360
+še vedno prepoznavne,
+
+17
+00:00:37,360 --> 00:00:41,640
+in te pomanjkljivosti bodo
+v prihodnjih letih zagotovo odpravljene,
+
+18
+00:00:41,640 --> 00:00:44,000
+zato jih bo vse težje
+razlikovati od resničnih!
+
+19
+00:00:44,000 --> 00:00:45,600
+Bi poskusili še enkrat?
+
+20
+00:00:45,600 --> 00:00:48,120
+Odločitev je vaša!

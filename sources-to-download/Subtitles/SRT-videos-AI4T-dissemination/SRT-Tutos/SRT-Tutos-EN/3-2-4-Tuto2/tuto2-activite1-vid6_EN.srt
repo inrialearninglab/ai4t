@@ -1,0 +1,99 @@
+1
+00:00:00,718 --> 00:00:03,673
+What if we play with the data
+to trick the machine?
+
+2
+00:00:04,232 --> 00:00:07,023
+The program will make predictions
+based on the categories
+
+3
+00:00:07,048 --> 00:00:09,953
+we have defined and the examples
+we have shown to it.
+
+4
+00:00:10,406 --> 00:00:13,169
+Once trained, it is possible to trick it.
+
+5
+00:00:13,380 --> 00:00:14,333
+For example,
+
+6
+00:00:14,358 --> 00:00:17,566
+there are jewellery items
+that can deceive facial recognition,
+
+7
+00:00:17,965 --> 00:00:19,810
+and signs with patterns
+
+8
+00:00:19,835 --> 00:00:22,803
+that can bypass
+automatic surveillance videos.
+
+9
+00:00:23,130 --> 00:00:24,920
+However, as we have learned,
+
+10
+00:00:24,945 --> 00:00:27,428
+we can also trick the machine
+with our data.
+
+11
+00:00:27,720 --> 00:00:32,268
+For example, we can train a program
+to recognise beautiful and ugly people,
+
+12
+00:00:32,293 --> 00:00:35,773
+by showing only our face
+as an example of beautiful people.
+
+13
+00:00:36,151 --> 00:00:38,970
+Generally speaking,
+all the subjective categories,
+
+14
+00:00:38,995 --> 00:00:41,966
+such as cute, not cute,
+stupid, intelligent,
+
+15
+00:00:41,991 --> 00:00:44,532
+depend on the person
+who prepares the data.
+
+16
+00:00:45,056 --> 00:00:46,700
+We can also train a program
+
+17
+00:00:46,733 --> 00:00:49,450
+to recognise whether there are people
+or not in the picture
+
+18
+00:00:49,475 --> 00:00:53,359
+by putting all our examples of faces
+in the no people category.
+
+19
+00:00:53,384 --> 00:00:55,921
+This enables us to go incognito.
+
+20
+00:00:55,992 --> 00:00:59,406
+We will now hijack the data
+to create a biased program.
+
+21
+00:01:00,000 --> 00:01:02,320
+How can we trick the machine
+with our data?
+

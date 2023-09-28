@@ -1,0 +1,56 @@
+1
+00:00:00,191 --> 00:00:01,232
+Čarovnija?
+
+2
+00:00:01,881 --> 00:00:04,381
+Če želimo, 
+da program prepozna določeno podobo,
+
+3
+00:00:04,406 --> 00:00:06,335
+ga moramo tega najprej naučiti.
+
+4
+00:00:06,430 --> 00:00:08,195
+Temu pravimo strojno učenje.
+
+5
+00:00:08,220 --> 00:00:11,759
+Pokažemo mu primere
+in za vsakega povemo, kaj predstavlja.
+
+6
+00:00:11,829 --> 00:00:13,907
+Naj gre za podobo mačke ali psa,
+
+7
+00:00:13,946 --> 00:00:16,727
+vsakič mu pokažemo
+na tisoče primerov tistega,
+
+8
+00:00:16,794 --> 00:00:18,833
+kar hočemo, da se nauči prepoznati.
+
+9
+00:00:18,858 --> 00:00:20,716
+Na začetku se bo velikokrat zmotil,
+
+10
+00:00:20,741 --> 00:00:22,724
+ko pa si bo ogledal veliko 
+število primerov,
+
+11
+00:00:22,774 --> 00:00:24,687
+bo že znal prepoznati podobo mačke,
+
+12
+00:00:24,757 --> 00:00:26,981
+tudi na sliki, ki je ni še nikdar videl.
+
+13
+00:00:27,044 --> 00:00:29,586
+Začnemo lahko z učenjem svoje lastne UI.
+

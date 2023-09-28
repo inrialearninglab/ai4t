@@ -16,9 +16,9 @@ description: Présentation du contenu &amp; de l'organisation du Mooc
 # Qu'y a-t-il dans ce cours ?
 
 ## Objectif du cours
-L'objectif principal de ce cours est de donner aux enseignants et aux chefs d'établissement une culture initiale ou plus poussée sur l'IA : comprendre l'IA, son fonctionnement, ses défis et ses conséquences.
+L'objectif principal de ce cours est de donner aux enseignants et à l'ensemble de la communauté éducative une culture initiale ou plus poussée sur l'IA : comprendre l'IA, son fonctionnement, ses défis et ses conséquences.
 
-De manière plus concrète, ce cours a été conçu pour aider les enseignants à se faire leur propre opinion sur les questions suivantes :
+De manière plus concrète, ce cours a été conçu pour aider les participants à se faire leur propre opinion sur les questions suivantes :
 
 - A quoi sert l'IA dans le contexte de l'éducation ?
 - Quel type d'IA pour quel objectif ?

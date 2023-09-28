@@ -1,0 +1,60 @@
+1
+00:00:00,646 --> 00:00:02,293
+PREGIUDIZI NEI DATI
+
+2
+00:00:02,514 --> 00:00:04,360
+Il programma non vede come noi.
+
+3
+00:00:04,385 --> 00:00:06,986
+Non conosce il concetto
+di "uomo" o di "donna".
+
+4
+00:00:07,131 --> 00:00:10,351
+Fa quelle che chiamiamo
+"approssimazioni statistiche".
+
+5
+00:00:10,838 --> 00:00:13,832
+Questa immagine si avvicina
+statisticamente di più
+
+6
+00:00:13,857 --> 00:00:18,088
+alle immagini etichettate come "donna"
+o alle immagini etichettate come "uomo"?
+
+7
+00:00:18,113 --> 00:00:19,240
+Che cosa ha visto?
+
+8
+00:00:19,265 --> 00:00:21,434
+Lo sfondo blu?
+Il colore della pelle?
+
+9
+00:00:21,459 --> 00:00:22,667
+Un paio di occhiali?
+
+10
+00:00:22,780 --> 00:00:26,420
+Il modo in cui scegliamo
+i nostri dati di input è fondamentale.
+
+11
+00:00:26,718 --> 00:00:30,013
+Scegliere i dati si sta rivelando
+una grande responsabilità.
+
+12
+00:00:30,423 --> 00:00:32,999
+Proviamo ora a correggere
+il nostro set di dati
+
+13
+00:00:33,024 --> 00:00:34,774
+per eliminare tutti i pregiudizi.
+

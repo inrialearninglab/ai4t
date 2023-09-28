@@ -1,0 +1,61 @@
+1
+00:00:00,048 --> 00:00:01,631
+It may be wrong!
+
+2
+00:00:01,673 --> 00:00:03,340
+It's just a prediction.
+
+3
+00:00:03,840 --> 00:00:05,906
+Recognising things in different positions
+
+4
+00:00:05,931 --> 00:00:08,506
+or contexts is called generalisation,
+
+5
+00:00:08,556 --> 00:00:09,806
+and that's what you try to do
+
+6
+00:00:09,840 --> 00:00:12,841
+when you train a programme
+to identify stuff.
+
+7
+00:00:12,872 --> 00:00:16,481
+We are very good at generalising
+because we are quite approximate.
+
+8
+00:00:16,506 --> 00:00:19,927
+Our program is very powerful
+because it is very accurate,
+
+9
+00:00:19,958 --> 00:00:22,068
+but it is not so good at generalising.
+
+10
+00:00:22,161 --> 00:00:24,423
+However, if we train it correctly
+
+11
+00:00:24,465 --> 00:00:26,296
+with thousands of different examples,
+
+12
+00:00:26,321 --> 00:00:29,590
+it can become more precise
+than a human being in certain cases.
+
+13
+00:00:29,840 --> 00:00:33,226
+Today, we have programs
+that can read medical images
+
+14
+00:00:33,251 --> 00:00:35,840
+more reliably than humans.
+

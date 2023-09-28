@@ -1,0 +1,63 @@
+1
+00:00:00,048 --> 00:00:01,631
+SÌ, PUÒ SBAGLIARSI!
+
+2
+00:00:01,673 --> 00:00:03,340
+Non sono altro che previsioni.
+
+3
+00:00:03,418 --> 00:00:06,893
+L'essere in grado di riconoscere
+le cose in posizioni o contesti diversi
+
+4
+00:00:06,918 --> 00:00:08,523
+si chiama "generalizzazione",
+
+5
+00:00:08,548 --> 00:00:10,066
+ed è ciò che si cerca di fare
+
+6
+00:00:10,091 --> 00:00:12,695
+quando si addestra un programma
+a riconoscere delle cose.
+
+7
+00:00:12,720 --> 00:00:16,326
+Siamo molto bravi a generalizzare
+perché siamo alquanto approssimativi.
+
+8
+00:00:16,351 --> 00:00:19,645
+Il nostro programma è molto potente
+perché è molto preciso,
+
+9
+00:00:19,670 --> 00:00:21,697
+ma quindi meno bravo a generalizzare.
+
+10
+00:00:21,722 --> 00:00:24,029
+Tuttavia, se lo si addestra correttamente,
+
+11
+00:00:24,054 --> 00:00:26,149
+con migliaia e migliaia di esempi diversi,
+
+12
+00:00:26,174 --> 00:00:29,301
+può, in certi casi, essere
+più preciso dell'essere umano.
+
+13
+00:00:29,326 --> 00:00:32,541
+Al giorno d'oggi, infatti, esistono
+dei programmi in grado di leggere
+
+14
+00:00:32,566 --> 00:00:35,866
+le immagini diagnostiche
+in modo più affidabile degli umani.
+

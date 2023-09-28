@@ -1,0 +1,338 @@
+WEBVTT
+
+00:00:04.486 --> 00:00:08.126
+ETIČNA UPORABA UI V IZOBRAŽEVANJU:
+IZZIVI EVROPE
+
+00:00:08.366 --> 00:00:11.886
+Če se želimo
+v evropskem kontekstu soočiti z izzivi,
+
+00:00:11.926 --> 00:00:17.326
+si na področju izobraževanja pomagati
+z vodičem za uporabo UI in podatkov,
+
+00:00:17.606 --> 00:00:20.806
+ki ga pripravlja Evropska komisija,
+
+00:00:21.966 --> 00:00:24.486
+se moramo zavedati,
+da na več ravneh obstaja več izzivov.
+
+00:00:25.086 --> 00:00:27.926
+SKUPNI PRISTOP
+ZA RAZLIČNE IZOBRAŽEVALNE SISTEME
+
+00:00:28.006 --> 00:00:31.406
+Prvi izziv
+v evropskem kontekstu je seveda to,
+
+00:00:31.446 --> 00:00:36.486
+da je treba upoštevati
+različne izobraževalne sisteme.
+
+00:00:36.526 --> 00:00:40.726
+Upoštevati je treba
+različne sisteme usposabljanja,
+
+00:00:40.766 --> 00:00:45.086
+čeprav se v vseh postavlja isto vprašanje.
+
+00:00:45.126 --> 00:00:49.766
+V evropskem kontekstu
+se je treba s tem izzivom soočiti,
+
+00:00:49.806 --> 00:00:56.006
+in sicer z osredotočenjem na vprašanja
+ter rešitve, ki so povsod enaki,
+
+00:00:56.046 --> 00:00:59.646
+prav tako pa z upoštevanjem
+velikega spektra razlik,
+
+00:00:59.886 --> 00:01:04.366
+ki so prisotne med državami,
+regijami, v posameznem lokalnem sistemu.
+
+00:01:04.406 --> 00:01:07.966
+Gre za prehod z lokalnega do nacionalnega
+in vse do evropskega nivoja.
+
+00:01:08.006 --> 00:01:12.126
+Morda je že čas,
+da se soočimo s tem izzivom in določimo,
+
+00:01:12.206 --> 00:01:17.406
+katere težave je treba rešiti.
+Hkrati je treba predlagati rešitve zanje,
+
+00:01:18.206 --> 00:01:24.126
+ob tem pa vsaki državi članici
+pustiti manevrski prostor za prilagoditve.
+
+00:01:24.366 --> 00:01:26.446
+Upoštevajoč prioritete držav članic,
+
+00:01:26.486 --> 00:01:29.486
+moramo seveda zagotoviti
+dodano vrednost na evropski ravni,
+
+00:01:29.526 --> 00:01:31.366
+pri tem pa upoštevati
+znanje vsakega posameznika.
+
+00:01:33.006 --> 00:01:35.086
+PREMIŠLJEN PRENOS V PRAKSO
+
+00:01:35.246 --> 00:01:40.046
+Drugi izziv se nanaša
+na etičen in premišljen pristop.
+
+00:01:40.286 --> 00:01:45.046
+Ta nas spodbuja
+k eksperimentiranju in določanju,
+
+00:01:45.086 --> 00:01:48.446
+kateri so tisti primeri uporabe,
+v katerih so UI,
+
+00:01:48.486 --> 00:01:52.606
+prav tako pa podatki,
+ki jih bomo uporabili, pomembni,
+
+00:01:52.686 --> 00:01:56.206
+saj nam bodo pomagali
+doseči zastavljene cilje,
+
+00:01:56.286 --> 00:01:59.406
+pa naj gre za učne ali karierne cilje.
+
+00:02:00.006 --> 00:02:03.846
+UI v glavnem uporabimo za identifikacijo.
+
+00:02:03.886 --> 00:02:10.406
+Z njeno pomočjo rešitve
+prilagodimo potrebam vsakega učenca,
+
+00:02:10.646 --> 00:02:13.366
+ukvarjamo se lahko z različnimi tempi,
+
+00:02:13.406 --> 00:02:15.166
+s potjo,
+
+00:02:15.206 --> 00:02:17.886
+ki jo bodo morda ubrali med šolanjem.
+
+00:02:18.086 --> 00:02:20.886
+Koristna je tudi na drugih področjih.
+
+00:02:20.926 --> 00:02:22.926
+Recimo ko gre za učence,
+ki imajo posebne potrebe,
+
+00:02:22.966 --> 00:02:26.086
+lahko predlaga prilagojene rešitve,
+
+00:02:26.126 --> 00:02:29.886
+s katerimi si lahko pomagajo učenci
+
+00:02:29.926 --> 00:02:31.926
+in tudi učitelji.
+
+00:02:31.966 --> 00:02:33.606
+To je zelo pomembno.
+
+00:02:33.646 --> 00:02:40.206
+Izziv morajo spremljati
+tudi povratne informacije glede dela.
+
+00:02:40.406 --> 00:02:46.326
+Povezan mora biti z raziskovalnim delom
+in digitalnim izobraževanjem,
+
+00:02:46.366 --> 00:02:50.766
+ki prav tako predstavlja enega od izzivov.
+
+00:02:50.806 --> 00:02:52.246
+Z drugimi besedami:
+
+00:02:52.686 --> 00:02:55.086
+izogibati se moramo temu,
+da bi ga obravnavali izolirano.
+
+00:02:55.166 --> 00:02:57.686
+Nikoli ne smemo delati sami.
+Delati moramo v skupini.
+
+00:02:57.726 --> 00:03:01.206
+Pri drugem izzivu je to ključno,
+
+00:03:01.246 --> 00:03:04.406
+če želimo oblikovati učinkovit pristop,
+ki bo etičen in premišljen
+
+00:03:04.766 --> 00:03:08.246
+in bo služil za namen
+ter v korist izobraževanja učencev.
+
+00:03:08.806 --> 00:03:11.646
+RAZVOJ POKLICNIH PRAKS
+
+00:03:11.766 --> 00:03:14.886
+Soočiti se je treba
+tudi s tretjim izzivom,
+
+00:03:14.926 --> 00:03:17.606
+in sicer dejstvom, da gre za nekaj novega.
+
+00:03:17.646 --> 00:03:22.326
+V izobraževanju UI in podatki,
+
+00:03:22.366 --> 00:03:25.246
+tudi v povezavi s tradicionalnimi
+digitalnimi tehnologijami,
+
+00:03:25.286 --> 00:03:27.726
+ki jih uporabljajo učitelji,
+
+00:03:27.966 --> 00:03:32.446
+zahtevajo sistemski in razvojni pristop.
+
+00:03:32.486 --> 00:03:37.926
+Gre za podatke, ki jih določimo za tiste,
+
+00:03:37.966 --> 00:03:42.046
+ki bodo uporabljeni
+pri analizi učnega procesa.
+
+00:03:42.086 --> 00:03:44.206
+Gre lahko za prilagojeno učenje,
+
+00:03:44.246 --> 00:03:47.846
+na primer.
+
+00:03:47.886 --> 00:03:53.966
+Imeti moram možnost,
+da razmislim o pomoči,
+
+00:03:54.006 --> 00:04:00.206
+vendar ne gre za pomoč,
+ki bi mi jo potencialno lahko nudili
+
+00:04:00.246 --> 00:04:03.166
+in ki bi zadevala specifičen vložek
+ter specifičen pričakovan rezultat.
+
+00:04:03.206 --> 00:04:07.646
+Z drugimi besedami:
+učne vaje, zaporedje učnih vaj,
+
+00:04:07.686 --> 00:04:12.366
+bodo najverjetneje vključevale elemente,
+
+00:04:12.406 --> 00:04:16.286
+ki mi bodo dali specifične
+ali manj specifične podatke o naučenem.
+
+00:04:16.326 --> 00:04:19.286
+To pomeni,
+da se bom moral v okviru poklicne prakse,
+
+00:04:19.326 --> 00:04:21.166
+v okviru strokovnega razvoja,
+
+00:04:21.206 --> 00:04:26.006
+navaditi na uporabo...
+
+00:04:28.726 --> 00:04:32.886
+analiz, ki jih lahko priskrbi UI,
+
+00:04:32.926 --> 00:04:36.326
+ko gre za obdelavo podatkov
+in številne podatke.
+
+00:04:36.366 --> 00:04:39.686
+Nekatere analize bi mi vzele preveč časa
+in jih ne bi mogel opraviti sam.
+
+00:04:39.766 --> 00:04:43.646
+Zdaj se lahko mirno lotevam stvari,
+
+00:04:44.286 --> 00:04:46.766
+ki jih nisem predhodno načrtoval.
+
+00:04:47.206 --> 00:04:49.246
+Postopoma se lahko na ta postopek navadim.
+
+00:04:49.286 --> 00:04:52.166
+Tisto, kar je pri tem na udaru,
+
+00:04:52.206 --> 00:04:55.006
+je razvoj poklicne kulture.
+
+00:04:55.246 --> 00:04:58.166
+Za družbo kot celoto je značilno,
+
+00:04:58.206 --> 00:05:01.686
+da so tehnologije UI v porastu.
+
+00:05:01.726 --> 00:05:04.486
+Povezane so z različnimi
+digitalnimi orodji in storitvami.
+
+00:05:05.006 --> 00:05:08.966
+Naj povzamem.
+Izzivi, ki v glavnem prihajajo s področij,
+
+00:05:09.166 --> 00:05:10.886
+kot sta pedagogika in didaktika,
+
+00:05:10.926 --> 00:05:13.846
+še posebej, ko gre za odnos
+med učiteljem in učencem,
+
+00:05:14.086 --> 00:05:19.966
+so eni od pomembnejših izzivov,
+saj spodbujajo preizpraševanje.
+
+00:05:20.006 --> 00:05:22.766
+Kot vedno,
+ko uporabljamo digitalne tehnologije,
+
+00:05:22.806 --> 00:05:26.406
+imamo tudi zdaj priložnost,
+da znova premislimo, kaj se učimo,
+
+00:05:26.446 --> 00:05:29.046
+zakaj se učimo in kako se učimo.
+
+00:05:29.486 --> 00:05:35.446
+Če želimo preizkusiti nove možnosti
+in si jih sploh ustvariti,
+
+00:05:35.486 --> 00:05:38.846
+se moramo zahvaliti metodam,
+
+00:05:39.166 --> 00:05:42.926
+ki omogočajo
+uporabo velikih količin podatkov.
+
+00:05:42.966 --> 00:05:46.806
+Tudi če si izvrsten učitelj,
+
+00:05:47.486 --> 00:05:52.926
+so ti podatki zelo uporabni, če jih
+uporabiš kot pomoč pri premagovanju ovir
+
+00:05:52.966 --> 00:05:57.126
+in če prevzameš odgovornost za svoje delo.
+
+00:05:57.166 --> 00:06:01.806
+To pomeni, da so pri tem
+ključni tudi medosebni odnosi.
+
+00:06:01.846 --> 00:06:03.806
+Na koncu seveda odloči učitelj,
+
+00:06:03.846 --> 00:06:05.766
+ne pa stroj.

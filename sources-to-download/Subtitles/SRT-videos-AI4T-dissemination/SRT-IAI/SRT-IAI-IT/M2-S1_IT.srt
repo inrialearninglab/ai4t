@@ -1,0 +1,157 @@
+1
+00:00:01,446 --> 00:00:02,719
+Il numero verde.
+
+2
+00:00:02,883 --> 00:00:05,117
+Guillaume. Che cosa la tormenta oggi?
+
+3
+00:00:05,369 --> 00:00:07,398
+Mio cugino Théo
+mi sta parlando di una pizza
+
+4
+00:00:07,423 --> 00:00:09,962
+creata con l'intelligenza artificiale,
+ma non ha senso.
+
+5
+00:00:10,126 --> 00:00:13,164
+No, ha ragione.
+Anche l'agroalimentare si dà da fare.
+
+6
+00:00:13,189 --> 00:00:15,321
+Beh, mi domando che sapore possa avere.
+
+7
+00:00:15,395 --> 00:00:17,860
+Hai mai leccato un circuito stampato?
+
+8
+00:00:18,494 --> 00:00:19,603
+Come si fa a mettere
+
+9
+00:00:19,628 --> 00:00:21,541
+l'intelligenza artificiale
+dentro una pizza?
+
+10
+00:00:21,566 --> 00:00:22,846
+C'è qualcosa che mi sfugge.
+
+11
+00:00:22,950 --> 00:00:26,169
+Intelligenza artificiale
+in tutte le salse?
+
+12
+00:00:26,552 --> 00:00:28,785
+Non mettono davvero l'IA dentro la pizza,
+
+13
+00:00:28,817 --> 00:00:30,169
+ma mettono un sacco di dati
+
+14
+00:00:30,194 --> 00:00:31,914
+in un modello di apprendimento automatico.
+
+15
+00:00:32,000 --> 00:00:34,075
+Per esempio, dati sugli ingredienti,
+
+16
+00:00:34,154 --> 00:00:36,738
+le preferenze dei clienti,
+prove di ricette
+
+17
+00:00:36,763 --> 00:00:38,262
+e le reazioni di chi le assaggia.
+
+18
+00:00:38,287 --> 00:00:39,638
+Grazie a tutti questi dati,
+
+19
+00:00:39,663 --> 00:00:41,935
+il modello genera
+numerose ricette diverse,
+
+20
+00:00:41,960 --> 00:00:43,866
+senza pregiudizi sul loro sapore
+
+21
+00:00:43,891 --> 00:00:47,211
+e predice per ciascuna
+il riscontro che troverà nei clienti.
+
+22
+00:00:47,236 --> 00:00:50,367
+Un momento. Se ho capito bene,
+mi sta dicendo che al giorno d'oggi
+
+23
+00:00:50,392 --> 00:00:53,297
+la nostra società utilizza
+delle statistiche per creare pizze?
+
+24
+00:00:53,398 --> 00:00:54,069
+Esatto.
+
+25
+00:00:54,094 --> 00:00:55,538
+Gli algoritmi del <i>machine learning</i>,
+
+26
+00:00:55,563 --> 00:00:57,661
+in effetti, trovano posto in molti settori
+
+27
+00:00:57,686 --> 00:00:59,210
+e il marketing non è escluso,
+
+28
+00:00:59,235 --> 00:01:02,248
+dal momento che i modelli
+possono essere alimentati con altri dati.
+
+29
+00:01:02,312 --> 00:01:03,671
+Ci vogliono molti dati?
+
+30
+00:01:03,846 --> 00:01:05,343
+Sì, richiede molti dati.
+
+31
+00:01:05,368 --> 00:01:07,538
+Peraltro, più gliene vengono forniti,
+
+32
+00:01:07,566 --> 00:01:09,240
+più i modelli di <i>machine learning</i>
+
+33
+00:01:09,265 --> 00:01:11,679
+imparano a predire correttamente
+i dati successivi.
+
+34
+00:01:11,726 --> 00:01:12,554
+Ora capisce?
+
+35
+00:01:12,579 --> 00:01:15,667
+Capisco meglio il legame con i <i>big data</i>,
+ma ancora non mi torna tutto.
+
+36
+00:01:15,692 --> 00:01:17,012
+Devo scavare più a fondo.
+

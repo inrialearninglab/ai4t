@@ -1,0 +1,79 @@
+﻿1
+00:00:00,127 --> 00:00:01,128
+Sexiste ?
+
+2
+00:00:01,407 --> 00:00:02,646
+Et si c'était nos données.
+
+3
+00:00:03,271 --> 00:00:06,181
+Tu as sûrement pu remarquer
+que notre modèle reconnaissait
+
+4
+00:00:06,262 --> 00:00:08,403
+toutes les personnes
+avec des cheveux longs comme des femmes
+
+5
+00:00:08,484 --> 00:00:10,484
+et toutes celles avec des cheveux courts
+comme des hommes.
+
+6
+00:00:10,893 --> 00:00:12,095
+Sans s'en rendre compte,
+
+7
+00:00:12,468 --> 00:00:14,499
+nous lui avons fourni des données
+qui étaient triées
+
+8
+00:00:14,579 --> 00:00:16,686
+selon d'autres critères
+que ceux que nous avions définis.
+
+9
+00:00:17,393 --> 00:00:20,331
+Le tri des données a été influencé
+par notre perception du problème.
+
+10
+00:00:20,812 --> 00:00:23,663
+Quand ça arrive, on dit que les données
+sont biaisées.
+
+11
+00:00:24,023 --> 00:00:26,113
+Les algorithmes d'IA existent
+depuis longtemps,
+
+12
+00:00:26,346 --> 00:00:27,524
+mais ils fonctionnaient moins bien
+
+13
+00:00:27,604 --> 00:00:29,314
+car nous manquions de données étiquetées.
+
+14
+00:00:29,775 --> 00:00:31,958
+Aujourd'hui, les données sont disponibles
+en grand nombre.
+
+15
+00:00:32,402 --> 00:00:34,333
+C'est pour ça que l'IA
+est autant répandue.
+
+16
+00:00:34,743 --> 00:00:35,866
+Mais il faut faire attention
+
+17
+00:00:35,976 --> 00:00:37,793
+car ces données
+peuvent contenir des biais.
+

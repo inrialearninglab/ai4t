@@ -1,0 +1,98 @@
+1
+00:00:00,090 --> 00:00:01,381
+Tricking the machine.
+
+2
+00:00:01,423 --> 00:00:02,664
+As you have seen,
+
+3
+00:00:02,689 --> 00:00:05,109
+data plays a key role in AI learning.
+
+4
+00:00:05,134 --> 00:00:06,960
+We can easily mislead the machine.
+
+5
+00:00:06,985 --> 00:00:08,546
+If you want to train AI,
+
+6
+00:00:08,571 --> 00:00:10,273
+you need thousands of examples
+
+7
+00:00:10,298 --> 00:00:11,930
+and you need to know what they are.
+
+8
+00:00:11,955 --> 00:00:14,321
+Nowadays, we can easily find examples
+
+9
+00:00:14,346 --> 00:00:16,969
+with labels to answer our AI problems.
+
+10
+00:00:17,019 --> 00:00:18,947
+You can create your own dataset
+
+11
+00:00:18,972 --> 00:00:20,541
+or use ready-made ones,
+
+12
+00:00:20,566 --> 00:00:22,024
+but as you know by now,
+
+13
+00:00:22,049 --> 00:00:24,214
+you have to be careful with such datasets
+
+14
+00:00:24,239 --> 00:00:26,487
+because you can easily get biased data
+
+15
+00:00:26,512 --> 00:00:28,606
+if you don't ask the right questions
+
+16
+00:00:28,631 --> 00:00:30,707
+or if you don't sort them properly.
+
+17
+00:00:30,732 --> 00:00:32,440
+There are two types of bias,
+
+18
+00:00:32,527 --> 00:00:34,880
+processing or statistical bias,
+
+19
+00:00:34,905 --> 00:00:37,286
+those that have to do
+with poor data preparation,
+
+20
+00:00:37,311 --> 00:00:39,662
+and societal or cognitive bias,
+
+21
+00:00:39,753 --> 00:00:41,795
+those that have to do with human bias,
+
+22
+00:00:41,820 --> 00:00:43,403
+gender issues for example.
+
+23
+00:00:43,574 --> 00:00:47,603
+At the end of the day,
+AI is human and what we put into it,
+
+24
+00:00:47,691 --> 00:00:50,429
+with both good intentions and biases.
+

@@ -13,25 +13,16 @@ description: Beschreibung des allgemeinen Ausbildungsweges, der für alle Partne
     - Licence: CC BY 4.0
     - Date: 2022-11-15
 
-# A Full Training Path on AI and Education (Ein vollständiger Ausbildungsweg für KI und Bildung)
+# Ein Mooc-Kurs als Kernstück eines umfassenden Schulungsprogramms zu KI und Bildung.
 
-Der vollständige Schulungspfad wurde für europäische Lehrer und Schulleiter entwickelt, die den Einsatz von KI in der Bildung untersuchen, ausprobieren und sich selbst in Frage stellen möchten. Er erstreckt sich über einen Zeitraum von 3 Monaten und beinhaltet:
+Der komplette Ausbildungsweg rund um den Mooc wurde so konzipiert und entwickelt, dass Lehrer und die gesamte Bildungsgemeinschaft den Einsatz von KI in der Bildung erforschen, ausprobieren und hinterfragen können.
 
-- den vorliegenden Online-Schulungskurs, der als Mooc konzipiert ist aus 4 Modulen mit einer Gesamtdauer von 2 bis 3 Stunden besteht,
+Es wurde in der ersten Hälfte des Jahres 2023 in den 5 Partnerländern des Projekts getestet.
 
-- Online-Schulungsressourcen zur Vertiefung des Themas KI und Bildung,
-
-- ein Online-Lehrbuch,
-
-- Webinare zum Austausch von Praktiken und Meinungen,
-
-- und angeleitete Schulungen (persönlich und online), bei denen die Teilnehmer mit KI- und Bildungsexperten interagieren können.
-
-Die Gesamtdauer der Schulung ist für drei Monate geplant und erstreckt sich über einen Zeitraum von November 2022 bis März 2023, abhängig von den am Experiment beteiligten Ländern.
-
-Manchmal hilft eine grafische Darstellung, um zu verstehen, wie es funktioniert hat.
+Hier ist eine grafische Darstellung des typischen Ausbildungsweges, der den Teilnehmern auf der Grundlage des Mooc vorgeschlagen wird.
 
 <figure>
   <img src="Images/AI4T-Training-pathway-en.png" alt="AI4T total project duration"/>
 </figure>
 
+Herzlich willkommen!

@@ -1,0 +1,108 @@
+1
+00:00:00,298 --> 00:00:04,173
+E SE GIOCASSIMO CON I DATI
+PER INGANNARE LA MACCHINA?
+
+2
+00:00:04,215 --> 00:00:06,013
+Il programma fa delle previsioni
+
+3
+00:00:06,038 --> 00:00:08,695
+sulla base dalle categorie
+che sono state definite
+
+4
+00:00:08,720 --> 00:00:11,010
+e degli esempi
+che gli sono stati mostrati.
+
+5
+00:00:11,035 --> 00:00:13,777
+Una volta addestrato,
+è possibile ingannarlo.
+
+6
+00:00:13,802 --> 00:00:15,183
+Esistono, ad esempio,
+
+7
+00:00:15,208 --> 00:00:18,406
+gioielli in grado di confondere
+il riconoscimento facciale,
+
+8
+00:00:18,431 --> 00:00:20,439
+così come cartelli con dei disegni
+
+9
+00:00:20,464 --> 00:00:23,912
+in grado di eludere la sorveglianza
+con rilevamento automatico.
+
+10
+00:00:23,937 --> 00:00:25,265
+Ma come abbiamo capito,
+
+11
+00:00:25,290 --> 00:00:28,103
+possiamo ingannare la macchina
+anche con i nostri dati.
+
+12
+00:00:28,128 --> 00:00:30,523
+Ad esempio,
+possiamo addestrare un programma
+
+13
+00:00:30,548 --> 00:00:33,232
+a riconoscere le persone belle
+e le persone brutte,
+
+14
+00:00:33,257 --> 00:00:36,446
+mostrando la nostra faccia
+come esempio di persona bella.
+
+15
+00:00:36,471 --> 00:00:39,413
+In linea generale,
+tutte le categorie soggettive,
+
+16
+00:00:39,438 --> 00:00:41,951
+piccolo, grande, stupido, intelligente...
+
+17
+00:00:41,976 --> 00:00:44,570
+dipendono dalla persona
+che preparerà i dati.
+
+18
+00:00:44,595 --> 00:00:46,364
+Si può anche addestrare un programma
+
+19
+00:00:46,389 --> 00:00:50,109
+a riconoscere se ci sono persone
+oppure no su un'immagine
+
+20
+00:00:50,134 --> 00:00:54,283
+mettendo gli esempi della nostra faccia
+nella categoria "nessuna persona".
+
+21
+00:00:54,308 --> 00:00:56,065
+Così si può passare inosservati.
+
+22
+00:00:56,090 --> 00:00:59,545
+Ora andremo a modificare i dati
+per creare un programma distorto.
+
+23
+00:00:59,589 --> 00:01:02,300
+Come si può ingannare
+la macchina attraverso i dati?
+

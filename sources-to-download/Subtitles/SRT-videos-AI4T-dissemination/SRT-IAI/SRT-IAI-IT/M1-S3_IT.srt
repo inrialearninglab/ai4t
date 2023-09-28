@@ -1,0 +1,651 @@
+WEBVTT
+
+00:00:09.806 --> 00:00:12.326
+Cos'è l'intelligenza artificiale?
+
+00:00:14.286 --> 00:00:17.926
+Ciao! Ho riflettuto molto su questa storia
+dell'intelligenza artificiale.
+
+00:00:17.966 --> 00:00:19.246 
+È appassionante.
+
+00:00:19.326 --> 00:00:21.246
+Mi sono informato,
+ho parlato con degli specialisti,
+
+00:00:21.326 --> 00:00:22.926 
+ricercatrici, ricercatori.
+
+00:00:23.006 --> 00:00:25.526
+Ho letto articoli,
+partecipato a conferenze,
+
+00:00:25.566 --> 00:00:27.046 
+ho scavato e approfondito.
+
+00:00:27.126 --> 00:00:29.726
+Mi sono spinto fino
+alla tomba del faraone.
+
+00:00:29.766 --> 00:00:32.646
+Per farla breve,
+sono andato fino in fondo.
+
+00:00:32.686 --> 00:00:34.366 
+Attenzione, è una cosa seria.
+
+00:00:35.246 --> 00:00:37.766
+Abbiamo pensato a voi,
+poiché vi abbiamo fornito tutte le fonti.
+
+00:00:37.806 --> 00:00:39.606
+In questo modo,
+potete andare a verificare voi stessi
+
+00:00:39.686 --> 00:00:42.806
+e, soprattutto, approfondire
+gli argomenti che interessano voi.
+
+00:00:42.886 --> 00:00:45.446 
+D'accordo? Allora ci siamo. Andiamo.
+
+00:00:46.206 --> 00:00:48.006 
+Storia degli algoritmi
+
+00:00:49.886 --> 00:00:53.086 
+Gli algoritmi sono ovunque intorno a noi.
+
+00:00:53.166 --> 00:00:56.246
+Suggerimento dei contenuti
+su Facebook: algoritmi.
+
+00:00:56.286 --> 00:01:00.766
+Localizzazione GPS
+che mi informa del traffico: algoritmi.
+
+00:01:00.806 --> 00:01:02.726
+- Riconoscimento del volto...
+- Algoritmi.
+
+00:01:02.806 --> 00:01:06.166 
+Esatto. Ma questi algoritmi cosa sono?
+
+00:01:06.246 --> 00:01:08.766 
+Cominciamo dall'inizio: l'informatica.
+
+00:01:08.806 --> 00:01:11.966
+L'informatica ha come oggetto
+il trattamento dell'informazione
+
+00:01:12.006 --> 00:01:14.006 
+in modo automatico, da cui il suo nome.
+
+00:01:14.086 --> 00:01:17.446
+Si avvale di macchine
+in grado di elaborare dei dati
+
+00:01:17.486 --> 00:01:18.326
+grazie a degli...
+- Algoritmi.
+
+00:01:18.406 --> 00:01:22.566
+Bravo, Théo, molto bene.
+Vedo che segui, mi fa piacere.
+
+00:01:22.646 --> 00:01:24.006 
+Ora, gli algoritmi,
+
+00:01:24.046 --> 00:01:26.286
+interrompetemi se sbaglio,
+sono un po' come...
+
+00:01:27.006 --> 00:01:28.926 
+una ricetta di cucina.
+
+00:01:29.006 --> 00:01:31.886
+Si tratta di una serie di istruzioni
+da seguire in un certo ordine
+
+00:01:31.966 --> 00:01:33.966
+per eseguire un compito
+in maniera automatica.
+
+00:01:34.006 --> 00:01:37.366
+Dicendo "in maniera automatica"
+si intende senza avere bisogno di capire
+
+00:01:37.406 --> 00:01:40.206
+o di riflettere.
+Perfetto per una macchina.
+
+00:01:40.766 --> 00:01:42.766
+Una volta che si ha
+questa lista di istruzioni,
+
+00:01:42.806 --> 00:01:45.686
+bisogna tradurla in un linguaggio
+comprensibile dal computer
+
+00:01:45.726 --> 00:01:48.726
+e così si ottiene...
+un programma informatico.
+
+00:01:48.806 --> 00:01:52.686
+I computer eseguono
+perfettamente e molto rapidamente
+
+00:01:52.726 --> 00:01:56.286
+ogni programma che descrive un algoritmo,
+il che li rende molto potenti.
+
+00:01:56.326 --> 00:01:59.686
+Del resto, negli anni '50,
+i ricercatori hanno iniziato a sognare.
+
+00:01:59.726 --> 00:02:03.246
+Hanno immaginato degli algoritmi
+che rendessero i computer
+
+00:02:03.286 --> 00:02:05.286 
+tanto intelligenti quanto gli umani.
+
+00:02:05.846 --> 00:02:08.126
+Come spiega Nicolas Rougier,
+ricercatore INRIA,
+
+00:02:08.166 --> 00:02:11.646
+sono stati fatti buoni progressi
+fino alla fine degli anni '70,
+
+00:02:11.686 --> 00:02:13.086 
+poi, la situazione è cambiata.
+
+00:02:13.126 --> 00:02:14.926 
+I risultati promessi non arrivavano.
+
+00:02:14.966 --> 00:02:17.006
+I fondi per la ricerca
+hanno smesso di arrivare
+
+00:02:17.046 --> 00:02:19.246 
+e si è assistito al primo inverno dell'IA.
+
+00:02:19.806 --> 00:02:22.966
+Dieci anni più tardi, ci fu una ripresa
+grazie ai sistemi esperti
+
+00:02:23.006 --> 00:02:25.606
+che hanno tentato di riprodurre
+il ragionamento di uno specialista,
+
+00:02:25.646 --> 00:02:26.646 
+ad esempio un medico,
+
+00:02:26.686 --> 00:02:29.526
+ma era necessario inserire le conoscenze
+umane all'interno delle macchine,
+
+00:02:29.566 --> 00:02:30.686 
+quando, invece, l'obiettivo
+
+00:02:30.726 --> 00:02:32.726
+era che le macchine
+imparassero tutto da sole.
+
+00:02:32.766 --> 00:02:34.726
+Ecco che si verifica
+il secondo inverno dell'IA.
+
+00:02:34.766 --> 00:02:37.126
+Alla fine degli anni '90,
+un fulmine a ciel sereno.
+
+00:02:37.206 --> 00:02:39.806 
+Deep Blue, il supercomputer di IBM,
+
+00:02:39.846 --> 00:02:42.766
+batte il campione del mondo di scacchi
+Garry Kasparov.
+
+00:02:42.806 --> 00:02:46.846
+Nel 2016, un altro fulmine.
+Un algoritmo di Google
+
+00:02:46.886 --> 00:02:48.726
+batte uno dei migliori giocatori
+al mondo di go,
+
+00:02:48.766 --> 00:02:51.486
+cosa che nessuno riteneva possibile
+da diversi anni.
+
+00:02:52.206 --> 00:02:55.526
+Infatti, la storia
+dell'intelligenza artificiale
+
+00:02:55.566 --> 00:02:57.846 
+è un'alternanza di progressi eclatanti,
+
+00:02:57.886 --> 00:02:59.166 
+ma anche di grandi delusioni.
+
+00:02:59.206 --> 00:03:01.526
+Ora, ci troviamo di nuovo
+in fase di crescita.
+
+00:03:01.566 --> 00:03:05.086
+Ma i nostri computer
+sono diventati intelligenti o no?
+
+00:03:05.166 --> 00:03:07.966 
+Bisognerebbe capire e definire chiaramente
+
+00:03:08.006 --> 00:03:11.206
+cos'è l'intelligenza biologica
+per poter definire, di conseguenza,
+
+00:03:11.246 --> 00:03:12.726 
+l'intelligenza artificiale.
+
+00:03:12.806 --> 00:03:17.086
+Prima, essere un giocatore di scacchi
+eccellente era una prova d'intelligenza.
+
+00:03:17.126 --> 00:03:19.246 
+Oggi, non è più sufficiente,
+
+00:03:19.286 --> 00:03:21.366
+poiché esiste una macchina
+che lo fa automaticamente.
+
+00:03:21.406 --> 00:03:23.686 
+La definizione di intelligenza biologica
+
+00:03:23.766 --> 00:03:26.966
+segue l'evoluzione
+dell'intelligenza artificiale.
+
+00:03:27.006 --> 00:03:28.686 
+È una domanda molto interessante.
+
+00:03:28.726 --> 00:03:30.846
+Ora tenterò,
+tenendo tutto in considerazione,
+
+00:03:30.886 --> 00:03:34.886
+di spiegarvi cos'è oggi, nel 2020,
+cos'è l'intelligenza biologica.
+
+00:03:35.526 --> 00:03:37.086 
+Intelligenza biologica
+
+00:03:38.486 --> 00:03:40.406
+Contemporaneamente
+all'intelligenza artificiale,
+
+00:03:40.446 --> 00:03:44.646
+sono nate le scienze cognitive
+che studiano l'intelligenza umana.
+
+00:03:44.686 --> 00:03:47.366
+Queste hanno permesso
+di identificare i diversi meccanismi
+
+00:03:47.406 --> 00:03:49.926
+che operano
+nel funzionamento del pensiero.
+
+00:03:49.966 --> 00:03:54.446
+Questo pensiero ci permette
+di percepire, di parlare, di muoverci,
+
+00:03:54.486 --> 00:03:59.126
+di memorizzare, di ragionare,
+di pianificare, di essere astratti,
+
+00:03:59.166 --> 00:04:01.326 
+o creativi, per i migliori tra noi.
+
+00:04:01.366 --> 00:04:03.286 
+Queste sono le nostre funzioni cognitive.
+
+00:04:03.846 --> 00:04:05.566 
+Per simulare l'intelligenza umana,
+
+00:04:05.606 --> 00:04:08.726
+l'idea era di riprodurre
+le funzioni cognitive.
+
+00:04:08.766 --> 00:04:11.806
+Per riuscirci, i ricercatori
+hanno optato per due approcci
+
+00:04:11.846 --> 00:04:14.286
+che sono un po' l'immagine
+del nostro modo di apprendere,
+
+00:04:14.326 --> 00:04:17.566
+sia per trasmissione di conoscenza,
+sia per tentativi
+
+00:04:17.606 --> 00:04:20.726
+a partire dall'osservazione del mondo
+e dalla sperimentazione.
+
+00:04:20.766 --> 00:04:23.086 
+I due sono complementari.
+
+00:04:23.766 --> 00:04:27.246
+L'approccio simbolico prova a imitare
+il ragionamento logico dell'umano
+
+00:04:27.286 --> 00:04:28.966 
+e il suo utilizzo delle conoscenze.
+
+00:04:29.566 --> 00:04:32.686
+Come ci spiega Thalita Firmo Drumond,
+dottoranda INRIA,
+
+00:04:32.726 --> 00:04:34.606
+una certa quantità di conoscenze
+ci viene trasmessa
+
+00:04:34.646 --> 00:04:37.846
+da un insieme di informazioni,
+di regole e di procedure.
+
+00:04:38.646 --> 00:04:40.846
+È il metodo preferito
+per le nozioni scolastiche,
+
+00:04:40.886 --> 00:04:43.126
+come imparare a fare le addizioni,
+ad esempio.
+
+00:04:43.166 --> 00:04:44.486 
+Quando facciamo un'addizione,
+
+00:04:44.526 --> 00:04:46.846
+possiamo spiegare come la facciamo
+passo dopo passo.
+
+00:04:47.286 --> 00:04:49.566
+Perciò è possibile, poi,
+scrivere un programma
+
+00:04:49.606 --> 00:04:52.806
+che spieghi alla macchina
+come procedere passo dopo passo.
+
+00:04:53.326 --> 00:04:56.286
+Così, la macchina potrà eseguirlo
+molto più rapidamente di noi
+
+00:04:56.326 --> 00:04:57.726 
+e senza sviste.
+
+00:04:58.446 --> 00:05:00.686
+Questo approccio
+ha portato ai sistemi esperti,
+
+00:05:00.726 --> 00:05:03.086
+che cercano di riprodurre
+il ragionamento di uno specialista,
+
+00:05:03.126 --> 00:05:06.006
+come un medico o un giurista,
+per risolvere un problema.
+
+00:05:06.246 --> 00:05:07.526 
+È proprio questo approccio
+
+00:05:07.566 --> 00:05:09.806
+ad aver avuto il vento in poppa
+negli anni '80.
+
+00:05:11.006 --> 00:05:12.926 
+Altre conoscenze nascono dall'esperienza
+
+00:05:12.966 --> 00:05:15.086 
+ed è molto più complicato spiegare
+
+00:05:15.126 --> 00:05:16.926 
+come si fanno cose
+
+00:05:16.966 --> 00:05:19.206
+quali andare in bicicletta
+o riconoscere un gatto.
+
+00:05:19.246 --> 00:05:21.166
+Vorrei davvero spiegare
+come si va in bicicletta,
+
+00:05:21.206 --> 00:05:23.166 
+ma è pedalando che si impara a pedalare.
+
+00:05:23.206 --> 00:05:25.206 
+È necessario fare quell'esperienza.
+
+00:05:25.566 --> 00:05:27.406 
+Questo è l'altro approccio,
+
+00:05:27.446 --> 00:05:30.646
+l'approccio numerico, o connessionista,
+che tenta di replicare
+
+00:05:30.686 --> 00:05:33.246
+il modo in cui l'essere umano
+impara dai tentativi e dagli errori
+
+00:05:33.286 --> 00:05:34.966 
+a partire dalle sue esperienze.
+
+00:05:35.246 --> 00:05:36.606 
+È questo l'approccio
+
+00:05:36.646 --> 00:05:38.646
+più al centro dell'attenzione
+al giorno d'oggi.
+
+00:05:39.046 --> 00:05:42.286
+Sapete, l'apprendimento automatico
+e le famose reti neurali.
+
+00:05:42.566 --> 00:05:45.246
+Okay, ma non hai ancora risposto
+alla vera domanda.
+
+00:05:45.286 --> 00:05:46.726 
+Che cos'è l'intelligenza?
+
+00:05:46.806 --> 00:05:49.406 
+L'intelligenza biologica? Ora ci arrivo.
+
+00:05:49.446 --> 00:05:53.246
+Frédéric Alexandre, ricercatore
+di neuroscienze computazionali,
+
+00:05:53.286 --> 00:05:55.046 
+ci dà i seguenti elementi di risposta.
+
+00:05:55.126 --> 00:05:57.646
+Essere intelligenti
+significa saper rispondere rapidamente
+
+00:05:57.686 --> 00:05:59.246 
+a una situazione complessa.
+
+00:05:59.966 --> 00:06:03.366
+Essere intelligenti significa
+trovare una risposta soddisfacente
+
+00:06:03.406 --> 00:06:05.846 
+invece che una risposta ottimale.
+
+00:06:05.886 --> 00:06:09.526
+Essere intelligente significa capire
+cos'è importante di un'informazione.
+
+00:06:09.606 --> 00:06:13.086
+Essere intelligenti significa
+sapersi adattare se le condizioni cambiano
+
+00:06:13.126 --> 00:06:15.486 
+o reagire a una situazione imprevista.
+
+00:06:15.806 --> 00:06:18.846
+Tutto questo, utilizzando una strategia
+caratteristica degli esseri viventi
+
+00:06:18.886 --> 00:06:21.806
+che mescola emozioni,
+motivazioni e creatività.
+
+00:06:21.886 --> 00:06:24.886
+La forza e la peculiarità
+dell'intelligenza biologica
+
+00:06:24.926 --> 00:06:27.126 
+che l'intelligenza artificiale non ha
+
+00:06:27.206 --> 00:06:30.526
+è la complementarità
+di questi aspetti emotivi e logici.
+
+00:06:30.566 --> 00:06:32.486 
+Capito. Il buon senso, quindi.
+
+00:06:32.526 --> 00:06:33.326 
+Se vogliamo.
+
+00:06:33.366 --> 00:06:37.286
+In realtà, per evitare le fantasie
+suscitate dall'intelligenza generale,
+
+00:06:37.326 --> 00:06:38.206 
+da cui siamo lontani,
+
+00:06:38.286 --> 00:06:42.086
+sarebbe meglio parlare
+di intelligenze artificiali al plurale.
+
+00:06:42.166 --> 00:06:45.126
+Tutte le intelligenze artificiali
+che incrociamo nella vita reale
+
+00:06:45.606 --> 00:06:48.526
+non sono neanche
+così tecniche e così specifiche.
+
+00:06:48.566 --> 00:06:50.166 
+Non possono fare altro che il compito
+
+00:06:50.206 --> 00:06:52.646
+per il quale sono state programmate
+o configurate.
+
+00:06:53.086 --> 00:06:55.366
+Un programma che batte
+il campione mondiale di scacchi
+
+00:06:55.446 --> 00:06:57.246 
+non sa riconoscere un'anatra.
+
+00:06:57.606 --> 00:07:00.366 
+Tuttavia, per un compito specifico,
+
+00:07:01.086 --> 00:07:05.206
+sono super efficienti
+e spesso molto migliori di noi.
+
+00:07:07.726 --> 00:07:09.886 
+Dai laboratori alle nostre case
+
+00:07:11.126 --> 00:07:13.086
+Negli ultimi anni,
+l'intelligenza artificiale
+
+00:07:13.166 --> 00:07:16.046
+è entrata di nuovo
+in una fase di sviluppo esponenziale.
+
+00:07:16.086 --> 00:07:18.686
+Questo grazie all'aumento
+dei dati disponibili,
+
+00:07:18.726 --> 00:07:20.646 
+alla potenza di calcolo dei computer,
+
+00:07:20.686 --> 00:07:23.726
+ma anche all'ottimizzazione
+degli algoritmi, naturalmente.
+
+00:07:24.046 --> 00:07:27.886
+I programmi di riconoscimento vocale,
+o delle immagini, o di traduzione,
+
+00:07:27.926 --> 00:07:30.286
+di cui ci si prendeva gioco
+ancora qualche anno fa, se ricordate,
+
+00:07:30.326 --> 00:07:33.366 
+ormai funzionano in modo stupefacente
+
+00:07:33.406 --> 00:07:35.806 
+grazie all'apprendimento automatico.
+
+00:07:36.486 --> 00:07:39.046
+L'intelligenza artificiale
+è uscita dai laboratori.
+
+00:07:39.086 --> 00:07:42.166
+Ormai, pervade e influisce
+su tutti i settori della società,
+
+00:07:42.206 --> 00:07:44.006 
+dalla finanza all'agricoltura,
+
+00:07:44.046 --> 00:07:47.166
+passando per la medicina e l'istruzione,
+fino alle nostre case.
+
+00:07:47.646 --> 00:07:49.326 
+In questo nostro mondo, divenuto digitale,
+
+00:07:49.366 --> 00:07:52.166
+incontriamo e utilizziamo
+ogni giorno, senza saperlo,
+
+00:07:52.206 --> 00:07:54.766
+l'intelligenza artificiale
+nei nostri oggetti di uso quotidiano,
+
+00:07:54.806 --> 00:07:55.926 
+macchine fotografiche,
+
+00:07:55.966 --> 00:07:58.406
+meccanismi di suggerimenti
+sui social network,
+
+00:07:58.446 --> 00:07:59.846 
+altoparlanti intelligenti.
+
+00:07:59.926 --> 00:08:01.686 
+Un mondo di algoritmi.
+
+00:08:01.726 --> 00:08:04.486
+Siamo noi esseri umani
+che dobbiamo decidere
+
+00:08:04.526 --> 00:08:07.566
+cosa questi sistemi possono fare
+per noi e non il contrario.
+
+00:08:07.926 --> 00:08:11.166
+Poiché queste tecnologie
+modellano profondamente la nostra società,
+
+00:08:11.206 --> 00:08:14.406
+è fondamentale comprendere
+come funzionano.

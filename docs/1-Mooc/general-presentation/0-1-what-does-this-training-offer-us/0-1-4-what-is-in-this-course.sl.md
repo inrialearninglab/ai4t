@@ -16,7 +16,7 @@ description: Predstavitev vsebine in organizacije Mooc
 # Kaj je v tem tečaju?
 
 ## Cilj tečaja
-Glavni cilj tega tečaja je učiteljem in vodstvom šol zagotoviti osnovno do trdno kulturo o umetni inteligenci: razumevanje umetne inteligence, njeno delovanje, izzive in posledice.
+Glavni cilj tega tečaja je učiteljem in celotni izobraževalni skupnosti zagotoviti osnovno do trdno kulturo o umetni inteligenci: razumevanje umetne inteligence, njeno delovanje, izzive in posledice.: razumevanje umetne inteligence, njeno delovanje, izzive in posledice.
 
 Konkretneje je bil ta tečaj zasnovan tako, da učiteljem pomaga pri oblikovanju lastnega mnenja o naslednjih vprašanjih:
 

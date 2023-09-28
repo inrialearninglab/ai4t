@@ -1,0 +1,349 @@
+﻿1
+00:00:03,955 --> 00:00:08,795
+Guidare gli studenti al successo attraverso
+l'osservazione dei processi di apprendimento.
+
+2
+00:00:09,280 --> 00:00:11,894
+Durante l'interazione
+con gli strumenti digitali,
+
+3
+00:00:11,919 --> 00:00:13,300
+gli studenti lasciano
+
+4
+00:00:13,325 --> 00:00:14,680
+molte "tracce digitali".
+
+5
+00:00:15,029 --> 00:00:17,238
+Ci sono tracce che lasciano 
+senza sforzo,
+
+6
+00:00:17,280 --> 00:00:19,611
+per esempio, accedendo a un servizio
+
+7
+00:00:19,636 --> 00:00:20,560
+o a un server,
+
+8
+00:00:20,560 --> 00:00:22,622
+lasciano una traccia
+della loro connessione
+
+9
+00:00:22,647 --> 00:00:23,653
+a quel servizio.
+
+10
+00:00:23,678 --> 00:00:26,331
+Ci sono anche le tracce
+lasciate volontariamente
+
+11
+00:00:26,356 --> 00:00:29,566
+che richiedono un certo sforzo,
+ad esempio scrivendo,
+
+12
+00:00:29,591 --> 00:00:31,750
+lasciando commenti o valutazioni.
+
+13
+00:00:32,454 --> 00:00:33,617
+Ci sono anche le tracce
+
+14
+00:00:33,642 --> 00:00:35,258
+associate alle prestazioni
+
+15
+00:00:35,291 --> 00:00:36,977
+e ai risultati delle attività
+
+16
+00:00:37,002 --> 00:00:40,080
+presenti nell'ambiente
+di apprendimento digitale.
+
+17
+00:00:41,244 --> 00:00:44,000
+Questi insiemi di tracce generano dati
+
+18
+00:00:44,000 --> 00:00:45,720
+che possono essere analizzati
+
+19
+00:00:45,720 --> 00:00:48,680
+dalle tecnologie
+di intelligenza artificiale.
+
+20
+00:00:48,680 --> 00:00:51,919
+La domanda che possiamo porci
+è quindi la seguente:
+
+21
+00:00:52,060 --> 00:00:53,732
+Come è possibile analizzare
+
+22
+00:00:53,757 --> 00:00:55,615
+questo insieme di tracce digitali
+
+23
+00:00:55,640 --> 00:00:58,005
+per aiutare gli studenti
+durante il loro apprendimento
+
+24
+00:00:58,169 --> 00:01:00,605
+e gli insegnanti nella loro pedagogia?
+
+25
+00:01:00,770 --> 00:01:04,237
+Se consideriamo l'allenamento sportivo,
+possiamo modellare
+
+26
+00:01:04,262 --> 00:01:06,259
+informazioni sulla durata dell'attività,
+
+27
+00:01:06,362 --> 00:01:09,010
+sulle ore di sonno o sulle 
+ore di recupero.
+
+28
+00:01:09,222 --> 00:01:11,457
+Altre tracce sono molto più precise
+
+29
+00:01:11,482 --> 00:01:13,620
+e possono catturare i cosiddetti
+
+30
+00:01:13,645 --> 00:01:14,730
+segnali biologici,
+
+31
+00:01:14,769 --> 00:01:17,040
+comprese le emozioni dell'atleta.
+
+32
+00:01:17,040 --> 00:01:19,400
+In questo contesto sportivo,
+
+33
+00:01:19,400 --> 00:01:21,720
+le tracce permettono, ad esempio,
+
+34
+00:01:21,720 --> 00:01:24,520
+di perfezionare la routine
+di allenamento dell'atleta
+
+35
+00:01:24,520 --> 00:01:26,109
+o di fornire scarpe migliori.
+
+36
+00:01:27,531 --> 00:01:30,680
+E se osassimo immaginare strumenti simili
+
+37
+00:01:30,680 --> 00:01:33,000
+che si basano sull'intelligenza artificiale
+
+38
+00:01:33,000 --> 00:01:34,840
+per analizzare le tracce digitali,
+
+39
+00:01:34,840 --> 00:01:36,365
+ma nel contesto educativo?
+
+40
+00:01:36,684 --> 00:01:38,560
+Possiamo fornire agli alunni
+
+41
+00:01:38,585 --> 00:01:40,474
+strumenti molto potenti che li aiutino
+
+42
+00:01:40,499 --> 00:01:42,019
+a fare un'autovalutazione
+
+43
+00:01:42,044 --> 00:01:44,755
+del loro stato attuale
+rispetto alle competenze
+
+44
+00:01:44,780 --> 00:01:46,599
+e ai comportamenti oggettivi,
+
+45
+00:01:46,624 --> 00:01:47,984
+in relazione agli errori
+
+46
+00:01:48,009 --> 00:01:49,411
+che possono aver commesso,
+
+47
+00:01:49,444 --> 00:01:51,628
+ma anche ai successi ottenuti.
+
+48
+00:01:51,958 --> 00:01:53,786
+È anche possibile fornire loro
+
+49
+00:01:53,811 --> 00:01:55,427
+altre informazioni utili,
+
+50
+00:01:55,452 --> 00:01:57,357
+utilizzando modelli predittivi.
+
+51
+00:01:57,561 --> 00:01:58,911
+Possiamo, ad esempio,
+
+52
+00:01:58,936 --> 00:02:01,591
+offrire loro ulteriori
+risorse personalizzate
+
+53
+00:02:01,616 --> 00:02:03,209
+che li aiutino ad aumentare
+
+54
+00:02:03,234 --> 00:02:04,639
+le possibilità di successo
+
+55
+00:02:04,664 --> 00:02:06,826
+nel loro percorso di apprendimento.
+
+56
+00:02:07,549 --> 00:02:10,591
+Dal punto di vista degli insegnanti,
+possiamo chiederci:
+
+57
+00:02:10,616 --> 00:02:13,388
+come si possono usare le tracce
+di apprendimento disponibili
+
+58
+00:02:13,413 --> 00:02:15,280
+per aiutare gli insegnanti ad adattare
+
+59
+00:02:15,280 --> 00:02:18,000
+le loro strategie di insegnamento
+e la loro pedagogia?
+
+60
+00:02:18,000 --> 00:02:20,464
+Utilizzando uno strumento
+come una dashboard,
+
+61
+00:02:20,495 --> 00:02:22,206
+l'analisi e la visualizzazione
+
+62
+00:02:22,231 --> 00:02:25,280
+del comportamento degli studenti
+può consentire agli insegnanti
+
+63
+00:02:25,280 --> 00:02:27,175
+di comprendere meglio
+lo stato di un alunno
+
+64
+00:02:27,200 --> 00:02:30,000
+o di un gruppo di alunni
+in un determinato momento,
+
+65
+00:02:30,025 --> 00:02:32,185
+piuttosto che in un intervallo temporale 
+più ampio,
+
+66
+00:02:32,209 --> 00:02:34,625
+e di conseguenza nel tempo e, infine,
+
+67
+00:02:34,650 --> 00:02:36,695
+di offrire raccomandazioni su azioni
+
+68
+00:02:36,720 --> 00:02:39,579
+e risorse a supporto
+delle decisioni degli insegnanti.
+
+69
+00:02:39,630 --> 00:02:40,989
+Queste raccomandazioni
+
+70
+00:02:41,014 --> 00:02:42,872
+possono essere associate a spiegazioni
+
+71
+00:02:42,897 --> 00:02:45,284
+per consentire agli insegnanti di decidere
+
+72
+00:02:45,309 --> 00:02:46,208
+se sfruttarle o meno.
+
+73
+00:02:46,840 --> 00:02:48,320
+Infine, tutte queste intuizioni
+
+74
+00:02:48,320 --> 00:02:50,982
+fornite dagli strumenti di IA
+
+75
+00:02:51,183 --> 00:02:53,498
+possono anche consentire all'istituzione
+
+76
+00:02:53,523 --> 00:02:54,716
+di organizzarsi meglio,
+
+77
+00:02:55,021 --> 00:02:57,652
+di rinnovarsi e di non avere 
+più questi corridoi
+
+78
+00:02:57,677 --> 00:02:59,000
+così ben definiti,
+
+79
+00:02:59,000 --> 00:03:01,240
+ma percorsi più ondulati,
+
+80
+00:03:01,240 --> 00:03:03,200
+un po' più complessi e anche,
+
+81
+00:03:03,200 --> 00:03:07,840
+soprattutto, molto più personalizzati?
+

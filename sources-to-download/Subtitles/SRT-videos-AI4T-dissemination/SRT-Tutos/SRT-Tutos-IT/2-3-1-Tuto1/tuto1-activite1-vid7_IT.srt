@@ -1,0 +1,120 @@
+1
+00:00:00,131 --> 00:00:02,465
+INCREDIBILE! MA A CHE SERVE?
+
+2
+00:00:02,506 --> 00:00:03,573
+Incredibile, no?
+
+3
+00:00:03,598 --> 00:00:04,765
+Beh, siamo d'accordo.
+
+4
+00:00:04,790 --> 00:00:07,315
+Il programma non riconosce davvero
+le nostre categorie,
+
+5
+00:00:07,340 --> 00:00:10,531
+ma associa l'etichetta che abbiamo scelto
+agli esempi che gli mostriamo.
+
+6
+00:00:10,556 --> 00:00:13,832
+Questa capacità di riconoscere le cose
+può risultare molto utile,
+
+7
+00:00:13,857 --> 00:00:17,206
+infatti troviamo sempre più IA
+nella nostra vita quotidiana.
+
+8
+00:00:17,231 --> 00:00:19,506
+Permette di tradurre
+automaticamente testi,
+
+9
+00:00:19,531 --> 00:00:21,654
+di comunicare con degli assistenti vocali,
+
+10
+00:00:21,679 --> 00:00:23,847
+o addirittura di migliorare
+le diagnosi mediche.
+
+11
+00:00:23,872 --> 00:00:27,948
+Gli informatici la usano anche per provare
+a costruire auto a guida autonoma,
+
+12
+00:00:27,973 --> 00:00:30,369
+ma sono numerosi
+gli utilizzi ancora da inventare
+
+13
+00:00:30,394 --> 00:00:32,708
+per il mondo del domani,
+più bello, più giusto,
+
+14
+00:00:32,733 --> 00:00:34,530
+più sostenibile e più semplice.
+
+15
+00:00:34,555 --> 00:00:36,202
+Aiutare le persone con disabilità,
+
+16
+00:00:36,227 --> 00:00:38,362
+ad esempio, sviluppando applicazioni
+
+17
+00:00:38,387 --> 00:00:41,315
+in grado di descrivere l'ambiente
+che circonda i non vedenti,
+
+18
+00:00:41,340 --> 00:00:44,461
+o di permettere a una persona paralizzata
+di scrivere un testo.
+
+19
+00:00:44,486 --> 00:00:46,767
+Rendere il lavoro
+più semplice e più stimolante,
+
+20
+00:00:46,792 --> 00:00:48,900
+automatizzando i compiti più ripetitivi.
+
+21
+00:00:49,040 --> 00:00:50,822
+Limitare il riscaldamento climatico
+
+22
+00:00:50,847 --> 00:00:54,106
+permettendo, ad esempio,
+di fare previsioni più precise sul futuro.
+
+23
+00:00:54,229 --> 00:00:56,309
+E noi, ora che sappiamo cos'è l'IA,
+
+24
+00:00:56,334 --> 00:00:58,596
+che altro possiamo immaginare
+di fare con essa?
+
+25
+00:00:58,621 --> 00:01:01,406
+Che soluzioni possiamo inventare
+per il mondo di domani?
+
+26
+00:01:01,431 --> 00:01:04,460
+Come possiamo sfruttarla nel quotidiano
+per esserci d'aiuto?
+

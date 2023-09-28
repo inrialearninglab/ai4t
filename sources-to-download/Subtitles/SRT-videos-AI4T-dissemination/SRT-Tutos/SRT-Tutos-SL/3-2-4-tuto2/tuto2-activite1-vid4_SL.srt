@@ -1,0 +1,50 @@
+WEBVTT
+
+00:00:00.465 --> 00:00:02.173 
+Pristranski podatki.
+
+00:00:02.215 --> 00:00:04.215 
+Program ne "vidi" na enak način kot ljudje.
+
+00:00:04.631 --> 00:00:06.673 
+Ne ve, kaj je to 'moški' ali 'ženska'.
+
+00:00:07.048 --> 00:00:10.090 
+Namesto tega uporablja
+tako imenovane statistične približke.
+
+00:00:11.090 --> 00:00:13.506 
+Je ta podoba
+statistično bolj podobna tistim,
+
+00:00:13.548 --> 00:00:15.256 
+ki so označene z opisom "ženska",
+
+00:00:15.298 --> 00:00:16.756 
+ali tistim, ki so označene z opisom "moški"?
+
+00:00:16.798 --> 00:00:17.840 
+Kaj je videl oz. zaznal program?
+
+00:00:18.340 --> 00:00:19.340 
+Modro ozadje?
+
+00:00:19.673 --> 00:00:20.923 
+Barvo kože?
+
+00:00:21.173 --> 00:00:22.506 
+Očala?
+
+00:00:22.548 --> 00:00:26.173 
+Način, kako izberemo vhodne podatke,
+je bistvenega pomena.
+
+00:00:26.923 --> 00:00:29.923 
+Ko izbiramo podatke,
+je na nas velika in pomembna odgovornost.
+
+00:00:30.423 --> 00:00:33.131 
+Poskušajmo sedaj popraviti naš nabor podatkov tako,
+
+00:00:33.173 --> 00:00:34.840 
+da ne bo več pristranski.

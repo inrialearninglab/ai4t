@@ -1,0 +1,129 @@
+﻿1
+00:00:00,271 --> 00:00:02,229
+Bluffant, mais ça sert à quoi ?
+
+2
+00:00:02,479 --> 00:00:03,521
+Bluffant, non ?
+
+3
+00:00:03,687 --> 00:00:05,021
+Bon, on est d'accord.
+
+4
+00:00:05,146 --> 00:00:07,187
+Le programme ne voit pas vraiment
+ nos catégories,
+
+5
+00:00:07,354 --> 00:00:10,729
+mais il associe l'étiquette qu'on a choisie
+aux exemples qu'on lui montre.
+
+6
+00:00:10,854 --> 00:00:13,312
+Cette capacité à reconnaître
+ des choses peut être très utile,
+
+7
+00:00:13,437 --> 00:00:15,896
+on trouve ainsi de plus
+en plus d'IA dans notre quotidien.
+
+8
+00:00:15,979 --> 00:00:18,021
+Elle permet de traduire automatiquement
+du texte,
+
+9
+00:00:18,187 --> 00:00:20,164
+de communiquer
+ avec des assistants vocaux
+
+10
+00:00:20,189 --> 00:00:22,844
+ ou encore d'améliorer
+les diagnostics médicaux.
+
+11
+00:00:22,937 --> 00:00:25,396
+Les informaticiens
+s'en servent aussi pour essayer
+
+12
+00:00:25,479 --> 00:00:26,937
+de construire des voitures autonomes,
+
+13
+00:00:27,062 --> 00:00:29,271
+mais de nombreux usages
+ sont encore à inventer
+
+14
+00:00:29,354 --> 00:00:31,521
+pour le monde de demain,
+ plus beau, plus juste,
+
+15
+00:00:31,604 --> 00:00:33,021
+plus durable, plus simple.
+
+16
+00:00:33,146 --> 00:00:35,062
+Aider les personnes
+en situation d'handicap,
+
+17
+00:00:35,229 --> 00:00:38,146
+avec par exemple
+ des applications capables
+
+18
+00:00:38,229 --> 00:00:40,521
+de décrire l'environnement
+ qui les entoure en nous voyant
+
+19
+00:00:40,646 --> 00:00:42,812
+ou permettre
+ à des paralysés d'écrire du texte,
+
+20
+00:00:42,979 --> 00:00:45,729
+rendre le travail plus simple
+et plus intéressant
+
+21
+00:00:45,854 --> 00:00:48,104
+en automatisant
+certaines tâches répétitives.
+
+22
+00:00:48,271 --> 00:00:51,187
+Limiter le réchauffement climatique
+en permettant,
+
+23
+00:00:51,271 --> 00:00:53,896
+par exemple, de faire des prédictions
+ plus précises du futur.
+
+24
+00:00:54,021 --> 00:00:56,187
+Nous, maintenant
+ que l'on sait ce qu'est l'IA,
+
+25
+00:00:56,312 --> 00:00:58,771
+que pouvons-nous imaginer d'autre avec ?
+
+26
+00:00:58,896 --> 00:01:01,812
+Quelles solutions pouvons-nous inventer
+pour le monde de demain ?
+
+27
+00:01:01,896 --> 00:01:04,437
+Comment pouvons-nous l'utiliser
+au quotidien pour nous aider ?
+

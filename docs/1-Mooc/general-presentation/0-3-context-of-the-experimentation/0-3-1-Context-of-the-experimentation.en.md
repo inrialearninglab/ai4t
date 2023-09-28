@@ -14,10 +14,7 @@ description: Conditions of learners traces collection
     - Date: 2022-11-15
 
 # Context of the experimentation
-On the different learning platforms (LMS or CMS) used by the 5 countries participating in this AI Training for teachers and school leaders, it is possible to follow the learning path of the participants. This is achieved using “learning traces” that reflect the learner's action when browsing the content of the course, watching a video, or doing an online activity.
 
-All collected traces related to the learning paths are pseudo-anonymized in order to prevent the identification of learners in compliance with the RGPD principles.
+The experimentation phase took place during the first half of 2023.
 
-In addition, this follow-up is never carried out in order to evaluate participants but is used for the experimentation and research purposes of this current experimentation only.
-
-This experiment was carried out during the large-scale testing phase of the AI4T project (autumn 2022 / spring 2023).
+The Mooc was offered to participants in the 5 partner countries on the national platforms dedicated to teacher training.

@@ -1,0 +1,745 @@
+WEBVTT
+
+00:00:10.286 --> 00:00:12.406
+<i>Machine learning</i>e dati
+
+00:00:14.246 --> 00:00:17.286
+Quando si parla di intelligenza
+artificiale, al giorno d'oggi,
+
+00:00:17.326 --> 00:00:20.126
+ci si riferisce, il più delle volte,
+al <i>machine learning,</i>
+
+00:00:20.166 --> 00:00:21.806
+o "apprendimento automatico" in italiano.
+
+00:00:21.886 --> 00:00:23.566
+Esistono due modi di apprendere.
+
+00:00:23.606 --> 00:00:26.366
+Uno viene dalle conoscenze
+che ci vengono trasmesse,
+
+00:00:26.406 --> 00:00:27.766
+ed è l'approccio simbolico,
+
+00:00:27.806 --> 00:00:30.286
+l'altro viene dall'esperienza
+che si acquisisce,
+
+00:00:30.326 --> 00:00:32.046
+ed è l'approccio numerico.
+
+00:00:32.126 --> 00:00:35.486
+L'apprendimento automatico
+si basa sull'approccio numerico,
+
+00:00:35.526 --> 00:00:37.366
+quello dell'esperienza.
+
+00:00:37.446 --> 00:00:40.886
+Il principio è non dire al computer
+esattamente cosa fare,
+
+00:00:40.926 --> 00:00:44.246
+ma programmarlo affinché apprenda
+a partire da degli esempi,
+
+00:00:44.286 --> 00:00:46.366
+basandosi su degli approcci statistici.
+
+00:00:47.646 --> 00:00:48.966
+Imparare ad apprendere
+
+00:00:50.566 --> 00:00:52.806
+Riprendo l'esempio di David Louapre,
+
+00:00:52.846 --> 00:00:55.526
+ricercatore e divulgatore scientifico,
+per farvi capire.
+
+00:00:55.566 --> 00:00:57.206
+Immaginate di essere un botanico.
+
+00:00:57.246 --> 00:00:58.366
+Passeggiate in una foresta,
+
+00:00:58.446 --> 00:00:59.846
+fate delle osservazioni.
+
+00:01:00.206 --> 00:01:02.726
+Rilevate l'altezza
+e il diametro degli alberi
+
+00:01:02.766 --> 00:01:04.606
+e inserite il tutto
+in una tabella di dati.
+
+00:01:04.686 --> 00:01:06.166
+Una volta rientrati,
+
+00:01:06.246 --> 00:01:09.126
+tracciate un grafico
+avente il diametro in ascissa
+
+00:01:09.166 --> 00:01:12.726
+e l'altezza in ordinata,
+su cui riportate i vostri dati.
+
+00:01:12.766 --> 00:01:14.046
+Molto rapidamente,
+
+00:01:14.086 --> 00:01:16.246
+vi renderete conto
+che i due parametri sono collegati
+
+00:01:16.286 --> 00:01:19.886
+e che facendo passare per i punti
+una retta, in questo caso,
+
+00:01:19.926 --> 00:01:23.046
+vi permetterà in seguito
+di prevedere l'altezza di un albero
+
+00:01:23.086 --> 00:01:24.686
+partire dal suo diametro.
+
+00:01:24.966 --> 00:01:27.126
+Il <i>machine learning</i>
+funziona nella stessa maniera.
+
+00:01:27.166 --> 00:01:29.406
+Vengono forniti al programma
+dei dati di input
+
+00:01:29.446 --> 00:01:30.726
+e dei dati di output.
+
+00:01:30.766 --> 00:01:33.726
+Viene addestrato
+a trovare la relazione tra i due,
+
+00:01:33.766 --> 00:01:35.046
+la famosa retta,
+
+00:01:35.086 --> 00:01:37.286
+regolando i suoi parametri di calcolo.
+
+00:01:37.326 --> 00:01:39.606
+Questo è ciò che viene chiamato
+generalizzazione.
+
+00:01:40.526 --> 00:01:42.886
+Una volta superata
+questa fase di apprendimento,
+
+00:01:42.926 --> 00:01:44.126
+si possono fare delle previsioni,
+
+00:01:44.166 --> 00:01:47.606
+vale a dire generare
+una risposta corretta su dati simili,
+
+00:01:47.646 --> 00:01:50.326
+ma sui quali il programma
+non è stato addestrato.
+
+00:01:51.126 --> 00:01:53.406
+È questo lo scopo
+dell'apprendimento automatico:
+
+00:01:53.446 --> 00:01:55.606
+essere in grado di fare delle previsioni.
+
+00:01:55.646 --> 00:01:58.126
+Previsioni che non sono
+necessariamente prevedibili.
+
+00:01:58.566 --> 00:02:00.206
+Come imparano a farlo, queste macchine?
+
+00:02:00.526 --> 00:02:03.126
+In realtà, esistono
+diverse tecniche di apprendimento.
+
+00:02:03.206 --> 00:02:05.046
+Parliamo solo delle due principali.
+
+00:02:05.446 --> 00:02:06.966
+L'apprendimento supervisionato,
+
+00:02:07.006 --> 00:02:09.086
+ovvero l'esempio del botanico
+che abbiamo appena visto.
+
+00:02:09.126 --> 00:02:10.966
+All'inizio, c'è una fase di addestramento,
+
+00:02:11.006 --> 00:02:13.886
+in cui all'algoritmo sono forniti
+dati etichettati dagli umani.
+
+00:02:13.926 --> 00:02:15.806
+Per questo viene definito
+"supervisionato".
+
+00:02:22.126 --> 00:02:24.126
+Successivamente,
+c'è la fase di previsione,
+
+00:02:24.166 --> 00:02:27.686
+in cui l'algoritmo dà una risposta
+a dati che non ha mai visto.
+
+00:02:31.766 --> 00:02:33.726
+Questo serve sia a estrapolare dei valori,
+
+00:02:33.766 --> 00:02:36.966
+ma serve anche a distinguere
+i gatti dai cani, ad esempio.
+
+00:02:41.446 --> 00:02:43.886
+Poi, c'è l'apprendimento per rinforzo,
+
+00:02:43.926 --> 00:02:47.166
+in cui l'algoritmo impara
+venendo immerso in un ambiente
+
+00:02:47.206 --> 00:02:49.006
+e regolando i suoi parametri
+
+00:02:49.046 --> 00:02:51.366
+in funzione della reazione
+positiva o negativa
+
+00:02:51.406 --> 00:02:52.926
+che segue ogni sua azione.
+
+00:02:52.966 --> 00:02:55.886
+Un po' come un bambino
+che impara ad andare in bicicletta,
+
+00:02:55.926 --> 00:02:58.406
+che cade e si rialza,
+che cade e si rialza.
+
+00:02:58.446 --> 00:03:02.326
+È un algoritmo utilizzato principalmente
+per robot e agenti autonomi
+
+00:03:02.366 --> 00:03:04.446
+e che funziona molto bene
+anche nei mondi virtuali
+
+00:03:04.486 --> 00:03:06.406
+o in situazioni specifiche.
+
+00:03:07.206 --> 00:03:09.486
+Dunque, perfetto per il gioco del go,
+
+00:03:09.526 --> 00:03:10.926
+ma meno per la guida autonoma.
+
+00:03:11.006 --> 00:03:14.486
+Immaginate se un'auto
+dovesse schiantarsi migliaia di volte
+
+00:03:14.526 --> 00:03:16.406
+prima che una macchina impari a guidarla.
+
+00:03:17.326 --> 00:03:18.686
+A ogni cosa, il suo algoritmo.
+
+00:03:18.726 --> 00:03:20.806
+Io, invece, ho sentito parlare
+di <i>deep learning</i>.
+
+00:03:20.846 --> 00:03:22.246
+Cos'è esattamente?
+
+00:03:22.286 --> 00:03:24.006
+Reti neurali
+
+00:03:25.126 --> 00:03:28.046
+Il <i>deep learning </i>è un metodo
+di apprendimento automatico
+
+00:03:28.086 --> 00:03:30.446
+che si avvale di reti neurali artificiali.
+
+00:03:30.526 --> 00:03:33.126
+Le reti neurali artificiali
+propongono un metodo di calcolo
+
+00:03:33.166 --> 00:03:34.846
+che si ispira al cervello.
+
+00:03:35.686 --> 00:03:38.886
+I neuroni biologici sono cellule
+connesse le une alle altre.
+
+00:03:38.926 --> 00:03:41.886
+Per dirla in modo semplice,
+quando un neurone riceve un segnale,
+
+00:03:41.926 --> 00:03:43.886
+può sia non inviare nulla,
+
+00:03:43.926 --> 00:03:45.766
+sia inviare un segnale a sua volta.
+
+00:03:47.246 --> 00:03:50.046
+I neuroni artificiali
+sono modelli matematici
+
+00:03:50.086 --> 00:03:53.206
+che imitano grossolanamente
+il funzionamento dei veri neuroni.
+
+00:03:54.086 --> 00:03:57.686
+Ogni neurone combina i suoi input
+e fornisce un output.
+
+00:03:58.886 --> 00:04:02.046
+Per funzioni complicate,
+si possono associare molti neuroni.
+
+00:04:02.086 --> 00:04:05.166
+Queste sono ciò che chiamiamo
+"reti neurali artificiali".
+
+00:04:06.006 --> 00:04:07.326
+Questo metodo non è nuovo.
+
+00:04:07.366 --> 00:04:08.966
+Infatti, risale agli anni '50,
+
+00:04:09.046 --> 00:04:12.726
+ma richiede una potenza di calcolo
+e una massa di dati considerevoli.
+
+00:04:12.806 --> 00:04:14.126
+A metà degli anni 2000,
+
+00:04:14.166 --> 00:04:17.046
+con l'aumento
+delle capacità dei processori
+
+00:04:17.086 --> 00:04:19.926
+e della massa di dati
+resi disponibili da Internet,
+
+00:04:20.446 --> 00:04:22.526
+tutto cambia
+e si è potuti passare alla fase profonda.
+
+00:04:23.006 --> 00:04:25.326
+I neuroni sono disposti
+in strati in sequenza.
+
+00:04:26.646 --> 00:04:28.806
+I risultati del primo strato di neuroni
+
+00:04:28.846 --> 00:04:30.726
+servono da input
+per i calcoli dei successivi
+
+00:04:31.846 --> 00:04:32.886
+e così via.
+
+00:04:36.166 --> 00:04:38.286
+Più strati ci sono,
+più il risultato è profondo.
+
+00:04:38.326 --> 00:04:41.646
+È per questo che l'apprendimento
+per reti neurali profonde
+
+00:04:41.686 --> 00:04:43.166
+è chiamato "<i>deep learning</i>".
+
+00:04:43.766 --> 00:04:45.966
+Prendiamo ad esempio
+il riconoscimento delle immagini.
+
+00:04:46.246 --> 00:04:48.806
+Come fa la rete neurale
+a imparare per conto proprio
+
+00:04:48.846 --> 00:04:51.926
+a riconoscere l'immagine di un gatto,
+se non vede altro che pixel?
+
+00:04:52.286 --> 00:04:54.646
+A partire da migliaia di foto di gatti
+che le sono state fornite
+
+00:04:54.686 --> 00:04:56.366
+ed etichettate come "gatto",
+
+00:04:56.406 --> 00:04:59.406
+sarà in grado di adeguare
+i propri parametri di calcolo
+
+00:04:59.446 --> 00:05:01.086
+per estrapolare delle caratteristiche
+
+00:05:01.126 --> 00:05:03.686
+che determinano,
+in qualche modo, cos'è un gatto.
+
+00:05:06.086 --> 00:05:09.206
+Una volta che il programma
+ha acquisito la nozione di "gatto"
+
+00:05:09.246 --> 00:05:12.446
+può fare una previsione
+su un'immagine mai vista prima.
+
+00:05:12.486 --> 00:05:13.846
+FACILE, È UN GATTO.
+
+00:05:13.926 --> 00:05:17.246
+È certo che, all'inizio,
+la rete sbaglierà tanto,
+
+00:05:17.286 --> 00:05:18.286
+davvero tanto,
+
+00:05:18.326 --> 00:05:20.446
+ma il modello si costruisce
+con gli aggiustamenti,
+
+00:05:20.526 --> 00:05:22.846
+con piccole modifiche,
+così, una dopo l'altra.
+
+00:05:22.886 --> 00:05:26.246
+A forza di confrontare i risultati
+e di aggiustare i calcoli,
+
+00:05:26.286 --> 00:05:28.966
+diventerà in grado di riconoscere un gatto
+
+00:05:29.006 --> 00:05:30.926
+all'interno di un'immagine
+che non ha mai visto.
+
+00:05:31.446 --> 00:05:33.686
+Esattamente, è statistica.
+
+00:05:33.726 --> 00:05:37.406
+Come ci spiega Marc Schoenauer,
+direttore della ricerca dell'INRIA,
+
+00:05:37.446 --> 00:05:41.006
+non si tratta più di programmare qualcosa
+per ottenere un risultato esatto,
+
+00:05:41.046 --> 00:05:45.366
+ma di ottenere modelli, seppur imprecisi,
+a partire da dei dati.
+
+00:05:45.446 --> 00:05:47.206
+Ecco spiegata l'importanza dei dati.
+
+00:05:47.246 --> 00:05:49.246
+Si potrebbe avere
+il miglior algoritmo del mondo,
+
+00:05:49.286 --> 00:05:52.566
+ma se i dati sono sbagliati,
+poco numerosi o mal etichettati,
+
+00:05:52.766 --> 00:05:54.086
+lo saranno anche i risultati.
+
+00:05:55.246 --> 00:05:56.646
+L'importanza dei dati
+
+00:05:58.446 --> 00:06:01.166
+Esempio: se si addestra un algoritmo
+
+00:06:01.206 --> 00:06:02.966
+a riconoscere una pecora in un'immagine
+
+00:06:03.046 --> 00:06:05.206
+mostrandogli solo pecore bianche,
+
+00:06:05.246 --> 00:06:07.286
+non riuscirà a riconoscere le pecore nere.
+
+00:06:07.366 --> 00:06:10.606
+È necessario che i dati siano vari
+e sufficientemente numerosi,
+
+00:06:10.646 --> 00:06:13.326
+altrimenti, la generalizzazione
+non sarà possibile.
+
+00:06:13.726 --> 00:06:15.526
+È necessario anche
+che i dati siano ben etichettati.
+
+00:06:15.886 --> 00:06:18.966
+Per addestrare bene un'IA
+a riconoscere delle pecore in un'immagine,
+
+00:06:19.006 --> 00:06:21.326
+non bastano numerose foto di pecore,
+
+00:06:21.366 --> 00:06:24.166
+ma devono anche essere ben etichettate.
+
+00:06:24.206 --> 00:06:27.046
+In questo caso, significa
+che la pecora dev'essere inquadrata
+
+00:06:27.086 --> 00:06:29.846
+e che sia precisato che quella foto
+corrisponde a una pecora.
+
+00:06:32.646 --> 00:06:35.326
+Come abbiamo visto,
+questo vale per migliaia di immagini
+
+00:06:35.366 --> 00:06:37.046
+che devono essere etichettate a mano
+
+00:06:37.086 --> 00:06:39.006
+affinché l'IA
+possa apprendere correttamente
+
+00:06:39.046 --> 00:06:40.566
+e fare poi previsioni accurate
+
+00:06:40.606 --> 00:06:43.206
+a partire da immagini
+che non saranno più etichettate.
+
+00:06:44.166 --> 00:06:47.966
+È un lavoro lungo e faticoso,
+senza dubbio, ma molto importante,
+
+00:06:48.006 --> 00:06:51.166
+perché delle etichette sbagliate
+portano a previsioni sbagliate.
+
+00:06:52.566 --> 00:06:55.286
+A volte, etichettiamo dei dati
+senza rendercene conto.
+
+00:06:55.366 --> 00:06:57.086
+Avete presente quei CAPTCHA
+
+00:06:57.126 --> 00:06:59.646
+in cui bisogna riconoscere i riquadri
+che rappresentano delle auto?
+
+00:07:00.046 --> 00:07:02.126
+Ecco, in quel momento
+state etichettando un'immagine
+
+00:07:02.166 --> 00:07:04.246
+o state verificando
+se è stata annotata correttamente
+
+00:07:04.286 --> 00:07:07.686
+e non necessariamente "dimostrando"
+che siete un essere umano.
+
+00:07:07.726 --> 00:07:10.486
+Peraltro, c'è tutta
+una parte di lavoro invisibile
+
+00:07:10.526 --> 00:07:13.846
+effettuata da esseri umani
+pagati qualche euro al giorno
+
+00:07:13.886 --> 00:07:15.726
+per cliccare su determinate immagini.
+
+00:07:15.766 --> 00:07:17.926
+Avete sentito parlare
+del Mechanical Turk di Amazon?
+
+00:07:17.966 --> 00:07:19.886
+Sì, ho visto il sito.
+
+00:07:20.326 --> 00:07:21.806
+Effettivamente, le tariffe sono irrisorie.
+
+00:07:21.886 --> 00:07:23.246
+"I lavoratori del clic".
+
+00:07:23.486 --> 00:07:25.646
+E questi dati da dove vengono?
+
+00:07:25.726 --> 00:07:28.126
+I dati possono essere
+raccolti automaticamente
+
+00:07:28.166 --> 00:07:30.286
+tramite rilevatori come telescopi,
+
+00:07:30.326 --> 00:07:32.966
+telecamere di sorveglianza, microfoni,
+
+00:07:33.206 --> 00:07:35.726
+sensori per misurare
+la qualità dell'aria...
+
+00:07:35.966 --> 00:07:39.046
+Ma possono anche
+essere prodotti dagli utilizzatori,
+
+00:07:39.086 --> 00:07:41.966
+soprattutto attraverso le ricerche
+sottoposte ai motori di ricerca,
+
+00:07:42.006 --> 00:07:44.886
+i post e i commenti sui social network,
+
+00:07:44.926 --> 00:07:49.326
+i dispositivi connessi,
+gli acquisti fatti con carte di credito...
+
+00:07:50.286 --> 00:07:53.606
+È uno scambio di servizi gratuiti
+tra noi e le grandi aziende.
+
+00:07:53.646 --> 00:07:54.526
+È così.
+
+00:07:54.566 --> 00:07:56.646
+Se il servizio è gratuito,
+il prodotto sei tu.
+
+00:07:57.166 --> 00:07:58.166
+Già.
+
+00:07:58.206 --> 00:07:59.326
+In effetti, è vero.
+
+00:07:59.366 --> 00:08:01.806
+I dati sono nelle mani
+di grandi aziende private
+
+00:08:01.846 --> 00:08:03.526
+americane e cinesi, principalmente.
+
+00:08:03.566 --> 00:08:05.686
+E questo crea problemi di indipendenza.
+
+00:08:05.966 --> 00:08:08.606
+Attualmente, in Cina è stato istituito
+un sistema di credito sociale
+
+00:08:08.646 --> 00:08:11.046
+per monitorare
+il comportamento dei cittadini.
+
+00:08:11.686 --> 00:08:13.446
+Vengono raccolti principalmente dati
+
+00:08:13.486 --> 00:08:15.526
+attraverso telecamere di sorveglianza
+e social network,
+
+00:08:15.566 --> 00:08:17.606
+e un'IA attribuisce un punteggio
+
+00:08:17.646 --> 00:08:20.486
+che permette o impedisce
+l'accesso ai servizi pubblici.
+
+00:08:21.566 --> 00:08:25.086
+Questa massa di dati,
+allo stesso tempo, favorisce le startup,
+
+00:08:25.126 --> 00:08:26.606
+perché chi possiede i dati
+
+00:08:26.686 --> 00:08:29.246
+ha il potere di gestire i modelli
+e di migliorarli.
+
+00:08:29.286 --> 00:08:32.926
+Da qui, l'importanza dell'RGPD,
+per regolamentare tute queste pratiche,
+
+00:08:32.966 --> 00:08:35.726
+cosicché gli Stati europei
+e i loro cittadini
+
+00:08:35.766 --> 00:08:38.206
+abbiano un po' più di controllo
+sui propri dati personali.
+
+00:08:38.286 --> 00:08:41.446
+E i <i>big data</i>? Consumano molto di più, no?
+
+00:08:41.886 --> 00:08:44.646
+Allora, i dati sono archiviati
+in dei <i>data centers</i>.
+
+00:08:44.686 --> 00:08:47.686
+Il cloud non è una nuvola,
+sono cartoni di pizza,
+
+00:08:47.726 --> 00:08:50.126
+torri intere di server che si riscaldano
+
+00:08:50.166 --> 00:08:52.326
+e che bisogna rinfrescare
+con l'aria condizionata.
+
+00:08:52.366 --> 00:08:55.246
+E gli algoritmi,
+quando sono al livello dell'IA,
+
+00:08:55.286 --> 00:08:58.886
+hanno bisogno
+di capacità di calcolo eccezionali,
+
+00:08:58.926 --> 00:09:00.926
+quindi di supercomputer
+
+00:09:00.966 --> 00:09:04.046
+che riuniscono diverse
+decine di migliaia di processori
+
+00:09:04.086 --> 00:09:05.886
+in edifici enormi.
+
+00:09:05.966 --> 00:09:09.526
+Quindi sì, consumano moltissimo
+e sono un rischio per tutto il sistema.
+
+00:09:09.606 --> 00:09:10.966
+Spetta a noi stare attenti
+
+00:09:11.006 --> 00:09:14.206
+al rapporto costi-benefici
+delle intelligenze artificiali.
+
+00:09:14.246 --> 00:09:16.286
+Possono essere strumenti formidabili
+
+00:09:16.326 --> 00:09:18.166
+che ci sono di grandissimo aiuto,
+
+00:09:18.206 --> 00:09:20.806
+ma possono anche
+spingerci un po' a consumare
+
+00:09:20.846 --> 00:09:21.846
+o a viziarci.
+
+00:09:21.886 --> 00:09:24.766
+Come per tutta la tecnologia,
+dipende dall'uso che se ne fa.
+
+00:09:24.846 --> 00:09:26.846
+Spetta a noi deciderne lo scopo.

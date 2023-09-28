@@ -16,7 +16,7 @@ description: Presentazione del contenuto e dell'organizzazione del Mooc.
 # Cosa c'è in questo corso?
 
 ## Obiettivo del corso
-L'obiettivo principale di questo corso è fornire a insegnanti e dirigenti scolastici una cultura di base e solida sull'IA: capire l'IA, come funziona, le sue sfide e le sue conseguenze.
+L'obiettivo principale di questo corso è fornire a insegnanti e l'intera comunità educativa una cultura di base e solida sull'IA: capire l'IA, come funziona, le sue sfide e le sue conseguenze.
 
 In modo più concreto, questo corso è stato progettato per aiutare gli insegnanti a farsi un'idea sulle seguenti domande:
 

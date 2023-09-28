@@ -1,0 +1,72 @@
+1
+00:00:04,528 --> 00:00:07,349
+To create images, artificial intelligence
+
+2
+00:00:07,349 --> 00:00:09,771
+relies on very special Neural Networks…
+
+3
+00:00:09,771 --> 00:00:12,261
+Generative Adversarial Networks,
+
+4
+00:00:12,261 --> 00:00:14,031
+better known as GAN.
+
+5
+00:00:14,031 --> 00:00:16,670
+The GAN is a kind of abracadabra brawler
+
+6
+00:00:16,670 --> 00:00:18,055
+for creating images.
+
+7
+00:00:18,055 --> 00:00:20,729
+GAN consists of two neural networks
+
+8
+00:00:20,729 --> 00:00:22,135
+competing against each other:
+
+9
+00:00:22,135 --> 00:00:24,621
+the generator, the discriminator.
+
+10
+00:00:24,621 --> 00:00:26,604
+The two neural networks
+
+11
+00:00:26,604 --> 00:00:28,074
+compete against each other
+
+12
+00:00:28,074 --> 00:00:30,111
+and one tries to fool the other.
+
+13
+00:00:30,111 --> 00:00:33,000
+The task for the generator is to generate
+
+14
+00:00:33,000 --> 00:00:35,525
+thousands and thousands of new images.
+
+15
+00:00:35,525 --> 00:00:37,830
+For the discriminator, it is to know
+
+16
+00:00:37,830 --> 00:00:40,194
+whether the image is generated or not.
+
+17
+00:00:40,194 --> 00:00:42,920
+And you, are you a good neural network?
+
+18
+00:00:42,920 --> 00:00:45,703
+Will you be able to flush out the AI?
+

@@ -18,6 +18,8 @@ description: Situer la formation dans le cadre européen
 
 ## L'intelligence artificielle en éducation
 
+Cette formation sur l'intelligence artificielle à destination des enseignants et à l'ensemble de la communauté éducative a été développée et expérimentée au niveau européen dans 5 pays : France, Irlande, Italie, Luxembourg et Slovénie.
+
 Cette formation comporte plusieurs niveaux d'objectifs :
 
 - **Démystifier et comprendre l'IA** ;

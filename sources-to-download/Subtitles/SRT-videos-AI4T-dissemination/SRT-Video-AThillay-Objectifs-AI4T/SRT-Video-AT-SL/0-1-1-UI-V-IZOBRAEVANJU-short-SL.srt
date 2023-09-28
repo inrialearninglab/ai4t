@@ -1,0 +1,85 @@
+WEBVTT
+
+00:00:04.966 --> 00:00:09.246
+UI V IZOBRAŽEVANJU: RAZUMEVANJE,
+EKSPERIMENTIRANJE, RAZVIJANJE VEŠČIN
+
+00:00:09.286 --> 00:00:12.246
+Namen tega izobraževanja
+v kontekstu EU
+
+00:00:12.326 --> 00:00:16.926
+je doseči cilje na treh nivojih.
+
+00:00:18.126 --> 00:00:22.966
+Demistifikacija in razumevanje: kaj lahko
+UI doprinese na področju izobraževanja.
+
+00:00:23.646 --> 00:00:26.686
+Premišljeno preizkušanje in uporaba virov,
+
+00:00:26.726 --> 00:00:30.646
+ki vključujejo UI.
+
+00:00:31.966 --> 00:00:36.326
+Razvoj ustreznih digitalnih spretnosti (sem spada tudi UI)
+
+00:00:36.406 --> 00:00:41.326
+pri vseh učiteljih in učencih.
+
+00:00:41.686 --> 00:00:46.126
+Razumeti je treba,
+da je uporaba UI pri tem nepogrešljiva.
+
+00:00:46.166 --> 00:00:49.366
+Šele tako se lahko v sklopu projektov
+pogovarjamo o etičnih vidikih
+
+00:00:49.406 --> 00:00:51.766
+od samega začetka.
+
+00:00:51.806 --> 00:00:54.886
+Z drugimi besedami: čemu je namenjena UI?
+
+00:00:54.926 --> 00:00:59.486
+Kakšne izzive predstavlja UI?
+Kaj si lahko od nje obetamo?
+
+00:01:00.086 --> 00:01:03.526
+Kako uporabljati vire UI?
+
+00:01:03.566 --> 00:01:07.046
+In nenazadnje, kako že od začetka vključiti 
+
+00:01:07.126 --> 00:01:13.126
+etične razmisleke,
+
+00:01:13.206 --> 00:01:15.766
+ki presegajo zgolj regulativna vprašanja?
+
+00:01:16.166 --> 00:01:19.406
+Prav zato smo se odločili,
+da poskusimo pristopiti k UI v izobraževanju
+
+00:01:19.486 --> 00:01:25.206
+že s 15- in 16-letniki,
+
+00:01:25.286 --> 00:01:27.766
+pri učenju matematike
+
+00:01:27.846 --> 00:01:30.726
+in naravoslovnih ved na eni strani
+
+00:01:30.806 --> 00:01:32.886
+ter pri učenju tujih jezikov na drugi strani.
+
+00:01:32.966 --> 00:01:35.326
+Preizkušati moramo namreč 
+na dveh eksperimentalnih področjih,
+
+00:01:35.406 --> 00:01:37.326
+v dveh domenah,
+
+00:01:37.366 --> 00:01:41.446
+v katerih bomo lahko eksperimentirali
+v času trajanja tega projekta.

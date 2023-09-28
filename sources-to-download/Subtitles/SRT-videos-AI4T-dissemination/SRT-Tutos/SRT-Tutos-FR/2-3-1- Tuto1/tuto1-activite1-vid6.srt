@@ -1,0 +1,43 @@
+﻿1
+00:00:00,047 --> 00:00:02,020
+Que peut-on faire avec ce programme ?
+
+2
+00:00:02,239 --> 00:00:05,756
+Maintenant que l’on a compris comment
+entraîner une intelligence artificielle,
+
+3
+00:00:05,838 --> 00:00:08,156
+on va pouvoir l’entraîner
+avec ce que l’on veut.
+
+4
+00:00:08,602 --> 00:00:10,847
+Est-ce que je peux entraîner
+un programme à faire la différence
+
+5
+00:00:10,929 --> 00:00:12,609
+entre ma tasse et mon verre ?
+
+6
+00:00:12,759 --> 00:00:15,104
+Entre ma main fermée
+et ma main ouverte ?
+
+7
+00:00:15,436 --> 00:00:17,837
+Entre ma chemise bleue
+et un tee-shirt rouge ?
+
+8
+00:00:17,919 --> 00:00:21,477
+À toi de choisir tes deux catégories
+et tes dix exemples pour chacune.
+
+9
+00:00:21,706 --> 00:00:24,055
+Attention à ce que tes deux
+catégories soient bien distinctes.
+
