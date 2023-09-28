@@ -14,6 +14,7 @@ contributor:  Nicolas, Rougier - Inria
         - Nicolas, Rougier - Inria
     - Licence: CC BY 4.0
     - Date: 2022-11-15
+    - Modified : 2023-10-02
 
 
 # A brief history of AI

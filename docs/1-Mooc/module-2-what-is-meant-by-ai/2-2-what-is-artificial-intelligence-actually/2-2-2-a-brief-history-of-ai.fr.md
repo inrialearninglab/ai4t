@@ -13,6 +13,7 @@ contributor:  Nicolas, Rougier - Inria
         - AI4T 
     - Licence: CC BY 4.0
     - Date: 2022-11-15
+    - Modified : 2023-10-02
 
 
 # Une brève histoire de l'IA
