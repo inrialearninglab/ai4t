@@ -65,5 +65,9 @@ Se molte informazioni sono accessibili, altre caratteristiche sono difficili da 
   <img src="Images/Template-Duolingo-for-School-IT.jpg" alt="Completed template for Duolingo for Schools AI-features"/>
 </figure></a>
 
+```
+**Nota** : la versione del modello qui presentata è quella di gennaio 2023,
+l'inizio della fase sperimentale del progetto.
+```
 [^1]: [Presentation of Duolingo for Schools](https://blog.duolingo.com/duolingo-for-schools/)
  (consulted on 10/11/2022)

@@ -38,6 +38,10 @@ _Cvrknite na spodnjo sliko in si oglejte za uporabo pripravljeno obliko Predloge
 
 Predlogo v obliki, pripravljeni za uporabo[^3], lahko naložite in izpolnite tudi za svoja lastna izobraževalna orodja in vire umetne inteligence.
 
+```
+**Opomba** : Tukaj je različica predloge iz januarja 2023,
+na začetku eksperimentalne faze projekta.
+```
 [^1]: Loria [Lorraine Research Laboratory in Computer Science and its Applications](https://www.loria.fr/en/) is part of a research unit (UMR 7503), common to [CNRS](https://www.cnrs.fr/en), the [University of Lorraine](https://welcome.univ-lorraine.fr/en/) and [INRIA](http://www.inria.fr/en/). It is a member of the AI4T consortium and brings its expertise in AI in education (and on learning analysis) to AI4T Erasmus+ project.
 
 [^2]: [Report on template for analyzing AI-related features in learning resources](Documents/REPORT-ON-THE-TEMPLATE-2.0.pdf) - Jiajun PAN, Azim ROUSSANALY, Anne BOYER - AI4T Erasmus+ project, 2022. Document in English.

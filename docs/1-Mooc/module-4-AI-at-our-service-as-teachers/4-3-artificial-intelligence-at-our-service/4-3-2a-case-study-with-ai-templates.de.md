@@ -65,5 +65,9 @@ Wenn viele Informationen zugänglich sind, sind einige andere Merkmale schwer au
   <img src="Images/Template-Duolingo-for-School-DE.jpg" alt="Completed template for Duolingo for Schools AI-features"/>
 </figure></a>
 
+```
+**Hinweis** : Die hier vorgelegte Fassung des Vorschlags ist diejenige vom Januar 2023,
+dem Beginn der Versuchsphase des Projekts.
+```
 [^1]: [Presentation of Duolingo for Schools](https://blog.duolingo.com/duolingo-for-schools/)
  (consulted on 10/11/2022)

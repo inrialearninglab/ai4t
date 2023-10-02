@@ -34,10 +34,14 @@ _Cliquez sur l'image ci-dessous et découvrez le format prêt à l'emploi du mod
 
 <a href="Documents/AI4T-Template-Ready-to-use-FR.pdf" target="_blank"><figure>
   <img src="Images/AI4T-Template-Detective-visual-FR.jpg" alt="A Ready to Use template for AI resources Characterisation"/>
-</figure></a>
+</figure></a>`
 
 Le modèle dans un format prêt à l'emploi [^3] peut également être téléchargé et complété pour vos propres outils et ressources pédagogiques en IA.
 
+```
+**Note** : La version du modèle présentée ici est celle de janvier 2023,
+date du début de la phase d'expérimentation du projet.
+```
 [^1]: Le Loria [Laboratoire Lorrain de Recherche en Informatique et ses Applications](https://www.loria.fr) fait partie d'une unité de recherche (UMR 7503), commune au [CNRS](http://www.cnrs.fr), à l'[Université de Lorraine](https://welcome.univ-lorraine.fr/fr/) et à [Inria](http://www.inria.fr/). Il est membre du consortium AI4T et apporte son expertise en IA et éducation ainsi que sur l'analyse de l'apprentissage.
 
 [^2]: Document en anglais : [Report on template for analyzing AI-related features in learning resources](Documents/REPORT-ON-THE-TEMPLATE-2.0.pdf) - Jiajun PAN, Azim ROUSSANALY, Anne BOYER - Projet AI4T Erasmus+, 2022.(Document en anglais)

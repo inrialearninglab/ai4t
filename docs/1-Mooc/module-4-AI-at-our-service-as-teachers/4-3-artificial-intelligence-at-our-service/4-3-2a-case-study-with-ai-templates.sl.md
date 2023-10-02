@@ -65,5 +65,9 @@ Tukaj je primer izpolnjevanja predloge z uporabo informacij, zbranih na zgornjih
   <img src="Images/Template-Duolingo-for-School-SI.jpg" alt="Completed template for Duolingo for Schools AI-features"/>
 </figure></a>
 
+```
+**Opomba** : Tukaj je različica predloge iz januarja 2023,
+na začetku eksperimentalne faze projekta.
+```
 [^1]: [Presentation of Duolingo for Schools](https://blog.duolingo.com/duolingo-for-schools/)
  (consulted on 10/11/2022)

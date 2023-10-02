@@ -38,6 +38,10 @@ _Cliccate sull'immagine qui sotto e date un'occhiata al formato pronto all'uso d
 
 Il modello in formato pronto all'uso[^3] può anche essere caricato e compilato per i propri strumenti e risorse educative di IA.
 
+```
+**Nota** : la versione del modello qui presentata è quella di gennaio 2023,
+l'inizio della fase sperimentale del progetto.
+```
 [^1]: Loria [Lorraine Research Laboratory in Computer Science and its Applications](https://www.loria.fr/en/) is part of a research unit (UMR 7503), common to [CNRS](https://www.cnrs.fr/en), the [University of Lorraine](https://welcome.univ-lorraine.fr/en/) and [INRIA](http://www.inria.fr/en/). It is a member of the AI4T consortium and brings its expertise in AI in education (and on learning analysis) to AI4T Erasmus+ project.
 
 [^2]: [Report on template for analyzing AI-related features in learning resources](Documents/REPORT-ON-THE-TEMPLATE-2.0.pdf) - Jiajun PAN, Azim ROUSSANALY, Anne BOYER - AI4T Erasmus+ project, 2022. (Document en English)
