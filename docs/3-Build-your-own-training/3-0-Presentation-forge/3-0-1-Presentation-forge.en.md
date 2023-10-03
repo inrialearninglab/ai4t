@@ -1,7 +1,13 @@
 ---
 title: Presentation the project forge and multilinguism
 description: Presentation the AI4T project **forge** and its support to multilinguism
+contributor:  Marie, Collin - Inria
+Bénédicte, Cardon - Inria
+Laurence, Farhi - Inria
+Benoit, Rospars - Inria
+type: activity
 ---
+
 # Using Github in an educational project : why ?
 
 To create and host the AI4T Mooc and complementary training resources,
@@ -50,16 +56,14 @@ resources** for the Mooc [Environmental impact of digital technologies](https://
 For the AI4T project, we have then adapted our methodology to create a
 multilingual system. The Mooc is now available in 5 languages.
 
-
 ## **How to Build Your Own Training, a 3 phases methodology**
 
 -   Phase 1 - **Start** : Creation your own AI4T repository on github
 
 -   Phase 2 - **Translate** : Generation of contents (texts) in target
-language with machine translation & Proofreading workflow
+language with machine translation & proofreading workflow - Infos about Mooc's vidéos and available susbtitles.
 
--   Phase 3 - **View & Share** : Generation of your static web pages
-
+-   Phase 3 - **View & Share** : Generation of your static web pages and translation of navigation elements
 
 **Please note** that although we have tried to be as specific as
 possible in presenting the different stages in generating Mooc pages in
