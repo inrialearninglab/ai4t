@@ -26,7 +26,7 @@ Tukaj predstavljena zgodovinska časovnica poudarja glavne korake razvoja umetne
 **Kateri so glavni znanstveni mejniki umetne inteligence?**  
 Kliknite na spodnjo sliko in odkrijte podrobnosti o vsakem znanstvenem mejniku!_
 
-<a href="2-2-2-Discover-AI-history-SI/AI-history-SI.html" target="_blank">
+<a href="https://view.genial.ly/64e611e46c88b900191861c8" target="_blank">
 <figure>
   <img src="Images/AI-historical-timeline-SL.png" alt="Illustration of AI history"/>
 </figure></a>
