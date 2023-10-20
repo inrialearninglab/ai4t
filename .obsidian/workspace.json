@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/3-Build-your-own-training/3-0-Intro-The-forge/3-0-1-Map-Build-your-own-training.en.md",
+                "file": "docs/index.fr.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/3-Build-your-own-training/3-0-Intro-The-forge/3-0-1-Map-Build-your-own-training.en.md",
+                "file": "docs/index.fr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/3-Build-your-own-training/3-0-Intro-The-forge/3-0-1-Map-Build-your-own-training.en.md",
+                "file": "docs/index.fr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/3-Build-your-own-training/3-0-Intro-The-forge/3-0-1-Map-Build-your-own-training.en.md"
+                "file": "docs/index.fr.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "3a0182d96dc02abe",
   "lastOpenFiles": [
-    "docs/3-Build-your-own-training/3-0-Intro-The-forge/Images/3-0-Activateur-BYOT-map.png",
-    "docs/3-Build-your-own-training/3-0-Intro-The-forge/3-0-2-Intro-The-forge.en.md",
     "docs/3-Build-your-own-training/3-0-Intro-The-forge/3-0-1-Map-Build-your-own-training.en.md",
+    "docs/3-Build-your-own-training/3-0-Intro-The-forge/3-0-2-Intro-The-forge.en.md",
     "docs/3-Build-your-own-training/3-1-Step-1-Forking-the-mooc/3-1-1-Step-1.en.md",
     "docs/3-Build-your-own-training/3-3-Step-3-Visualisation-on-static-webpages/3-3-1-Step-3-1.en.md",
-    "docs/3-Build-your-own-training/3-2-Step-2-Translating-the-mooc-resources/3-2-3-Step-2-3.en.md",
     "docs/3-Build-your-own-training/3-2-Step-2-Translating-the-mooc-resources/3-2-4-Step-2-4.en.md",
-    "docs/3-Build-your-own-training/3-2-Step-2-Translating-the-mooc-resources/3-2-1-Step-2-1.en.md",
+    "docs/3-Build-your-own-training/3-2-Step-2-Translating-the-mooc-resources/3-2-3-Step-2-3.en.md",
     "docs/3-Build-your-own-training/3-2-Step-2-Translating-the-mooc-resources/3-2-2-Step-2-2.en.md",
+    "docs/3-Build-your-own-training/3-2-Step-2-Translating-the-mooc-resources/3-2-1-Step-2-1.en.md",
+    "docs/3-Build-your-own-training/3-0-Intro-The-forge/Images/3-0-Activateur-BYOT-map.png",
     "docs/3-Build-your-own-training/3-0-Intro-The-forge/Images",
     "docs/1-Mooc/module-1-using-AI-and-Education/1-1-are-teachers-really-concerned-by-Artificial-Intelligence/1-1-1-the-learning-process-in-education.fr.md",
     "docs/1-Mooc/module-2-what-is-meant-by-ai/2-2-what-is-artificial-intelligence-actually/2-2-3a-quiz-a-brief-history-of-ai.sl.md",
