@@ -192,3 +192,23 @@ h1:before, h2:before, .h3:before, .h4:before, .h5:before {
         opacity: 1;
     }
 }
+
+.inline-image {
+    display: flex !important;
+    align-items: center;
+}
+
+.inline-image > p {
+    text-align: start;
+}
+
+.inline-image > img {
+    height: 40px;
+    width: 40px;
+    margin-right: .5rem;
+}
+
+.image-frame {
+    border-radius: 8px;
+    border: 2px solid #b946ea;
+}
