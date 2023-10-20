@@ -1,5 +1,5 @@
 ---
-title: SELFIE
+title: SELFIE, assess where you stand with digital learning
 description: Presentation of SELFIE and its environment
 ---
 
@@ -9,7 +9,7 @@ description: Presentation of SELFIE and its environment
 
 ## What for :
 
-To help Schools "assess where they stand with learning in the digital age" Selfie has been developped as a free & customisable self-evaluation tool.
+To help Schools "assess where they stand with learning in the digital age" Selfie has been developed as a free & customisable self-evaluation tool.
 Since its launch, this tool has been complemented by a range of new tools, resources and services that make SELFIE un a useful relay for the digital transformation.
 
 ### SELFIE for schools[^Selfie1]
