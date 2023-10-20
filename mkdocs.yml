@@ -84,7 +84,13 @@ extra:
             it: "it/1-Mooc/module-1-using-AI-and-Education/1-0-introduction/1-0-1-Presentation-module-1.html"
             de: "de/1-Mooc/module-1-using-AI-and-Education/1-0-introduction/1-0-1-Presentation-module-1.html"
             sl: "sl/1-Mooc/module-1-using-AI-and-Education/1-0-introduction/1-0-1-Presentation-module-1.html"
-          img: "assets/Home-Mooc-Illustration-M1.png"
+          img: 
+              en: "assets/Home-Mooc-Illustration-M1.en.jpg"
+              fr: "assets/Home-Mooc-Illustration-M1.fr.jpg"
+              it: "assets/Home-Mooc-Illustration-M1.it.jpg"
+              de: "assets/Home-Mooc-Illustration-M1.de.jpg"
+              sl: "assets/Home-Mooc-Illustration-M1.sl.jpg"
+          
           title:
             en: "Module 1 - Using AI in education"
             fr: "Module 1 - Utiliser l'IA en éducation"
@@ -103,7 +109,12 @@ extra:
             it: "it/1-Mooc/module-2-what-is-meant-by-ai/2-0-introduction/2-0-1-Presentation.html"
             de: "de/1-Mooc/module-2-what-is-meant-by-ai/2-0-introduction/2-0-1-Presentation.html"
             sl: "sl/1-Mooc/module-2-what-is-meant-by-ai/2-0-introduction/2-0-1-Presentation.html"
-          img: "assets/ Home-Mooc-Illustration-M2.png"
+          img: 
+              en: "assets/Home-Mooc-Illustration-M2.en.jpg"
+              fr: "assets/Home-Mooc-Illustration-M2.fr.jpg"
+              it: "assets/Home-Mooc-Illustration-M2.it.jpg"
+              de: "assets/Home-Mooc-Illustration-M2.de.jpg"
+              sl: "assets/Home-Mooc-Illustration-M2.sl.jpg"
           title:
             en: "Module 2 - What is meant by AI?"
             fr: "Module 2 - Qu'est-ce que l'IA ?"
@@ -122,7 +133,12 @@ extra:
             it: "it/1-Mooc/module-3-how-does-AI-work/3-0-introduction/3-0-1-presentation.html"
             de: "de/1-Mooc/module-3-how-does-AI-work/3-0-introduction/3-0-1-presentation.html"
             sl: "sl/1-Mooc/module-3-how-does-AI-work/3-0-introduction/3-0-1-presentation.html"
-          img: "assets/Home-Mooc-Illustration-M3.png"
+          img:
+              en: "assets/Home-Mooc-Illustration-M3.en.jpg"
+              fr: "assets/Home-Mooc-Illustration-M3.fr.jpg"
+              it: "assets/Home-Mooc-Illustration-M3.it.jpg"
+              de: "assets/Home-Mooc-Illustration-M3.de.jpg"
+              sl: "assets/Home-Mooc-Illustration-M3.sl.jpg"
           title:
             en: "Module 3 - How does AI work?"
             fr: "Module 3 - Comment fonctionne l'IA ?"
@@ -141,7 +157,12 @@ extra:
             it: "it/1-Mooc/module-4-AI-at-our-service-as-teachers/4-0-introduction/4-0-1-Presentation.html"
             de: "de/1-Mooc/module-4-AI-at-our-service-as-teachers/4-0-introduction/4-0-1-Presentation.html"
             sl: "sl/1-Mooc/module-4-AI-at-our-service-as-teachers/4-0-introduction/4-0-1-Presentation.html"
-          img: "assets/Home-Mooc-Illustration-M4.png"
+          img:
+              en: "assets/Home-Mooc-Illustration-M4.en.jpg"
+              fr: "assets/Home-Mooc-Illustration-M4.fr.jpg"
+              it: "assets/Home-Mooc-Illustration-M4.it.jpg"
+              de: "assets/Home-Mooc-Illustration-M4.de.jpg"
+              sl: "assets/Home-Mooc-Illustration-M4.sl.jpg"
           title:
             en: "Module 4 - AI at our service as teachers?"
             fr: "Module 4 - L'IA à notre service en tant qu'enseignants ?"

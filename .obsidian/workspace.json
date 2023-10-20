@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "adc83d627bc08114",
+        "id": "9488fde6760b17f5",
         "type": "tabs",
         "children": [
           {
-            "id": "3a0182d96dc02abe",
+            "id": "c839e8716b76e522",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/index.fr.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 554.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d161b7bbe11a223",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.fr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.fr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/index.fr.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,37 +139,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a0182d96dc02abe",
+  "active": "c839e8716b76e522",
   "lastOpenFiles": [
-    "docs/3-Build-your-own-training/3-0-Intro-The-forge/3-0-1-Map-Build-your-own-training.en.md",
-    "docs/3-Build-your-own-training/3-0-Intro-The-forge/3-0-2-Intro-The-forge.en.md",
-    "docs/3-Build-your-own-training/3-1-Step-1-Forking-the-mooc/3-1-1-Step-1.en.md",
-    "docs/3-Build-your-own-training/3-3-Step-3-Visualisation-on-static-webpages/3-3-1-Step-3-1.en.md",
-    "docs/3-Build-your-own-training/3-2-Step-2-Translating-the-mooc-resources/3-2-4-Step-2-4.en.md",
-    "docs/3-Build-your-own-training/3-2-Step-2-Translating-the-mooc-resources/3-2-3-Step-2-3.en.md",
-    "docs/3-Build-your-own-training/3-2-Step-2-Translating-the-mooc-resources/3-2-2-Step-2-2.en.md",
-    "docs/3-Build-your-own-training/3-2-Step-2-Translating-the-mooc-resources/3-2-1-Step-2-1.en.md",
-    "docs/3-Build-your-own-training/3-0-Intro-The-forge/Images/3-0-Activateur-BYOT-map.png",
-    "docs/3-Build-your-own-training/3-0-Intro-The-forge/Images",
-    "docs/1-Mooc/module-1-using-AI-and-Education/1-1-are-teachers-really-concerned-by-Artificial-Intelligence/1-1-1-the-learning-process-in-education.fr.md",
-    "docs/1-Mooc/module-2-what-is-meant-by-ai/2-2-what-is-artificial-intelligence-actually/2-2-3a-quiz-a-brief-history-of-ai.sl.md",
-    "docs/1-Mooc/module-2-what-is-meant-by-ai/2-2-what-is-artificial-intelligence-actually/2-2-3a-quiz-a-brief-history-of-ai.de.md",
-    "docs/1-Mooc/module-2-what-is-meant-by-ai/2-2-what-is-artificial-intelligence-actually/2-2-2-a-brief-history-of-ai.it.md",
-    "docs/1-Mooc/module-2-what-is-meant-by-ai/2-1-how-to-define-ai/2-1-1v-who-is-afraid-of-ai.fr.md",
-    "docs/1-Mooc/to-conclude/7-0-2-ethical-guidelines-on-the-use-of-AI-and-data-in-teaching-and-learning.en.md",
-    "docs/1-Mooc/to-conclude/7-0-1v-ethical-use-of-artificial-intelligence-in-education.fr.md",
-    "docs/1-Mooc/module-1-using-AI-and-Education/1-1-are-teachers-really-concerned-by-Artificial-Intelligence/1-1-1-the-learning-process-in-education.de.md",
-    "docs/1-Mooc/general-presentation/0-1-what-does-this-training-offer-us/0-1-1v-why-this-training.en.md",
-    "docs/1-Mooc/general-presentation/0-1-what-does-this-training-offer-us/0-1-1v-why-this-training.de.md",
-    "docs/index.de.md",
-    "docs/index.md",
-    "docs/assets/Home-Mooc-Illustration-M4.png",
-    "docs/assets/Home-Mooc-Illustration-M3.png",
-    "docs/assets/Home-Mooc-Illustration-M1.png",
-    "docs/assets/ Home-Mooc-Illustration-M2.png",
-    "docs/assets/Home-Mooc-Illustration-M4.jpg",
-    "docs/assets/Home-Mooc-Illustration-M3.jpg",
-    "docs/assets/Home-Mooc-Illustration-M1.jpg",
-    "docs/assets/ Home-Mooc-Illustration-M2.jpg"
+    "docs/assets/Home-Mooc-Illustration-M4.it.jpg",
+    "docs/assets/Home-Mooc-Illustration-M4.fr.jpg",
+    "docs/assets/Home-Mooc-Illustration-M4.en.jpg",
+    "docs/assets/Home-Mooc-Illustration-M4.de.jpg",
+    "docs/assets/Home-Mooc-Illustration-M4-de.jpg",
+    "docs/assets/Home-Mooc-Illustration-M3.sl.jpg",
+    "docs/assets/Home-Mooc-Illustration-M3.it.jpg",
+    "docs/assets/Home-Mooc-Illustration-M3.fr.jpg",
+    "docs/assets/Home-Mooc-Illustration-M3.en.jpg",
+    "docs/assets/Home-Mooc-Illustration-M3.de.jpg",
+    "docs/assets/Home-Mooc-Illustration-M2.sl.jpg",
+    "docs/1-Mooc/module-3-how-does-AI-work/3-3-of-machine-learning-and-data/3-3-2-more-about-gan.en.md",
+    "docs/2-Project-resources/2-Moocs-and-online-resources/2-3-SELFIE.sl.md",
+    "docs/2-Project-resources/2-Moocs-and-online-resources/2-3-SELFIE.it.md",
+    "docs/2-Project-resources/2-Moocs-and-online-resources/2-3-SELFIE.fr.md",
+    "docs/2-Project-resources/2-Moocs-and-online-resources/2-3-SELFIE.en.md",
+    "docs/2-Project-resources/2-Moocs-and-online-resources/2-3-SELFIE.de.md",
+    "docs/2-Project-resources/2-Moocs-and-online-resources/2-2-Resources-about-AI.sl.md",
+    "docs/2-Project-resources/2-Moocs-and-online-resources/2-2-Resources-about-AI.it.md",
+    "docs/2-Project-resources/2-Moocs-and-online-resources/2-2-Resources-about-AI.fr.md",
+    "docs/2-Project-resources/2-Moocs-and-online-resources/2-2-Resources-about-AI.en.md",
+    "docs/2-Project-resources/2-Moocs-and-online-resources/2-2-Resources-about-AI.de.md",
+    "docs/2-Project-resources/2-Moocs-and-online-resources/2-1-Resources-about-AI-and-education.sl.md",
+    "docs/2-Project-resources/2-Moocs-and-online-resources/2-1-Resources-about-AI-and-education.it.md",
+    "docs/2-Project-resources/2-Moocs-and-online-resources/2-1-Resources-about-AI-and-education.fr.md",
+    "docs/2-Project-resources/2-Moocs-and-online-resources/2-1-Resources-about-AI-and-education.en.md",
+    "docs/2-Project-resources/2-Moocs-and-online-resources/2-1-Resources-about-AI-and-education.de.md",
+    "docs/2-Project-resources/1-AI-and-Education-Tools/6-Learning-and-using-AI.sl.md",
+    "docs/2-Project-resources/1-AI-and-Education-Tools/6-Learning-and-using-AI.it.md",
+    "docs/2-Project-resources/1-AI-and-Education-Tools/6-Learning-and-using-AI.fr.md",
+    "docs/2-Project-resources/1-AI-and-Education-Tools/6-Learning-and-using-AI.en.md",
+    "docs/2-Project-resources/1-AI-and-Education-Tools/6-Learning-and-using-AI.de.md",
+    "docs/2-Project-resources/1-AI-and-Education-Tools/5-AI-tools-for-a-quick-trial.sl.md",
+    "docs/2-Project-resources/1-AI-and-Education-Tools/5-AI-tools-for-a-quick-trial.it.md",
+    "docs/2-Project-resources/1-AI-and-Education-Tools/5-AI-tools-for-a-quick-trial.fr.md",
+    "docs/2-Project-resources/1-AI-and-Education-Tools/5-AI-tools-for-a-quick-trial.en.md",
+    "docs/3-Build-your-own-training/3-0-Intro-The-forge/Images"
   ]
 }
