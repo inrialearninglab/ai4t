@@ -6,8 +6,7 @@
   <div class="home-hero">
     <div class="home-hero-content">
       <h1>Artificial Intelligence for and by teachers</h1>
-      <h3>Explore and support the use of AI in education.<h3>
-      <p><p>
+      <p>Explore and support the use of AI in education.</p>
     </div>
   </div>
 </div>
@@ -21,7 +20,11 @@
         <div class="md-flex">
           {% for card in part.cards %}
           <div class="md-card">
+            {% if i18n_page_locale in card.img %}
+            <img src="{{card.img[i18n_page_locale]}}" alt="{{card.desc[i18n_page_locale]}}"/>
+            {% else %}
             <img src="{{card.img}}" alt="{{card.desc[i18n_page_locale]}}"/>
+            {% endif %}
             <div class="md-card-body">
               <h3>{{card.title[i18n_page_locale]}}</h3>
               <p>{{card.desc[i18n_page_locale]}}</p>

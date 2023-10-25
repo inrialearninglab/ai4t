@@ -20,7 +20,11 @@
         <div class="md-flex">
           {% for card in part.cards %}
           <div class="md-card">
+            {% if i18n_page_locale in card.img %}
+            <img src="{{card.img[i18n_page_locale]}}" alt="{{card.desc[i18n_page_locale]}}"/>
+            {% else %}
             <img src="{{card.img}}" alt="{{card.desc[i18n_page_locale]}}"/>
+            {% endif %}
             <div class="md-card-body">
               <h3>{{card.title[i18n_page_locale]}}</h3>
               <p>{{card.desc[i18n_page_locale]}}</p>
