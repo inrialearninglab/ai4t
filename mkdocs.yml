@@ -79,7 +79,7 @@ extra:
       url: "path/to/folder"
       cards:
         - url:
-            en: "en/1-Mooc/module-1-using-AI-and-Education/1-0-introduction/1-0-1-Presentation-module-1.html"
+            en: "1-Mooc/module-1-using-AI-and-Education/1-0-introduction/1-0-1-Presentation-module-1.html"
             fr: "fr/1-Mooc/module-1-using-AI-and-Education/1-0-introduction/1-0-1-Presentation-module-1.html"
             it: "it/1-Mooc/module-1-using-AI-and-Education/1-0-introduction/1-0-1-Presentation-module-1.html"
             de: "de/1-Mooc/module-1-using-AI-and-Education/1-0-introduction/1-0-1-Presentation-module-1.html"
@@ -90,7 +90,7 @@ extra:
             it: "assets/Home-Mooc-Illustration-M1.jpg"
             de: "assets/Home-Mooc-Illustration-M1.jpg"
             sl: "assets/Home-Mooc-Illustration-M1.jpg"
-          
+
           title:
             en: "Module 1 - Using AI in education"
             fr: "Module 1 - Utiliser l'IA en éducation"
@@ -104,7 +104,7 @@ extra:
             de: "ZDa KI bereits im Klassenzimmer eingesetzt wird, sollten Sie herausfinden, wofür sie eingesetzt werden kann und welche Herausforderungen es dabei gibt."
             sl: "Ker se umetna inteligenca v razredu že uporablja, ugotovite, za kaj jo je mogoče uporabiti in kakšni so izzivi."
         - url:
-            en: "en/1-Mooc/module-2-what-is-meant-by-ai/2-0-introduction/2-0-1-Presentation.html"
+            en: "1-Mooc/module-2-what-is-meant-by-ai/2-0-introduction/2-0-1-Presentation.html"
             fr: "fr/1-Mooc/module-2-what-is-meant-by-ai/2-0-introduction/2-0-1-Presentation.html"
             it: "it/1-Mooc/module-2-what-is-meant-by-ai/2-0-introduction/2-0-1-Presentation.html"
             de: "de/1-Mooc/module-2-what-is-meant-by-ai/2-0-introduction/2-0-1-Presentation.html"
@@ -128,7 +128,7 @@ extra:
             de: "Erfahren Sie, was KI wirklich ist - Grundlagen und Grenzen - bevor Sie die verschiedenen Einsatzmöglichkeiten von KI-Technologien im Bildungsbereich erkunden."
             sl: "Spoznajte, kaj je UI v resnici - temelje in omejitve -, nato pa raziščite različne načine uporabe tehnologij UI v izobraževanju."
         - url:
-            en: "en/1-Mooc/module-3-how-does-AI-work/3-0-introduction/3-0-1-presentation.html"
+            en: "1-Mooc/module-3-how-does-AI-work/3-0-introduction/3-0-1-presentation.html"
             fr: "fr/1-Mooc/module-3-how-does-AI-work/3-0-introduction/3-0-1-presentation.html"
             it: "it/1-Mooc/module-3-how-does-AI-work/3-0-introduction/3-0-1-presentation.html"
             de: "de/1-Mooc/module-3-how-does-AI-work/3-0-introduction/3-0-1-presentation.html"
@@ -152,7 +152,7 @@ extra:
             de: "Erforschen Sie verschiedene Arten von KI, darunter maschinelles Lernen und neuronale Netze, um zu verstehen, was es mit den Daten für KI-Tools auf sich hat."
             sl: "Raziščite različne vrste UI, vključno s strojnim učenjem in nevronskimi mrežami, da bi razumeli, kaj je povezano s podatki za orodja umetne inteligence."
         - url:
-            en: "en/1-Mooc/module-4-AI-at-our-service-as-teachers/4-0-introduction/4-0-1-Presentation.html"
+            en: "1-Mooc/module-4-AI-at-our-service-as-teachers/4-0-introduction/4-0-1-Presentation.html"
             fr: "fr/1-Mooc/module-4-AI-at-our-service-as-teachers/4-0-introduction/4-0-1-Presentation.html"
             it: "it/1-Mooc/module-4-AI-at-our-service-as-teachers/4-0-introduction/4-0-1-Presentation.html"
             de: "de/1-Mooc/module-4-AI-at-our-service-as-teachers/4-0-introduction/4-0-1-Presentation.html"
