@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9488fde6760b17f5",
+        "id": "7c9e471eddeb7489",
         "type": "tabs",
         "children": [
           {
-            "id": "c839e8716b76e522",
+            "id": "fd5ef6c1b210fdcd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 554.5,
-    "collapsed": true
+    "width": 554.5
   },
   "right": {
     "id": "8d161b7bbe11a223",
@@ -139,8 +138,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c839e8716b76e522",
+  "active": "fd5ef6c1b210fdcd",
   "lastOpenFiles": [
+    "docs/1-Mooc/module-1-using-AI-and-Education/1-1-are-teachers-really-concerned-by-Artificial-Intelligence/1-1-1-the-learning-process-in-education.fr.md",
+    "docs/1-Mooc/module-1-using-AI-and-Education/1-0-introduction/1-0-1-Presentation-module-1.fr.md",
+    "docs/1-Mooc/module-3-how-does-AI-work/3-2-lets-play-with-the-data/3-2-3-what-about-data-in-education.en.md",
+    "docs/1-Mooc/module-3-how-does-AI-work/3-2-lets-play-with-the-data/3-2-2-what-is-data.en.md",
+    "docs/1-Mooc/module-3-how-does-AI-work/3-2-lets-play-with-the-data/3-2-1v-of-machine-learning-and-data-video.sl.md",
+    "docs/1-Mooc/module-3-how-does-AI-work/3-2-lets-play-with-the-data/3-2-2-what-is-data.de.md",
+    "docs/1-Mooc/module-3-how-does-AI-work/3-2-lets-play-with-the-data/3-2-1v-of-machine-learning-and-data-video.de.md",
+    "docs/1-Mooc/module-1-using-AI-and-Education/1-0-introduction/1-0-1-Presentation-module-1.it.md",
+    "docs/2-Project-resources/1-AI-and-Education-Tools/4-ChatGPT-and-Language-model.fr.md",
+    "docs/1-Mooc/module-3-how-does-AI-work/3-3-of-machine-learning-and-data/3-3-3-ChatGPT-and-large-Language-model.fr.md",
+    "docs/1-Mooc/module-3-how-does-AI-work/3-3-of-machine-learning-and-data/3-3-2-more-about-gan.fr copie.md",
+    "docs/1-Mooc/module-3-how-does-AI-work/3-3-of-machine-learning-and-data/3-3-3-ChatGPT-and-Language-model.fr copie.xml",
+    "docs/1-Mooc/module-3-how-does-AI-work/3-3-of-machine-learning-and-data/3-3-2-more-about-gan.fr copie.xml",
+    "docs/1-Mooc/4-ChatGPT-and-Language-model.fr 1.md",
+    "docs/2-Project-resources/1-AI-and-Education-Tools/4-ChatGPT-and-Language-model.en.md",
+    "docs/2-Project-resources/1-AI-and-Education-Tools/4-ChatGPT-and-Language-model.de.md",
+    "docs/1-Mooc/module-3-how-does-AI-work/3-3-of-machine-learning-and-data/3-3-2-more-about-gan.de.md",
+    "docs/1-Mooc/module-3-how-does-AI-work/3-3-of-machine-learning-and-data/3-3-4-where-does-the-risk-come-from.sl.md",
+    "docs/1-Mooc/module-3-how-does-AI-work/3-3-of-machine-learning-and-data/3-3-4-where-does-the-risk-come-from.it.md",
+    "docs/1-Mooc/module-3-how-does-AI-work/3-3-of-machine-learning-and-data/3-3-4-where-does-the-risk-come-from.fr.md",
+    "docs/1-Mooc/module-3-how-does-AI-work/3-3-of-machine-learning-and-data/3-3-4-where-does-the-risk-come-from.de.md",
+    "docs/1-Mooc/module-3-how-does-AI-work/3-3-of-machine-learning-and-data/3-3-4-where-does-the-risk-come-from.en.md",
     "docs/assets/Home-Mooc-Illustration-M4.it.jpg",
     "docs/assets/Home-Mooc-Illustration-M4.fr.jpg",
     "docs/assets/Home-Mooc-Illustration-M4.en.jpg",
@@ -151,32 +172,12 @@
     "docs/assets/Home-Mooc-Illustration-M3.fr.jpg",
     "docs/assets/Home-Mooc-Illustration-M3.en.jpg",
     "docs/assets/Home-Mooc-Illustration-M3.de.jpg",
-    "docs/assets/Home-Mooc-Illustration-M2.sl.jpg",
     "docs/1-Mooc/module-3-how-does-AI-work/3-3-of-machine-learning-and-data/3-3-2-more-about-gan.en.md",
     "docs/2-Project-resources/2-Moocs-and-online-resources/2-3-SELFIE.sl.md",
     "docs/2-Project-resources/2-Moocs-and-online-resources/2-3-SELFIE.it.md",
     "docs/2-Project-resources/2-Moocs-and-online-resources/2-3-SELFIE.fr.md",
     "docs/2-Project-resources/2-Moocs-and-online-resources/2-3-SELFIE.en.md",
     "docs/2-Project-resources/2-Moocs-and-online-resources/2-3-SELFIE.de.md",
-    "docs/2-Project-resources/2-Moocs-and-online-resources/2-2-Resources-about-AI.sl.md",
-    "docs/2-Project-resources/2-Moocs-and-online-resources/2-2-Resources-about-AI.it.md",
-    "docs/2-Project-resources/2-Moocs-and-online-resources/2-2-Resources-about-AI.fr.md",
-    "docs/2-Project-resources/2-Moocs-and-online-resources/2-2-Resources-about-AI.en.md",
-    "docs/2-Project-resources/2-Moocs-and-online-resources/2-2-Resources-about-AI.de.md",
-    "docs/2-Project-resources/2-Moocs-and-online-resources/2-1-Resources-about-AI-and-education.sl.md",
-    "docs/2-Project-resources/2-Moocs-and-online-resources/2-1-Resources-about-AI-and-education.it.md",
-    "docs/2-Project-resources/2-Moocs-and-online-resources/2-1-Resources-about-AI-and-education.fr.md",
-    "docs/2-Project-resources/2-Moocs-and-online-resources/2-1-Resources-about-AI-and-education.en.md",
-    "docs/2-Project-resources/2-Moocs-and-online-resources/2-1-Resources-about-AI-and-education.de.md",
-    "docs/2-Project-resources/1-AI-and-Education-Tools/6-Learning-and-using-AI.sl.md",
-    "docs/2-Project-resources/1-AI-and-Education-Tools/6-Learning-and-using-AI.it.md",
-    "docs/2-Project-resources/1-AI-and-Education-Tools/6-Learning-and-using-AI.fr.md",
-    "docs/2-Project-resources/1-AI-and-Education-Tools/6-Learning-and-using-AI.en.md",
-    "docs/2-Project-resources/1-AI-and-Education-Tools/6-Learning-and-using-AI.de.md",
-    "docs/2-Project-resources/1-AI-and-Education-Tools/5-AI-tools-for-a-quick-trial.sl.md",
-    "docs/2-Project-resources/1-AI-and-Education-Tools/5-AI-tools-for-a-quick-trial.it.md",
-    "docs/2-Project-resources/1-AI-and-Education-Tools/5-AI-tools-for-a-quick-trial.fr.md",
-    "docs/2-Project-resources/1-AI-and-Education-Tools/5-AI-tools-for-a-quick-trial.en.md",
     "docs/3-Build-your-own-training/3-0-Intro-The-forge/Images"
   ]
 }

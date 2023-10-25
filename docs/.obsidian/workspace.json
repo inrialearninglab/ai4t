@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "0d76f50987a15d03",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cd4e50ead565151",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4508ac2302f327bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Mooc/module-3-how-does-AI-work/3-3-of-machine-learning-and-data/3-3-2-more-about-gan.fr.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51329e1cb2684dcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a61ca5cc301ecd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91c63043f2c6234e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d8b86179232140b6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f3397cb3f2ef7e12",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 794.5
+  },
+  "right": {
+    "id": "a3e4513b754519f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a700e3efa95ee1f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3faad0dd7487023",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1-Mooc/module-3-how-does-AI-work/3-3-of-machine-learning-and-data/3-3-2-more-about-gan.fr.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "63702b159a665378",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1-Mooc/module-3-how-does-AI-work/3-3-of-machine-learning-and-data/3-3-2-more-about-gan.fr.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e8b4fa28f9b4ca0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9fc2336675c17429",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1-Mooc/module-3-how-does-AI-work/3-3-of-machine-learning-and-data/3-3-2-more-about-gan.fr.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "91c63043f2c6234e",
+  "lastOpenFiles": [
+    "1-Mooc/module-3-how-does-AI-work/3-3-of-machine-learning-and-data/3-3-3-ChatGPT-and-large-Language-model.en.md",
+    "1-Mooc/module-3-how-does-AI-work/3-3-of-machine-learning-and-data/3-3-3-ChatGPT-and-large-Language-model.fr.md",
+    "2-Project-resources/1-AI-and-Education-Tools/4-ChatGPT-and-Language-model.it.md",
+    "2-Project-resources/1-AI-and-Education-Tools/4-ChatGPT-and-Language-model.fr.md",
+    "2-Project-resources/1-AI-and-Education-Tools/4-ChatGPT-and-Language-model.en.md",
+    "2-Project-resources/1-AI-and-Education-Tools/4-ChatGPT-and-Language-model.de.md"
+  ]
+}
