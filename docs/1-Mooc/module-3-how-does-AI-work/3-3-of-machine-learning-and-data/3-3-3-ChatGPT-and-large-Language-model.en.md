@@ -19,7 +19,7 @@ type: video
         - Thomas, Carta - Flowers - Inria
         - Pierre-Yves, Oudeyer - Flowers - Inria
     - Licence: CC BY 4.0
-    - Date: 20-10-2023
+    - Date: 2023-10-02
 ---
 
 

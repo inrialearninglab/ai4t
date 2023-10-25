@@ -13,7 +13,7 @@ xmlTemplate = """<?xml version="1.0"?>
     <dc:description>{description}</dc:description>
     <dc:publisher>AI4T</dc:publisher>
     <dc:contributor>AI4T</dc:contributor>{contributor}
-    <dc:date>2022-11-15</dc:date>
+    <dc:date>2023-10-02</dc:date>
     <dc:rights>{licence}</dc:rights>
     <dc:language>{lang}</dc:language>
 </metadata>
@@ -35,13 +35,6 @@ mdTemplate = """
 
 # Walk recursively all files
 basepath = u"./docs/1-Mooc/"
-for path, dirs, files in os.walk(basepath):
-    for file in files:
-        file_no_ext, file_extension = os.path.splitext(file)
-        file_no_lang, lang_extension = os.path.splitext(file_no_ext)
-        # Cleanup old metadata
-        if file_extension == '.xml' and lang_extension:
-            os.remove(os.path.join(path, file))
 for path, dirs, files in os.walk(basepath):
     for file in files:
         file_no_ext, file_extension = os.path.splitext(file)
@@ -89,16 +82,20 @@ for path, dirs, files in os.walk(basepath):
                     lang=lang_extension[1:]
                 )
                 # Write metadata file
-                with open(os.path.join(path, file_no_ext+'.xml'), 'w+') as o:
-                    o.write(xmlTemplate.format(**metadata))
+                xmlFile = os.path.join(path, file_no_ext+'.xml')
+                try:
+                    with open(xmlFile, 'x') as o:
+                        o.write(xmlTemplate.format(**metadata))
 
-            mdMetadata = mdTemplate.format(**metadata)
-            reg = re.compile(r"^(---(?:.|\n)*?^---)", re.MULTILINE)
-            match = reg.search(content)
-            insert_index = match.end()
-            md_output = content[:insert_index] + mdMetadata + content[insert_index:]
+                    mdMetadata = mdTemplate.format(**metadata)
+                    reg = re.compile(r"^(---(?:.|\n)*?^---)", re.MULTILINE)
+                    match = reg.search(content)
+                    insert_index = match.end()
+                    md_output = content[:insert_index] + mdMetadata + content[insert_index:]
 
 
-            # Write metadata header
-            with open(os.path.join(path, file), 'w+') as o:
-                o.write(md_output)
+                    # Write markdown metadata header (accordion)
+                    with open(os.path.join(path, file), 'w+') as o:
+                        o.write(md_output)
+                except:
+                    pass
