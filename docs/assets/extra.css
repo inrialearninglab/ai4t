@@ -196,6 +196,7 @@ h1:before, h2:before, .h3:before, .h4:before, .h5:before {
 .inline-image {
     display: flex !important;
     align-items: center;
+    margin-left: 0 !important;
 }
 
 .inline-image > p {
