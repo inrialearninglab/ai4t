@@ -43,4 +43,4 @@ Then Let's go, Build your own training !
 a new language, it is recommended that a developer or someone who is comfortable with IT be involved in the technical part (fork of the
 repository, generation of text in the target language, updating of .py or .yml files, generation of the static webpages).
 
-[^forgedef]: Description by Alexis Kauffmann in the French forge [La Forge des Communs Numériques Éducatifs](https://forge.aeif.fr/framaka/que-la-forge-soit-avec-toi#quest-ce-quune-forge-)
+[^forgedef]: Description by Alexis Kauffmann in the French forge [La Forge des Communs Numériques Éducatifs](https://forge.aeif.fr/framaka/que-la-forge-soit-avec-toi#quest-ce-quune-forge-){:target="_blank"}
