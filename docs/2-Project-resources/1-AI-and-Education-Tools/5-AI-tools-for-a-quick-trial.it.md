@@ -1,5 +1,5 @@
 ---
-title: AI tools for a quick trial
+title: Alcuni strumenti AI
 description: Presentation of resources used during webinars (Italy and Luxembourg)
 ---
 

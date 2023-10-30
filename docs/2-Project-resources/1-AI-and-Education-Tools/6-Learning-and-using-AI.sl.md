@@ -1,5 +1,5 @@
 ---
-title: Learning and using AI
+title: Učenje in uporaba UI
 description: Some resources used for experimentation phase (Luxembourg)
 ---
 

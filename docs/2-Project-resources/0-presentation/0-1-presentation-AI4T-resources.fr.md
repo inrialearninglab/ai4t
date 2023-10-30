@@ -1,5 +1,5 @@
 ---
-title: Ressources AI4T
+title: Présentation des ressources AI4T
 description: Documents, ressources et outils qui ont contribué au projet
 ---
 # Présentation des ressources AI4T

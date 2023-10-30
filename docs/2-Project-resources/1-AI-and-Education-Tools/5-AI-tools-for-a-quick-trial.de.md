@@ -1,5 +1,5 @@
 ---
-title: AI tools for a quick trial
+title: KI-Tools für einen schnellen Test
 description: Presentation of resources used during webinars (Italy and Luxembourg)
 ---
 

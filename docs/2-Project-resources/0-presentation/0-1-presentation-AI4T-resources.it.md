@@ -1,12 +1,12 @@
 ---
-title: Presentation of the AI4T resources
+title: Presentazione delle risorse AI4T
 description: Documents, resources and tools that contributed to the project
 ---
-# Presentation of the AI4T resources
-You will find here the documents, resources and tools that contributed to the project, from its conception to its implementation in the context of the AI4T experimentation.
+# Presentazione delle risorse AI4T
+Qui troverete i documenti, le risorse e gli strumenti che hanno contribuito al progetto, dalla sua ideazione alla sua realizzazione nel contesto della sperimentazione AI4T.
 
-**Most of those resources are in English**. They are organised in three sections:
+**La maggior parte di queste risorse è in inglese**. Sono organizzate in tre sezioni:
 
-- Section 1 - AI (Educational) tools used during the experimentation phase in the 5 countries  
-- Section 2 - List of Moocs and online resources related to AI or AI & Education  
-- Section 3 - Reports and Guidelines related to AI and Education
+- Sezione 1 - Strumenti di IA (educativi) utilizzati durante la fase di sperimentazione nei 5 Paesi.  
+- Sezione 2 - Elenco dei Moocs e delle risorse online relative all'IA o all'IA e all'educazione  
+- Sezione 3 - Rapporti e linee guida relativi all'IA e all'istruzione

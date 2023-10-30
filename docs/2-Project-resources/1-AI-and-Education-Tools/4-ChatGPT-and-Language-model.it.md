@@ -1,5 +1,5 @@
 ---
-title: ChatGPT and language model
+title: ChatGPT e modello di linguaggio
 description: ChatGPT videos and resources (France)
 ---
 

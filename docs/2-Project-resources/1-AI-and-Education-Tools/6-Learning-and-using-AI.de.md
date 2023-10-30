@@ -1,5 +1,5 @@
 ---
-title: Learning and using AI
+title: KI lernen und einsetzen
 description: Some resources used for experimentation phase (Luxembourg)
 ---
 

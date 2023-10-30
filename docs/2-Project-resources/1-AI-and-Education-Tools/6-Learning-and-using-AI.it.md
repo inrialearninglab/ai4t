@@ -1,5 +1,5 @@
 ---
-title: Learning and using AI
+title: Apprendimento e utilizzo dell'IA
 description: Some resources used for experimentation phase (Luxembourg)
 ---
 

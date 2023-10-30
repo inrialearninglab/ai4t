@@ -1,5 +1,5 @@
 ---
-title: SELFIE, assess where you stand with digital learning
+title: SELFIE, ocenite, kako ste na tem področju z digitalnim učenjem
 description: Presentation of SELFIE and its environment
 ---
 

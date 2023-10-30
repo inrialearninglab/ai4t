@@ -1,5 +1,5 @@
 ---
-title: ChatGPT and language model
+title: ChatGPT in jezikovni model
 description: ChatGPT videos and resources (France)
 ---
 
