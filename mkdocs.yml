@@ -145,11 +145,11 @@ extra:
             de: "Wie funktioniert KI ?"
             sl: "Kako deluje UI ?"
           desc:
-            en: "Explore the different types of AI, including machine learning and neural networks, to grasp the challenges of data in AI tools."
-            fr: "Explorons les différents types d'IA, dont l'apprentissage automatique et les réseaux neuronaux, afin de comprendre les enjeux des données pour les outils d'IA."
-            it: "Esplorare i diversi tipi di IA, tra cui l'apprendimento automatico e le reti neurali, per comprendere la posta in gioco dei dati per gli strumenti di IA."
-            de: "Erforschen Sie verschiedene Arten von KI, darunter maschinelles Lernen und neuronale Netze, um zu verstehen, was es mit den Daten für KI-Tools auf sich hat."
-            sl: "Raziščite različne vrste UI, vključno s strojnim učenjem in nevronskimi mrežami, da bi razumeli, kaj je povezano s podatki za orodja umetne inteligence."
+            en: "Explore the different types of AI, including machine learning and neural networks, to grasp what is at stake with data in AI."
+            fr: "Explorons les différents types d'IA, dont l'apprentissage automatique et les réseaux neuronaux, pour comprendre l'enjeu des données en IA."
+            it: "Esplorare i diversi tipi di IA, tra cui l'apprendimento automatico e le reti neurali, per capire cosa c'è in gioco con i dati nell'IA."
+            de: "Erforschen Sie verschiedene Arten von KI, darunter maschinelles Lernen und neuronale Netze, um zu verstehen, was es mit Daten in der KI auf sich hat."
+            sl: "Raziščite različne vrste UI, vključno s strojnim učenjem in nevronskimi mrežami, da bi razumeli, kaj je povezano s podatki v umetni inteligenci."
         - url:
             en: "1-Mooc/module-4-AI-at-our-service-as-teachers/4-0-introduction/4-0-1-Presentation.html"
             fr: "fr/1-Mooc/module-4-AI-at-our-service-as-teachers/4-0-introduction/4-0-1-Presentation.html"
@@ -170,7 +170,7 @@ extra:
             sl: "UI v službi učiteljev ?"
           desc:
             en: "Make informed use of AI tools in education, having identified the potential risks associatedwith their use."
-            fr: "Faisons un usage éclairé des outils d'IA en éducation en ayant identifié les risques potentiels liés à leur utilisation."
+            fr: "Développons un usage éclairé des outils d'IA en éducation en ayant identifié les risques potentiels liés à leur utilisation."
             it: "Utilizzare con cognizione di causa gli strumenti di IA nel campo dell'istruzione, dopo aver identificato i rischi potenziali del loro utilizzo."
             de: "Informierter Einsatz von KI-Tools im Bildungsbereich nach Ermittlung der potenziellen Risiken ihres Einsatzes."
             sl: "ozaveščena uporaba orodij UI v izobraževanju po opredelitvi morebitnih tveganj, povezanih z njihovo uporabo."
@@ -341,7 +341,7 @@ plugins:
           "Reports and Guidelines": "Rapports et orientations"
 
         it:
-          "Home": "Home Page"
+          "Home": "Home"
           "Mooc": "Mooc"
           "General Presentation": "Presentazione generale"
           "0.1 What does this training offer us?": "0.1 Cosa ci offre questa formazione ?"
