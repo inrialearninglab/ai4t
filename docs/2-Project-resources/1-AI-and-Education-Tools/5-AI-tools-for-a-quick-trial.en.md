@@ -10,13 +10,13 @@ The following resources were used in Italy to quickly discover and test AI tools
 
 - What: "*Teachable Machine is a web-based tool available to anyone, which allows to create machine learning models quickly and easily.*"  
 - Produced by: Google Creative lab  
-- Access to the resource: [https://teachablemachine.withgoogle.com/](https://teachablemachine.withgoogle.com/](https://teachablemachine.withgoogle.com/](https://teachablemachine.withgoogle.com/){:target="_blank"}
+- Access to the resource: [https://teachablemachine.withgoogle.com](https://teachablemachine.withgoogle.com){:target="_blank"}
 
 ## QuickDraw
 
 - What: "*This game is based on machine learning. You draw, and a neural network tries to guess what your drawing represents. Of course, it doesn't always succeed, but the more you play, the better the network gets. So far we have taught it a few hundred concepts, and we hope to add more over time. This game shows that machine learning can be fun*".  
 - Produced by: Google Creative lab  
-- Access to the resource: [https://quickdraw.withgoogle.com/](https://quickdraw.withgoogle.com/](https://quickdraw.withgoogle.com){:target="_blank"}
+- Access to the resource: [https://quickdraw.withgoogle.com](https://quickdraw.withgoogle.com){:target="_blank"}
 
 ## AutoDraw
 

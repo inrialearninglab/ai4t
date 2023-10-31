@@ -10,13 +10,13 @@ Les ressources suivantes ont été utilisées en Italie pour découvrir et teste
 
 - Quoi : "*Teachable Machine est un outil en ligne accessible à tous, qui permet de créer rapidement et facilement des modèles d'apprentissage automatique*".  
 - Produit par : Google Creative lab  
-- Accès à la ressource : [https://teachablemachine.withgoogle.com/](https://teachablemachine.withgoogle.com/](https://teachablemachine.withgoogle.com/](https://teachablemachine.withgoogle.com/){:target="_blank"}
+- Accès à la ressource : [https://teachablemachine.withgoogle.com](https://teachablemachine.withgoogle.com){:target="_blank"}
 
 ## QuickDraw (en Français)
 
 - Quoi : "*Ce jeu est basé sur l'apprentissage automatique. Vous dessinez et un réseau neuronal essaie de deviner ce que représente votre dessin. Bien sûr, il ne réussit pas toujours, mais plus vous jouez, plus le réseau s'améliore. Jusqu'à présent, nous lui avons enseigné quelques centaines de concepts, et nous espérons en ajouter d'autres au fil du temps. Ce jeu montre que l'apprentissage automatique peut être amusant*".  
 - Produit par : Google Creative lab  
-- Accès à la ressource : [https://quickdraw.withgoogle.com/](https://quickdraw.withgoogle.com/](https://quickdraw.withgoogle.com){:target="_blank"}
+- Accès à la ressource : [https://quickdraw.withgoogle.com/](https://quickdraw.withgoogle.com){:target="_blank"}
 
 ## AutoDraw (en Anglais)
 
@@ -44,6 +44,6 @@ Les ressources suivantes ont été utilisées en Italie pour découvrir et teste
 
 ## Beat the Crocodile (en Anglais)
 
-- What: "*Reinforcement learning - Beat the Computer*".  
-- By: Stefan Seegerer, Julian Dorn
-- Access to the resource: [https://www.stefanseegerer.de/schlag-das-krokodil/](https://www.stefanseegerer.de/schlag-das-krokodil/){:target="_blank"}
+- Quoi : "*Reinforcement learning - Beat the Computer*".  
+- Produit par : Stefan Seegerer, Julian Dorn
+- Accès à la ressource : [https://www.stefanseegerer.de/schlag-das-krokodil/](https://www.stefanseegerer.de/schlag-das-krokodil/){:target="_blank"}
