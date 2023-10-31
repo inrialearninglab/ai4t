@@ -3,7 +3,7 @@ title: Orange
 description: Tool used during the experimentation (Slovenia)
 ---
 
-[Orange] (https://orangedatamining.com/) est un logiciel polyvalent d'apprentissage automatique et d'exploration de données présenté dans le Mooc slovène.
+[Orange](https://orangedatamining.com/) est un logiciel polyvalent d'apprentissage automatique et d'exploration de données présenté dans le Mooc slovène.
 
 ## Quelques vidéos de présentation Orange (en slovène ou en anglais)
 

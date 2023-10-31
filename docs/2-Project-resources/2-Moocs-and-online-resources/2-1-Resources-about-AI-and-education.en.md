@@ -17,7 +17,7 @@ The subject of artificial intelligence is so fascinating that many Massive Open 
     -   **Registration**: Free
     -   **Certification**: No
     -   **Accessibility**: Third quarter of 2022
-    -   **Access to the Mooc**: Coursera platform[^AIET]
+    -   **Access to the Mooc**: [https://www.coursera.org/learn/artificial-intelligence-education-for-teachers](https://www.coursera.org/learn/artificial-intelligence-education-for-teachers)
 
 
 ### AI Basics for School
@@ -29,20 +29,20 @@ The subject of artificial intelligence is so fascinating that many Massive Open 
     -   **Registration**: Free
     -   **Certification**: No
     -   **Accessibility**: Not accessible in 2022
-    -   **Access to the Mooc**: European School Network platform[^AIbasics]
+    -   **Access to the Mooc**: [https://www.europeanschoolnetacademy.eu/courses/course-v1:CodeWeek+AI+2021/about](https://www.europeanschoolnetacademy.eu/courses/course-v1:CodeWeek+AI+2021/about)
 
 
-### A inteligencia artificial vai transformar a escola *(Artificial Intelligence will transform schools)*
+### A inteligencia artificial vai transformar a escola
+*(Artificial Intelligence will transform schools)*
 
 !!! info
     -   **By**: Equipa de Recursos e Tecnologias Educativas (ERTE) - Portugal, Educational Resources and Technology Team (ERTE)
     -   **Info about the Mooc**:  « *A Inteligência Artificial já faz parte do nosso dia a dia e está em constante evolução! Saiba como preparar os estudantes a enfrentar novos desafios e a desenvolver competências digitais.(Artificial Intelligence is already part of our daily lives and is constantly evolving! Learn how to prepare students to face new challenges and develop digital skills).* »
-    - 🚀This Mooc was mentioned several times at the launch of the AI4T project.
     -   **Language**: PT
     -   **Registration**: Free
     -   **Certification**: No
     -   **Accessibility**: Not accessible in 2022
-    -   **Access to the Mooc**: nau.edu platform[^Aiescola]
+    -   **Access to the Mooc**: [https://www.nau.edu.pt/curso/a-inteligencia-artificial-vai-transformar-a-escola/](https://www.nau.edu.pt/curso/a-inteligencia-artificial-vai-transformar-a-escola/)
 
 ## 2- Online resource about AI and Education
 
@@ -51,12 +51,11 @@ The subject of artificial intelligence is so fascinating that many Massive Open 
 !!! info
     -   **By**: EPFL (Ecole Polytechnique de Lausanne) Extension school: The EPFL Extension School teaches applied digital skills, online. We believe that everyone should gain digital knowledge and skills to be able to make the most of the opportunities in today's world.
     -   **Info about the resources**:  « *"That's AI" is your introduction to the world's most important technological development. Find out how AI is transforming everything around us and learn how to become an active participant in this exciting new world.* »
-    - 🚀This Mooc was mentioned several times at the launch of the AI4T project.
     -   **Language**: DE, EN, FR (some article ares solely in English)
     -   **Registration**: Free
     -   **Certification**: No
     -   **Accessibility**: Unlimited
-    -   **Access to the resources**: That's AI Website[^EPFLAI]
+    -   **Access to the resources**: [https://www.thats-ai.org/en-GB](https://www.thats-ai.org/en-GB)
 
 
 ### AI in Education
@@ -64,19 +63,8 @@ The subject of artificial intelligence is so fascinating that many Massive Open 
 !!! info
     -   **By**: University of Oxford - [IT Learning Centre](https://skills.it.ox.ac.uk/)
     -   **Info about the resources**: « *Series of lunch-time talks on Artificial Intelligence (AI) in Education that were co-organised with the Centre for Teaching and Learning in 2019*. »
-    - 🚀This Mooc was mentioned several times at the launch of the AI4T project.
     -   **Language**: EN
     -   **Registration**: Free
     -   **Certification**: No
     -   **Accessibility**: Unlimited
-    -   **Access to the resources**: On the website of IT Learning Center [^ITLC]
-
-[^AIET]: [Artificial Intelligence (AI) Education for Teachers, https://www.coursera.org/learn/artificial-intelligence-education-for-teachers](https://www.coursera.org/learn/artificial-intelligence-education-for-teachers)
-
-[^AIbasics]: [AI Basics for school, https://www.europeanschoolnetacademy.eu/courses/course-v1:CodeWeek+AI+2021/about](https://www.europeanschoolnetacademy.eu/courses/course-v1:CodeWeek+AI+2021/about)
-
-[^Aiescola]: [A inteligencia artificial vai transformar a escola, https://www.nau.edu.pt/curso/a-inteligencia-artificial-vai-transformar-a-escola/](https://www.nau.edu.pt/curso/a-inteligencia-artificial-vai-transformar-a-escola/)
-
-[^EPFLAI]:[That's AI - ECole Pyltechnique de Lausanne, https://www.thats-ai.org/en-GB](https://www.thats-ai.org/en-GB)
-
-[^ITLC]: [https://skills.it.ox.ac.uk/ai-in-education-course-pack](https://skills.it.ox.ac.uk/ai-in-education-course-pack)
+    -   **Access to the resources**: https://skills.it.ox.ac.uk/ai-in-education-course-pack](https://skills.it.ox.ac.uk/ai-in-education-course-pack)

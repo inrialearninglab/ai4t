@@ -56,7 +56,7 @@ Bemerkenswerter Inhalt: "*Ein wertvoller Beitrag dieser Arbeit ist die Sammlung 
 !!! info
     "*Dieses Dokument erweitert die Definition von Künstlicher Intelligenz (KI), wie sie in der Mitteilung der Kommission über KI festgelegt wurde. Es klärt bestimmte Aspekte der KI als wissenschaftliche Disziplin und als Technologie mit dem Ziel, Missverständnisse zu vermeiden, ein gemeinsames Wissen über KI zu erreichen, das auch von Nicht-KI-Experten genutzt werden kann, und nützliche Details zu liefern, die in der Diskussion über die KI-Ethikleitlinien und die Empfehlungen zur KI-Politik verwendet werden können.*
 
-## Wenige Informationen über die Ressourcen
+## Einige Informationen über die Ressourcen
 ??? "Hochrangige Expertengruppe für Künstliche Intelligenz[^Hlegai4]"
     "*Eine von der Europäischen Kommission eingesetzte Expertengruppe, die sie bei ihrer Strategie für künstliche Intelligenz beraten soll.*"
 

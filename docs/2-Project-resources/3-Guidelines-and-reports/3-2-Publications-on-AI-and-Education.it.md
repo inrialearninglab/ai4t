@@ -56,7 +56,7 @@ Contenuti degni di nota: "*Un prezioso contributo di questo lavoro è la raccolt
 !!! info
     "*Questo documento amplia la definizione di Intelligenza Artificiale (IA) come definita nella Comunicazione della Commissione sull'IA. Chiarisce alcuni aspetti dell'IA come disciplina scientifica e come tecnologia, con l'obiettivo di evitare fraintendimenti, di raggiungere una conoscenza comune dell'IA che possa essere utilizzata proficuamente anche da chi non è esperto di IA e di fornire dettagli utili che possano essere utilizzati nella discussione sulle linee guida sull'etica dell'IA e sulle raccomandazioni sulle politiche in materia di IA".*
 
-## Poche informazioni sulle risorse
+## Alcune informazioni sulle risorse
 ??? "Gruppo di esperti di alto livello sull'intelligenza artificiale[^Hlegai4]"
     "*Un gruppo di esperti che fornisce consulenza sulla strategia di intelligenza artificiale nominata dalla Commissione europea.*"
 

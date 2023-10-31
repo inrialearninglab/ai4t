@@ -7,7 +7,8 @@ Das Thema der künstlichen Intelligenz ist so faszinierend, dass sich viele Mass
 
 ## 1- Mooc über KI und Bildung
 
-### Artificial Intelligence (AI) Education for Teachers *(Künstliche Intelligenz (KI) Bildung für Lehrer)*
+### Artificial Intelligence (AI) Education for Teachers
+*(Künstliche Intelligenz (KI) Bildung für Lehrer)*
 
 !!! info
     - **Von**: Macquarie University (AUS) und **IBM (basierend auf AI Curriculum Framework)**
@@ -16,10 +17,11 @@ Das Thema der künstlichen Intelligenz ist so faszinierend, dass sich viele Mass
     - **Anmeldung**: Kostenlos
     - **Zertifizierung**: Nein
     - **Zugänglichkeit**: Drittes Quartal 2022
-    - **Zugang zur Mooc**: Coursera-Plattform[^AIET]
+    - **Zugang zur Mooc**: [https://www.coursera.org/learn/artificial-intelligence-education-for-teachers](https://www.coursera.org/learn/artificial-intelligence-education-for-teachers)
 
 
-### AI Basics for School *(AI-Grundlagen für die Schule)*
+### AI Basics for School
+*(AI-Grundlagen für die Schule)*
 
 !!! info
     - **Von**: Europäisches Schulnetzwerk - Teil der EU Code Week 2021
@@ -28,56 +30,45 @@ Das Thema der künstlichen Intelligenz ist so faszinierend, dass sich viele Mass
     - **Anmeldung**: Kostenlos
     - **Zertifizierung**: Nein
     - **Zugänglichkeit**: Nicht zugänglich im Jahr 2022
-    - **Zugang zur Mooc**: Europäische Schulnetzplattform [^AIbasics]
+    - **Zugang zur Mooc**: [https://www.europeanschoolnetacademy.eu/courses/course-v1:CodeWeek+AI+2021/about](https://www.europeanschoolnetacademy.eu/courses/course-v1:CodeWeek+AI+2021/about)
 
 
-###  A inteligencia artificial vai transformar a escola *(Künstliche Intelligenz wird die Schulen verändern)*
+###  A inteligencia artificial vai transformar a escola
+*(Künstliche Intelligenz wird die Schulen verändern)*
 
 !!! info
     - **Von**: Equipa de Recursos e Tecnologias Educativas (ERTE) - Portugal, Team für Bildungsressourcen und -technologie (ERTE)
     - **Info über den Mooc**:  "*A Inteligência Artificial já faz parte do nosso dia a dia e está em constante evolução! Saiba como preparar os estudantes a enfrentar novos desafios e a desenvolver competências digitais.(Künstliche Intelligenz ist bereits Teil unseres täglichen Lebens und entwickelt sich ständig weiter! Erfahren Sie, wie Sie Ihre Schüler auf neue Herausforderungen vorbereiten und digitale Kompetenzen entwickeln können).*"
-    - 🚀Dieser Mooc wurde beim Start des AI4T-Projekts mehrfach erwähnt.
     - **Sprache**: PT
     - **Anmeldung**: Kostenlos
     - **Zertifizierung**: Nein
     - **Zugänglichkeit**: Nicht zugänglich im Jahr 2022
-    - **Zugang zur Mooc**: nau.edu-Plattform [^Aiescola]
+    - **Zugang zur Mooc**: [https://www.nau.edu.pt/curso/a-inteligencia-artificial-vai-transformar-a-escola/](https://www.nau.edu.pt/curso/a-inteligencia-artificial-vai-transformar-a-escola/)
 
 
 ## 2- Online-Ressource über KI und Bildung
 
-### That's AI *(Das ist AI)*
+### That's AI
+*(Das ist AI)*
 
 !!! info
     - **Von**: EPFL (Ecole Polytechnique de Lausanne) Erweiterungsschule: Die EPFL Extension School unterrichtet online angewandte digitale Kompetenzen. Wir sind der Meinung, dass sich jeder digitale Kenntnisse und Fähigkeiten aneignen sollte, um das Beste aus den Möglichkeiten der heutigen Welt zu machen.
     - **Info über den Mooc**:  « *"That's AI " ist Ihre Einführung in die wichtigste technologische Entwicklung der Welt. Erfahren Sie, wie KI alles um uns herum verändert, und lernen Sie, wie Sie aktiv an dieser aufregenden neuen Welt teilhaben können."* »
-    - 🚀Dieser Mooc wurde beim Start des AI4T-Projekts mehrfach erwähnt.
     - **Sprache**: DE, EN, FR (einige Artikel sind ausschließlich auf Englisch)
     - **Anmeldung**: Kostenlos
     - **Zertifizierung**: Nein
     - **Zugänglichkeit**: Unbegrenzt
-    - **Zugang zu den Ressourcen**: That's AI Website[^EPFLAI]
+    - **Zugang zu den Ressourcen**: [https://www.thats-ai.org/en-GB](https://www.thats-ai.org/en-GB)
 
 
-### AI in Education *(AI in der Bildung)*
+### AI in Education
+*(AI in der Bildung)*
 
 !!! info
     - **Von**: Universität Oxford - [IT Learning Centre](https://skills.it.ox.ac.uk/)
     - **Info über die Ressourcen**: " *Reihe von Mittagsgesprächen über Künstliche Intelligenz (KI) in der Bildung, die gemeinsam mit dem Zentrum für Lehren und Lernen im Jahr 2019 organisiert wurden*."
-    - 🚀Dieser Mooc wurde beim Start des AI4T-Projekts mehrfach erwähnt.
     - **Sprache**: EN
     - **Anmeldung**: Kostenlos
     - **Zertifizierung**: Nein
     - **Zugänglichkeit**: Unbegrenzt
-    - **Zugang zu den Ressourcen**: Auf der Website des IT Learning Center [^ITLC]
-
-
-[^AIET]: [Artificial Intelligence (AI) Education for Teachers, https://www.coursera.org/learn/artificial-intelligence-education-for-teachers](https://www.coursera.org/learn/artificial-intelligence-education-for-teachers)
-
-[^AIbasics]: [KI-Grundlagen für die Schule, https://www.europeanschoolnetacademy.eu/courses/course-v1:CodeWeek+AI+2021/about](https://www.europeanschoolnetacademy.eu/courses/course-v1:CodeWeek+AI+2021/about)
-
-[^Aiescola]: [A inteligencia artificial vai transformar a escola, https://www.nau.edu.pt/curso/a-inteligencia-artificial-vai-transformar-a-escola/](https://www.nau.edu.pt/curso/a-inteligencia-artificial-vai-transformar-a-escola/)
-
-[^EPFLAI]:[Das ist AI - ECole Pyltechnique de Lausanne, https://www.thats-ai.org/en-GB](https://www.thats-ai.org/en-GB)
-
-[^ITLC]: [https://skills.it.ox.ac.uk/ai-in-education-course-pack](https://skills.it.ox.ac.uk/ai-in-education-course-pack)
+    - **Zugang zu den Ressourcen**: [https://skills.it.ox.ac.uk/ai-in-education-course-pack](https://skills.it.ox.ac.uk/ai-in-education-course-pack)

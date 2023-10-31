@@ -56,7 +56,7 @@ Notable content: "*A valuable contribution of this work is the collection of def
 !!! info
     "*This document expands the definition of Artificial Intelligence (AI) as defined in the Commission Communication on AI. It clarifies certain aspects of AI as a scientific discipline and as a technology, with the aim to avoid misunderstanding, to achieve a shared common knowledge of AI that can be fruitfully used also by non - AI experts, and to provide useful details that can be used in the discussion on both the AI ethics guidelines and the AI policies recommendations.*
 
-## Few infos about the resources
+## Some infos about the resources
 ??? "High-level Expert Group on Artificial Intelligence[^Hlegai4]"
     "*A group of experts to provide advice on its artificial intelligence strategy appointed by the European Commission.*"
 
