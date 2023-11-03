@@ -20,7 +20,7 @@ This **Build your own training** part is a step by step methodology to support t
 Here is a graphic representation of the "Build Your own Training" 3-Step Process.
 
 <figure class="inline-image">
-    <img src="Images/3-0-Activateur-BYOT-map.png" alt=« Activator on the BYOT map.">
+    <img src="Images/3-0-Activateur-BYOT-map.png" alt="Activator on the BYOT map.">
     <p>By clicking on the <b>activator</b> associated with each section, you can access the presentation of each section and the links to the various pages.</p>
 </figure>
 
