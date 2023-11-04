@@ -1,9 +1,9 @@
 ---
 title: Publications sur l'IA et l'éducation (UE-UNESCO-OCDE-CoE)
-description: Bibligraphie sur l'IA /AI dans l'éducation provenant d'institutions européennes/INTERNATIONALES.
+description: Bibligraphie sur l'IA /AI dans l'éducation provenant d'institutions européennes/internationales.
 ---
 ??? info " Information sur la bibliographie"
-    - Soumis : 16 décembre 2022
+    - Soumis : 15 novembre 2023
     - Les ressources sont classées par sujet et ensuite par date décroissante.
 
 ##*Avant-propos*
@@ -11,6 +11,8 @@ En définissant les objectifs du projet AI4T, les promoteurs du projet se sont a
 
 
 ## Publications sur l'IA
+
+2023 : Guide pour l'IA générative dans l'éducation et la recherche[^Unesco6]
 
 2022 : Intelligence artificielle et éducation - Une vue critique à travers le prisme des droits de l'homme, de la démocratie et de l'état de droit - Conseil de l'Europe [^CoE1]
 
@@ -79,7 +81,7 @@ Contenu notable : "*La contribution précieuse de ce travail est la collecte des
 ??? "Conseil de l'Europe"
       Le **Conseil de l'Europe et l'intelligence artificielle** [^CoE2] dirige de nombreuses activités les par le Comité sur l'intelligence artificielle (CAI) [^CoE3] autour de l'IA regroupées sous le titre *"Vers une application de l'IA fondée sur les droits de l'homme, l'état de droit et la démocratie "* [^CoE1].
 
-
+[^Unesco6]: [Guidance for generative AI in education and research](https://unesdoc.unesco.org/ark:/48223/pf0000386693.locale=fr)
 [^CoE1]: [Artificial Intelligence and Education - A critical view through the lens of human rights, democracy and the rule of law - Council of Europe, https://rm.coe.int/artificial-intelligence-and-education-a-critical-view-through-the-lens/1680a886bd](https://rm.coe.int/artificial-intelligence-and-education-a-critical-view-through-the-lens/1680a886bd)
 [^Unesco5]: [L'éthique de l'intelligence artificielle - Recommandation de l'UNESCO, https://unesdoc.unesco.org/ark:/48223/pf0000377897_fre](https://unesdoc.unesco.org/ark:/48223/pf0000377897_fre)
 [^Jrc4]: [AI Watch 2.0- Defining Artificial intelligence, https://publications.jrc.ec.europa.eu/repository/handle/JRC118163](https://publications.jrc.ec.europa.eu/repository/handle/JRC118163)

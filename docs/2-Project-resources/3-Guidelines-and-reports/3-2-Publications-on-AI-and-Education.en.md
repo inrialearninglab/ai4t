@@ -3,7 +3,7 @@ title: Publications on AI and Education (EU-UNESCO-OCDE-CoE)
 description: Bibligraphy about AI /AI in Education from EU /INTERNATIONAL Institutions
 ---
 ??? info "Bibliography information"
-    - Submitted : December 16th 2022
+    - Submitted : NOvember 15th 2023
     - The resources are classified by subject and then by decreasing date
 
 ##*Foreword*
@@ -11,6 +11,8 @@ While defining the objectives of the AI4T project, the project promoters drew on
 
 
 ## Publications about AI
+
+2023: Guidance for generative AI in education and research - UNESCO[^Unesco6]
 
 2022: Artificial Intelligence and Education - A critical view through the lens of human rights, democracy and the rule of law - Council of Europe[^CoE1]
 
@@ -77,6 +79,7 @@ Notable content: "*A valuable contribution of this work is the collection of def
 ??? "Council of Europe"
       The **Council of Europe and Artificial Intelligence**[^CoE2] leads many activities les by the Committee on Artificial Intelligence (CAI)[^CoE3] around AI grouped under the heading *'Towards an application of AI based on human rights, the rule of law and democracy'* [^CoE1]
 
+[^Unesco6]: [Guidance for generative AI in education and research](https://unesdoc.unesco.org/ark:/48223/pf0000386693.locale=fr)
 [^CoE1]: [Artificial Intelligence and Education - A critical view through the lens of human rights, democracy and the rule of law - Council of Europe, https://rm.coe.int/artificial-intelligence-and-education-a-critical-view-through-the-lens/1680a886bd](https://rm.coe.int/artificial-intelligence-and-education-a-critical-view-through-the-lens/1680a886bd)
 [^Unesco5]: [The Ethics of Artificial Intelligence - Recommandation of the UNESCO, https://unesdoc.unesco.org/ark:/48223/pf0000377897](https://unesdoc.unesco.org/ark:/48223/pf0000377897)
 [^Jrc4]: [AI Watch 2.0- Defining Artificial intelligence, https://publications.jrc.ec.europa.eu/repository/handle/JRC118163](https://publications.jrc.ec.europa.eu/repository/handle/JRC118163)

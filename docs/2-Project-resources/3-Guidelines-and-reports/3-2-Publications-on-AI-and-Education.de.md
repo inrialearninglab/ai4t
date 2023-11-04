@@ -3,7 +3,7 @@ title: Veröffentlichungen zu KI und Bildung (EU-UNESCO-OCDE-CoE)
 description: Bibligraphie über KI /AI in der Bildung von EU /INTERNATIONALEN Institutionen
 ---
 ??? info "Bibliographie Informationen"
-    - Eingereicht am: 16. Dezember 2022
+    - Eingereicht am: 15. November 2023
     - Die Ressourcen sind nach Thema und dann nach abnehmendem Datum geordnet
 
 ##*Vorwort*
@@ -11,6 +11,8 @@ Bei der Festlegung der Ziele des AI4T-Projekts haben sich die Projektträger auf
 
 
 ## Veröffentlichungen über AI
+
+2023: Leitfaden für generative KI in Bildung und Forschung - UNESCO[^Unesco6]
 
 2022: Künstliche Intelligenz und Bildung - Ein kritischer Blick durch die Brille von Menschenrechten, Demokratie und Rechtsstaatlichkeit - Europarat[^CoE1]
 
@@ -77,6 +79,7 @@ Bemerkenswerter Inhalt: "*Ein wertvoller Beitrag dieser Arbeit ist die Sammlung 
 ??? "Europarat"
       Der **Europarat und Künstliche Intelligenz**[^CoE2] leitet zahlreiche Aktivitäten des Ausschusses für Künstliche Intelligenz (CAI)[^CoE3] rund um KI, die unter der Überschrift *'Towards an application of AI based on human rights, the rule of law and democracy'* [^CoE1] zusammengefasst sind.
 
+[^Unesco6]: [Guidance for generative AI in education and research](https://unesdoc.unesco.org/ark:/48223/pf0000386693.locale=fr)
 [^CoE1]: [Artificial Intelligence and Education - A critical view through the lens of human rights, democracy and the rule of law - Council of Europe, https://rm.coe.int/artificial-intelligence-and-education-a-critical-view-through-the-lens/1680a886bd](https://rm.coe.int/artificial-intelligence-and-education-a-critical-view-through-the-lens/1680a886bd)
 [^Unesco5]: [The Ethics of Artificial Intelligence - Recommandation of the UNESCO, https://unesdoc.unesco.org/ark:/48223/pf0000377897](https://unesdoc.unesco.org/ark:/48223/pf0000377897)
 [^Jrc4]: [AI Watch 2.0- Defining Artificial intelligence, https://publications.jrc.ec.europa.eu/repository/handle/JRC118163](https://publications.jrc.ec.europa.eu/repository/handle/JRC118163)

@@ -3,7 +3,7 @@ title: Publikacije o umetni inteligenci in izobraževanju (EU-UNESCO-OCDE-CoE)
 description: Izobraževalna bibliografija o umetni inteligenci / umetni inteligenci v izobraževanju iz institucij EU / MEDNARODNIH institucij
 ---
 ??? info "Informacije o bibliografiji"
-    - Predloženo : 16. december 2022
+    - Predloženo : 15. november 2023
     - Viri so razvrščeni glede na predmet in nato glede na datum zmanjšanja
 
 ##*Predgovor*
@@ -11,6 +11,8 @@ Pri opredeljevanju ciljev projekta AI4T so nosilci projekta izhajali iz številn
 
 
 ## Publikacije o umetni inteligenci
+
+2023: Smernice za generativno umetno inteligenco v izobraževanju in raziskavah[^Unesco6]
 
 2022: Umetna inteligenca in izobraževanje - kritičen pogled skozi prizmo človekovih pravic, demokracije in pravne države - Svet Evrope[^CoE1]
 
@@ -77,6 +79,7 @@ Pomembna vsebina: "*Dragocen prispevek tega dela je zbiranje opredelitev, razvit
 ??? "Svet Evrope"
       **Svet Evrope in umetna inteligenca**[^CoE2] vodi številne dejavnosti les Odbora za umetno inteligenco (CAI)[^CoE3] v zvezi z UI, združene pod naslovom *"K uporabi UI, ki temelji na človekovih pravicah, pravni državi in demokraciji "*[^CoE1].
 
+[^Unesco6]: [Guidance for generative AI in education and research](https://unesdoc.unesco.org/ark:/48223/pf0000386693.locale=fr)
 [^CoE1]: [Artificial Intelligence and Education - A critical view through the lens of human rights, democracy and the rule of law - Council of Europe, https://rm.coe.int/artificial-intelligence-and-education-a-critical-view-through-the-lens/1680a886bd](https://rm.coe.int/artificial-intelligence-and-education-a-critical-view-through-the-lens/1680a886bd)
 [^Unesco5]: [The Ethics of Artificial Intelligence - Recommandation of the UNESCO, https://unesdoc.unesco.org/ark:/48223/pf0000377897](https://unesdoc.unesco.org/ark:/48223/pf0000377897)
 [^Jrc4]: [AI Watch 2.0- Defining Artificial intelligence, https://publications.jrc.ec.europa.eu/repository/handle/JRC118163](https://publications.jrc.ec.europa.eu/repository/handle/JRC118163)
