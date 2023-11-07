@@ -9,7 +9,7 @@ description: Bibliographie du MENJ sur l'IA et l'éducation
 
 # Bibliogaphie sur l'IA et l'éducation
 
-La Direction du numérique pour l'éducation (DNE-TN2) a publié une bibliographie séléctive sur l'IA et l'éducation, dont l'avant-propos est le suivant : 
+La Direction du numérique pour l'éducation (DNE-TN2) a publié une bibliographie sélective sur l'IA et l'éducation, dont l'avant-propos est le suivant : 
 "Reflet, nécessairement partiel et très sélectif, du renouvellement des questionnements scientifiques pédagogiques qui s’en est suivi, elle n’a bien sûr aucune prétention à l’exhaustivité et sera mise à jour en fonction de l’évolution des technologies, des pratiques et des travaux des groupes thématiques numériques (GTnum) coordonnés par la Direction du numérique pour l’éducation."
 
 Accès à la bibliographie sur la plateforme *Hypothèses*: [IA et éducation](https://edunumrech.hypotheses.org/10113)

@@ -188,7 +188,12 @@ extra:
             it: "it/1-Mooc/module-2-what-is-meant-by-ai/2-2-what-is-artificial-intelligence-actually/2-2-4-Activity-Discover-AI-innovations-IT/2-2-4-Origin-of-AI-innovations-IT.html"
             de: "de/1-Mooc/module-2-what-is-meant-by-ai/2-2-what-is-artificial-intelligence-actually/2-2-4-Activity-Discover-AI-innovations-DE/2-2-4-Origin-of-AI-innovations-DE.html"
             sl: "sl/1-Mooc/module-2-what-is-meant-by-ai/2-2-what-is-artificial-intelligence-actually/2-2-4-Activity-Discover-AI-innovations-SI/2-2-4-Origin-of-AI-innovations-SI.html"
-          img: "assets/Home-Timeline-2023.en.png"
+          img:
+            en: "assets/Home-Timeline-2023.png"
+            fr: "assets/Home-Timeline-2023.png"
+            it: "assets/Home-Timeline-2023.png"
+            de: "assets/Home-Timeline-2023.png"
+            sl: "assets/Home-Timeline-2023.png"
           title:
             en: "AI Historical Timeline"
             fr: "Frise historique de l'IA"
