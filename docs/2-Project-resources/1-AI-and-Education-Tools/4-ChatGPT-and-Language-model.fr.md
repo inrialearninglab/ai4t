@@ -1,13 +1,32 @@
 ---
 title: ChatGPT et modèle de langage
-description: Vidéos et ressources pour décrypter ChatGPT (France)
+description: Vidéos et ressources pour décrypter ChatGPT (France)- cf. module 3 partie 3
+contributor:    Alexandre, Torres-Leguet - Flowers - Inria
+Clément, Romac - Flowers - Inria
+Thomas, Carta - Flowers - Inria
+Pierre-Yves, Oudeyer - Flowers - Inria
+type: video
+---
+??? info "Metadata"
+- Id: EU.AI4T.O1.M3.3.2t
+- Title: ChatGPT et modèle de langage
+- Type: video
+- Description: Pour en savoir plus sur les GAN
+- Subject: Artificial Intelligence for and by Teachers
+- Authors:
+- Alexandre, Torres-Leguet - Flowers - Inria
+- Clément, Romac - Flowers - Inria
+- Thomas, Carta - Flowers - Inria
+- Pierre-Yves, Oudeyer - Flowers - Inria
+- Licence: CC BY 4.0
+- Date: 2023-10-02
 ---
 
 Derrière ChatGPT et les très nombreux débats qui l'accompagnent, il y a le questionnement fondamental sur les enjeux des IA génératives. Notamment en raison des nombreuses implications de ces dernières en éducation.
 
 ## 1 - Comprendre ce qu'est ChatGPT
 
-Afin de comprendre un peu mieux ce que sont ces modèles de langages, l’équipe pédagogique d’AI4T propose une série de vidéos réalisée par Alexandre Torres-Leguet, Clément Romac, Thomas Carta, Pierre-Yves Oudeyer, dans l'équipe Flowers d'Inria. Elle est distribuée sous licence Creative Commons CC-BY.
+Afin de comprendre un peu mieux ce que sont ces modèles de langages, l’équipe pédagogique d’AI4T vous propose une série de vidéos réalisée par Alexandre Torres-Leguet, Clément Romac, Thomas Carta, Pierre-Yves Oudeyer, dans l'équipe Flowers d'Inria. Elle est distribuée sous licence Creative Commons CC-BY.
 
 ### Episode#1 : Comment fonctionnent les modèles de langage ?
 
@@ -34,19 +53,29 @@ Synopsis : Les modèles de langage, comme ChatGPT ou Bard, on montré des capaci
 
 **"Les forces des modèles de langage"**
 Synopsis : Cette vidéo présente les principales forces des modèles de langage tels que ChatGPT ou Bard. En dépit de certaines faiblesses, ils possèdent également un grand nombre de forces telles que :
-- leur capacité à analyser un contexte donné pour fournir une réponse adaptée à une tâche
-- leur utilisation d'outils externes (par exemple Wikipedia)
-- la grande diversité des données sur lesquelles ils ont été entraîné
-- leur capacité à produire des raisonnements basiques
-- leur "sens commun" dans certains contextes
-- leur capacité à nous aider à trouver des idées créatives
+- leur capacité à analyser un contexte donné pour fournir une réponse adaptée à une tâche,
+- leur utilisation d'outils externes (par exemple Wikipedia),
+- la grande diversité des données sur lesquelles ils ont été entraîné,
+- leur capacité à produire des raisonnements basiques,
+- leur "sens commun" dans certains contextes,
+- leur capacité à nous aider à trouver des idées créatives.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/5HVR3cVFot4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
-L'ensemble de ces vidéos réalisées par l'équipe Inria, Flowers, sont également accessibles et téléchargeables sur le site [ChatGPT en 5 minutes](http://developmentalsystems.org/chatgpt_en_5_minutes/){:target="_blank"}.
+### Episode#5 : prompting avancé et raisonnement
+
+**Prompting avancé et raisonnement**
+Synopsis : Cette vidéo présente comment les modèles de langage comme ChatGPT ou Bard sont capable de tenir des raisonnements simples pour résoudre un problème donné.
+Cependant, il est parfois nécessaire d'avoir recours à différentes techniques de **prompting avancé** pour les aider à organiser de tels raisonnements.
+Quelques unes de ces techniques (par exemple les chaînes de pensées) sont présentée ici; puis est discutée l'origine et les limites de ces capacités à raisonner.
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/uLMqTPmvqPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 
-## 2 - Usages possibles dans l'Éducation
+L'ensemble de ces vidéos réalisées par l'équipe Inria - Flowers -  sont également accessibles et téléchargeables sur le site [ChatGPT en 5 minutes](http://developmentalsystems.org/chatgpt_en_5_minutes/){:target="_blank"}.
+
+## 2 - Usages possibles en Éducation
 Deux publications du Ministère de l’éducation nationale et du Pôle d’expertise de la régulation numérique qui se complètent et permettent d'aller un peu plus loin dans la découverte des usages possibles en éducation de modèles de langage (1) et des technologies d'IA (2) qui les sous-tendent.
 - 1- [Intelligence artificielle et éducation, Apports de la recherche et enjeux pour les politiques publiques](https://edunumrech.hypotheses.org/files/2023/05/MEN_DNE_brochure_IA_WEB.pdf){:target="_blank"}
 - 2- [ChatGPT ou la percée des modèles d’IA conversationnels](https://www.peren.gouv.fr/rapports/2023-04-06_Eclairage%20sur_CHATGPT_FR.pdf){:target="_blank"}
+- 3- [Enseigner et apprendre à l’ère de l’IA](https://edunumrech.hypotheses.org/9593)

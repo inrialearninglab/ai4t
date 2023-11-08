@@ -36,7 +36,7 @@ Les technologies de l'intelligence artificielle (IA) ont le potentiel de souteni
 
 Si l'on considère uniquement les tâches spécifiques à l'éducation, un ensemble de quatre catégories d'applications émergentes et potentielles basées sur les besoins a été défini par Fengchun &amp; al. [^1]:
 
-- La gestion et la prestation de l'éducation ;
+- La gestion de l'éducation ;
 
 - L'apprentissage et l'évaluation ;
 

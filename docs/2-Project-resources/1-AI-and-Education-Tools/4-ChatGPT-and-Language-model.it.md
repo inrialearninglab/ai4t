@@ -43,6 +43,16 @@ Synopsis: This video presents the main strengths of language models such as Chat
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/5HVR3cVFot4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
+### Episode#5 : advanced prompting and reasoning
+
+**"Advanced prompting and reasoning"**(in French)
+Synopsis : This video shows how language models such as ChatGPT or Bard are able to hold simple reasonings to solve a given problem.
+However, it is sometimes necessary to use various **advanced prompts** techniques to help them organise such reasoning.
+Some of these techniques (e.g. thought chains) are presented here; then the origin and limits of these reasoning abilities are discussed.
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/uLMqTPmvqPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+
+
 All the videos produced by Inria's Flowers team can also be accessed and downloaded from [ChatGPT in 5 minutes](http://developmentalsystems.org/chatgpt_en_5_minutes/){:target="_blank"}.
 
 ## 2 - Possible uses in education
