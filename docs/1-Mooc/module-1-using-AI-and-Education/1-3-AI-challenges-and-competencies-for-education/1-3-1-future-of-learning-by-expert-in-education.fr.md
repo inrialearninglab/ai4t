@@ -22,13 +22,13 @@ Les technologies de l'intelligence artificielle (IA) ont le potentiel de souteni
 
 - Le regroupement dynamique des apprenants pour un travail en classe plus efficace
 
-- L'analyse des écrits des élèves et évaluation automatique
+- L'analyse des écrits des élèves et l'évaluation automatique
 
-- Les chatbots d'assistance aux étudiants
+- Les chatbots d'assistance aux élèves
 
-- La génération automatique de tests
+- La génération automatique de tests 
 
-- Le suivi des résultats d'apprentissage des étudiants
+- Le suivi des résultats d'apprentissage des élèves
 
 - La gestion de tâches administratives telles que l'organisation des cours ou la réponse aux questions courantes.
 

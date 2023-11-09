@@ -24,23 +24,23 @@ En 2021, une enquête sur l'éducation K12 en Europe a répertorié certains out
 
 - [Adaptiv'Math](https://www.adaptivmath.fr/) (FR) : un assistant pédagogique d'aide à la décision et de suivi pour des apprentissages adaptatifs des mathématiques pour les niveaux de CP, CE1, CE2.
 
-## Autres exemples de ressources basées sur l'IA liées à l'apprentissage des langues et des mathématiques
+## Autres exemples de ressources basées sur l'IA
 De nombreux autres outils peuvent être trouvés sur le Web. En voici quelques-uns.
 
+### Pour l'apprentissage des langues et des mathématiques
 [Duolingo for Schools](https://schools.duolingo.com) : Une couche de gestion gratuite au-dessus de l'application d'apprentissage des langues Duolingo pour obtenir une visibilité et un niveau de contrôle sur l'expérience des élèves sur Duolingo.
 
 [Adaptiv'langue](https://specimen.adaptivlangue.evidenceb.com/) (FR) : Chaque élève remplit un test de diagnostic dans lequel l'enseignant est informé du niveau de l'élève et de celui de la classe dans les compétences travaillées. La progression de l'élève dans l'application est déterminée par son taux de réussite aux exercices qui lui sont proposés pour l'aider à progresser sans le démotiver.
 
 [EF Hello](https://www.hello.ef.com/) ou [AndyChatbot](https://andychatbot.com/) (EN) : Applications mobiles permettant aux apprenants d'avoir des conversations en anglais comme langue étrangère.
 
-[AXIθME](https://axiome.ai/) (FR) : Assistant pédagogique pour diagnostiquer les lacunes en mathématiques et personnaliser les parcours d'apprentissage des élèves de 11 à 18 ans.
-Au moment de ce Mooc, la plateforme AXIθME est en phase de test suite à des modifications importantes et à la création de nouveaux contenus pédagogiques ; elle n'est donc pas ouverte à l'expérimentation par les enseignants.
-
 [Checkmath](https://checkmath.com/) (EN) : Support d'apprentissage des mathématiques sur téléphone mobile pour les élèves de 11 à 13 ans.
+
+[Mathia](https://mathia.education/) :  Des parcours d’activités sur-mesure pour aider les élèves du CP au CE2 à maîtriser les fondamentaux des maths et progresser avec confiance.
 
 [Photomath](https://photomath.com) : Solveur mathématique utilisant le téléphone mobile pour scanner, reconnaître et afficher les étapes de résolution d'un problème mathématique.
 
-[Orange](https://orangedatamining.com/) : Apprentissage automatique et visualisation de données à code source ouvert. Construisez des flux d'analyse de données visuellement, avec une boîte à outils large et diversifiée.
+[Kwyk](https://www.kwyk.fr/) : Propdoition d'exercices de mathématiques autocorrigé avec la posisbilité d'activer une personalisation des parcours
 
 ## Cartographie de l'IA en éducation
 Pour découvrir d'autres ressources basées sur l'IA, vous pouvez visiter le site Wesite [^3] de l'Observatoire international sur les impacts sociétaux de l'intelligence artificielle et du numérique (OBVIA). Il rassemble et affiche les outils et les projets sur l'application et la portée de l'intelligence artificielle en éducation. L'objectif est de permettre aux utilisateurs d'en savoir plus sur les nombreuses ressources éducatives disponibles qui s'appuient sur l'intelligence artificielle et permet de consulter la base de données "Initiatives diverses sur l'IA en éducation".
