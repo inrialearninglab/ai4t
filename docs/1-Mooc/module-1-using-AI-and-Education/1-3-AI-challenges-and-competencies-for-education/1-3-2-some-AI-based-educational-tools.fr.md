@@ -40,7 +40,7 @@ De nombreux autres outils peuvent être trouvés sur le Web. En voici quelques-u
 
 [Photomath](https://photomath.com) : Solveur mathématique utilisant le téléphone mobile pour scanner, reconnaître et afficher les étapes de résolution d'un problème mathématique.
 
-[Kwyk](https://www.kwyk.fr/) : Propdoition d'exercices de mathématiques autocorrigé avec la posisbilité d'activer une personalisation des parcours
+[Kwyk](https://www.kwyk.fr/) : Proposition d'exercices de mathématiques autocorrigé avec la possibilité d'activer une personalisation des parcours
 
 ## Cartographie de l'IA en éducation
 Pour découvrir d'autres ressources basées sur l'IA, vous pouvez visiter le site Wesite [^3] de l'Observatoire international sur les impacts sociétaux de l'intelligence artificielle et du numérique (OBVIA). Il rassemble et affiche les outils et les projets sur l'application et la portée de l'intelligence artificielle en éducation. L'objectif est de permettre aux utilisateurs d'en savoir plus sur les nombreuses ressources éducatives disponibles qui s'appuient sur l'intelligence artificielle et permet de consulter la base de données "Initiatives diverses sur l'IA en éducation".
