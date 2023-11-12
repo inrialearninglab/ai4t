@@ -6,12 +6,12 @@ contributor: AI4T
 ---
 ??? info "Metadata"
     - Id: EU.AI4T.O1.M4.2.1t
-    - Title: 
+    - Title:
     - Type: text
-    - Description: 
+    - Description:
     - Subject: Artificial Intelligence for and by Teachers
     - Authors:
-        - AI4T 
+        - AI4T
     - Licence: CC BY 4.0
     - Date: 2022-11-15
 
@@ -40,7 +40,7 @@ Cette condition est plus ou moins facile à satisfaire, mais pour certaines tech
 
 Les prédictions réalisées avec certaines techniques d'IA sont plus faciles à interpréter que d'autres. Une prédiction faite à partir d'un arbre de décision, par exemple, est explicable. Mais, il ne s'agit pas toujours des prédictions les plus intéressantes à réaliser.
 
-À l'opposé du spectre de l'explicabilité, il y a le Deep learning, qui peut être difficile à expliquer, mais dont les résultats peuvent être beaucoup plus significatifs que ceux réalisés avec une IA hautement explicable.
+À l'extrémité du spectre de l'explicabilité, il y a le Deep learning, qui peut être difficile à expliquer, mais dont les résultats peuvent être beaucoup plus significatifs que ceux réalisés avec une IA hautement explicable.
 
 <figure>
   <img src="Images/AI-mecanisms-and-interpretability-HQ-FR.jpg" alt="Representation of AI mechanisms and interpretability." />

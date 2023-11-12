@@ -14,7 +14,7 @@ type: activity
     - Description: Utilisation du modèle pour caractériser Duolingo pour l'école
     - Subject: Artificial Intelligence for and by Teachers
     - Authors:
-        - AI4T 
+        - AI4T
         - Jiajun, Pan - Loria
         - Azim, Roussanaly - Loria
         - Anne, Boyer - Loria
@@ -25,11 +25,11 @@ type: activity
 
 # Activité : Étude de cas avec le modèle AI pour analyser Duolingo for Schools
 
-Les partenaires européens d'AI4T ont identifié "*Duolingo for Schools*" comme un outil d'IA pertinent à expérimenter par les enseignants au cours du projet.
+L'application "*Duolingo for Schools*" un outil d'IA pertinent à expérimenter par les enseignants.
 
-Il s'agit d'une application d'apprentissage des langues, certes, mais les questions qu'elle soulève quant à son IA sont pertinentes pour toutes les disciplines.
+Il s'agit d'une application d'apprentissage des langues et les questions qu'elle soulève quant à son IA sont pertinentes pour toutes les disciplines.
 
-Au cours de cette activité, Duolingo for Schools est proposé comme étude de cas pour expérimenter le modèle de caractérisation de l'IA. Il y a deux particularités de Duolingo for Schools qui en font une bonne étude de cas :
+Au cours de cette activité, Duolingo for Schools est proposé comme étude de cas pour expérimenter le modèle de caractérisation de l'IA présenté lors du module 3 "Comment fonctionne l'IA ?". Deux particularités de Duolingo for Schools en font une bonne étude de cas :
 
 1. Duolingo partage beaucoup d'informations sur son fonctionnement,
 2. Utilisé par de nombreux apprenants, il a fait l'objet de nombreuses questions de la part de personnes extérieures préoccupées par le respect de la vie privée, par exemple. Il est donc plus facile d'avoir un aperçu de certaines questions qui ne sont généralement pas si faciles à avoir sur les AIER, comme la protection des données.

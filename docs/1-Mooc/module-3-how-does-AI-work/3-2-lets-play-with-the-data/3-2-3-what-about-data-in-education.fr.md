@@ -4,25 +4,25 @@ description: Identifier la place des données éducatives dans les outils AIEd.
 ---
 ??? info "Metadata"
     - Id: EU.AI4T.O1.M3.2.3t
-    - Title: 
+    - Title:
     - Type: text
-    - Description: 
+    - Description:
     - Subject: Artificial Intelligence for and by Teachers
     - Authors:
-        - AI4T 
+        - AI4T
     - Licence: CC BY 4.0
     - Date: 2022-11-15
 
 # Qu'en est-il des données en éducation ?
 Pour examiner le rôle des données en éducation, prenons l'exemple de l'apprentissage personnalisé qui est identifié comme l'une des principales promesses des services basés sur l'IA dans le domaine de l'éducation[^1] :
 
-"*L'IA jouera un rôle central pour aider à réaliser la promesse d'un apprentissage personnalisé (c'est-à-dire la capacité d'adapter la prestation, le contenu et le rythme de l'apprentissage aux besoins spécifiques de chaque élève). La capacité d'ingérer des données provenant de sources multiples, d'interroger ces données et d'en tirer des enseignements (à l'aide d'outils tels que l'analyse prédictive et l'apprentissage automatique) est ce qui fait de l'IA une avancée si passionnante dans la technologie de l'éducation et la raison pour laquelle son utilisation s'avérera transformatrice pour toutes les parties prenantes, des étudiants individuels aux ministères de l'éducation*."
+"*L'IA jouera un rôle central pour aider à réaliser la promesse d'un apprentissage personnalisé (c'est-à-dire la capacité d'adapter l'enseignement, le contenu et le rythme de l'apprentissage aux besoins spécifiques de chaque élève). La capacité d'ingérer des données provenant de sources multiples, d'interroger ces données et d'en tirer des enseignements (à l'aide d'outils tels que l'analyse prédictive et l'apprentissage automatique) est ce qui fait de l'IA une avancée si passionnante dans la technologie de l'éducation et la raison pour laquelle son utilisation s'avérera transformatrice pour toutes les parties prenantes, des étudiants individuels aux ministères de l'éducation*."
 
 La mise en œuvre de tels systèmes d'apprentissage personnalisés basés sur l'IA nécessite de collecter, d'afficher et d'analyser différents types de données quantitatives et qualitatives (comme les évaluations et les dossiers d'apprentissage, les intérêts, le comportement ou les données démographiques, par exemple l'âge, le sexe, le pays, etc.) des élèves tout au long de leur parcours d'apprentissage. Grâce à l'analyse de ces données, les outils AIEd formulent des recommandations destinées à aider les étudiants à améliorer leurs expériences d'apprentissage et leurs résultats.
 
 Pour calculer ces recommandations personnalisées, un logiciel éducatif utilise des méthodes informatiques de prise de décision autonome. Il utilise des modèles sur les connaissances pédagogiques, les connaissances du contenu et les profils des élèves. Sur la base de ces modèles, un algorithme peut ensuite déterminer le type d'actions à entreprendre pour la prochaine étape d'apprentissage.
 
-Plusieurs préoccupations concernant les données éducatives et les applications de prise de décision ont été identifiées dans le rapport du Centre commun de recherche sur les technologies émergentes et la profession d'enseignant : [^2].
+Plusieurs préoccupations concernant les données éducatives et les applications de prise de décision ont été identifiées dans le rapport du "Centre Commun de Recherche" sur les technologies émergentes et la profession d'enseignant : [^2].
 
 "*Quelles données l'application utiliserait-elle et à quelles fins ? Comment les modèles de données sont-ils construits, sur la base de quelles constructions théoriques, et dans quelle mesure les décisions prises par le logiciel sont-elles traçables (par exemple, l'explicabilité) ? En outre, quelles valeurs et hypothèses sont reflétées dans ces modèles de données, et qui les fixe ?*"
 
