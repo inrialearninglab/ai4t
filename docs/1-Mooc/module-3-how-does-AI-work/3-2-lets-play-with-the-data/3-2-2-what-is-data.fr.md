@@ -10,7 +10,7 @@ contributor: Laurent Romary - Inria
     - Description: Une première compréhension de ce qu'est une donnée et comment elle est utilisée en IA.
     - Subject: Artificial Intelligence for and by Teachers
     - Authors:
-        - AI4T 
+        - AI4T
         - Laurent Romary - Inria
     - Licence: CC BY 4.0
     - Date: 2022-11-15
@@ -21,7 +21,7 @@ contributor: Laurent Romary - Inria
 
 Au sens numérique général, les données correspondent aux informations qui sont utilisées, traitées et générées par les logiciels d'un système informatique.
 
-Il n'y a pas d'IA sans données. Les données jouent un rôle central dans tous les processus d'apprentissage automatique, car elles sont utilisées à la fois pour la formation et pour les tests. Elles se présentent également sous la forme de paramètres utilisés pour gérer les processus de formation. Enfin, le système d'IA est une combinaison d'une certaine architecture logicielle avec tous les paramètres formés, ce que l'on appelle le modèle, qui est également une donnée.
+Il n'y a pas d'IA sans données. Les données jouent un rôle central dans tous les processus d'apprentissage automatique, car elles sont utilisées à la fois pour l'apprentissage et pour les tests. Elles se présentent également sous la forme de paramètres utilisés pour gérer les processus d'apprentissage. Enfin, le système d'IA est une combinaison d'une certaine architecture logicielle avec tous les paramètres de l'apprentissage, ce que l'on appelle le modèle, qui est également une donnée.
 
 Il est essentiel de comprendre le rôle des données dans les systèmes d'IA ainsi que la manière dont elles sont sélectionnées, documentées et diffusées pour pouvoir évaluer le comportement d'un système d'IA. C'est important en termes de reproductibilité ou pour comparer deux systèmes d'IA différents.
 
