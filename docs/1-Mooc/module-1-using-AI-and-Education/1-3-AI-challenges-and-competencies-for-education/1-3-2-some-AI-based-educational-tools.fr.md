@@ -14,11 +14,11 @@ description: Découvrez les fonctionnalités de quelques outils pour l'expérime
     - Date: 2022-11-15
 
 # Quelques outils pédagogiques basés sur l'IA
-De nombreuses entreprises de technologie éducative (EdTech) et des instituts de recherche conçoivent et développent des outils et des logiciels basés sur l'IA pour faciliter l'enseignement et l'apprentissage, des systèmes de tutorat intelligents à des applications plus spécifiques comme la génération automatique de tests ou l'apprentissage de langues étrangères. Ces premiers outils d'IA en éducation (AIEd) commencent seulement à être disponibles et utilisés en classe par les enseignants et leurs élèves.
+De nombreuses entreprises de technologie éducative (EdTech) et des instituts de recherche conçoivent et développent des outils et des logiciels basés sur l'IA pour faciliter l'enseignement et l'apprentissage, des systèmes de tutorat intelligents à des applications plus spécifiques comme la génération automatique de tests ou l'apprentissage de langues étrangères. Ces premiers outils d'IA en éducation (AIEd) commencent à être disponibles et utilisés en classe par les enseignants et leurs élèves.
 
 ## Outils basés sur l'IA déjà expérimentés en classe
 
-En 2021, une enquête sur l'éducation K12 en Europe a répertorié certains outils d'IA en éducation qui ont été créés dans le cadre de projets internationaux ou nationaux et qui ont été partagés soit via des licences creative commons ou ressources éducatives libres[^1] soit via des marchés publics voulus par le ministère de l'éducation nationale parmi lesquels par exemple via le Partenariat d'innovation IA [^2]:
+En 2021, une enquête sur l'éducation K12 en Europe a répertorié certains outils d'IA en éducation qui ont été créés dans le cadre de projets internationaux ou nationaux. Ces outils ont été partagés soit via des licences creative commons ou ressources éducatives libres[^1] soit via des marchés publics voulus par le ministère de l'éducation nationale parmi lesquels par exemple via le Partenariat d'innovation IA [^2]:
 
 - [Lalilo](https://p2ia.lalilo.com/) (FR) : Un assistant pédagogique d'aide à la décision et de suivi pour des apprentissages adaptatifs de la lecture pour les niveaux de CP, CE1, CE2.
 

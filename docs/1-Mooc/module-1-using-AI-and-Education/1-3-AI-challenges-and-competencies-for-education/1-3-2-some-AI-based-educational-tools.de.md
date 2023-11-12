@@ -14,7 +14,7 @@ description: Entdecken Sie die Funktionalitäten einiger Werkzeuge zum Experimen
     - Date: 2022-11-15
 
 # Einige KI-basierte Bildungswerkzeuge
-Viele Unternehmen und Forschungsinstitute im Bereich der Bildungstechnologie (Edtech) investieren in KI-basierte Tools und Software, um das Lehren und Lernen zu erleichtern, von intelligenten Nachhilfesystemen bis hin zu spezifischeren Anwendungen wie der automatischen Testgenerierung oder dem Fremdsprachenlernen. Die meisten dieser KI-Tools für den Bildungsbereich (AIEd) werden jedoch erst allmählich von Schülern und Lehrern im Klassenzimmer eingesetzt.
+Viele Unternehmen und Forschungsinstitute im Bereich der Bildungstechnologie (Edtech) investieren in KI-basierte Tools und Software, um das Lehren und Lernen zu erleichtern, von intelligenten Nachhilfesystemen bis hin zu spezifischeren Anwendungen wie der automatischen Testgenerierung oder dem Fremdsprachenlernen. Die meisten dieser KI-Tools für den Bildungsbereich (AIEd) werden jedoch allmählich von Schülern und Lehrern im Klassenzimmer eingesetzt.
 
 ## KI-basierte Tools, die bereits im Klassenzimmer erprobt werden
 

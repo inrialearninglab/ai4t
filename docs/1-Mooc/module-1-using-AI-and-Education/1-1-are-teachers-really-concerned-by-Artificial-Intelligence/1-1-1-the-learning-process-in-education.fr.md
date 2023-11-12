@@ -29,9 +29,9 @@ Chacun d’entre nous, dans sa vie quotidienne, a pu constater que de nombreux s
 
 La question que nous nous posons est la suivante : *Pourquoi ne pas utiliser les mêmes technologies pour personnaliser les parcours d'apprentissage en fournissant à l'enseignant des ressources pédagogiques appropriées pour un élève ou un groupe d'élèves ?*
 
-Si nous prenons un autre exemple, basé sur les capteurs présents sur nos smartphones. Certaines applications nous permettent d'optimiser nos photographies, d'enregistrer nos mouvements, de mesurer le nombre de pas que nous faisons chaque jour, de visualiser et d'analyser les calories que nous avons brûlées, les performances que nous avons réalisées lors de la dernière course à pied ou le régime que nous devrions suivre pour atteindre nos objectifs de poids.
+On peut également prendre un second exemple, basé sur les capteurs présents sur nos smartphones. Certaines applications nous permettent d'optimiser nos photographies, d'enregistrer nos mouvements, de mesurer le nombre de pas que nous faisons chaque jour, de visualiser et d'analyser les calories que nous avons brûlées, les performances que nous avons réalisées lors de la dernière course à pied ou le régime que nous devrions suivre pour atteindre nos objectifs de poids.
 
-Une nouvelle question que l'on peut se poser est la suivante : *Le suivi de l'activité ne serait-il pas également utile dans l'enseignement, pour mieux identifier, comprendre et soutenir l'apprenant ?*
+On peut alors se poser est la question suivante : *Le suivi de l'activité ne serait-il pas également utile dans l'enseignement, pour mieux identifier, comprendre et soutenir l'apprenant ?*
 
 Puisque de nombreux capteurs et outils logiciels peuvent fournir des retours, des synthèses, des prédictions, des recommandations et des visualisations de toutes les analyses effectuées, pour optimiser les activités dans divers domaines. Pourquoi ne pas profiter de ces cadres technologiques de l'intelligence artificielle pour optimiser le domaine de l'éducation ?
 
