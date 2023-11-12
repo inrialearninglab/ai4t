@@ -30,6 +30,6 @@ Le domaine de l'éducation sera t-il également concerné par le développement 
 
 - 3 vidéos
 - 1 activité
-- 2 contenus textuels
+- 2 lectures
 
 **Temps d'investissement : environ 40 minutes**

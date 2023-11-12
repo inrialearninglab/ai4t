@@ -27,7 +27,7 @@ Schauen wir uns an, welche KI-Techniken in den von Holmes &amp; al. 2019[^2] vor
 </figure>
 _Abbildung: Unterschiedliche Arten aktueller KI-basierter Systeme für das Bildungswesen (aus Holmes &amp; al. 2019[^2])._
 
-Jedes spezifische KI-basierte Bildungswerkzeug oder -mittel hat seine eigenen spezifischen Techniken. Es ist jedoch manchmal möglich, zu erraten, welche Techniken für eine bestimmte Ressource wahrscheinlich verwendet werden.
+Jedes KI-basierte Bildungswerkzeug oder -mittel hat seine eigenen spezifischen Techniken. Es ist jedoch manchmal möglich, zu erraten, welche Techniken für eine bestimmte Ressource wahrscheinlich verwendet werden.
 
 Nehmen wir einige Beispiele:
 

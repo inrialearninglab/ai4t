@@ -27,7 +27,7 @@ Let's see which AI techniques are used in the AI-based education-oriented applic
 </figure>
 _Figure: Different types of current AI-based systems for Education (from Holmes & al. 2019[^2])._
 
-Each specific AI-based educational tool or resource has its own specific techniques. However, it is sometimes possible to guess which ones are likely to be used for a given resource.
+Each AI-based educational tool or resource has its own specific techniques. However, it is sometimes possible to guess which ones are likely to be used for a given resource.
 
 Let's take some examples:
 

@@ -42,7 +42,7 @@ La durée totale du cours est estimée entre 2 et 3 heures, en fonction du temps
 Il y a 5 types de contenus dans ce cours :
 
 - Texte : pour découvrir de courtes synthèses basées sur la littérature scientifique et les rapports d'experts.
-- Quiz : pour réaliser de courtes actions (quiz, glisser-les-mots) à la fin des textes afin d'ancrer les concepts présentés.
+- Quiz : pour réaliser de courtes actions (quiz, glisser-déposer, textes à trous...) à la fin des textes afin d'ancrer les concepts présentés.
 - Vidéo : pour donner la parole à un porteur du projet ou découvrir les enjeux de l'IA pour accompagner les étudiants. Certaines vidéos sont issues du Mooc français "Intelligence artificielle avec Intelligence" et peuvent être utilisées en classe.
 - Activité : pour favoriser l'auto-questionnement, renforcer la connaissance des étapes de l'IA ou transférer ce qui a été lu ou découvert précédemment à des situations spécifiques.
 - Tutoriel : pour expérimenter comment un programme "apprend" et le rôle des données dans l'apprentissage automatique.

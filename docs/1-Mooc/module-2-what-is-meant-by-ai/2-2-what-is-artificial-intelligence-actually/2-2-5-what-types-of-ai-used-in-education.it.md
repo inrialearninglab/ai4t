@@ -27,7 +27,7 @@ Vediamo quali tecniche di IA sono utilizzate nelle applicazioni orientate all'is
 </figure>
 _Figura: Diversi tipi di sistemi attuali basati sull'IA per l'istruzione (da Holmes &amp; al. 2019[^2])._
 
-Ogni specifico strumento o risorsa educativa basata sull'IA ha le sue tecniche specifiche. Tuttavia, a volte è possibile indovinare quali saranno probabilmente utilizzate per una determinata risorsa.
+Ogni strumento o risorsa educativa basata sull'IA ha le sue tecniche specifiche. Tuttavia, a volte è possibile indovinare quali saranno probabilmente utilizzate per una determinata risorsa.
 
 Facciamo alcuni esempi:
 
