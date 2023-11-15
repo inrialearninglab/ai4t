@@ -4,12 +4,12 @@ description: Les systèmes d'IA existants, leurs utilisations potentielles ou ex
 ---
 ??? info "Metadata"
     - Id: EU.AI4T.O1.M2.2.5t
-    - Title: 
+    - Title:
     - Type: text
-    - Description: 
+    - Description:
     - Subject: Artificial Intelligence for and by Teachers
     - Authors:
-        - AI4T 
+        - AI4T
     - Licence: CC BY 4.0
     - Date: 2022-11-15
 
@@ -17,13 +17,13 @@ description: Les systèmes d'IA existants, leurs utilisations potentielles ou ex
 
 Parmi les classifications possibles des domaines scientifiques de l'IA, le tableau suivant présente une taxonomie de l'IA[^1] par rapport aux fonctions de la famille que peut remplir l'IA.
 <figure>
-  <img src="Images/AI-Taxonomy-Samoli-al-2021-FR.png" alt="Image of AI Taxonomy"/>  
+  <img src="Images/AI-Taxonomy-Samoli-al-2021-fr.png" alt="Image of AI Taxonomy"/>  
 </figure>
 _Figure : Taxonomie de l'IA - domaines et sous-domaines scientifiques de l'IA (d'après Samoili &amp; al., 2021 JRC report[^1])._
 
 Voyons quelles techniques d'IA sont utilisées dans les applications orientées éducation basées sur l'IA proposées par Holmes &amp; al. en 2019[^2].
 <figure>
-  <img src="Images/AIED-Holmes-systems-FR.png" alt="Image of AI-based education-oriented systems"/>
+  <img src="Images/AIED-Holmes-systems-fr.png" alt="Image of AI-based education-oriented systems"/>
 </figure>
 _Figure : Différents types de systèmes actuels basés sur l'IA pour l'éducation (d'après Holmes &amp; al. 2019[^2])._
 
@@ -37,7 +37,7 @@ De tels systèmes sont susceptibles d'utiliser : des techniques de **communicati
 - **Recommandation de cours**, en tant que service de soutien aux apprenants.
 Comme pour les offres commerciales personnalisées et les fonctions de recommandation que l'on peut trouver sur Internet, les systèmes de recommandation de cours sont probablement basés sur des techniques d'apprentissage automatique en analysant les données actuelles pertinentes liées au parcours d'apprentissage de l'étudiant et en identifiant les similitudes avec des parcours d'apprentissage généralisés antérieurs.
 
-- **Détection de l'attention et des émotions de l'étudiant**, en tant que service d'aide à l'enseignant. << ce point doit être repris et délimité au seul maintien de l'engagement de l'élève >>
+- **Détection de l'attention et des émotions de l'étudiant**, en tant que service d'aide à l'enseignant.
 Un tel système est susceptible d'utiliser des techniques de **perception** (vision par ordinateur pour la reconnaissance faciale, par exemple) et des techniques d'**apprentissage automatique** pour analyser les expressions faciales ou le comportement de l'apprenant, si ces informations sont collectées et analysées.
 
 
