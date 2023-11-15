@@ -52,7 +52,7 @@ Ces sites sont les sites "officiels" de Duolingo. Certaines informations intére
 Cliquez sur l'image ci-dessous pour télécharger le modèle de caractérisation de l'IA prêt à l'emploi et remplissez-le autant que possible.
 <a href="Documents/AI4T-Template-Ready-to-use-fr.pdf" target="_blank">
 <figure>
-  <img src="Images/Ready-To-Use-AI-Template-fr.jpg" alt="Un modèle de caractérisation d'IA prêt à l'emploi"/>
+  <img src="Images/Ready-To-Use-AI-Template-FR.jpg" alt="Un modèle de caractérisation d'IA prêt à l'emploi"/>
 </figure></a>
 
 ## Exemple de modèle de caractérisation d'IA complété pour "Duolingo for Schools".
