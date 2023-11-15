@@ -9,7 +9,7 @@ description: Présenter les diverses définitions de l'IA et de ses domaines
     - Description: Présenter les diverses définitions de l'IA et de ses domaines
     - Subject: Artificial Intelligence for and by Teachers
     - Authors:
-        - AI4T 
+        - AI4T
     - Licence: CC BY 4.0
     - Date: 2022-11-15
 
@@ -41,7 +41,7 @@ Cette description de l'IA est représentée sur la figure suivante [^3].
 En tant que discipline scientifique, l'IA couvre plusieurs sous-domaines d'expertise et leurs techniques associées [^4]. Certaines d'entre elles sont souvent citées, d'autres moins connues.
 
 - L'apprentissage automatique (dont l'apprentissage profond et l'apprentissage par renforcement sont des exemples spécifiques),
-- Le raisonnement machine (qui comprend la planification, l'ordonnancement, la représentation et le raisonnement des connaissances, la recherche et l'optimisation),
+- Le raisonnement machine (qui comprend la planification, l'ordonnancement, la représentation des connaissances et le raisonnement, la recherche et l'optimisation),
 - Et la robotique (qui comprend le contrôle, la perception, les capteurs et les actionneurs, ainsi que l'intégration de toutes les autres techniques dans les systèmes cyber-physiques).
 
 <figure>
