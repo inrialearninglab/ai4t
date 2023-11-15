@@ -14,7 +14,7 @@ type: activity
     - Description: Un tutoriel pour découvrir les programmes de reconnaissance d'images, comment les entraîner, comment les tromper.
     - Subject: Artificial Intelligence for and by Teachers
     - Authors:
-        - AI4T 
+        - AI4T
         - Magic Makers
         - Inria
         - S24B
@@ -28,7 +28,13 @@ La reconnaissance d'images est un domaine de l'IA qui a connu une croissance con
 
 Comprenant 7 vidéos pédagogiques très courtes, le tutoriel peut être utilisé en classe.
 
-**Note** : Ce tutoriel ne stocke aucune donnée personnelle. Les images sont traitées localement sur la machine de l'utilisateur. Il peut être utilisé avec les navigateurs suivants : Edge, Chrome, Mozilla, Safari, Opera.
+**_Note1_** : Ce tutoriel ne stocke aucune donnée personnelle. Les images sont traitées localement sur la machine de l'utilisateur. Il peut être utilisé avec les navigateurs suivants : Edge, Chrome, Mozilla, Safari, Opera.
+
+**_Note2_** : Ce tutoriel propose de télécharger ses propres images pour expérimenter l'apprentissage automatique et l'importance des jeux de données pour entraîner l'algorithme. Il est également possible de télécharger 2 jeux de données déjà préparés :
+
+- Téléchargez le [jeu d'images de Charles Dickens](Images/Images-set-of-Charles-Dickens.zip)  
+- Téléchargez le [jeu d'images de William Shakespeare](Images/Images-set-of-William-Shakespear.zip).
+
 
 Allez-y et entrainez une IA !
 
