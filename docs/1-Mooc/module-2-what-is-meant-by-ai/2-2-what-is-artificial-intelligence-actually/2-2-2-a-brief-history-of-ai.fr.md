@@ -25,6 +25,11 @@ La frise chronologique présentée ici met en évidence les principales étapes 
 **Quels sont les principaux jalons scientifiques de l'IA ?**  
 Cliquez sur l'image ci-dessous pour découvrir le détail de chaque jalon scientifique !
 
+* **Note** :
+*Cette activité est hébergée sur la plate-forme Genial.ly,qui est extérieure à FUN.*
+*Il n’est pas obligatoire d’accepter les cookies pour visualiser l’activité et la réaliser.*
+
+
 <a href="https://view.genial.ly/64e486d0efc8e200198a554b" target="_blank">
 <figure>
   <img src="Images/AI-historical-timeline-FR.png" alt="Illustration of AI history"/>
