@@ -14,7 +14,7 @@ type: activity
     - Description: Identifier si une image est réelle ou produite par une IA
     - Subject: Artificial Intelligence for and by Teachers
     - Authors:
-        - AI4T 
+        - AI4T
         - Magic Makers
         - Inria
         - S24B
@@ -32,7 +32,7 @@ L'activité suivante consiste à identifier si une image présente un objet ou u
 Ce tutoriel peut être utilisé en classe.
 
 **Vous voulez essayer?**  
-_Cliquez sur l'image ci-dessous et laissez-nous vous guider !_.
+_Cliquez sur l'image ci-dessous et laissez-nous vous guider !_
 
 <a href="https://pixees.fr/classcodeiai/app/tuto3-ai4t/" target="_blank"><figure>
   <img src="Images/Tuto-M3-HumanandAI-FR.png"/>
