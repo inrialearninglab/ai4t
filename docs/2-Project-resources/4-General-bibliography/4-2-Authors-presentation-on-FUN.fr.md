@@ -5,7 +5,7 @@ description: version FR
 # Qui a contribué au projet ?
 Comme le montre la liste des contributeurs ci-dessous, ce Mooc est une œuvre collective ! Il résulte du travail mené au sein du consortium AI4T et  propose également des ressources issues du Mooc Intelligence Artificielle avec Intelligence.
 Il a bénéficié également des apports et de l’expertise des partenaires impliqués dans le projet.
-Finalment il faut souligner l'engagement de la Direction du nmérique pour l'éducation (MENJ /<a href="https://edunumrech.hypotheses.org/author/dnetn2">DNE-TN2</a>) dans la prodcution de ce cours.
+Finalement il faut souligner l'engagement de la Direction du numérique pour l'éducation (MENJ /<a href="https://edunumrech.hypotheses.org/author/dnetn2">DNE-TN2</a>) dans la prodcution de ce cours.
 ## Les auteurs du Mooc
 
 <table style="border: none;">
