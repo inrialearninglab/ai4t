@@ -9,7 +9,7 @@ description: Discover the functionalities of some tools for experimentation
     - Description: Discover the functionalities of some tools for experimentation
     - Subject: Artificial Intelligence for and by Teachers
     - Authors:
-        - AI4T 
+        - AI4T
     - Licence: CC BY 4.0
     - Date: 2022-11-15
 
@@ -42,13 +42,11 @@ A lot of other tools can be found on the Web. Here are some of them.
 [Orange](https://orangedatamining.com/): Open source machine learning and data visualization. Build data analysis workflows visually, with a large, diverse toolbox.
 
 ## AI in Education Mapping
-To Discover more AI-based resources, you can visit the International Observatory on the societal impacts of artificial intelligence and digital technology (OBVIA) Wesite[^2]. It collects and displays the tools and projects on the application and scope of artificial intelligence in education. The objective is to enable users to learn more about the numerous educational resources available that rely on artificial intelligence and allows consulting the database "Various initiatives on AI in education".
+To discover other AI-based resources, you can visit the website of The International Observatory on the Societal Impacts of AI and Digital Technology (OBVIA) [^2]. It brings together thoughts and news on the "Education and Empowerment" research theme, the aim of which is "Reflecting on how to improve digital literacy and ways to mobilize AI and digital technology to increase accessibility to education and training, and to support learning."
 
 ## How to find your way through the multitude of educational resources on offer?
-AI-based tools like those mentioned above are at the core of AI in Education. A template to analyse the characteristics of these tools at
-the scientific, technical, regulatory, and ethical levels, will be proposed later in this training. The objective is to give teachers a
-better understanding of the resources they use or that their students use.
+AI-based tools like those mentioned above are at the core of AI in Education. A template to analyse the characteristics of these tools at the scientific, technical, regulatory, and ethical levels, will be proposed later in this training. The objective is to give teachers a better understanding of the resources they use or that their students use.
 
 [^1]: [European Schoolnet. "Artificial Intelligence Role in K12 Education: Agile Collection of Information"](http://resetedu.eu/wp-content/uploads/2021/11/4.-LIDIJA-KRALJ-Group-Discussion.pdf), 2021, Brussels, Belgium.
 
-[^2]: [Various initiatives on AI in education](https://cartographieia.ca/en)
+[^2]: [Research theme on AI, education and learning](https://observatoire-ia.ulaval.ca/en/axis/education-and-empowerment/)

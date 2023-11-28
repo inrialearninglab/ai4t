@@ -9,7 +9,7 @@ description: Découvrez les fonctionnalités de quelques outils pour l'expérime
     - Description: Découvrez les fonctionnalités de quelques outils pour l'expérimentation.
     - Subject: Artificial Intelligence for and by Teachers
     - Authors:
-        - AI4T 
+        - AI4T
     - Licence: CC BY 4.0
     - Date: 2022-11-15
 
@@ -43,7 +43,7 @@ De nombreux autres outils peuvent être trouvés sur le Web. En voici quelques-u
 [Kwyk](https://www.kwyk.fr/){:target="_blank"} : Proposition d'exercices de mathématiques autocorrigé avec la possibilité d'activer une personalisation des parcours
 
 ## Cartographie de l'IA en éducation
-Pour découvrir d'autres ressources basées sur l'IA, vous pouvez visiter le site Wesite [^3] de l'Observatoire international sur les impacts sociétaux de l'intelligence artificielle et du numérique (OBVIA). Il rassemble et affiche les outils et les projets sur l'application et la portée de l'intelligence artificielle en éducation. L'objectif est de permettre aux utilisateurs d'en savoir plus sur les nombreuses ressources éducatives disponibles qui s'appuient sur l'intelligence artificielle et permet de consulter la base de données "Initiatives diverses sur l'IA en éducation".
+Pour découvrir d'autres ressources basées sur l'IA, vous pouvez visiter le site de l’Observatoire international sur les impacts sociétaux de l’IA et du numérique (OBVIA). Il rassemble notamment les réflexions et actualités sur l'axe "Éducation et capacitation" dont le but est de "réfléchir aux moyens d’améliorer la littératie numérique et aux façons de mobiliser l’IA et le numérique pour accroître l’accessibilité du système d’éducation et de formation et soutenir l’apprentissage." [^3].
 
 ### Comment s'y retrouver dans la multitude de ressources éducatives proposées ?
 Les outils basés sur l'IA comme ceux mentionnés ci-dessus sont au cœur de l'IA en éducation. Un modèle permettant d'analyser les caractéristiques de ces outils au niveau scientifique, technique, réglementaire et éthique, sera proposé plus loin dans cette formation. L'objectif est de donner aux enseignants une
@@ -53,4 +53,4 @@ meilleure compréhension des ressources qu'ils utilisent ou que leurs élèves u
 
 [^2]:[Partenariat d'innovation IA](https://eduscol.education.fr/1911/partenariat-d-innovation-et-intelligence-artificielle-p2ia){:target="_blank"}
 
-[^3]:[Diverses initiatives sur l'IA en éducation](https://observatoire-ia.ulaval.ca){:target="_blank"}
+[^3]:[Axe "Éducation et capacitation" sur l'IA, l'éducation et l'apprentissage](https://observatoire-ia.ulaval.ca/axe/education-et-capacitation/){:target="_blank"}
