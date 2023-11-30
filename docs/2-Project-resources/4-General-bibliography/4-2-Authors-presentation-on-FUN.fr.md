@@ -2,11 +2,14 @@
 title: The Mooc - Who contributed to the Mooc?
 description: version FR
 ---
-# Qui a contribué au projet ?
-Comme le montre la liste des contributeurs ci-dessous, ce Mooc est une œuvre collective ! Il résulte du travail mené au sein du consortium AI4T et  propose également des ressources issues du Mooc Intelligence Artificielle avec Intelligence.
+# Qui a contribué à ce cours ?
+Comme le montre la liste des contributeurs ci-dessous, ce Mooc est une œuvre collective ! Il résulte du travail mené au sein du projet européen AI4T et propose également des ressources issues du Mooc "Intelligence Artificielle ... avec Intelligence !".
 Il a bénéficié également des apports et de l’expertise des partenaires impliqués dans le projet.
-Finalement il faut souligner l'engagement de la Direction du numérique pour l'éducation (MENJ /<a href="https://edunumrech.hypotheses.org/author/dnetn2">DNE-TN2</a>) dans la prodcution de ce cours.
+Finalement il faut souligner l'engagement de la Direction du numérique pour l'éducation (MENJ /<a href="https://edunumrech.hypotheses.org/author/dnetn2">DNE-TN2</a>) dans la production de ce cours.
+
 ## Les auteurs du Mooc
+
+
 
 <table style="border: none;">
 
@@ -43,7 +46,7 @@ Finalement il faut souligner l'engagement de la Direction du numérique pour l'�
             <td style="border: none; vertical-align: middle;">
 
                 <strong>Azim ROUSSANALY</strong><br/>
-                Azim Roussanaly est enseignant-chercheur en informatique à l'Université de Lorraine. Il est hercheur au sein du laboratoire LORIA et directeur adjoint de l'Institut de sciences du digital, management et cognition (IDMC). Ses domaines de recherche actuels sont : l’Intelligence artificielle, la modélisation des utilisateurs, la fouille de données et l’e-éducation.
+                Azim Roussanaly est enseignant-chercheur en informatique à l'Université de Lorraine. Il est chercheur au sein du laboratoire LORIA et directeur adjoint de l'Institut de sciences du digital, management et cognition (IDMC). Ses domaines de recherche actuels sont : l’intelligence artificielle, la modélisation des utilisateurs, la fouille de données et l’e-éducation.
             </td>
 
         </tr>
@@ -55,7 +58,7 @@ Finalement il faut souligner l'engagement de la Direction du numérique pour l'�
             <td style="border: none; vertical-align: middle;">
 
                 <strong>Jiajun PAN</strong><br/>
-                Jiajun Pan est chercheur post-doctoral à l’Université de Lorraine. Son activité, menée au sein du laboratoire LORIA porte sur l'apprentissage automatique et à l'exploration des données. Il participe aux recherches sur le lien entre les caractéristiques personnelles des étudiants et les expériences d'apprentissage.
+                Jiajun Pan est chercheur post-doctoral à l’Université de Lorraine. Son activité, menée au sein du laboratoire LORIA porte sur l'apprentissage automatique et l'exploration des données. Il participe aux recherches sur le lien entre les caractéristiques personnelles des étudiants et les expériences d'apprentissage.
             </td>
 
         </tr>
@@ -104,7 +107,7 @@ Finalement il faut souligner l'engagement de la Direction du numérique pour l'�
             <td style="border: none; vertical-align: middle;">
 
                 <strong>Daniela HAU</strong><br/>
-                Daniela HAU est responsable du département de l'Innovation au ministère de l'Éducation du Luxembourg, membre du groupe de travail ET2020 « Éducation numérique, apprentissage, enseignement et évaluation » et du groupe d'experts européens sur l'éducation aux médias, études pilotes / recherches de terrain sur l'innovation numérique appliquée en classe (par exemple, IA, apprentissage basé sur le jeu numérique, technologies VR/AR)
+                Daniela HAU est responsable du département de l'Innovation au ministère de l'Éducation du Luxembourg, membre du groupe de travail ET2020 « Éducation numérique, apprentissage, enseignement et évaluation » et du groupe d'experts européens sur l'éducation aux médias, études pilotes / recherches de terrain sur l'innovation numérique appliquée en classe (par exemple, IA, apprentissage basé sur le jeu numérique, technologies VR/AR).
             </td>
 
         </tr>
@@ -127,14 +130,10 @@ Finalement il faut souligner l'engagement de la Direction du numérique pour l'�
 
 ## Direction du Numérique pour l'éducation - MENSJ
 
-* Axel JEAN, Chef du bureau du soutien à l'innovation numérique et à la recherche appliquée - DNE - TN2
-* Valérie MARCON, adjointe au chef du bureau du soutien à l'innovation numérique et à la recherche appliquée - DNE - TN2
-* Lidia JOVANOVIC, Enseignant d'anglais, chargée de missions au bureau du soutien à l'innovation numérique et à la recherche appliquée - DNE - TN2
+* Axel JEAN, Chef du bureau du soutien à l'innovation numérique et à la recherche appliquée - DNE - TN2.
+* Valérie MARCON, Adjointe au chef du bureau du soutien à l'innovation numérique et à la recherche appliquée - DNE - TN2.
+* Lidia JOVANOVIC, Professeur d'anglais, chargée de missions au bureau du soutien à l'innovation numérique et à la recherche appliquée - DNE - TN2.
 
 ## Support technique
 
-Benoit Rospart & Laurence Fahri pour la mise en place du portail Git et la modélisation de la tarduction des contenus (API DeepL); Inria LearningLab
-
-
-
-
+Benoit Rospars, développeur informatique à Inria Learning Lab & Laurence Farhi, ingénieure pédagogique à Inria Learning La, pour la mise en place du portail de ressources sur Github et du processus de traduction des contenus (API DeepL).
