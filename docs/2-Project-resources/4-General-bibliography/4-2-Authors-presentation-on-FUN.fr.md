@@ -5,7 +5,7 @@ description: version FR
 # Qui a contribué à ce cours ?
 Comme le montre la liste des contributeurs ci-dessous, ce Mooc est une œuvre collective ! Il résulte du travail mené au sein du projet européen AI4T et propose également des ressources issues du Mooc "Intelligence Artificielle ... avec Intelligence !".
 Il a bénéficié également des apports et de l’expertise des partenaires impliqués dans le projet.
-Finalement il faut souligner l'engagement de la Direction du numérique pour l'éducation (MENJ /<a href="https://edunumrech.hypotheses.org/author/dnetn2">DNE-TN2</a>) dans la production de ce cours.
+Finalement il faut souligner le soutien et l'accompagnement de la Direction du numérique pour l'éducation (MENJ /<a href="https://edunumrech.hypotheses.org/author/dnetn2">DNE-TN2</a>) dans la production de ce cours.
 
 ## Les auteurs du Mooc
 
@@ -17,7 +17,7 @@ Finalement il faut souligner l'engagement de la Direction du numérique pour l'�
 
         <tr style="border: none;">
 
-            <td style="border: none;" width="20%"><img alt="Photo of Anne Boyer" src="Images/Anne-Boyer.png")</td>
+            <td style="border: none;" width="20%"><img alt="Photo of Anne Boyer" src="Images/Anne-Boyer.jpg")</td>
 
             <td style="border: none; vertical-align: middle;">
                 <strong>Anne BOYER</strong><br/>
@@ -65,12 +65,36 @@ Finalement il faut souligner l'engagement de la Direction du numérique pour l'�
 
         <tr style="border: none;">
 
+            <td style="border: none;" width="20%"><img alt="Photo de Daniela Hau" src="Images/Daniela-Hau.jpg")</td>
+
+            <td style="border: none; vertical-align: middle;">
+
+                <strong>Daniela HAU</strong><br/>
+                Daniela HAU est responsable du département de l'Innovation au ministère de l'Éducation du Luxembourg, membre du groupe de travail ET2020 « Éducation numérique, apprentissage, enseignement et évaluation » et du groupe d'experts européens sur l'éducation aux médias, études pilotes / recherches de terrain sur l'innovation numérique appliquée en classe (par exemple, IA, apprentissage basé sur le jeu numérique, technologies VR/AR).
+            </td>
+
+        </tr>
+
+        <tr style="border: none;">
+
+            <td style="border: none;" width="20%"><img alt="Photo de Claude Reuter" src="Images/Claude-Reuter.jpg")</td>
+
+            <td style="border: none; vertical-align: middle;">
+
+                <strong>Claude REUTER</strong><br/>
+                Claude REUTER est chef de projet senior dans le département de l'Innovation au ministère de l'Éducation du Luxembourg, études pilotes / recherches de terrain sur l'innovation numérique appliquée en classe (par exemple, la pensée informatique, la programmation, la littératie des données), membre du groupe de travail ICWG de EU SchoolNet.
+            </td>
+
+        </tr>
+        
+        <tr style="border: none;">
+
             <td style="border: none;" width="20%"><img alt="Photo de Nicolas Rougier" src="Images/Nicolas-Rougier.jpg")</td>
 
             <td style="border: none; vertical-align: middle;">
 
                 <strong>Nicolas ROUGIER</strong><br/>
-                Nicolas Rougier est directeur de recherche Inria et travaille à l'institut des maladies neurodégénératives, à Bordeaux, où il dirige l'équipe de neurosciences computationnelles. has been a researcher in computer science at Inria since 2011. He works in the AVALON team (Algorithms and Software Architectures for Service-Oriented Platforms) of Inria and the LIP Laboratory of the Ecole Normale Supérieure de Lyon. He co-manages a working group dedicated to the environmental impacts of ICT <a href="http://www.ecoinfo.cnrs.fr">EcoInfo</a>.  
+                Nicolas Rougier est directeur de recherche Inria et travaille à l'institut des maladies neurodégénératives, à Bordeaux, où il dirige l'équipe de neurosciences computationnelles.
 
             </td>
 
@@ -100,29 +124,6 @@ Finalement il faut souligner l'engagement de la Direction du numérique pour l'�
 
         </tr>
 
-        <tr style="border: none;">
-
-            <td style="border: none;" width="20%"><img alt="Photo de Daniela Hau" src="Images/Daniela-Hau.jpg")</td>
-
-            <td style="border: none; vertical-align: middle;">
-
-                <strong>Daniela HAU</strong><br/>
-                Daniela HAU est responsable du département de l'Innovation au ministère de l'Éducation du Luxembourg, membre du groupe de travail ET2020 « Éducation numérique, apprentissage, enseignement et évaluation » et du groupe d'experts européens sur l'éducation aux médias, études pilotes / recherches de terrain sur l'innovation numérique appliquée en classe (par exemple, IA, apprentissage basé sur le jeu numérique, technologies VR/AR).
-            </td>
-
-        </tr>
-
-        <tr style="border: none;">
-
-            <td style="border: none;" width="20%"><img alt="Photo de Claude Reuter" src="Images/Claude-Reuter.jpg")</td>
-
-            <td style="border: none; vertical-align: middle;">
-
-                <strong>Claude REUTER</strong><br/>
-                Claude REUTER est chef de projet senior dans le département de l'Innovation au ministère de l'Éducation du Luxembourg, études pilotes / recherches de terrain sur l'innovation numérique appliquée en classe (par exemple, la pensée informatique, la programmation, la littératie des données), membre du groupe de travail ICWG de EU SchoolNet.
-            </td>
-
-        </tr>
 
     </tbody>
 
@@ -136,4 +137,6 @@ Finalement il faut souligner l'engagement de la Direction du numérique pour l'�
 
 ## Support technique
 
-Benoit Rospars, développeur informatique à Inria Learning Lab & Laurence Farhi, ingénieure pédagogique à Inria Learning La, pour la mise en place du portail de ressources sur Github et du processus de traduction des contenus (API DeepL).
+* Benoit Rospars, développeur informatique à Inria Learning Lab
+* Laurence Farhi, ingénieure pédagogique à Inria Learning Lab
+pour la mise en place du portail de ressources sur Github et du processus de traduction et de révsion de contenus des contenus (API DeepL).
