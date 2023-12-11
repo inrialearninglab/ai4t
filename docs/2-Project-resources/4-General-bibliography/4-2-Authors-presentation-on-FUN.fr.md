@@ -135,8 +135,8 @@ Finalement il faut souligner le soutien et l'accompagnement de la Direction du n
 * Valérie MARCON, Adjointe au chef du bureau du soutien à l'innovation numérique et à la recherche appliquée - DNE - TN2.
 * Lidia JOVANOVIC, Professeur d'anglais, chargée de missions au bureau du soutien à l'innovation numérique et à la recherche appliquée - DNE - TN2.
 
-## Support technique
+## Equipe technique
 
-* Benoit Rospars, développeur informatique à Inria Learning Lab
 * Laurence Farhi, ingénieure pédagogique à Inria Learning Lab
-pour la mise en place du portail de ressources sur Github et du processus de traduction et de révsion de contenus des contenus (API DeepL).
+* Benoit Rospars, développeur informatique à Inria Learning Lab
+pour la mise en place du portail de ressources sur Github, et du processus de traduction et de révision des contenus.
