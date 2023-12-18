@@ -21,7 +21,7 @@ Finalement il faut souligner le soutien et l'accompagnement de la Direction du n
 
             <td style="border: none; vertical-align: middle;">
                 <strong>Anne BOYER</strong><br/>
-                Anne Boyer est Professeure en Informatique à l’Université de Lorraine. Ses recherches menées au sein du laboratoire LORIA se situent dans le domaine de l’intelligence artificielle, avec des travaux notamment sur les systèmes de recommandation personnalisée et la modélisation du comportement numérique des utilisateurs.
+                Anne BOYER est Professeure en Informatique à l’Université de Lorraine. Ses recherches menées au sein du laboratoire LORIA se situent dans le domaine de l’intelligence artificielle, avec des travaux notamment sur les systèmes de recommandation personnalisée et la modélisation du comportement numérique des utilisateurs.
 
             </td>
 
@@ -34,7 +34,7 @@ Finalement il faut souligner le soutien et l'accompagnement de la Direction du n
             <td style="border: none; vertical-align: middle;">
 
                 <strong>Laurent ROMARY</strong><br/>
-                Laurent Romary est directeur de l'information et de la culture scientifique à Inria. Il a mené des recherches dans les domaines du traitement du langage naturel et de la modélisation de documents semi-structurés, avec un intérêt particulier pour les textes et les ressources linguistiques. Il a également joué un rôle actif dans les efforts de normalisation au sein du comité TC 37 de l'ISO et de la Text Encoding Initiative. Depuis de nombreuses années, il participe à diverses initiatives liées à la promotion de la science ouverte.
+                Laurent ROMARY est Directeur de l'information et de la culture scientifique à Inria. Il a mené des recherches dans les domaines du traitement du langage naturel et de la modélisation de documents semi-structurés, avec un intérêt particulier pour les textes et les ressources linguistiques. Il a également joué un rôle actif dans les efforts de normalisation au sein du comité TC 37 de l'ISO et de la Text Encoding Initiative. Depuis de nombreuses années, il participe à diverses initiatives liées à la promotion de la science ouverte.
             </td>
 
         </tr>
@@ -46,7 +46,7 @@ Finalement il faut souligner le soutien et l'accompagnement de la Direction du n
             <td style="border: none; vertical-align: middle;">
 
                 <strong>Azim ROUSSANALY</strong><br/>
-                Azim Roussanaly est enseignant-chercheur en informatique à l'Université de Lorraine. Il est chercheur au sein du laboratoire LORIA et directeur adjoint de l'Institut de sciences du digital, management et cognition (IDMC). Ses domaines de recherche actuels sont : l’intelligence artificielle, la modélisation des utilisateurs, la fouille de données et l’e-éducation.
+                Azim ROUSSANALY est enseignant-chercheur en informatique à l'Université de Lorraine. Il est chercheur au sein du laboratoire LORIA et directeur adjoint de l'Institut de sciences du digital, management et cognition (IDMC). Ses domaines de recherche actuels sont : l’intelligence artificielle, la modélisation des utilisateurs, la fouille de données et l’e-éducation.
             </td>
 
         </tr>
@@ -58,7 +58,7 @@ Finalement il faut souligner le soutien et l'accompagnement de la Direction du n
             <td style="border: none; vertical-align: middle;">
 
                 <strong>Jiajun PAN</strong><br/>
-                Jiajun Pan est chercheur post-doctoral à l’Université de Lorraine. Son activité, menée au sein du laboratoire LORIA porte sur l'apprentissage automatique et l'exploration des données. Il participe aux recherches sur le lien entre les caractéristiques personnelles des étudiants et les expériences d'apprentissage.
+                Jiajun PAN est chercheur post-doctoral à l’Université de Lorraine. Son activité, menée au sein du laboratoire LORIA porte sur l'apprentissage automatique et l'exploration des données. Il participe aux recherches sur le lien entre les caractéristiques personnelles des étudiants et les expériences d'apprentissage.
             </td>
 
         </tr>
@@ -129,14 +129,12 @@ Finalement il faut souligner le soutien et l'accompagnement de la Direction du n
 
 </table>
 
-## Direction du Numérique pour l'éducation - MENSJ
+## Direction du Numérique pour l'éducation - MENJ
 
-* Axel JEAN, Chef du bureau du soutien à l'innovation numérique et à la recherche appliquée - DNE - TN2.
-* Valérie MARCON, Adjointe au chef du bureau du soutien à l'innovation numérique et à la recherche appliquée - DNE - TN2.
-* Lidia JOVANOVIC, Professeur d'anglais, chargée de missions au bureau du soutien à l'innovation numérique et à la recherche appliquée - DNE - TN2.
+* Axel JEAN, Valérie MARCON, Clément FANTOLI, Lidia JOVANOVIC, Romuald VERRIER - bureau du soutien à l'innovation numérique et à la recherche appliquée - DNE - TN2.
 
 ## Equipe technique
 
-* Laurence Farhi, ingénieure pédagogique à Inria Learning Lab
-* Benoit Rospars, développeur informatique à Inria Learning Lab
+* Laurence FARHI, ingénieure pédagogique à Inria Learning Lab
+* Benoit ROSPARS, développeur informatique à Inria Learning Lab
 pour la mise en place du portail de ressources sur Github, et du processus de traduction et de révision des contenus.
