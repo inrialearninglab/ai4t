@@ -1,5 +1,5 @@
 ---
-title: Forge and Multilinguism
+title: "Forge and Multilinguism"
 description: Presentation the AI4T forge and its support to multilinguism - An online tool for working together on educational content.
 contributor:  Marie, Collin - Inria
               Bénédicte, Cardon - Inria
