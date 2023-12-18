@@ -21,7 +21,7 @@ A forge offers:
 
 -   tools for creating web pages, publishing software online or transforming text files into complex documents (slideshows, diagrams, etc.).
 
-Although forges were mainly used by software developers, the teaching and training community can also benefit greatly from this type of platform. The [forge of the Digital Education Commons](https://forge.aeif.fr/framaka/que-la-forge-soit-avec-toi#quest-ce-quune-forge-){:target="_blank"} created by Alexis Kauffmann is now promoted by the [french Ministry of Education](https://www.education.gouv.fr){:target="_blank"}.
+Although forges were mainly used by software developers, the teaching and training community can also benefit greatly from this type of platform. The [forge of the Digital Education Commons](https://forge.aeif.fr/framaka/que-la-forge-soit-avec-toi#quest-ce-quune-forge-){:target="_blank"} created by Alexis Kauffmann is now promoted by the [french Ministry of Education](https://www.education.gouv.fr){:target="_blank"}
 
 ## A solution that supports and facilitates multilinguism
 
