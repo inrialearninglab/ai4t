@@ -344,6 +344,7 @@ plugins:
           "AI and Education Tools": "Outils d'IA et Éducation"
           "Mooc and Online Resources": "Mooc et ressources en ligne"
           "Reports and Guidelines": "Rapports et orientations"
+          "General bibliography and authors": "bibliographie générale et auteurs"
 
         it:
           "Home": "Home"
@@ -383,6 +384,7 @@ plugins:
           "AI and Education Tools": "IA e strumenti educativi"
           "Mooc and Online Resources": "Mooc e risorse online"
           "Reports and Guidelines": "Rapporti e linee guida"
+          "General bibliography and authors": "Bibliografia generale e autori"
         de:
           "Home": "Startseite"
           "Mooc": "Mooc"
@@ -421,6 +423,7 @@ plugins:
           "AI and Education Tools": "KI und Bildungstools"
           "Mooc and Online Resources": "Mooc und Online-Ressourcen"
           "Reports and Guidelines": "Berichte und Leitlinien"
+          "General bibliography and authors": "Allgemeine Bibliographie und Autoren"
         sl:
           "Home": "Domača stran"
           "Mooc": "Mooc"
@@ -459,6 +462,7 @@ plugins:
           "AI and Education Tools": "Orodja UI in izobraževanja"
           "Mooc and Online Resources": "Mooc in spletni viri"
           "Reports and Guidelines": "Poročila in smernice"
+          "General bibliography and authors": "Splošna bibliografija in avtorji"
 
   - page-to-pdf:
       disableOnServe: true

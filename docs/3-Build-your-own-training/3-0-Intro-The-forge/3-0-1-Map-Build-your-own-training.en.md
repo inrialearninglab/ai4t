@@ -1,5 +1,5 @@
 ---
-title: "Map of the 3-Step Process"
+title: "3.0.1 Map of the 3-Step Process"
 description: Presentation of "Build Your Own Training" process
 contributor:  Marie, Collin - Inria
               Bénédicte, Cardon - Inria
