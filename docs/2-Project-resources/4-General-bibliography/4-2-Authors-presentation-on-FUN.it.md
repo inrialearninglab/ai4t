@@ -1,5 +1,5 @@
 ---
-title: Il Mooc - Chi ha contribuito al Mooc?
+title: "Il Mooc - Chi ha contribuito al Mooc?"
 description: versione IT
 ---
 # Chi ha contribuito a questo corso?

@@ -1,7 +1,7 @@
 ---
-titre : "Forge et multilinguisme"
-description : Présentation de la forge AI4T et de son soutien au multilinguisme - Un outil en ligne pour travailler ensemble sur des contenus éducatifs.
-contributeur :  Marie, Collin - Inria
+titre: "Forge et multilinguisme"
+description: Présentation de la forge AI4T et de son soutien au multilinguisme - Un outil en ligne pour travailler ensemble sur des contenus éducatifs.
+contributeur:  Marie, Collin - Inria
               Bénédicte, Cardon - Inria
               Laurence, Farhi - Inria
               Benoit, Rospars - Inria

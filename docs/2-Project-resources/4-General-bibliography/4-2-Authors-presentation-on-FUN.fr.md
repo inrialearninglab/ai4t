@@ -1,7 +1,12 @@
 ---
-title: The Mooc - Who contributed to the Mooc?
+title: "Le Mooc - Qui a contribué au Mooc?"
 description: version FR
 ---
+??? info "Information sur la présentation des auteurs"
+- Soumis :14 décembre 2023
+- Source : Cette page reprend et complère les éléments de présentation des auteurs publiés sur la plateforme FUN
+- Accès : FUN-Mooc
+
 # Qui a contribué à ce cours ?
 Comme le montre la liste des contributeurs ci-dessous, ce Mooc est une œuvre collective ! Il résulte du travail mené au sein du projet européen AI4T et propose également des ressources issues du Mooc "Intelligence Artificielle ... avec Intelligence !".
 Il a bénéficié également des apports et de l’expertise des partenaires impliqués dans le projet.

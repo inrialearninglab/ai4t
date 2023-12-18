@@ -1,5 +1,5 @@
 ---
-title: The MOOC - Who Contributed to the MOOC?
+title: "The Mooc - Who Contributed to the Mooc?"
 description: version EN
 ---
 

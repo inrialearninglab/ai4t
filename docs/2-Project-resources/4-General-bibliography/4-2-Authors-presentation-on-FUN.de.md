@@ -1,5 +1,5 @@
 ---
-title: Der Mooc - Wer hat zum MOOC beigetragen?
+title: "Der Mooc - Wer hat zum MOOC beigetragen?"
 description: Version DE
 ---
 
