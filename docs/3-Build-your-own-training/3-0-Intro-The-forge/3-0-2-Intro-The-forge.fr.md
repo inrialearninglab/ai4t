@@ -39,7 +39,7 @@ Pour le projet AI4T, nous avons ensuite adapté notre méthodologie pour créer 
 
 Alors c'est parti, construisez votre propre formation !
 
-**Veuillez noter que, bien que nous ayons essayé d'être aussi précis que possible dans la présentation des différentes étapes de la génération des pages du Mooc dans une nouvelle langue, il est recommandé qu'un développeur ou une personne à l'aise avec l'informatique soit impliquée dans la partie technique (fork du référentiel, génération du texte dans une nouvelle langue).
+**Veuillez noter que**, bien qu'ayant essayé d'être aussi précis que possible dans la présentation des différentes étapes de la génération des pages du Mooc dans une nouvelle langue, il est recommandé qu'un développeur ou une personne à l'aise avec l'informatique soit impliquée dans la partie technique (fork du référentiel, génération du texte dans une nouvelle langue).
 génération de texte dans la langue cible, mise à jour des fichiers .py ou .yml, génération des pages web statiques).
 
-[^forgedef] : Description par Alexis Kauffmann dans la forge française [La Forge des Communs Numériques Éducatifs](https://forge.aeif.fr/framaka/que-la-forge-soit-avec-toi#quest-ce-quune-forge-){:target="_blank"}
+[^forgedef]: Description par Alexis Kauffmann dans la forge française [La Forge des Communs Numériques Éducatifs](https://forge.aeif.fr/framaka/que-la-forge-soit-avec-toi#quest-ce-quune-forge-){:target="_blank"}
