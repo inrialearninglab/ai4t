@@ -1,5 +1,5 @@
 ---
-titre: "3.0.1 Carte de la méthodologie en 3 étapes"
+title: "3.0.1 Carte de la méthodologie en 3 étapes"
 description: Présentation de la méthodologie processus "Construisez votre propre formation"
 contributeur:  Marie, Collin - Inria
               Bénédicte, Cardon - Inria
