@@ -55,7 +55,7 @@ Ainsi, l'aide à la décision fournie par des outils à faible interprétabilit�
 Voici une représentation qui met en relation la technologie utilisée, sa complexité et ses résultats stratégiques.
 
 <figure>
-  <img src="Images/Data-analysis-uses-from-description-to-prescription-HQ-FR.png" alt="Representation of Data analysis uses from description to prescription." />
+  <img src="Images/Data-analysis-uses-from-description-to-prescription-HQ-FR.jpg" alt="Representation of Data analysis uses from description to prescription." />
 </figure>
 Figure 2 : Classification de l'utilisation de l'analyse des données, de la description à la prescription [^3] (Adaptée de la vidéo "Analytique de l’apprentissage" de ce cours).
 
