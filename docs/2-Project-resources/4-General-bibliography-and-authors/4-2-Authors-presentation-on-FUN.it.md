@@ -27,7 +27,7 @@ Infine, vogliamo sottolineare il sostegno e l'accompagnamento della Direction du
 
         <tr style="border: none;">
 
-            <td style="border: none;" width="20%"><img alt="Foto di Laurent Romary" src="Images/laurent-Romary.jpeg")</td>
+            <td style="border: none;" width="20%"><img alt="Foto di Laurent Romary" src="Images/Laurent-Romary.jpeg")</td>
 
             <td style="border: none; vertical-align: middle;">
 

@@ -26,7 +26,7 @@ Wie aus der unten stehenden Liste der Beitragenden hervorgeht, ist dieser Mooc e
 
         <tr style="border: none;">
 
-            <td style="border: none;" width="20%"><img alt="Foto von Laurent Romary" src="Images/laurent-Romary.jpeg")</td>
+            <td style="border: none;" width="20%"><img alt="Foto von Laurent Romary" src="Images/Laurent-Romary.jpeg")</td>
 
             <td style="border: none; vertical-align: middle;">
 
@@ -109,10 +109,6 @@ Wie aus der unten stehenden Liste der Beitragenden hervorgeht, ist dieser Mooc e
 
         </tr>
 
-       <table>
-
-    <tbody>
-
         <tr>
 
             <td style="border: none;" width="20%"><img alt="Foto von Marie Collin" src="Images/Marie-Collin.png")</td>
@@ -125,12 +121,11 @@ Wie aus der unten stehenden Liste der Beitragenden hervorgeht, ist dieser Mooc e
 
         </tr>
 
-
     </tbody>
 
 </table>
 
-## Direction du Numérique pour l'éducation - MENJ 
+## Direction du Numérique pour l'éducation - MENJ
 
 * Axel JEAN, Valérie MARCON, Clément FANTOLI, Lidia JOVANOVIC, Valérie MARCON, Romuald VERRIER, Büro für digitale Innovationsunterstützung und angewandte Forschung - DNE - TN2.
 
@@ -139,7 +134,3 @@ Wie aus der unten stehenden Liste der Beitragenden hervorgeht, ist dieser Mooc e
 * Laurence FARHI, pädagogische Ingenieurin bei Inria Learning Lab
 * Benoit ROSPARS, Informatikentwickler bei Inria Learning Lab
 für die Implementierung des Ressourcenportals auf Github sowie des Prozesses zur Übersetzung und Überprüfung von Inhalten.
-
-
-
-            

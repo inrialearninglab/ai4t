@@ -26,7 +26,7 @@ As shown in the list of contributors below, this Mooc is a collective work! It i
 
         <tr style="border: none;">
 
-            <td style="border: none;" width="20%"><img alt="Photo of Laurent Romary" src="Images/laurent-Romary.jpeg")</td>
+            <td style="border: none;" width="20%"><img alt="Photo of Laurent Romary" src="Images/Laurent-Romary.jpeg")</td>
 
             <td style="border: none; vertical-align: middle;">
 

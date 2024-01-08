@@ -34,7 +34,7 @@ Finalement il faut souligner le soutien et l'accompagnement de la Direction du n
 
         <tr style="border: none;">
 
-            <td style="border: none;" width="20%"><img alt="Photo de Laurent Romary" src="Images/laurent-Romary.jpeg")</td>
+            <td style="border: none;" width="20%"><img alt="Photo de Laurent Romary" src="Images/Laurent-Romary.jpeg")</td>
 
             <td style="border: none; vertical-align: middle;">
 
@@ -91,7 +91,7 @@ Finalement il faut souligner le soutien et l'accompagnement de la Direction du n
             </td>
 
         </tr>
-        
+
         <tr style="border: none;">
 
             <td style="border: none;" width="20%"><img alt="Photo de Nicolas Rougier" src="Images/Nicolas-Rougier.jpg")</td>
