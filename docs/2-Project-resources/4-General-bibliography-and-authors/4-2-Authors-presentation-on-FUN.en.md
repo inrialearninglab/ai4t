@@ -91,7 +91,7 @@ As shown in the list of contributors below, this Mooc is a collective work! It i
             <td style="border: none; vertical-align: middle;">
 
                 <strong>Nicolas ROUGIER</strong><br/>
-                Nicolas Rougier is a research director at Inria and works at the Institute of Neurodegenerative Diseases in Bordeaux, where he leads the Computational Neuroscience team.
+                Nicolas ROUGIER is a research director at Inria and works at the Institute of Neurodegenerative Diseases in Bordeaux, where he leads the Computational Neuroscience team.
 
             </td>
 
@@ -104,7 +104,7 @@ As shown in the list of contributors below, this Mooc is a collective work! It i
             <td style="border: none; vertical-align: middle;">
 
                 <strong>Bénédicte CARDON</strong><br/>
-                Bénédicte Cardon is a multimedia pedagogical engineer at Inria, within the Learning Lab.
+                Bénédicte CARDON is a multimedia pedagogical engineer at Inria, within the Learning Lab.
             </td>
 
         </tr>
@@ -116,7 +116,7 @@ As shown in the list of contributors below, this Mooc is a collective work! It i
             <td style="border: none; vertical-align: middle;">
 
                 <strong>Marie COLLIN</strong><br/>
-                Marie Collin is a pedagogical engineer at Inria, within the Learning Lab.
+                Marie COLLIN is a pedagogical engineer at Inria, within the Learning Lab.
             </td>
 
         </tr>

@@ -97,7 +97,7 @@ Infine, vogliamo sottolineare il sostegno e l'accompagnamento della Direction du
             <td style="border: none; vertical-align: middle;">
 
                 <strong>Nicolas ROUGIER</strong><br/>
-                Nicolas Rougier è direttore della ricerca presso Inria e lavora presso l'Istituto delle malattie neurodegenerative, a Bordeaux, dove dirige il gruppo di neuroscienze computazionali.
+                Nicolas ROUGIER è direttore della ricerca presso Inria e lavora presso l'Istituto delle malattie neurodegenerative, a Bordeaux, dove dirige il gruppo di neuroscienze computazionali.
 
             </td>
 
@@ -110,7 +110,7 @@ Infine, vogliamo sottolineare il sostegno e l'accompagnamento della Direction du
             <td style="border: none; vertical-align: middle;">
 
                 <strong>Bénédicte CARDON</strong><br/>
-                Bénédicte Cardon è ingegnere didattico multimediale presso Inria, all'interno del Learning Lab.
+                Bénédicte CARDON è ingegnere didattico multimediale presso Inria, all'interno del Learning Lab.
 
             </td>
 
@@ -123,7 +123,7 @@ Infine, vogliamo sottolineare il sostegno e l'accompagnamento della Direction du
             <td style="border: none; vertical-align: middle;">
 
                 <strong>Marie COLLIN</strong><br/>
-                Marie Collin è ingegnere didattico presso Inria, all'interno del Learning Lab.
+                Marie COLLIN è ingegnere didattico presso Inria, all'interno del Learning Lab.
 
             </td>
 
