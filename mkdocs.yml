@@ -71,38 +71,6 @@ extra:
   # Liens vers des pages à afficher dans la page d'accueil (cards)
   parts:
     - title:
-        en: ""
-        fr: ""
-        it: ""
-        de: ""
-        sl: ""
-      url: "path/to/folder"
-      cards:
-        - url:
-            en: "https://youtu.be/WCVAcoFxjiI?si=la1pG3wo4QBJ7Jsg"
-            fr: "https://youtu.be/9t-fm4liJPw?si=WVUxW4Qe7dqbo25e"
-            it: "https://youtu.be/WCVAcoFxjiI?si=la1pG3wo4QBJ7Jsg"
-            de: "https://youtu.be/WCVAcoFxjiI?si=la1pG3wo4QBJ7Jsg"
-            sl: "https://youtu.be/WCVAcoFxjiI?si=la1pG3wo4QBJ7Jsg"
-          img:
-            en: "assets/Visuel-Mooc-small.png"
-            fr: "assets/Visuel-Mooc-small.png"
-            it: "assets/Visuel-Mooc-small.png"
-            de: "assets/Visuel-Mooc-small.png"
-            sl: "assets/Visuel-Mooc-small.png"
-          title:
-            en: "Mooc Presentation"
-            fr: "Mooc Presentation"
-            it: "Mooc Presentation"
-            de: "Mooc Presentation"
-            sl: "Mooc Presentation"
-          desc:
-            en: ""
-            fr: ""
-            it: ""
-            de: ""
-            sl: ""
-    - title:
         en: "Mooc contents"
         fr: "Contenus du Mooc"
         it: "Contenuti del Mooc"
