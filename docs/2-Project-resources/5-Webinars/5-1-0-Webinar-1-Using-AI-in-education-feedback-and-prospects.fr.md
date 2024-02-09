@@ -4,13 +4,13 @@ description: Présentations du webinaire
 ---
 
 
-# Premiere webinaire du Mooc AI4T
+# Premier webinaire du Mooc AI4T
 
 Le premier webinaire a eu lieu le 31 janvier 2024.
 
 Il était consacré au thème *"Usages de l'IA en éducation : retours d'expériences et perspectives".*
 
-Les documents suivants en  sont issus et sont disponibles en ligne :
+Les documents suivants en sont issus et sont disponibles en ligne :
 * <a href="docs/2-Project-resources/5-Webinars/5-1-3-Webinar-1-presentations.fr.md">le programme du webinaire</a>, 
   
 * <a href="docs/2-Project-resources/5-Webinars/5-1-2-Webinar-1-replay.fr.md">le replay du webinaire</a>, 
