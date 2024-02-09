@@ -20,5 +20,5 @@ Accès à la présentation <a href="Documents/intelligence-artificielle-pour-et-
 Un document de synthèse reprennant l'ensemble des présentations et complété par des liens et référénces proposées par les animateurs ou en réponses à des sujets 
 évoqués au cours de la séquence a été crée.
 
-<a href="Documents/Webinaire-Usage_IA_Experiences_Perspectives_synthèse-VF.pdf" target="_blank">Présentation de l'ensemble des contenus du webinaire</a>.
+<a href="Documents/Webinaire-Usage-IA-Experiences-Perspectives-synthèse-VF.pdf" target="_blank">Présentation de l'ensemble des contenus du webinaire</a>.
 
