@@ -1,5 +1,5 @@
 ---
-title: Webinar 1 Using AI in education : feedback and prospects
+title: 5.1.0 Webinaire 1-  Usages de l'IA en éducation : Retours d'expériences et perspectives
 description: Présentations du webinaire
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Webinar 1 Using AI in education : feedback and prospects
-description: Présentation du webinaire 
+title: 5.1.1 Webinaire 1- programme
+description: Présentation du webinaire et de son déroulé
 ---
 
 
