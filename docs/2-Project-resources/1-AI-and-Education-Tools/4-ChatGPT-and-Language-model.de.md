@@ -22,7 +22,7 @@ This is a 5-minute overview answering these questions:
 - Which organizations develop these models? Are there "open-sourced" ones ?.
 It's aimed at a wide audience, including students and teachers in secondary schools.
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/YXT6mFjInaU?si=nDr7577ZjpLcG_96" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/YXT6mFjInaU?si=nDr7577ZjpLcG_96" target="_blank" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 ### Episode#2: How to get a language model to perform a task?
 
