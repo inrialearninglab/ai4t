@@ -71,6 +71,14 @@ Quelques unes de ces techniques (par exemple les chaînes de pensées) sont pré
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/uLMqTPmvqPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
+### Episode#6 : Les applications des modèles de langage
+
+**Les applications des modèles de langage**
+Synopsis : Les modèles de langage comme ChatGPT ou Bard sont de plus en plus puissants et tendent à être utilisés dans de plus en plus de domaines. Dans cette vidéo, nous vous proposons d’étudier les applications possibles de ces outils dans des domaines comme le travail, la santé, **l’éducation** ou encore la préservation de langues.
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/uLMqTPmvqPw?si=7D1-rGMy2sqqrWZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+
+
 
 L'ensemble de ces vidéos réalisées par l'équipe Inria - Flowers -  sont également accessibles et téléchargeables sur le site [ChatGPT en 5 minutes](http://developmentalsystems.org/chatgpt_en_5_minutes/){:target="_blank"}.
 
