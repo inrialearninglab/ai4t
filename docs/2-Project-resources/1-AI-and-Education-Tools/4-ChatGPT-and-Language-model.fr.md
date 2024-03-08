@@ -80,7 +80,7 @@ Synopsis : Les modèles de langage comme ChatGPT ou Bard sont de plus en plus pu
 
 
 
-L'ensemble de ces vidéos réalisées par l'équipe Inria - Flowers -  sont également accessibles et téléchargeables sur le site [ChatGPT en 5 minutes](http://developmentalsystems.org/chatgpt_en_5_minutes/){:target="_blank"}.
+L'ensemble de ces vidéos réalisées par l'équipe Inria - Flowers -  sont également accessibles et téléchargeables sur le site [ChatGPT en 5 minutes](http://developmentalsystems.org/chatgpt_en_5_minutes/){:target="_blank"}. Le site et ses ressources sont progressivement rendus disponibe en anglais. 
 
 ## 2 - Usages possibles en Éducation
 Deux publications du Ministère de l’éducation nationale et du Pôle d’expertise de la régulation numérique qui se complètent et permettent d'aller un peu plus loin dans la découverte des usages possibles en éducation de modèles de langage (1) et des technologies d'IA (2) qui les sous-tendent.
