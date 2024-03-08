@@ -69,8 +69,7 @@ Some of these techniques (e.g. thought chains) are presented here; then the orig
 **Language model applications** (in French)
 Synopsis : Language models such as ChatGPT or Bard are becoming increasingly powerful and are being used in more and more areas. In this video, we look at the possible applications of these tools in areas such as work, health, **education** and language preservation.
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/uLMqTPmvqPw?si=7D1-rGMy2sqqrWZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
-
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/E2hPk3adUlI?si=Jv6WjNgi99a9eIA-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 All the videos produced by Inria's Flowers team can also be accessed and downloaded from [ChatGPT in 5 minutes](http://developmentalsystems.org/chatgpt_en_5_minutes/){:target="_blank"}.The site is gradually being made available in English.
 
