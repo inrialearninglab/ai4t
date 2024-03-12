@@ -11,7 +11,7 @@ Le premier webinaire a eu lieu le 31 janvier 2024.
 Il était consacré au thème *"Usages de l'IA en éducation : retours d'expériences et perspectives".*
 
 Les documents suivants en sont issus et sont disponibles en ligne :
-* <a href="docs/2-Project-resources/5-Webinars/5-1-1-Webinar-1-program.fr.md">le programme du webinaire</a>, 
+* <a href="./docs/2-Project-resources/5-Webinars/5-1-1-Webinar-1-program.fr.md">le programme du webinaire</a>, 
   
 * <a href="https://inrialearninglab.github.io/ai4t//2-Project-resources/5-Webinars/5-1-2-Webinar-1-replay.fr.html">le replay du webinaire</a>, 
   
