@@ -11,7 +11,7 @@ The first webinar took place on 31th of  January, 2024.
 It was devoted to the theme *"Using AI in education: feedback and prospects".*
 
 The following documents have been produced during the session, and are available online:
-* <a href="docs/2-Project-resources/5-Webinars/5-1-3-Webinar-1-presentations.fr.md">Programm of the webinar</a>, 
+* <a href="docs/2-Project-resources/5-Webinars/5-1-3-Webinar-1-presentations.fr.md">Program of the webinar</a>, 
   
 * <a href="https://inrialearninglab.github.io/ai4t//2-Project-resources/5-Webinars/5-1-2-Webinar-1-replay.fr.html">Replay of the webinar</a>, 
   
