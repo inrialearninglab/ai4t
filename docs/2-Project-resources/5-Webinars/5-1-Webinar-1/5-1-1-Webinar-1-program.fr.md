@@ -3,14 +3,12 @@ title: 5.1.1 Webinaire 1- Programme
 description: Présentation du webinaire et de son déroulé
 ---
 
-
 # Usages de l'IA en éducation : retours d'expériences et perspectives
 
 Le 31 janvier 2024, l'équipe pédagogique du Mooc a organisé son premier webinaire autour des 
 "Usages de l'IA en éducation : retours d'expériences et perspective".
 
-<td style="border: none; vertical-align: middle;"><img alt="Visuel webinaire 1" src="Images/webinaire1-visuel-presentation.png")</td>
-
+<td style="center; border: none; vertical-align: middle;"><img alt="Visuel webinaire 1" src="Images/webinaire1-visuel-presentation.png"></td>
 
 ## Animation du webinaire par Thierry VIÉVILLE.
 Thierry est chercheur en neurosciences computationnelles - Inria, Equipe Mnemosyne - *Membre de l'équipe pédagogique du Mooc AI4T*
@@ -26,5 +24,5 @@ La curiosité joue un rôle clé dans les apprentissages chez les enfants, à l�
 Margarida est professeure au Laboratoire d’Innovation et Numérique pour l’Education – Université Côte d’Azur
 Dans la continuité des travaux du Livre blanc “Enseigner et apprendre à l’ère de l’Intelligence Artificielle. Acculturation, intégration et usages créatifs de l’IA en éducation”, Margarida Romero reviendra sur les usages créatifs mobilisant des IA génératives
 
-## Organisation & modération du webinaire par Bénédicte CARDON et Marie Collin
+## Organisation & modération du webinaire par Bénédicte CARDON et Marie COLLIN.
 Marie et Bénédicte sont ingénieures pédagogiques au Learning Lab Inria et *membres de l'équipe pédagogique du Mooc*.

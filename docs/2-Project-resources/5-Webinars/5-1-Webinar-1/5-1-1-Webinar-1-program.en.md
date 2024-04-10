@@ -9,7 +9,7 @@ description: Presentation of the webinar and its contents
 On January 31st, 2024, the Mooc pedagogical team organized its first webinar around.
 "Using AI in education: feedback and prospects".
 
-<td style="border: none; vertical-align: middle;"><img alt="Visuel webinaire 1" src="Images/webinaire1-visuel-presentation.png")</td>
+<td style="border: none; vertical-align: middle;"><img alt="Visuel webinaire 1" src="Images/webinaire1-visuel-presentation.png"></td>
 
 
 ## Hosted by Thierry VIÉVILLE

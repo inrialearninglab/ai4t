@@ -1,30 +1,27 @@
 ---
-title: 5.1.1 Webinaire 1- Programme
+title: 5.2.1 Webinaire 1- Programme
 description: Présentation du webinaire et de son déroulé
 ---
 
 
 # Usages de l'IA en éducation : retours d'expériences et perspectives
 
-Le 31 janvier 2024, l'équipe pédagogique du Mooc a organisé son premier webinaire autour des 
-"Usages de l'IA en éducation : retours d'expériences et perspective".
+Le 3 avril 2024, l'équipe pédagogique du Mooc a organisé le deuxième webinaire autour des 
+"Usages de l'IA en éducation : intégrer des outils d'IA en classe".
 
-<td style="border: none; vertical-align: middle;"><img alt="Visuel webinaire 1" src="Images/webinaire1-visuel-presentation.png")</td>
+<td style="border: none; vertical-align: middle;"><img alt="Visuel webinaire 2" src="Images/webinaire2-visuel-presentation.png"></td>
 
 
 ## Animation du webinaire par Thierry VIÉVILLE.
 Thierry est chercheur en neurosciences computationnelles - Inria, Equipe Mnemosyne - *Membre de l'équipe pédagogique du Mooc AI4T*
 
-### IA, usages et éducation par Axel JEAN.
-Axel est le chef du bureau du soutien à l'innovation numérique et à la recherche appliquée - TN2 DNE - MENJ - *Membre de l'équipe pédagogique du Mooc AI4T*
+# Comment et pourquoi intégrer les chatbots en classe ? par Laetitia ALLEGRINI
+Laetitia, professeure des écoles spécialisée option F, et mMembre du groupe de travail sur l’IA à la DRANE de l’Académie d’Aix-Marseille
+Aujourd'hui, à l'ère de l'intelligence artificielle (IA), l'enseignant aura à sa disposition de nouveaux outils. L'utilisation et la création d'agents conversationnels ou “chatbots”, peuvent, entre autres, venir assister le professeur, soutenir et accompagner l'élève dans sa formation... Ces aides pourront devenir un outil pédagogique puissant et innovant. Pendant cette présentation, nous répondrons à cette question : "Comment et pourquoi intégrer les chatbots en classe ?". Vous découvrirez pour chacune des trois catégories d'unités conversationnelles des exemples concrets réalisés en classe. Nous pointerons le rôle primordial de l'enseignant dans leur mise en place au sein d'un scénario pédagogique afin d'éviter certains biais. Pour vous, l’intégration des chatbots dans le domaine éducatif pourrait-il symboliser un futur où l’Intelligence Artificielle se transforme en un outil éducatif inclusif, permettant de favoriser l'acquisition des apprentissages ?
 
-### L’IA au service de la personnalisation des apprentissages par Pierre-Yves OUDEYER.
-Pierre-Yves est chercheur en Intelligence artificielle, apprentissage automatique, sciences cognitives - Inria et Conseiller scientifique, EvidenceB.
-La curiosité joue un rôle clé dans les apprentissages chez les enfants, à l’école et en dehors. Elle est un des moteurs qui peut les amener à s’épanouir en prenant du plaisir à apprendre, en stimulant leur persévérance et leur créativité. Se basant sur ses travaux fondamentaux en sciences cognitives et en IA pour modéliser la curiosité chez les enfants, l’équipe Flowers à Inria travaille depuis plusieurs années à leur application dans le domaine de l’éducation. Pierre-Yves Oudeyer présentera deux projets réalisés en collaboration entre l’équipe Flowers et l’entreprise edTech evidenceB. L’un utilise des méthodes de personnalisation des apprentissages qui stimulent la curiosité dans le cadre de l’apprentissage des maths, aujourd’hui diffusées à grande échelle dans le logiciel Adaptiv’Maths soutenu par le ministère de l’Education nationale et accessible dans toutes les écoles en France (68.000 classes). L’autre où nous expérimentons les capacités très prometteuses des modèles de langage pour mettre en place des agents conversationnels qui entraînent les enfants à poser des questions curieuses. Il discutera aussi des enjeux de la littératie en IA au collège et au lycée, et de plusieurs outils pédagogiques visant à y contribuer.  
-
-### IA, créativité et éducation par Margarida ROMERO.
-Margarida est professeure au Laboratoire d’Innovation et Numérique pour l’Education – Université Côte d’Azur
-Dans la continuité des travaux du Livre blanc “Enseigner et apprendre à l’ère de l’Intelligence Artificielle. Acculturation, intégration et usages créatifs de l’IA en éducation”, Margarida Romero reviendra sur les usages créatifs mobilisant des IA génératives
+# L’évaluation du projet AI4T : connaissance, perceptions et usages de l’IA par les enseignants par Aurélie PARIS 
+Aurélie PARIS est chargée de mission au Cnesco - CNAM, responsable de la coordination du Groupe de travail Évaluation du projet AI4T
+Cette présentation met en lumière les résultats d’enquêtes issues de l'évaluation, coordonnée par le Cnesco, d'un projet européen de formation des enseignants à l'intelligence artificielle. Ils offrent une vision comparative de la connaissance, des perceptions et des usages de l’IA chez des enseignants de différents pays. Des pistes pour soutenir l’usage de l’IA dans l’éducation, basées sur des retours de terrain, sont également présentées.
 
 ## Organisation & modération du webinaire par Bénédicte CARDON et Marie Collin
 Marie et Bénédicte sont ingénieures pédagogiques au Learning Lab Inria et *membres de l'équipe pédagogique du Mooc*.
