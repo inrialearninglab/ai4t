@@ -16,7 +16,7 @@ Le 3 avril 2024, l'équipe pédagogique du Mooc a organisé le deuxième webinai
 Thierry est chercheur en neurosciences computationnelles - Inria, Equipe Mnemosyne - *Membre de l'équipe pédagogique du Mooc AI4T*
 
 # Comment et pourquoi intégrer les chatbots en classe ? par Laetitia ALLEGRINI
-Laetitia, professeure des écoles spécialisée option F, et mMembre du groupe de travail sur l’IA à la DRANE de l’Académie d’Aix-Marseille
+Laetitia est professeure des écoles spécialisée option F, et mMembre du groupe de travail sur l’IA à la DRANE de l’Académie d’Aix-Marseille
 Aujourd'hui, à l'ère de l'intelligence artificielle (IA), l'enseignant aura à sa disposition de nouveaux outils. L'utilisation et la création d'agents conversationnels ou “chatbots”, peuvent, entre autres, venir assister le professeur, soutenir et accompagner l'élève dans sa formation... Ces aides pourront devenir un outil pédagogique puissant et innovant. Pendant cette présentation, nous répondrons à cette question : "Comment et pourquoi intégrer les chatbots en classe ?". Vous découvrirez pour chacune des trois catégories d'unités conversationnelles des exemples concrets réalisés en classe. Nous pointerons le rôle primordial de l'enseignant dans leur mise en place au sein d'un scénario pédagogique afin d'éviter certains biais. Pour vous, l’intégration des chatbots dans le domaine éducatif pourrait-il symboliser un futur où l’Intelligence Artificielle se transforme en un outil éducatif inclusif, permettant de favoriser l'acquisition des apprentissages ?
 
 # L’évaluation du projet AI4T : connaissance, perceptions et usages de l’IA par les enseignants par Aurélie PARIS 

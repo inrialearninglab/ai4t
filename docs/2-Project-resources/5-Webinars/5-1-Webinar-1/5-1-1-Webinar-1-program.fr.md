@@ -8,7 +8,7 @@ description: Présentation du webinaire et de son déroulé
 Le 31 janvier 2024, l'équipe pédagogique du Mooc a organisé son premier webinaire autour des 
 "Usages de l'IA en éducation : retours d'expériences et perspective".
 
-<td style="center; border: none; vertical-align: middle;"><img alt="Visuel webinaire 1" src="Images/webinaire1-visuel-presentation.png"></td>
+<td style="center; border: none; vertical-align: middle;"><img alt="Visueles/webinaire1-visuel-presentation.png"></td>
 
 ## Animation du webinaire par Thierry VIÉVILLE.
 Thierry est chercheur en neurosciences computationnelles - Inria, Equipe Mnemosyne - *Membre de l'équipe pédagogique du Mooc AI4T*
