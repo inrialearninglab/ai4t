@@ -18,6 +18,6 @@ Accès à la présentation [IA, créativité et éducation](../Documents/intelli
 
 ### Synthèse du webinaire
 Un document de synthèse reprennant l'ensemble des présentations et complété par des liens et référénces proposées par les animateurs ou en réponses à des sujets 
-évoqués au cours de la séquence a été crée.
+évoqués au cours de la séquence a été créé.
 
 Accès au [document de synthèse](../Documents/Webinaire-Usage-IA-Experiences-Perspectives-synthèse-VF.pdf)

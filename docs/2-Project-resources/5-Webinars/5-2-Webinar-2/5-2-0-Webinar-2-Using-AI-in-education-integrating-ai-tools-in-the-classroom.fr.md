@@ -14,7 +14,7 @@ Les documents suivants en sont issus et sont disponibles en ligne :
 
 * <a href="https://inrialearninglab.github.io/ai4t//2-Project-resources/5-Webinars/5-2-Webinar-2/5-2-1-Webinar-2-program.html" target="_blank">le programme du webinaire</a>,
 
-* <a href="https://inrialearninglab.github.io/ai4t//2-Project-resources/5-Webinars/5-2-Webinar-2/5-2-2-Webinar-2-replay.html"target="_blank">le replay du webinaire</a>, 
+* <a href="https://inrialearninglab.github.io/ai4t//2-Project-resources/5-Webinars/5-2-Webinar-2/5-2-2-Webinar-2-replay.html" target="_blank">le replay du webinaire</a>, 
 
 * et [les présentations utilisées au cours de la séquence](../Documents/Webinaire-Interger-des-outils-d’IA-en-classe-synthèse-VF.pdf) présentations utilisées au cours de la séquence</a>.
   .
