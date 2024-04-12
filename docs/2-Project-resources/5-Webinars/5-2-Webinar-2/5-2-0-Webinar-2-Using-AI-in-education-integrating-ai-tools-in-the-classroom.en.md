@@ -14,8 +14,7 @@ The following resources have been produced during the session, and are available
 
 * <a href="https://inrialearninglab.github.io/ai4t//2-Project-resources/5-Webinars/5-2-Webinar-2/5-2-1-Webinar-2-program.html" target="_blank">the program of the webinar</a>,
 
-* <a href="https://inrialearninglab.github.io/ai4t//2-Project-resources/5-Webinars/5-2-Webinar-2/5-2-2-Webinar-2-replay.html" target="_blank">the replay of the webinar</a>, 
-
-* and [the presentations used during the session](../Documents/Webinaire-Interger-des-outils-d’IA-en-classe-synthèse-VF.pdf){:target="_blank"}.
-  .
+* <a href="https://inrialearninglab.github.io/ai4t//2-Project-resources/5-Webinars/5-2-Webinar-2/5-2-2-Webinar-2-replay.html" target="_blank">the replay of the webinar</a>,
+  
+* and <a href="https://inrialearninglab.github.io/ai4t//2-Project-resources/5-Webinars/5-2-Webinar-2/5-2-2-Webinar-2-presentations.html" target="_blank">the presentations used during the session</a>. 
 
