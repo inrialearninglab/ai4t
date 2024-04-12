@@ -8,9 +8,9 @@ description: Accès aux présentations
 L'ensemble des présentations utilisées au cours du webinaire sont accessibles ci-aprés : 
 
 ### IA, usages et éducation par Axel JEAN.
-Accès à la présentation [IA et usage de l'éducation](../Documents/intelligence-artificielle-pour-et-par-les-enseignants-axel-jean-ia-et-education.pdf).
+Accès à la présentation [IA et usage de l'éducation](../Documents/intelligence-artificielle-pour-et-par-les-enseignants-axel-jean-ia-et-education.pd).
 
-### L’IA au service de la personnalisation des apprentissages par Pierre-Yves OUDEYER.
+### L’IA au service de la personnalisation des apprentissages par Pierre-Yves OUDEYER.f
 Accès à la présentation [L’IA au service de la personnalisation des apprentissages](../Documents/intelligence-artificielle-pour-et-par-les-enseignants_pierre-yves-oudeyer-ia_curiosite_et_education.pdf)
 
 ### IA, créativité et éducation par Margarida ROMERO.
