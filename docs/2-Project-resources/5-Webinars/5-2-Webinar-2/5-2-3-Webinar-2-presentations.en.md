@@ -17,4 +17,4 @@ Access to the presentation  [Evaluation of the AI4T project: teachers' knowledge
 A summary document containing all the presentations and supplemented by links and references proposed by the moderators or in response to topics
 during the sequence.
 
-Access to the  [Webinar Summary](../Documents/Webinaire-Integrer-des-outils-d’IA-en-classe-synthèse-VF.pdf){:target="_blank"}.
+Access to the  [Webinar Summary](../Documents/Webinaire-Integrer-des-outils-d’IA-en-classe-synthese-VF.pdf){:target="_blank"}.
