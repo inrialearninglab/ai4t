@@ -16,5 +16,5 @@ Les documents suivants en sont issus et sont disponibles en ligne :
 
 * <a href="https://inrialearninglab.github.io/ai4t//2-Project-resources/5-Webinars/5-2-Webinar-2/5-2-2-Webinar-2-replay.html" target="_blank">le replay du webinaire</a>,
   
-* et <a href="https://inrialearninglab.github.io/ai4t//fr/2-Project-resources/5-Webinars/5-2-Webinar-2/5-2-2-Webinar-2-presentations.html" target="_blank">les présentations utilisées au cours de la séquence</a>; 
+* et <a href="https://inrialearninglab.github.io/ai4t//fr/2-Project-resources/5-Webinars/5-2-Webinar-2/5-2-3-Webinar-2-presentations.html" target="_blank">les présentations utilisées au cours de la séquence</a>; 
 

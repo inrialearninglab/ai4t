@@ -16,5 +16,5 @@ The following resources have been produced during the session, and are available
 
 * <a href="https://inrialearninglab.github.io/ai4t//2-Project-resources/5-Webinars/5-2-Webinar-2/5-2-2-Webinar-2-replay.html" target="_blank">the replay of the webinar</a>,
   
-* and <a href="https://inrialearninglab.github.io/ai4t//2-Project-resources/5-Webinars/5-2-Webinar-2/5-2-2-Webinar-2-presentations.html" target="_blank">the presentations used during the session</a>. 
+* and <a href="https://inrialearninglab.github.io/ai4t//2-Project-resources/5-Webinars/5-2-Webinar-2/5-2-3-Webinar-2-presentations.html" target="_blank">the presentations used during the session</a>. 
 
