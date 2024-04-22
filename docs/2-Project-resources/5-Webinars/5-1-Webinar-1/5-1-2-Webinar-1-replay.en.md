@@ -1,12 +1,12 @@
 ---
-title: 5.1.2 Webinar 1- Replay
+title: Replay
 description: Access to Replay 
 ---
 
 
 # Replay of the webinar
 
-The webinar was recorded and can be viewed below:
+The webinar (in French) was recorded and can be viewed below:
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/6Z-JHC3X5dU?si=hy6j4Lb3fHNUsNPL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 

@@ -1,5 +1,5 @@
 ---
-title: 5.1.0 Webinar 1 - Using AI in education
+title: Introduction
 description: Webinar 1 Context and objectives 
 ---
 
@@ -16,5 +16,5 @@ The following resources have been produced during the session, and are available
   
 * <a href="https://inrialearninglab.github.io/ai4t//2-Project-resources/5-Webinars/5-1-Webinar-1/5-1-2-Webinar-1-replay.html" target="_blank">Replay of the webinar</a>, 
   
-* and the [presentations used during the webinar](../Documents/Webinaire-Usage-IA-Experiences-Perspectives-synthèse-VF.pdf){:target="_blank"}.
+* the [compilation of all the presentations used during the webinar](Documents/Webinaire-Usage-IA-Experiences-Perspectives-synthese-VF.pdf){:target="_blank"}.
 
