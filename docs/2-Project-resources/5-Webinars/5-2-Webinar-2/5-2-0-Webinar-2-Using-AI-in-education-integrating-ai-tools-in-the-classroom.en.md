@@ -1,6 +1,6 @@
 ---
-title: 5.2.0 Webinar 2- Integration AI Tools in the Classroom
-description: Webinar 2 - Context and objectives
+title: Introduction
+description: Webinar 2 Context and objectives
 ---
 
 
@@ -12,9 +12,9 @@ It was devoted to the theme "AI in education: integrating AI tools in the classr
 
 The following resources have been produced during the session, and are available online:
 
-* <a href="https://inrialearninglab.github.io/ai4t//2-Project-resources/5-Webinars/5-2-Webinar-2/5-2-1-Webinar-2-program.html" target="_blank">the program of the webinar</a>,
+* <a href="https://inrialearninglab.github.io/ai4t//2-Project-resources/5-Webinars/5-2-Webinar-2/5-2-1-Webinar-2-program.html" target="_blank">Program of the webinar</a>,
 
-* <a href="https://inrialearninglab.github.io/ai4t//2-Project-resources/5-Webinars/5-2-Webinar-2/5-2-2-Webinar-2-replay.html" target="_blank">the replay of the webinar</a>,
+* <a href="https://inrialearninglab.github.io/ai4t//2-Project-resources/5-Webinars/5-2-Webinar-2/5-2-2-Webinar-2-replay.html" target="_blank">Replay of the webinar</a>,
   
-* and <a href="https://inrialearninglab.github.io/ai4t//2-Project-resources/5-Webinars/5-2-Webinar-2/5-2-3-Webinar-2-presentations.html" target="_blank">the presentations used during the session</a>. 
+* <a href="https://inrialearninglab.github.io/ai4t//2-Project-resources/5-Webinars/5-2-Webinar-2/5-2-3-Webinar-2-presentations.html" target="_blank">Compilation of all the presentations used during the webinar</a>.
 
