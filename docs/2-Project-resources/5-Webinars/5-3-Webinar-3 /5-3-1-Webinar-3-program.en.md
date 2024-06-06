@@ -5,14 +5,11 @@ description: Presentation of the webinar and its contents
 
 #  Using AI in education : Integration AI Tools in the Classroom
 
-On April 3rd, 2024, the Mooc pedagogical team organised its second webinar about:
-"Using AI in education : Integration AI Tools in the Classroom".
+On May 29th, 2024, the Mooc pedagogical team organised its third webinar about:
+"Generative AI, understanding and guiding its use in the classroom".
 
 
-<td style="border: none; vertical-align: middle;"><img alt="Visual webinar 2" src="Images/webinaire2-visuel-presentation.png"></td>
-
-## Hosted by Thierry VIÉVILLE
-Thierry is a researcher in computational neuroscience - Inria, Mnemosyne TEAM- *Member of the AI4T Mooc pedagogical team*
+<td style="border: none; vertical-align: middle;"><img alt="Visual webinar 3" src="Images/webinaire3-visuel-presentation.png"></td>
 
 ### How and Why use Chatbots in the Classroom? by Laetitia ALLEGRINI
 Laetitia is a specialised school teacher, option F, and a member of the AI working group at the DRANE of the Académie d'Aix-Marseille.
