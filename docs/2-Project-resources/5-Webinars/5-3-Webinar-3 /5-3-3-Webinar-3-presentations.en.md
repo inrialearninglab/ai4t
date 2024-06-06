@@ -7,13 +7,13 @@ description: Access to the presentations
 # Presentations
 All the presentations (in French) used during the webinar are available here:
 
-### How and Why use Chatbots in the Classroom? by Laetitia ALLEGRINI
-Access to the presentation [How and Why use Chatbots in the Classroom?](Documents/ai4t-allegrini-laetitia-comment-pourquoi-integrer-les-chatbots-en-classe.pdf){:target="_blank"}
+### AI - Promises and limits by Nicolas ROUGIER
+Access to the presentation [AI - Promises and Limits](Documents/ai4t-nicolas-rougier-ia-promesses-and-limits.pdf){:target=‘_blank’}
 
-### Evaluation of the AI4T project: teachers' knowledge, perceptions and uses of AI by Aurélie PARIS
-Access to the presentation  [Evaluation of the AI4T project: teachers' knowledge, perceptions and uses of AI](Documents/ai4t-paris-aurelie-evaluation-ai4t-connaissance-perceptions-et-usages-ia-par-les-enseignants.pdf){:target="_blank"}.
+### Generative AI, understanding and guiding its use in the classroom by Guillaume VINIACOURT and Franck BODIN 
+Access to the presentation [IA génératives, comprendre et guider les usages en classe](Documents/ai4t-viniacourt-bodin-ia-generatives-quelques-experiences-pedagogiques.pdf){:target=‘_blank’}.
 
 ### Webinar Summary 
 A summary document containing all the presentations, supplemented by links and references proposed by the moderators or in response to topics during the sequence.
 
-Access to the  [Webinar Summary](Documents/Webinaire-Integrer-des-outils-IA-en-classe-synthese-VF.pdf){:target="_blank"}.
+Access to the  [Webinar Summary](Documents/Webinaire-IA-generatives-comprendre-et-guider-les-usages-en-classe.pdf){:target="_blank"}.
