@@ -16,4 +16,4 @@ Access to the presentation [IA génératives, comprendre et guider les usages en
 ### Webinar Summary 
 A summary document containing all the presentations, supplemented by links and references proposed by the moderators or in response to topics during the sequence.
 
-Access to the  [Webinar Summary](Documents/Webinaire-IA-generatives-comprendre-et-guider-les-usages-en-classe.pdf){:target="_blank"}.
+Access to the  [Webinar Summary](Documents/ai4t-webinaire-IA-generatives-comprendre-et-utiliser-en-classe-synthese.pdf){:target="_blank"}.
