@@ -16,4 +16,4 @@ Accès à la présentation [IA génératives, quelques expériences pédagogique
 ### Synthèse du webinaire
 Un document de synthèse reprenant l'ensemble des présentations, complétées par des liens et référénces proposés par les animateurs ou en réponses à des sujets évoqués au cours du webinaire a été créé.
 
-Accès au [document de synthèse](Documents/Webinaire-IA-generatives-comprendre-et-guider-les-usages-en-classe.pdf){:target="_blank"}.
+Accès au [document de synthèse](Documents/ai4t-webinaire-IA-generatives-comprendre-et-utiliser-en-classe-synthese.pdf){:target="_blank"}.
