@@ -8,7 +8,7 @@ description: Access to the presentations
 All the presentations (in French) used during the webinar are available here:
 
 ### AI - Promises and limits by Nicolas ROUGIER
-Access to the presentation [AI - Promises and Limits](Documents/ai4t-nicolas-rougier-ia-promesses-and-limits.pdf){:target=‘_blank’}
+Access to the presentation [AI - Promises and Limits](Documents/ai4t-nicolas-rougier-ia-promesses-et-limites.pdf){:target=‘_blank’}
 
 ### Generative AI, understanding and guiding its use in the classroom by Guillaume VINIACOURT and Franck BODIN 
 Access to the presentation [IA génératives, comprendre et guider les usages en classe](Documents/ai4t-viniacourt-bodin-ia-generatives-quelques-experiences-pedagogiques.pdf){:target=‘_blank’}.
