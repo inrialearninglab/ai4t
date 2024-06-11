@@ -15,14 +15,17 @@ description: ChatGPT videos and resources (French + English)
 - Thomas, Carta - Flowers - Inria
 - Pierre-Yves, Oudeyer - Flowers - Inria
 - Licence: CC BY 4.0
-- Date: 2023-10-02
+- Date: 2024-05-21
 ---
 
 Derrière ChatGPT et les très nombreux débats qui l'accompagnent, il y a le questionnement fondamental sur les enjeux des IA génératives. Notamment en raison des nombreuses implications de ces dernières en éducation.
 
 ## 1 - Comprendre ce qu'est ChatGPT
 
-Afin de comprendre un peu mieux ce que sont ces modèles de langages, l’équipe pédagogique d’AI4T vous propose une série de vidéos réalisée par Alexandre Torres-Leguet, Clément Romac, Thomas Carta, Pierre-Yves Oudeyer, dans l'équipe Flowers d'Inria. Elle est distribuée sous licence Creative Commons CC-BY.
+Afin de comprendre un peu mieux ce que sont ces modèles de langages, l’équipe pédagogique d’AI4T vous propose une série de vidéos réalisée par 
+l’équipe Flowers du Centre Inria de l'université de Bordeaux. Flowers réalise des recherches scientifiques dans le domaine de l’Intelligence Artificielle développementale. En particulier, elle s’intéresse à la modélisation informatique des mécanismes d’apprentissage humain, et aux rôle de la curiosité et du langage dans le développement cognitif. Elle étudie aussi les propriétés des grands modèles de langage (ChatGPT, Mistral, etc), et développe des méthodes leur permettant d’être mieux ancrés dans le monde réel.
+
+L’équipe étudie également des applications de ces travaux dans le domaine des technologies éducatives, ainsi que pour aider les scientifiques (physiciens, biologistes, etc) à explorer et à mieux comprendre de nouveaux systèmes (matériaux, réactions chimiques auto-organisées, etc).
 
 ### Episode#1 : Comment fonctionnent les modèles de langage ?
 
@@ -47,7 +50,7 @@ Synopsis : Les modèles de langage, comme ChatGPT ou Bard, on montré des capaci
 
 ### Episode#4 : Les forces des modèles de langage
 
-**"Les forces des modèles de langage"**
+**" Les forces des modèles de langage "**
 Synopsis : Cette vidéo présente les principales forces des modèles de langage tels que ChatGPT ou Bard. En dépit de certaines faiblesses, ils possèdent également un grand nombre de forces telles que :
 - leur capacité à analyser un contexte donné pour fournir une réponse adaptée à une tâche,
 - leur utilisation d'outils externes (par exemple Wikipedia),
@@ -60,7 +63,7 @@ Synopsis : Cette vidéo présente les principales forces des modèles de langage
 
 ### Episode#5 : prompting avancé et raisonnement
 
-**Prompting avancé et raisonnement**
+**" Prompting avancé et raisonnement "**
 Synopsis : Cette vidéo présente comment les modèles de langage comme ChatGPT ou Bard sont capable de tenir des raisonnements simples pour résoudre un problème donné.
 Cependant, il est parfois nécessaire d'avoir recours à différentes techniques de **prompting avancé** pour les aider à organiser de tels raisonnements.
 Quelques unes de ces techniques (par exemple les chaînes de pensées) sont présentée ici; puis est discutée l'origine et les limites de ces capacités à raisonner.
@@ -69,14 +72,23 @@ Quelques unes de ces techniques (par exemple les chaînes de pensées) sont pré
 
 ### Episode#6 : Les applications des modèles de langage
 
-**Les applications des modèles de langage**
+**" Les applications des modèles de langage "**
 Synopsis : Les modèles de langage comme ChatGPT ou Bard sont de plus en plus puissants et tendent à être utilisés dans de plus en plus de domaines. Dans cette vidéo, nous vous proposons d’étudier les applications possibles de ces outils dans des domaines comme le travail, la santé, **l’éducation** ou encore la préservation de langues.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/E2hPk3adUlI?si=Jv6WjNgi99a9eIA-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
+### Episode#7 : Modèles de langage et outils
+
+**" Modèles de langage et outils" **
+Synopsis : Les modèles de langage comme ChatGPT ou Gemini sont capables de réaliser une grande diversité de tâches pour répondre aux besoins de leur utilisateur. Afin de tirer une meilleure partie de leurs compétences, on peut leur faire manipuler des outils lors de la rédaction de leur réponse.
+
+<center><iframe width="560" height="315" src="https://youtu.be/gUn79szTWw0?si=9JuGJZCIzJkVqm-G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 
-L'ensemble de ces vidéos réalisées par l'équipe Inria - Flowers -  sont également accessibles et téléchargeables sur le site [ChatGPT expliqué en 5 minutes](http://developmentalsystems.org/chatgpt_en_5_minutes/){:target="_blank"}. Le site et ses ressources sont progressivement rendus disponibles en anglais. 
+Cette série vidéo est en licence Creative Commons CC-BY. Les vidéos peuvent être réutilisées librement par tout le monde et pour des usages variés: dans ce cas, merci d’inclure la citation et le lien suivants:
+Torres-Leguet, A., Romac, C., Carta, T., Oudeyer, P-Y. (2023) ChatGPT en 5mn: une série pédagogique pour le grand public, CC-BY, [https://developmentalsystems.org/chatgpt_5_minutes/fr/](https://developmentalsystems.org/chatgpt_5_minutes/fr/) 
+
+
 
 ## 2 - Usages possibles en Éducation
 Deux publications du Ministère de l’éducation nationale et du Pôle d’expertise de la régulation numérique qui se complètent et permettent d'aller un peu plus loin dans la découverte des usages possibles en éducation de modèles de langage (1) et des technologies d'IA (2) qui les sous-tendent.
