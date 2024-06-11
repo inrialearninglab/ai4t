@@ -16,7 +16,7 @@ description: ChatGPT videos and resources (French + English)
 - Pierre-Yves, Oudeyer - Flowers - Inria
 - Licence: CC BY 4.0
 - Date: 2024-05-21
----
+
 
 Derrière ChatGPT et les très nombreux débats qui l'accompagnent, il y a le questionnement fondamental sur les enjeux des IA génératives. Notamment en raison des nombreuses implications de ces dernières en éducation.
 
