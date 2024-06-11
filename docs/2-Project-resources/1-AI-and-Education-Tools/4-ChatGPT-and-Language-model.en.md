@@ -59,7 +59,7 @@ Synopsis: This video presents the main strengths of language models such as Chat
 
 ### Episode#5 : advanced prompting and reasoning
 
-**" Advanced prompting and reasoning "**(in French - English version soon available)
+**« Advanced prompting and reasoning »**(in French - English version soon available)
 Synopsis : This video shows how language models such as ChatGPT or Bard are able to hold simple reasonings to solve a given problem.
 However, it is sometimes necessary to use various **advanced prompts** techniques to help them organise such reasoning.
 Some of these techniques (e.g. thought chains) are presented here; then the origin and limits of these reasoning abilities are discussed.
@@ -68,14 +68,14 @@ Some of these techniques (e.g. thought chains) are presented here; then the orig
 
 ### Episode#6 : Language model applications  
 
-**" Language model applications" ** (in French)
+**« Language model applications »** (in French)
 Synopsis : Language models such as ChatGPT or Bard are becoming increasingly powerful and are being used in more and more areas. In this video, we look at the possible applications of these tools in areas such as work, health, **education** and language preservation.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/E2hPk3adUlI?si=Jv6WjNgi99a9eIA-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 ### Episode#7 : Language model and tools
 
-**" Language model and tools "** (in French)
+**« Language model and tools »** (in French)
 Synopsis : Language models such as ChatGPT or Gemini are capable of performing a wide variety of tasks to meet their user's needs. To make the most of their skills, they can be made to manipulate tools when writing their response.
 
 <center><iframe width="560" height="315" src="https://youtu.be/gUn79szTWw0?si=4sHL8P4ke628T0vm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
