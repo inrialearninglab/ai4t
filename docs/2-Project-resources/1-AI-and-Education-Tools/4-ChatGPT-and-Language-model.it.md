@@ -7,11 +7,14 @@ Behind ChatGPT and the many debates that have accompanied it, there is the funda
 
 ## 1 - Understanding ChatGPT
 
-To give you a better idea of what these language models are, the AI4T pedagogical team has put together a series of videos by Alexandre Torres-Leguet, Clément Romac, Thomas Carta and Pierre-Yves Oudeyer, members of Inria's Flowers team. It is distributed under Creative Commons CC-BY license.
+To give you a better idea of what these language models are, The AI4T team wante dto share with you  the work of the Flowers team (Inria Centre at the University of Bordeaux) which carries out scientific research in the field of developmental artificial intelligence. In particular, it is interested in computer modelling of human learning mechanisms, and the role of curiosity and language in cognitive development. It is also studying the properties of the major language models (ChatGPT, Mistral, etc), and developing methods that will enable them to be better anchored in the real world.
+
+The team is also studying applications of this work in the field of educational technologies, as well as to help scientists (physicists, biologists, etc.) explore and better understand new systems (materials, self-organising chemical reactions, etc.).
+
 
 ### Episode#1: How do language models work?
 
-**« How does ChatGPT work? An overview in less than 5 minutes»** (in English)
+**« How does ChatGPT work? An overview in less than 5 minutes »** (in English)
 Synopsis: This video is an introduction to large language models which are the basis for tools like ChatGPT or Bard. They are intended for the general public (for instance students and professors in middle and high school, and more generally anyone not accustomed to computer science or AI).
 This is a 5-minute overview answering these questions:
 - How are these models "trained"?
@@ -26,9 +29,8 @@ It's aimed at a wide audience, including students and teachers in secondary scho
 
 ### Episode#2: How to get a language model to perform a task?
 
-**« Prompting, or the art of making yourself understood by ChatGPT: Explained in 5 minutes.»** (in French - English version soon available)
-Synopsis: 
-Language Models, such as ChatGPT or Bard, have demonstrated impressive capabilities for a wide range of tasks. However, they also have numerous limitations and weaknesses! In this video, we explain the main ones:
+**« Prompting, or the art of making yourself understood by ChatGPT: Explained in 5 minutes »** (in English)
+Synopsis: Language Models, such as ChatGPT or Bard, have demonstrated impressive capabilities for a wide range of tasks. However, they also have numerous limitations and weaknesses! In this video, we explain the main ones:
 - Language Models are trained on data of varying quality and origin. The selection of this data is often not precisely controlled.
 - This data, and thus the Language Models, can contain "biases", meaning an automatic way of thinking that is not based on reasoning or facts. These biases can be unfair and reinforce stereotypes. If these biases are not controlled, they will be reflected in the output and usage of these models.
 ...
@@ -37,7 +39,7 @@ Language Models, such as ChatGPT or Bard, have demonstrated impressive capabilit
 
 ### Episode#3: Limits and weaknesses of language models
 
-**« What are the limits of ChatGPT? Explained in 5 minutes»** (in French)
+**« What are the limits of ChatGPT? Explained in 5 minutes »** (in English)
 Synopsis: Language models such as ChatGPT or Bard have shown impressive capabilities for a wide variety of tasks. However, they also have many limitations and weaknesses!
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/xXHWTC4mJBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
@@ -57,7 +59,7 @@ Synopsis: This video presents the main strengths of language models such as Chat
 
 ### Episode#5 : advanced prompting and reasoning
 
-**"Advanced prompting and reasoning"**(in French - English version soon available)
+**« Advanced prompting and reasoning »**(in French - English version soon available)
 Synopsis : This video shows how language models such as ChatGPT or Bard are able to hold simple reasonings to solve a given problem.
 However, it is sometimes necessary to use various **advanced prompts** techniques to help them organise such reasoning.
 Some of these techniques (e.g. thought chains) are presented here; then the origin and limits of these reasoning abilities are discussed.
@@ -66,12 +68,22 @@ Some of these techniques (e.g. thought chains) are presented here; then the orig
 
 ### Episode#6 : Language model applications  
 
-**Language model applications** (in French)
+**« Language model applications »** (in French)
 Synopsis : Language models such as ChatGPT or Bard are becoming increasingly powerful and are being used in more and more areas. In this video, we look at the possible applications of these tools in areas such as work, health, **education** and language preservation.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/E2hPk3adUlI?si=Jv6WjNgi99a9eIA-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
-All the videos produced by Inria's Flowers team can also be accessed and downloaded from [ChatGPT in 5 minutes](http://developmentalsystems.org/chatgpt_en_5_minutes/){:target="_blank"}.The site is gradually being made available in English.
+### Episode#7 : Language model and tools
+
+**« Language model and tools »** (in French)
+Synopsis : Language models such as ChatGPT or Gemini are capable of performing a wide variety of tasks to meet their user's needs. To make the most of their skills, they can be made to manipulate tools when writing their response.
+
+<center><iframe width="560" height="315" src="https://youtu.be/gUn79szTWw0?si=4sHL8P4ke628T0vm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+
+### Licence and citation 
+This video series has a Creative Commons CC-BY licence. Videos can be reused freely by everyone and for diverse uses: in that case, thanks a lot to include the following citation and link:
+**Torres-Leguet, A., Romac, C., Carta, T., Oudeyer, P-Y. (2023) ChatGPT in 5 minutes: an educational series for the general public, CC-BY,
+[https://developmentalsystems.org/chatgpt_5_minutes/en/](https://developmentalsystems.org/chatgpt_5_minutes/en/)**
 
 ## 2 - Possible uses in education
 Two French publications from the French Ministry of Education and the Pôle d'Expertise de la Régulation Numérique complement each other and take us a step further in discovering the possible uses in education of language models (1) and the AI technologies (2) that underpin them.
