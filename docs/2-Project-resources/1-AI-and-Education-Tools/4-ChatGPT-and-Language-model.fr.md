@@ -1,12 +1,8 @@
 ---
-title: ChatGPT et modèle de langage
-description: Vidéos et ressources pour décrypter ChatGPT (France)- cf. module 3 partie 3
-contributor:    Alexandre, Torres-Leguet - Flowers - Inria
-Clément, Romac - Flowers - Inria
-Thomas, Carta - Flowers - Inria
-Pierre-Yves, Oudeyer - Flowers - Inria
-type: video
+title: ChatGPT and Language Models
+description: ChatGPT videos and resources (French + English)
 ---
+
 ??? info "Metadata"
 - Id: EU.AI4T.O1.M3.3.2t
 - Title: ChatGPT et modèle de langage
