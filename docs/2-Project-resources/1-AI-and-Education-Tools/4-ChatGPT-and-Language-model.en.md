@@ -73,16 +73,17 @@ Synopsis : Language models such as ChatGPT or Bard are becoming increasingly pow
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/E2hPk3adUlI?si=Jv6WjNgi99a9eIA-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
-### Episode#7 : Language model applications  
+### Episode#7 : Language model and tools
 
-**" Language model applications" ** (in French)
+**" Language model and tools "** (in French)
 Synopsis : Language models such as ChatGPT or Gemini are capable of performing a wide variety of tasks to meet their user's needs. To make the most of their skills, they can be made to manipulate tools when writing their response.
 
 <center><iframe width="560" height="315" src="https://youtu.be/gUn79szTWw0?si=4sHL8P4ke628T0vm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
+### Licence and citation 
 This video series has a Creative Commons CC-BY licence. Videos can be reused freely by everyone and for diverse uses: in that case, thanks a lot to include the following citation and link:
-*Torres-Leguet, A., Romac, C., Carta, T., Oudeyer, P-Y. (2023) ChatGPT in 5 minutes: an educational series for the general public, CC-BY,
-[https://developmentalsystems.org/chatgpt_5_minutes/en/](https://developmentalsystems.org/chatgpt_5_minutes/en/)*
+**Torres-Leguet, A., Romac, C., Carta, T., Oudeyer, P-Y. (2023) ChatGPT in 5 minutes: an educational series for the general public, CC-BY,
+[https://developmentalsystems.org/chatgpt_5_minutes/en/](https://developmentalsystems.org/chatgpt_5_minutes/en/)**
 
 ## 2 - Possible uses in education
 Two French publications from the French Ministry of Education and the Pôle d'Expertise de la Régulation Numérique complement each other and take us a step further in discovering the possible uses in education of language models (1) and the AI technologies (2) that underpin them.
