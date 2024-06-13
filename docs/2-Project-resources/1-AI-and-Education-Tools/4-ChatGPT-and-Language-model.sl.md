@@ -79,7 +79,7 @@ Synopsis : Language models such as ChatGPT or Bard are becoming increasingly pow
 **« Language model and tools »** (in French)
 Synopsis : Language models such as ChatGPT or Gemini are capable of performing a wide variety of tasks to meet their user's needs. To make the most of their skills, they can be made to manipulate tools when writing their response.
 
-<center><iframe width="560" height="315" src="https://youtu.be/gUn79szTWw0?si=4sHL8P4ke628T0vm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://youtu.be/embed/gUn79szTWw0?si=4sHL8P4ke628T0vm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 ### Licence and citation 
 This video series has a Creative Commons CC-BY licence. Videos can be reused freely by everyone and for diverse uses: in that case, thanks a lot to include the following citation and link:
