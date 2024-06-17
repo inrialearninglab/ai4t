@@ -82,7 +82,7 @@ Synopsis : Les modèles de langage comme ChatGPT ou Bard sont de plus en plus pu
 **" Faire manipuler des outils à ChatGPT "**
 Synopsis : Les modèles de langage comme ChatGPT ou Gemini sont capables de réaliser une grande diversité de tâches pour répondre aux besoins de leur utilisateur. Afin de tirer une meilleure partie de leurs compétences, on peut leur faire manipuler des outils lors de la rédaction de leur réponse.
 
-<center><iframe width="560" height="315" src="https://youtu.be/embed/gUn79szTWw0?si=9JuGJZCIzJkVqm-G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/gUn79szTWw0?si=Aj48UR4Qyn28x0nT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 
 Cette série vidéo est en licence Creative Commons CC-BY. Les vidéos peuvent être réutilisées librement par tout le monde et pour des usages variés: dans ce cas, merci d’inclure la citation et le lien suivants:
