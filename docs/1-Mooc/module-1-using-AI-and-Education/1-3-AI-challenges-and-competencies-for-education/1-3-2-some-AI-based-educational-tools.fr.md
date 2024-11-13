@@ -49,7 +49,7 @@ Pour découvrir d'autres ressources basées sur l'IA, vous pouvez visiter le sit
 Les outils basés sur l'IA comme ceux mentionnés ci-dessus sont au cœur de l'IA en éducation. Un modèle permettant d'analyser les caractéristiques de ces outils au niveau scientifique, technique, réglementaire et éthique, sera proposé plus loin dans cette formation. L'objectif est de donner aux enseignants une
 meilleure compréhension des ressources qu'ils utilisent ou que leurs élèves utilisent.
 
-[^1]: [European Schoolnet. "Artificial Intelligence Role in K12 Education: Agile Collection of Information"](http://resetedu.eu/wp-content/uploads/2021/11/4.-LIDIJA-KRALJ-Group-Discussion.pdf){:target="_blank"}, 2021, Brussels, Belgium.
+[^1]: [European Schoolnet. "Artificial Intelligence Role in K12 Education: Agile Collection of Information"](http://www.eun.org/documents/411753/7316225/Artificial+Intelligence+Role+in+K12+Education+Report/0b9f5e20-62f7-4966-a58e-fdacc9199248){:target="_blank"}, 2021, Brussels, Belgium.
 
 [^2]:[Partenariat d'innovation IA](https://eduscol.education.fr/1911/partenariat-d-innovation-et-intelligence-artificielle-p2ia){:target="_blank"}
 

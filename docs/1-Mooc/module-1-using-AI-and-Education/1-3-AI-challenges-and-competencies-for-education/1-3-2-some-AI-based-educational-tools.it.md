@@ -49,6 +49,6 @@ Gli strumenti basati sull'intelligenza artificiale, come quelli sopra citati, so
 scientifiche, tecniche, normative ed etiche, sarà proposto più avanti in questa formazione. L'obiettivo è quello di fornire agli insegnanti una
 una migliore comprensione delle risorse che utilizzano o che utilizzano i loro studenti.
 
-[^1]: [European Schoolnet. "Artificial Intelligence Role in K12 Education: Agile Collection of Information"](http://resetedu.eu/wp-content/uploads/2021/11/4.-LIDIJA-KRALJ-Group-Discussion.pdf), 2021, Brussels, Belgium.
+[^1]: [European Schoolnet. "Artificial Intelligence Role in K12 Education: Agile Collection of Information"](http://www.eun.org/documents/411753/7316225/Artificial+Intelligence+Role+in+K12+Education+Report/0b9f5e20-62f7-4966-a58e-fdacc9199248), 2021, Brussels, Belgium.
 
 [^2]: [Various initiatives on AI in education](https://cartographieia.ca/en)

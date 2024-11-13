@@ -49,6 +49,6 @@ KI-basierte Tools wie die oben genannten sind das Herzstück von KI in der Bildu
 auf wissenschaftlicher, technischer, regulatorischer und ethischer Ebene zu analysieren, wird im weiteren Verlauf dieser Fortbildung vorgeschlagen. Ziel ist es, den LehrerInnen ein
 ein besseres Verständnis für die Ressourcen zu vermitteln, die sie oder ihre SchülerInnen nutzen.
 
-[^1]: [European Schoolnet. "Artificial Intelligence Role in K12 Education: Agile Collection of Information"](http://resetedu.eu/wp-content/uploads/2021/11/4.-LIDIJA-KRALJ-Group-Discussion.pdf), 2021, Brussels, Belgium.
+[^1]: [European Schoolnet. "Artificial Intelligence Role in K12 Education: Agile Collection of Information"](http://www.eun.org/documents/411753/7316225/Artificial+Intelligence+Role+in+K12+Education+Report/0b9f5e20-62f7-4966-a58e-fdacc9199248), 2021, Brussels, Belgium.
 
 [^2]: [Various initiatives on AI in education](https://cartographieia.ca/en)

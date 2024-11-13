@@ -47,6 +47,6 @@ To discover other AI-based resources, you can visit the website of The Internati
 ## How to find your way through the multitude of educational resources on offer?
 AI-based tools like those mentioned above are at the core of AI in Education. A template to analyse the characteristics of these tools at the scientific, technical, regulatory, and ethical levels, will be proposed later in this training. The objective is to give teachers a better understanding of the resources they use or that their students use.
 
-[^1]: [European Schoolnet. "Artificial Intelligence Role in K12 Education: Agile Collection of Information"](http://resetedu.eu/wp-content/uploads/2021/11/4.-LIDIJA-KRALJ-Group-Discussion.pdf), 2021, Brussels, Belgium.
+[^1]: [European Schoolnet. "Artificial Intelligence Role in K12 Education: Agile Collection of Information"](http://www.eun.org/documents/411753/7316225/Artificial+Intelligence+Role+in+K12+Education+Report/0b9f5e20-62f7-4966-a58e-fdacc9199248), 2021, Brussels, Belgium.
 
 [^2]: [Research theme on AI, education and learning](https://observatoire-ia.ulaval.ca/en/axis/education-and-empowerment/)
