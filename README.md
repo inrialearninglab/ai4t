@@ -101,6 +101,14 @@ In a terminal :
 
 1. Clone this repository `git clone https://github.com/inrialearninglab/ai4t.git`
 2. Change directory `cd ai4t`
-3. Run the local server : `mkdocs serve`
+3. Run the local server : 
+```shell 
+mkdocs serve --watch theme
+```
 
 After a few seconds, the website should be available at : http://localhost:8000
+
+### Launch virtual environment
+```shell
+source .venv/bin/activate
+```
