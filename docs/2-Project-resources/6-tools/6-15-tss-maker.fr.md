@@ -1,24 +1,26 @@
 ---
-title: Vidnoz
+title: TTS Maker
 description: Accès aux présentations 
 ---
-**Description :**
 
-Vidnoz simplifie la création de vidéos interactives en générant automatiquement des avatars qui parlent grâce à une IA vocale.
+## Description :
 
-**Fonctionnalités :**
+TTSMaker est une plateforme gratuite qui transforme un texte écrit en audio grâce à une synthèse vocale IA. Il prend en charge plusieurs langues et différentes voix.
 
-	Création d’avatars animés : Possibilité de faire parler des personnages numériques avec des voix IA
-	Génération rapide de vidéos : Interface intuitive pour produire des vidéos en quelques minutes
-	Personnalisation : Ajustement des expressions faciales et du ton de voix
+## Fonctionnalités principales :
 
-**Exemple d’utilisation :**
+	Synthèse vocale multilingue : Possibilité de générer des voix dans plusieurs langues et accents.
 
-Un enseignant crée une vidéo interactive où un avatar explique les principes de la physique à ses élèves.
+	Paramétrage des voix : Choix entre différentes tonalités et vitesses de lecture pour s’adapter aux besoins pédagogiques.
 
-**Conseils pratiques :**
+	Téléchargement des fichiers audio : Exportation des voix générées sous différents formats audio pour une réutilisation facile.
 
-✅ Adapter les avatars pour qu’ils correspondent au public cible.
+## Exemple d’utilisation :
 
-✅ Vérifier la synchronisation entre la voix et les animations pour un rendu naturel.
+Un enseignant de langues utilise TTSMaker pour générer des fichiers audio avec différentes voix et accents afin d’entraîner ses élèves à la compréhension orale.
 
+## Conseils pratiques :
+
+✅  Tester plusieurs voix et ajuster la vitesse pour obtenir un rendu naturel.
+
+✅  Vérifier la prononciation pour éviter d’éventuelles erreurs d’intonation.

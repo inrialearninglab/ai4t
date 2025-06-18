@@ -3,10 +3,10 @@ title: Teachable machine
 description: 
 ---
 
-**Description :**
+## Description :
 Teachable Machine est un outil développé par Google qui permet d'entraîner des modèles d’intelligence artificielle (IA) de manière intuitive et sans besoin de coder ni de créer un compte. Il utilise l’apprentissage automatique pour reconnaître des images, des sons ou des poses corporelles.
 
-**Fonctionnalités :**
+## Fonctionnalités :
 
 ·	Reconnaissance d’images : Entraînez un modèle à identifier des objets, des expressions faciales ou des dessins.
 
@@ -16,7 +16,7 @@ Teachable Machine est un outil développé par Google qui permet d'entraîner de
 
 ·	Utilisation immédiate : Aucun besoin de programmation, il suffit d'ajouter des exemples et d’entraîner le modèle.
 
-**Utilisation en classe :**
+## Utilisation en classe :
 
 Teachable Machine peut être utilisé pour :
 
@@ -28,11 +28,11 @@ Teachable Machine peut être utilisé pour :
 
 ·	Stimuler l’apprentissage du code et du numérique en combinant Teachable Machine avec d’autres plateformes comme Scratch ou P5.js.
 
-**Exemple d’utilisation pédagogique :**
+## Exemple d’utilisation pédagogique :
 
 Un enseignant de sciences demande aux élèves d'entraîner un modèle pour reconnaître différentes espèces de plantes à partir de photos prises lors d’une sortie scolaire. L’IA apprend à différencier les feuilles, et les élèves découvrent comment fonctionne la classification automatique.
 
-**Conseils pratiques : **
+## Conseils pratiques : 
 
 ✅  Utiliser des exemples variés pour éviter les biais dans l’IA.
 

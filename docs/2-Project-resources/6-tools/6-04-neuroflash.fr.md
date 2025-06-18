@@ -3,11 +3,11 @@ title: Neuroflash
 
 description: 
 ---
-**Description :**
+## Description :
 
 Neuroflash est une plateforme d'intelligence artificielle qui aide à générer du contenu écrit adapté aux besoins éducatifs, que ce soit pour des articles, des publications sur les réseaux sociaux ou des supports pédagogiques. Elle permet de créer du texte de qualité, optimisé et personnalisé en fonction des besoins de l'enseignant ou de l'établissement.
 
-**Fonctionnalités :**
+## Fonctionnalités :
 
 - Générateur de texte IA : Crée instantanément des articles, des résumés ou des publications pour les réseaux sociaux, adaptés aux thèmes éducatifs (actualités scolaires, événements pédagogiques, etc.).
 
@@ -15,11 +15,11 @@ Neuroflash est une plateforme d'intelligence artificielle qui aide à générer 
 
 - ImageFlash : Génère des visuels libres de droits pour accompagner les publications ou les projets pédagogiques sur les réseaux sociaux (par exemple, des infographies ou des illustrations pour des contenus de cours).
 
-**Exemple d’utilisation :**
+## Exemple d’utilisation :
 
 Un enseignant utilise Neuroflash pour créer un post annonçant un événement scolaire à partager sur Cartable. Il génère le texte de la publication en quelques minutes, en utilisant un ton adapté à son public (parents, élèves, communauté scolaire). Ensuite, il génère une image personnalisée pour accompagner le post.
 
-**Conseils pratiques :**
+## Conseils pratiques :
 
 ✅ Vérification du contenu : Bien que l'IA génère des contenus de qualité, il est essentiel de vérifier les informations et d'ajuster les textes générés pour garantir leur adéquation avec les objectifs pédagogiques ou les valeurs de l'établissement.
 

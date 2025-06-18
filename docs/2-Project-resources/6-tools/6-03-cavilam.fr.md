@@ -2,11 +2,11 @@
 title: CAVILAM Utiliser l’Intelligence Artificielle en Classe
 description: 
 ---
-**Description :**
+## Description :
 
 La série d’épisodes proposée par le CAVILAM – Alliance Française guide les enseignants de français et de langues étrangères dans l’utilisation de l’intelligence artificielle (IA) en classe. Les ressources sont disponibles en PDF pour aider à intégrer l’IA de manière pratique et pédagogique.
 
-**Les différentes parties :**
+## Les différentes parties :
 
 Épisode 1 : Introduction à l'IA pour l'enseignement.
 
@@ -20,6 +20,6 @@ La série d’épisodes proposée par le CAVILAM – Alliance Française guide l
 
 Épisode 6 : Favoriser l'autonomie des apprenants grâce à l'IA.
 
-**Exemple d’utilisation :**
+## Exemple d’utilisation :
 
 Un professeur peut se former avec pour être plus efficace ou s’en servir pour apprendre à ses élèves certaines compétences (ex : prompter).

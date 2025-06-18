@@ -2,11 +2,11 @@
 title: Pika
 description: 
 ---
-**Description :**
+## Description :
 
 Pika est une plateforme d'IA qui permet de créer des vidéos interactives et des contenus visuels de manière automatisée à partir de simples textes ou prompts.
 
-**Fonctionnalités principales :**
+## Fonctionnalités principales :
 
 ·	Création automatique de vidéos : Générez des vidéos à partir de textes, avec l’ajout de visuels, animations et narration intégrés.
 
@@ -18,11 +18,11 @@ Pika est une plateforme d'IA qui permet de créer des vidéos interactives et de
 
 ·	Sous-titres et voix-off intégrés : Créez des vidéos accessibles grâce à des sous-titres automatiques et des narrations générées par IA.
 
-**Exemple d’utilisation en classe :**
+## Exemple d’utilisation en classe :
 
 Un professeur de géographie utilise Pika pour créer une vidéo interactive expliquant les différents types de climats. La vidéo comprend des cartes animées, des transitions dynamiques et des voix-off qui décrivent chaque type de climat. Elle est partagée avec les élèves pour faciliter leur révision avant le contrôle.
 
-**Conseils pratiques :**
+## Conseils pratiques :
 
 ✅  Exploitez les animations dynamiques pour rendre les concepts plus visuels et aider les élèves à mieux retenir l’information.
 

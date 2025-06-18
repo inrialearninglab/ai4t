@@ -3,11 +3,11 @@ title: Mizou - Assistant de grammaire intelligent
 description: 
 ---
 
-**Description :**
+## Description :
 
 Mizou est une plateforme éducative utilisant l’intelligence artificielle pour aider les élèves à améliorer leur maîtrise de la grammaire et des structures linguistiques.
 
-**Fonctionnalités principales :**
+## Fonctionnalités principales :
 
 ·	Aide à la correction grammaticale : Mizou détecte et corrige automatiquement les erreurs grammaticales dans les textes rédigés par les élèves.
 
@@ -19,11 +19,11 @@ Mizou est une plateforme éducative utilisant l’intelligence artificielle pour
 
 ·	Interface intuitive : L'interface est simple et facile à utiliser, ce qui permet aux élèves de se concentrer pleinement sur l'apprentissage sans être distraits par des fonctionnalités complexes.
 
-**Exemple d’utilisation en classe :**
+## Exemple d’utilisation en classe :
 
 Un professeur de français utilise Mizou comme assistant de grammaire pour ses élèves. Chaque semaine, les élèves doivent rédiger une composition à la maison. Une fois leur texte rédigé, ils le soumettent à Mizou pour correction. L’outil fournit des explications sur les erreurs grammaticales, permettant aux élèves de comprendre pourquoi une certaine structure est incorrecte et de recevoir des suggestions sur la manière de la corriger.
 
-**Conseils pratiques :**
+## Conseils pratiques :
 
 ✅ Utiliser pour les devoirs à la maison : Demandez aux élèves de soumettre leurs devoirs à Mizou avant de les remettre en classe. Cela leur permettra de s'auto-corriger et d'améliorer leur compréhension des règles grammaticales.
 
