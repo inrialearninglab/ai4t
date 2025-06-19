@@ -2,32 +2,26 @@
 title: Utilisation de l’IA pour une pédagogie inclusive
 description: Accès aux présentations 
 ---
+# Lalilo
 
-##  Adapter les cours avec la Conception Universelle des Apprentissages (CUA)
+## Description
 
-🛠 Principe : L’IA peut reformuler les contenus pédagogiques en respectant les principes de la CUA, en diversifiant les supports et les modalités d’apprentissage.
+Lalilo est une intelligence artificielle éducative qui  facilite la différenciation pédagogique en adaptant automatiquement les  exercices et contenus aux besoins spécifiques des élèves.
 
-✅ Exemple d’application : Un enseignant peut utiliser un assistant IA (ex. ChatGPT, Magic School AI) pour générer des explications adaptées aux styles d’apprentissage variés (texte simplifié, résumé audio, infographie, etc.).
- 
-## Faciliter la compréhension avec le Facile à Lire et à Comprendre (FALC)
+## Fonctionnalités
 
-🛠 Principe : Le langage FALC simplifie la structure et le vocabulaire des textes afin de les rendre accessibles aux élèves en difficulté de lecture ou en situation de handicap cognitif.
+- Adaptation automatique des exercices : Ajuste la difficulté et le contenu en fonction du niveau de chaque élève.
+- Explications interactives : Fournit des explications adaptées lorsque l’élève se trompe. 
+- Soutien à l’apprentissage : Accompagne les élèves en difficulté avec des aides progressives. 
+- Suivi en temps réel : Analyse les performances et propose des recommandations pédagogiques. 
+- Personnalisation des parcours : Permet aux enseignants de créer des parcours d’apprentissage sur mesure.
 
-✅ Exemple d’application : Un enseignant de mathématiques peut demander à une IA de reformuler un énoncé de problème en FALC pour assurer une meilleure compréhension par tous les élèves.
+## Exemple d’utilisation
 
-##  Soutenir les élèves en situation de handicap sensoriel
+Un professeur de mathématiques utilise Lalilo pour générer automatiquement des exercices différenciés. Les élèves  avancent à leur rythme, recevant des explications adaptées à leurs  erreurs, tandis que l’enseignant suit leur progression en temps réel.
 
-🛠 Principe : Certains outils d’IA facilitent l’accessibilité pour les élèves malentendants ou malvoyants.
+## Conseils pratiques
 
-✅ Exemple d’application : Le chatbot IRIS 4 utilise l’IA pour traduire des consignes en langue des signes, permettant aux élèves sourds et malentendants d’accéder plus facilement aux explications des enseignants.
+✅ Vérifier les exercices générés pour s’assurer de leur cohérence avec le programme.
 
-## Mise en Pratique en Classe
-
-| Situation pédagogique                                      | Outil IA recommandé         | Résultat attendu                                               |
-|------------------------------------------------------------|-----------------------------|----------------------------------------------------------------|
-| Adapter un cours pour une meilleure compréhension          | ChatGPT, Magic School AI    | Contenu reformulé selon les principes CUA et FALC              |
-| Transformer un texte en version audio                      | TTSMaker, ElevenLabs        | Lecture facilitée pour les élèves dyslexiques                  |
-| Générer des sous-titres automatiques pour une vidéo pédagogique | Whisper AI                  | Accessibilité renforcée pour les élèves malentendants          |
-| Traduire un texte en langue des signes                     | IRIS 4                      | Inclusion des élèves sourds en classe                          |
-
-
+✅ Encourager les élèves à utiliser Lailo en autonomie pour renforcer leurs acquis.

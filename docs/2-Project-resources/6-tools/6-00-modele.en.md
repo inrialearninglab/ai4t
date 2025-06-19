@@ -2,7 +2,7 @@
 title: record model 
 description: blablas in english
 ---
-# Title
+
 ## Description
 
 ## Functionalities
