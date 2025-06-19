@@ -1,35 +1,35 @@
 ---
-title: Miro AI
-description: 
+title: Vidnoz AI
+description: Générer et améliorer une vidéo, une voix, une musique ou une image
 ---
 
-## Description :
+## Description
 
-Vidnoz AI est une plateforme qui utilise l'intelligence artificielle pour générer automatiquement des vidéos à partir de texte, permettant ainsi de créer du contenu vidéo de manière rapide et simple.
+Vidnoz AI est une plateforme qui permet de générer, traduire, améliorer des vidéos.
 
-## Fonctionnalités principales :
+## Fonctionnalités principales
 
-·	Génération automatique de vidéos : Convertissez rapidement vos textes en vidéos animées avec voix-off, images et musiques adaptées.
+- Génération automatique de vidéos : Conversion de textes en vidéos animées avec voix-off, images et musiques adaptées.
 
-·	Voix-off réaliste : Génération de narration avec des voix naturelles pour accompagner les vidéos.
+- Voix-off réaliste : Génération de narration avec des voix naturelles pour accompagner les vidéos.
 
-·	Bibliothèque multimédia : Accès à des images, vidéos et musiques libres de droits pour enrichir vos créations.
+- Bibliothèque multimédia : Accès à des images, vidéos et musiques libres de droits pour enrichir les créations.
 
-·	Personnalisation facile : Modifiez le style, la durée et la présentation des vidéos selon vos besoins.
+- Personnalisation facile : Modification du style, lde a durée et de la présentation des vidéos selon les besoins.
 
-·	Partage facile : Exportez et partagez les vidéos sur diverses plateformes (YouTube, réseaux sociaux, etc.).
+- Partage facile : Export et partage des vidéos créées sur diverses plateformes (YouTube, réseaux sociaux, etc.).
 
-## Utilisation en contexte éducatif :
+## Utilisation en contexte éducatif
 
--  Création de vidéos explicatives : Créez des vidéos pédagogiques sur des concepts théoriques ou des cours pratiques.-  
-- Ressources visuelles pour les élèves : Offrez des supports vidéo pour renforcer la compréhension des sujets étudiés..  
-- Faciliter l’apprentissage à distance : Utilisez les vidéos générées pour animer des cours à distance et rendre le contenu plus interactif.
+- Création de vidéos explicatives : Créer des vidéos pédagogiques sur des concepts théoriques ou des cours pratiques.   
+- Ressources visuelles pour les élèves : Créer des supports vidéo pour renforcer la compréhension des sujets étudiés.  
+- Faciliter l’apprentissage à distance : Créer les vidéos générées pour animer des cours à distance et rendre le contenu plus interactif.
 
-## Exemple d’utilisation en classe :
-Un professeur de littérature crée une vidéo sur l’analyse d’un poème célèbre, avec des images correspondant aux métaphores du poème et une voix-off expliquant chaque strophe. La vidéo est ensuite partagée avec les élèves pour les révisions du bac de français.
+## Exemple d’utilisation en classe
+Un professeur de littérature crée une vidéo sur l’analyse d’un poème avec des images correspondant aux métaphores du poème et une voix-off expliquant chaque strophe. La vidéo est ensuite partagée avec les élèves pour les révisions du bac de français.
 
-## Conseils pratiques  :
+## Conseils pratiques
 
 ✅ Utilisez les images et musiques libres de droits proposées par Vidnoz pour enrichir le contenu de vos vidéos sans problème de licence.
 
-✅  Révisez le contenu généré pour s'assurer que la narration et les visuels sont alignés avec vos attentes pédagogiques.
+✅ Révisez le contenu généré pour s'assurer que la narration et les visuels sont alignés avec vos attentes pédagogiques.

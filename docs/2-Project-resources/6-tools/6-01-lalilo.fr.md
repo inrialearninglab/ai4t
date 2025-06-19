@@ -1,6 +1,6 @@
 ---
 title: Lalilo
-description: Utilisation de l’IA pour une pédagogie inclusive 
+description: Utiliser l’IA pour une pédagogie inclusive 
 ---
 
 ## Description

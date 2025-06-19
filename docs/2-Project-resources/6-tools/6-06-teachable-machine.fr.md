@@ -1,38 +1,38 @@
 ---
 title: Teachable machine
-description: 
+description: Entraînez un ordinateur à reconnaître vos images, sons ou postures
 ---
 
-## Description :
-Teachable Machine est un outil développé par Google qui permet d'entraîner des modèles d’intelligence artificielle (IA) de manière intuitive et sans besoin de coder ni de créer un compte. Il utilise l’apprentissage automatique pour reconnaître des images, des sons ou des poses corporelles.
+## Description
+Teachable Machine est un outil Web développé par Google à partir de 2017. Il permet d'entraîner des modèles d’intelligence artificielle (IA) sans besoin de coder ni de créer un compte. Il utilise l’apprentissage automatique pour reconnaître des images, des sons ou des poses corporelles.
 
-## Fonctionnalités :
+## Fonctionnalités
 
-·	Reconnaissance d’images : Entraînez un modèle à identifier des objets, des expressions faciales ou des dessins.
+- Reconnaissance d’images : Identifie des objets, des expressions faciales ou des dessins.
 
-·	Reconnaissance de sons : Permet d’enseigner à l’IA à différencier des bruits spécifiques ou des commandes vocales.
+- Reconnaissance de sons : Différencie des bruits spécifiques ou des commandes vocales.
 
-·	Reconnaissance de poses : Analyse les mouvements du corps pour détecter différentes postures ou gestes.
+- Reconnaissance de poses : Analyse les mouvements du corps pour détecter différentes postures ou gestes.
 
-·	Utilisation immédiate : Aucun besoin de programmation, il suffit d'ajouter des exemples et d’entraîner le modèle.
+- Utilisation : Aucun besoin de programmation, il suffit d'ajouter des exemples et d’entraîner le modèle.
 
-## Utilisation en classe :
+## Utilisation en classe
 
 Teachable Machine peut être utilisé pour :
 
-·	Sensibiliser les élèves au fonctionnement de l’IA en leur permettant de créer leurs propres modèles.
+- Sensibiliser les élèves au fonctionnement de l’IA en leur permettant de créer leurs propres modèles.
 
-·	Créer des expériences interactives comme des jeux éducatifs basés sur la reconnaissance d’images ou de sons.
+- Créer des expériences interactives comme des jeux éducatifs basés sur la reconnaissance d’images ou de sons.
 
-·	Enrichir des projets scientifiques ou artistiques, par exemple en analysant des échantillons sonores ou en développant des œuvres interactives.
+- Enrichir des projets scientifiques ou artistiques, par exemple en analysant des échantillons sonores ou en développant des œuvres interactives.
 
-·	Stimuler l’apprentissage du code et du numérique en combinant Teachable Machine avec d’autres plateformes comme Scratch ou P5.js.
+- Stimuler l’apprentissage du code et du numérique en combinant Teachable Machine avec d’autres plateformes comme Scratch ou P5.js.
 
-## Exemple d’utilisation pédagogique :
+## Exemple d’utilisation pédagogique
 
 Un enseignant de sciences demande aux élèves d'entraîner un modèle pour reconnaître différentes espèces de plantes à partir de photos prises lors d’une sortie scolaire. L’IA apprend à différencier les feuilles, et les élèves découvrent comment fonctionne la classification automatique.
 
-## Conseils pratiques : 
+## Conseils pratiques
 
 ✅  Utiliser des exemples variés pour éviter les biais dans l’IA.
 
