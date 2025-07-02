@@ -1,30 +1,30 @@
 ---
 title: Pika
-description: 
+description: Générer des vidéos avec animations à partir d'un prompt, d'une image, d'une vidéo
 ---
-## Description :
 
-Pika est une plateforme d'IA qui permet de créer des vidéos interactives et des contenus visuels de manière automatisée à partir de simples textes ou prompts.
+## Description
 
-## Fonctionnalités principales :
+Pika est une plateforme web qui permet de créer des vidéos interactives et des éléments visuels animés à partir de vidéos, textes ou prompts.
 
-·	Création automatique de vidéos : Générez des vidéos à partir de textes, avec l’ajout de visuels, animations et narration intégrés.
+## Fonctionnalités principales
 
-·	Interface intuitive : Outil facile à utiliser avec un processus de création fluide pour les utilisateurs novices et expérimentés.
+- Création de vidéos : Générer des vidéos à partir de textes, avec l’ajout de visuels, animations et narration.
 
-·	Personnalisation : Modifiez la durée, le contenu et le format de vos vidéos pour les adapter à vos besoins.
+- Adaptation de vidéos : Modifier la durée, le contenu et le format de vidéos selon les besoins.
 
-·	Génération d’animations et de transitions dynamiques : Ajoutez des effets visuels et des transitions pour rendre les vidéos plus engageantes.
+- Génération d’animations et de transitions : Ajouter des effets visuels et des transitions.
 
-·	Sous-titres et voix-off intégrés : Créez des vidéos accessibles grâce à des sous-titres automatiques et des narrations générées par IA.
+- Intégration de sous-titres et voix-off : Créer des sous-titres et des narrations de vidéos.
 
-## Exemple d’utilisation en classe :
 
-Un professeur de géographie utilise Pika pour créer une vidéo interactive expliquant les différents types de climats. La vidéo comprend des cartes animées, des transitions dynamiques et des voix-off qui décrivent chaque type de climat. Elle est partagée avec les élèves pour faciliter leur révision avant le contrôle.
+## Exemple d’utilisation en classe
 
-## Conseils pratiques :
+Un professeur de géographie utilise Pika pour créer une vidéo interactive expliquant les différents types de climats. La vidéo comprend des cartes animées, des transitions dynamiques et des voix-off qui décrivent chaque type de climat. Elle est partagée avec les élèves pour faciliter leurs révisions avant le contrôle.
+
+## Conseils pratiques
 
 ✅  Exploitez les animations dynamiques pour rendre les concepts plus visuels et aider les élèves à mieux retenir l’information.
 
-✅  Révisez les vidéos générées pour vous assurer que le contenu est bien adapté à vos objectifs pédagogiques.
+✅  Vérifiez les vidéos générées pour s'assurer que le contenu est bien adapté à vos objectifs pédagogiques.
 

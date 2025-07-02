@@ -1,25 +1,25 @@
 ---
-title: TTS Maker
-description: Accès aux présentations 
+title: ElevenLabs
+description: Générer ou transcrire une voix
 ---
 
-## Description :
+## Description
 
-TTSMaker est une plateforme gratuite qui transforme un texte écrit en audio grâce à une synthèse vocale IA. Il prend en charge plusieurs langues et différentes voix.
+TTSMaker est une plateforme qui transforme un texte écrit en audio par synthèse vocale, et inversement. Plusieurs langues et différentes voix sont prises en charge.
 
-## Fonctionnalités principales :
+## Fonctionnalités principales
 
-	Synthèse vocale multilingue : Possibilité de générer des voix dans plusieurs langues et accents.
+- Synthèse vocale multilingue : Possibilité de générer des voix dans plusieurs langues.
 
-	Paramétrage des voix : Choix entre différentes tonalités et vitesses de lecture pour s’adapter aux besoins pédagogiques.
+- Transcription de podcasts ou interviews : Génération des textes dans plusieurs langues.
 
-	Téléchargement des fichiers audio : Exportation des voix générées sous différents formats audio pour une réutilisation facile.
+- Doublage et clonage de voix : Traduction et génération d'audio ou de vidéos avec une nouvelle voix.
 
-## Exemple d’utilisation :
+## Exemple d’utilisation
 
 Un enseignant de langues utilise TTSMaker pour générer des fichiers audio avec différentes voix et accents afin d’entraîner ses élèves à la compréhension orale.
 
-## Conseils pratiques :
+## Conseils pratiques
 
 ✅  Tester plusieurs voix et ajuster la vitesse pour obtenir un rendu naturel.
 
