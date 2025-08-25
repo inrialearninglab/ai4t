@@ -16,9 +16,9 @@ L’objectif de ce programme est d’introduire les élèves aux concepts fondam
 
 ## Objectifs pédagogiques :
 
-·	Apprendre à utiliser l’IA pour créer des contenus textuels et visuels adaptés à des projets professionnels.
-·	Acquérir une compréhension des enjeux éthiques liés à l’utilisation de l’IA dans le commerce et la communication.
-·	Développer des compétences pratiques en création de contenu numérique, en particulier la création d’un site internet fonctionnel via WordPress.
+-	Apprendre à utiliser l’IA pour créer des contenus textuels et visuels adaptés à des projets professionnels.
+-	Acquérir une compréhension des enjeux éthiques liés à l’utilisation de l’IA dans le commerce et la communication.
+-	Développer des compétences pratiques en création de contenu numérique, en particulier la création d’un site internet fonctionnel via WordPress.
 
 ## Mise en pratique :
 
