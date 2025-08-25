@@ -15,11 +15,6 @@ DALL-E, développé par OpenAI, est capable de créer des images et illustration
 
 ##  Exemple d’utilisation
 
-Un enseignant en arts plastiques utilise DALL-E pour illustrer des concepts abstraits et initier ses élèves à la création d’images numériques à partir de descriptions textuelles.
+Un enseignant en arts plastiques utilise DALL-E pour initier et former les élèves à l'usage de l'intlligence artificielle générative 
 
-##  Conseils pratiques
-
-✅  Expérimenter avec des descriptions détaillées pour obtenir des résultats précis. 
-
-✅  Tester différents styles et niveaux de détail pour découvrir de nouvelles approches artistiques.
-
+Lien vers l'outil : [Dall-e](https://www.dall-efree.com)

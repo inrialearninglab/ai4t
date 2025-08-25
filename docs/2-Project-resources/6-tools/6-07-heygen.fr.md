@@ -14,16 +14,12 @@ Heygen est une plateforme qui transforme un texte en une vidéo dans laquelle un
 
 - Multilingue : Possibilité de générer des vidéos dans plusieurs langues.
 
-- Personnalisation : Importation d’images ou de vidéos pour personnaliser les avatars et le contexte.
-
-- Facilité d’utilisation : Pas besoin de compétences en montage vidéo, tout se fait de manière automatisée.
-
 ## Exemple d’utilisation en classe
 
 Un professeur de français utilise Heygen pour créer une vidéo où un avatar incarne Molière et explique en première personne l’importance du théâtre au XVIIe siècle. Les élèves regardent la vidéo et débattent ensuite sur l’impact de ses œuvres.
 
 ## Conseils pratiques
 
-✅ Vérifier la prononciation et la fluidité avant de partager la vidéo.
+- Vérifier la prononciation et la fluidité avant de partager la vidéo.
 
-✅ Expérimenter avec différentes voix et avatars pour un meilleur rendu.
+Lien vers l'outil : [Heygen](https://www.heygen.com/fr)

@@ -22,9 +22,4 @@ Pika est une plateforme web qui permet de créer des vidéos interactives et des
 
 Un professeur de géographie utilise Pika pour créer une vidéo interactive expliquant les différents types de climats. La vidéo comprend des cartes animées, des transitions dynamiques et des voix-off qui décrivent chaque type de climat. Elle est partagée avec les élèves pour faciliter leurs révisions avant le contrôle.
 
-## Conseils pratiques
-
-✅  Exploitez les animations dynamiques pour rendre les concepts plus visuels et aider les élèves à mieux retenir l’information.
-
-✅  Vérifiez les vidéos générées pour s'assurer que le contenu est bien adapté à vos objectifs pédagogiques.
-
+Lien vers l'outil : [Pika](https://pika.art/login)

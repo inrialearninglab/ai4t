@@ -5,8 +5,6 @@ description: Accès aux présentations
 ## Description : 
 
 Art x Terra offre aux artistes numériques la possibilité d’utiliser l’IA pour générer des visuels artistiques, en explorant différents styles et techniques.
-Il est conçu pour les peintres numériques, les designers et les passionnés de création visuelle.
-
 ## Fonctionnalités :
 
 -	Génération de peintures numériques : Création d’images en haute résolution basées sur des descriptions textuelles ou des images d’entrée.
@@ -17,8 +15,7 @@ Il est conçu pour les peintres numériques, les designers et les passionnés de
 
 ## Exemple d’utilisation :
 
-Un artiste digital utilise Art x Terra pour générer une base visuelle qu’il affine ensuite dans un logiciel de peinture numérique comme Photoshop ou Procreate.
-
+Un proffesseur d'art plastique présente Ar
 ## Conseils pratiques :
 
 ✅  Tester différentes combinaisons de paramètres pour créer des visuels uniques. 
