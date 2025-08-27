@@ -3,10 +3,9 @@ title: LumaLabs.ai
 description: 
 ---
 
-## Description : 
+## Description : [^1]
 
 LumaLabs.ai est un outil qui utilise l’IA pour générer des vidéos immersives et des rendus en 3D à partir de photos et de descriptions textuelles.
-Il est utilisé dans les domaines de l’animation, du gaming et de la modélisation 3D.
 
 ## Fonctionnalités :
 
@@ -16,13 +15,18 @@ Il est utilisé dans les domaines de l’animation, du gaming et de la modélisa
 
 - Outil interactif : Permet de visualiser et d’explorer les créations sous différents angles.
 
-## Exemple d’utilisation :
+## Exemple d’utilisation :[^2]
 
-Un architecte utilise LumaLabs.ai pour transformer des croquis en modèles 3D interactifs et réalistes.
+Utilisé par un professeur de tehcnologie, cette IA permet aux élèves de comprendre la 3D et de manipuler des maquettes. 
 
 ## Conseils pratiques :
 
-✅  Utiliser des photos de haute qualité pour obtenir un rendu optimal.
+-  Utiliser des photos de haute qualité pour obtenir un rendu optimal.
 
-✅  Tester différentes perspectives pour affiner la modélisation en 3D.
+-  Tester différentes perspectives pour affiner la modélisation en 3D.
 
+Lien vers le site : [Luma labs IA](https://lumalabs.ai/)
+
+[^1] : Source : Le site de leonardo.ia
+
+[^2] : Source : Le forum AI4T 

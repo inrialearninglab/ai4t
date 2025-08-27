@@ -2,10 +2,9 @@
 title: Stabble diffusion 
 description: 
 ---
-### Description : 
+### Description : [^1]
 
 Stable Diffusion est un modèle open-source permettant de générer des images détaillées et artistiques à partir de descriptions textuelles.
-Il est utilisé pour l’illustration, la création de concepts artistiques et l’expérimentation graphique.
 
 ## Fonctionnalités :
 
@@ -15,12 +14,12 @@ Il est utilisé pour l’illustration, la création de concepts artistiques et l
 
 -	Open-source : Possibilité d’être modifié et intégré dans différents projets.
 
-## Exemple d’utilisation :
+## Exemple d’utilisation :[^2]
 
-Un artiste digital utilise Stable Diffusion pour générer des inspirations visuelles et tester des idées de concepts artistiques.
+Un professeur de faculté se sert de l'aspect open source pour enseigner à ses élèves le fonctionnement de l'IA en terme de code.
 
-## Conseils pratiques :
+Lien du site : [Stabble diffusion](https://stablediffusionweb.com/fr)
 
-✅  Expérimenter avec les paramètres pour affiner le style des images. 
+[^1] : Source : Le site de leonardo.ia
 
-✅  Tester différents prompts pour varier les résultats créatifs.
+[^2] : Source : Le forum AI4T 

@@ -3,7 +3,7 @@ title: Copilot
 description: 
 ---
 
-## Description :
+## Description : [^1]
 
 Copilot, développé par Microsoft, est conçu pour aider à la rédaction, la programmation et la gestion de contenu numérique.  Il s’intègre à plusieurs applications (Word, Excel, PowerPoint, GitHub) pour automatiser et optimiser les tâches courantes.
 
@@ -15,12 +15,12 @@ Copilot, développé par Microsoft, est conçu pour aider à la rédaction, la p
 
 -	Création de résumés et de présentations : Synthétise du contenu de manière automatisée.
 
-## Exemple d’utilisation :
+## Exemple d’utilisation : [^2]
 
-Un rédacteur utilise Copilot pour reformuler des textes et générer des suggestions d’amélioration stylistique
+Un professeur se sert de copilot pour trouver de nouvlles idées d'angles d'approches pour des cours ou du brainstorming pour des projets à proposer aux élèves.
 
-Conseils pratiques :
+[^1] Source : le site de copiloyt 
 
-✅  Vérifier et ajuster les suggestions pour s’assurer de leur pertinence. 
+Lien du site : [copilot](https://copilot.microsoft.com)
 
-✅  Expérimenter avec différents types de requêtes pour optimiser les résultats.
+[^2] Source : Le forum d'AI4T

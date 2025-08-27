@@ -5,10 +5,10 @@ description:
 
 ## Description : 
 
-Sketchbook est un outil puissant destiné aux illustrateurs et aux graphistes, permettant de créer des croquis et des œuvres numériques avec une grande précision.
+Sketchbook est un outil permettant de créer des croquis et des œuvres numériques.
 Il intègre des fonctionnalités IA pour améliorer l’expérience du dessin et proposer des suggestions créatives.
 
-## Fonctionnalités :
+## Fonctionnalités : [^1]
 
 - Outils de dessin avancés : Large sélection de pinceaux, crayons et textures personnalisables.
 
@@ -16,12 +16,14 @@ Il intègre des fonctionnalités IA pour améliorer l’expérience du dessin et
 
 - Support des calques : Permet de travailler sur plusieurs niveaux pour des illustrations détaillées.
 
-## Exemple d’utilisation :
+## Exemple d’utilisation : [^2]
 
-Un illustrateur utilise Sketchbook pour dessiner des personnages et perfectionner ses esquisses grâce à l’assistance IA.
+Un professeur d'art plastique peut s'en servir pour passer les dessins de ses élèves et leur donner des pistes d'amélioration. 
 
-## Conseils pratiques :
+Lien vers le site : 
 
-✅ Tester différents pinceaux et calques pour enrichir les créations. 
+[Skectbook](https://www.sketchbook.com)
 
-✅  Expérimenter avec l’outil de correction IA pour améliorer la fluidité des traits.
+[^1] : Source : Le site sketchbook 
+
+[^2] Source : Le forum AI4T 
