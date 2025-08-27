@@ -2,23 +2,38 @@
 title: : Rédaction et Assistance à l’Écriture avec l’IA
 description: 
 ---
-## Exemples d'IA et Outils Associés :
 
-–	Grammarly (Assistant IA)Un des outils les plus populaires pour la correction grammaticale et stylistique. Il propose des améliorations en temps réel et aide à structurer les phrases de manière plus fluide.
+# Rédaction et assistance à l'écriture avec l'IA
 
-✅ Exemple d’utilisation : Un étudiant soumet un brouillon de son article, et l'IA corrige en suggérant des reformulations et améliore la clarté du texte.
+## Exemples d'IA et Outils Associés
 
-–	ChatGPT (Assistant IA)L’IA peut générer des idées pour structurer un article, créer des introductions ou proposer des points de discussion basés sur des résumés ou des données brutes.
+- [Grammarly](https://www.grammarly.com/) (Assistant IA)  
+  Un des outils les plus populaires pour la correction grammaticale et stylistique. Il propose des améliorations en temps réel et aide à structurer les phrases de manière plus fluide.
 
-✅ Exemple d’utilisation : Un chercheur utilise ChatGPT pour générer des idées de méthodologie et des reformulations pour son projet de recherche.
+  Exemple d’utilisation : Un étudiant soumet un brouillon de son article, et l'IA corrige en suggérant des reformulations et améliore la clarté du texte.
 
-–	Scrivener avec IA intégréeScrivener permet d'organiser de grandes quantités de texte et offre des suggestions d’IA pour améliorer la structure des articles. 
+- [ChatGPT](https://chat.openai.com/) (Assistant IA)  
+  L’IA peut générer des idées pour structurer un article, créer des introductions ou proposer des points de discussion basés sur des résumés ou des données brutes.
 
-✅ Exemple d’utilisation : Un étudiant utilise Scrivener pour rédiger son mémoire en profitant des suggestions IA pour améliorer la cohérence et l’organisation de son travail.
+  Exemple d’utilisation : Un chercheur utilise ChatGPT pour générer des idées de méthodologie et des reformulations pour son projet de recherche.
 
-## Conseils Pratiques :
+- Scrivener avec IA intégrée ([Scrivener](https://www.literatureandlatte.com/scrivener/))  
+  Permet d'organiser de grandes quantités de texte et offre des suggestions d’IA pour améliorer la structure des articles.
 
-🔹 Utiliser l’IA comme un outil de suggestion, mais toujours relire manuellement pour éviter la perte de nuances. 
+  Exemple d’utilisation : Un étudiant utilise Scrivener pour rédiger son mémoire en profitant des suggestions IA pour améliorer la cohérence et l’organisation de son travail.
 
-🔹 Ne pas se reposer exclusivement sur l’IA pour générer des idées créatives, mais l’utiliser comme un point de départ.
+- [Jenni](https://jenni.ai/) (Assistant IA pour la rédaction académique)  
+  Génère des paragraphes pertinents basés sur vos notes et intègre automatiquement des citations.
 
+  Exemple d’utilisation : Un chercheur rédige un article scientifique et utilise Jenni pour compléter des sections avec du contenu précis et des références correctement formatées.
+
+- [Scite](https://scite.ai/) (Assistant IA pour citations intelligentes)  
+  Permet d’évaluer la pertinence des articles scientifiques et de générer des citations contextualisées selon leur rôle (soutien, contraste, mention).
+
+  Exemple d’utilisation : Un chercheur analyse un article pour voir comment il est cité dans la littérature et utilise Scite pour enrichir son article avec des références validées.
+
+## Conseils Pratiques
+
+- Utiliser l’IA comme un outil de suggestion, mais toujours relire manuellement pour éviter la perte de nuances.
+- Ne pas se reposer exclusivement sur l’IA pour générer des idées créatives ou scientifiques, mais l’utiliser comme un point de départ.
+- Vérifier les citations et références générées automatiquement pour garantir leur exactitude et leur pertinence académique.

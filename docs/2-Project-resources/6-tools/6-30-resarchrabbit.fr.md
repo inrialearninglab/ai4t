@@ -1,35 +1,24 @@
 ---
-title: Miro AI
+title: Researchrabbit
 description: 
 ---
+## Description : [^1]
 
-**Description :**
+ResearchRabbit est un outil gratuit de recherche académique lancé en 2021. Il permet d’explorer la littérature scientifique à partir d’articles « seed » et de visualiser les réseaux de citations, co-auteurs et références.
 
-Vidnoz AI est une plateforme qui utilise l'intelligence artificielle pour générer automatiquement des vidéos à partir de texte, permettant ainsi de créer du contenu vidéo de manière rapide et simple.
+## Fonctionnalités :
 
-**Fonctionnalités principales :**
+– Création de collections thématiques à partir d’articles (titre, DOI, URL) ou via import Zotero/RIS/BibTeX.
+– Exploration par similitudes, références citées ou articles citant l’étude.
+– Suivi automatique des auteurs ajoutés dans une collection et alertes sur leurs nouvelles publications.
+– Partage et collaboration sur des collections.
+– Intégration complète avec Zotero.
 
-·	Génération automatique de vidéos : Convertissez rapidement vos textes en vidéos animées avec voix-off, images et musiques adaptées.
+## Exemple concret : [^2]
 
-·	Voix-off réaliste : Génération de narration avec des voix naturelles pour accompagner les vidéos.
+Un professeur de faculté apprends à ses élèves à structurer leurs recherches grâce à cet outil.
 
-·	Bibliothèque multimédia : Accès à des images, vidéos et musiques libres de droits pour enrichir vos créations.
+Lien :[Research rabbit](https://www.researchrabbit.ai/)
 
-·	Personnalisation facile : Modifiez le style, la durée et la présentation des vidéos selon vos besoins.
-
-·	Partage facile : Exportez et partagez les vidéos sur diverses plateformes (YouTube, réseaux sociaux, etc.).
-
-**Utilisation en contexte éducatif :**
-
--  Création de vidéos explicatives : Créez des vidéos pédagogiques sur des concepts théoriques ou des cours pratiques.-  
-- Ressources visuelles pour les élèves : Offrez des supports vidéo pour renforcer la compréhension des sujets étudiés..  
-- Faciliter l’apprentissage à distance : Utilisez les vidéos générées pour animer des cours à distance et rendre le contenu plus interactif.
-
-**Exemple d’utilisation en classe :**
-Un professeur de littérature crée une vidéo sur l’analyse d’un poème célèbre, avec des images correspondant aux métaphores du poème et une voix-off expliquant chaque strophe. La vidéo est ensuite partagée avec les élèves pour les révisions du bac de français.
-
-**Conseils pratiques  :**
-
-✅ Utilisez les images et musiques libres de droits proposées par Vidnoz pour enrichir le contenu de vos vidéos sans problème de licence.
-
-✅  Révisez le contenu généré pour s'assurer que la narration et les visuels sont alignés avec vos attentes pédagogiques.
+[^1] : Source : ResearchRabbit (site officiel)
+[^2] : Source : Forum AI4T

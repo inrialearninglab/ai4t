@@ -17,7 +17,7 @@ Un élève ayant des difficultés en mathématiques peut recevoir des recommanda
 Description :  
 Socrative est une plateforme interactive d’évaluation formative, qui utilise l’IA pour analyser les résultats des élèves et personnaliser l’expérience d'apprentissage. Les enseignants peuvent l'utiliser pour poser des questions en temps réel et obtenir un aperçu instantané des performances des élèves.
 
-✅ Exemple d’utilisation :  
+Exemple d’utilisation :  
 Un élève peut effectuer un quiz de révision sur un sujet spécifique, et l'IA adapte le niveau des questions selon la manière dont il répond. Si l’élève a des difficultés dans un domaine particulier, Socrative lui propose de nouveaux exercices de difficulté croissante pour l’aider à combler ses lacunes.
 
 ### Smart Sparrow (Plateforme d’apprentissage adaptatif)
@@ -25,7 +25,7 @@ Un élève peut effectuer un quiz de révision sur un sujet spécifique, et l'IA
 Description :  
 Smart Sparrow est une plateforme d'apprentissage adaptatif qui utilise l'IA pour ajuster l’enseignement en fonction du niveau et des besoins individuels des élèves. Elle est principalement utilisée dans les matières STEM (sciences, technologies, ingénierie, mathématiques).
 
-✅ Exemple d’utilisation :  
+Exemple d’utilisation :  
 Un élève en biologie peut utiliser Smart Sparrow pour suivre des simulations interactives qui s’ajustent en fonction de ses décisions et de sa compréhension des concepts. Si l'élève a du mal à comprendre un concept scientifique, la plateforme lui fournit des explications plus détaillées et des exercices supplémentaires sur ce sujet précis.
 
 ### DreamBox (Apprentissage des mathématiques)
@@ -33,7 +33,7 @@ Un élève en biologie peut utiliser Smart Sparrow pour suivre des simulations i
 Description :  
 DreamBox est une plateforme d'apprentissage des mathématiques pour les élèves du primaire et du secondaire. L'IA adapte les leçons et les exercices à l'évolution des compétences de l'élève, tout en suivant ses progrès pour offrir un apprentissage personnalisé.
 
-✅ Exemple d’utilisation :  
+Exemple d’utilisation :  
 Si un élève rencontre des difficultés avec les fractions, DreamBox ajustera les exercices pour lui fournir des révisions supplémentaires sur les fractions, en les présentant sous différents formats (par exemple, avec des images ou des problèmes plus simples) pour l’aider à mieux comprendre.
 
 ### Carnegie Learning (Mathématiques et sciences)
@@ -41,7 +41,7 @@ Si un élève rencontre des difficultés avec les fractions, DreamBox ajustera l
 Description :  
 Carnegie Learning utilise des algorithmes d'IA pour fournir une assistance personnalisée aux élèves en mathématiques et en sciences. Le système apprend en temps réel les points forts et les domaines à améliorer chez chaque élève, et lui propose des ressources pédagogiques adaptées à son niveau.
 
-✅ Exemple d’utilisation :  
+Exemple d’utilisation :  
 Un élève de lycée peut utiliser Carnegie Learning pour s’entraîner sur des problèmes de géométrie. Si l'élève commet une erreur, l’IA lui explique la solution étape par étape et lui fournit des exercices supplémentaires pour renforcer ses compétences.
 
 ### Grammarly (Amélioration de l’écriture)
@@ -49,7 +49,7 @@ Un élève de lycée peut utiliser Carnegie Learning pour s’entraîner sur des
 Description :  
 Grammarly est un assistant d’écriture alimenté par l'IA qui aide les élèves à améliorer leur écriture en fournissant des suggestions de grammaire, de style et de structure.
 
-✅ Exemple d’utilisation :  
+ Exemple d’utilisation :  
 Un élève rédige un essai en littérature et utilise Grammarly pour vérifier la grammaire, la syntaxe, et même la cohérence de son argumentation. L'outil suggère des améliorations et permet à l’élève de réfléchir sur ses erreurs, favorisant ainsi l’autonomie dans l’amélioration de ses compétences en écriture.
 
 ### Quizlet (Pour la révision et l'apprentissage de vocabulaire)

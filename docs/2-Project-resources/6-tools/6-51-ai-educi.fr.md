@@ -23,5 +23,5 @@ Le site AI-EDUC est une plateforme dédiée à l'intégration de l'intelligence 
 
 ·	Communauté d'échange : Forum et espaces collaboratifs pour partager des expériences, des idées et des bonnes pratiques entre professionnels de l'éducation.
 
-
+Lien vers l'outil : https://www.unesco.org/en/digital-education/artificial-intelligence
 

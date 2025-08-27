@@ -2,7 +2,7 @@
 title: Stabble diffusion 
 description: 
 ---
-### Description : [^1]
+## Description : [^1]
 
 Stable Diffusion est un modèle open-source permettant de générer des images détaillées et artistiques à partir de descriptions textuelles.
 

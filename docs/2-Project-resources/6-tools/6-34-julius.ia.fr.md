@@ -3,32 +3,21 @@ title: Julius IA
 description: 
 ---
 
-## Description : 
+## Description : [^1]
 
-Julius IA est un outil d’IA conçu pour analyser les performances orales des utilisateurs à partir d’un simple enregistrement vocal ou d’une vidéo. L’application fournit un retour instantané sur plusieurs aspects de la communication orale : clarté, rythme, intonation, vocabulaire, langage corporel (si vidéo), etc.
-Idéal pour les enseignants de français, langues vivantes, EMC, théâtre, préparation au Grand Oral, ou toute situation où l’expression orale est centrale.
+Julius IA est un outil d’intelligence artificielle conçu pour analyser les performances orales des utilisateurs à partir d’un enregistrement vocal ou vidéo. Il fournit un retour instantané sur la clarté, le rythme, l’intonation, le vocabulaire et, si disponible, le langage corporel. Il s’adresse aux enseignants de français, langues vivantes, EMC, théâtre, préparation au Grand Oral, ou toute situation nécessitant l’expression orale.
 
-## Fonctionnalités Principales :
+## Fonctionnalités :
 
-–	Analyse du discours oral, évalue la fluidité, la structure du discours, les mots parasites, les silences, les hésitations…
+–	Analyse détaillée du discours : fluidité, structure, mots parasites, silences et hésitations.
+–	Retour personnalisé avec conseils d’amélioration adaptés aux performances (ex. : parler plus lentement, éviter les répétitions, structurer le discours).
+–	Rapport détaillé avec indicateurs de performance : vitesse de parole, richesse lexicale, longueur des phrases, etc.
 
-–	Retour personnalisé propose des conseils d'amélioration personnalisés selon les performances (ex. : “parlez plus lentement”, “évitez les répétitions”, “structurez votre argumentation”).
+## Exemple concret : [^2]
 
-–	Reconnaissance vocale et transcription automatique
+Un élève de lycée s’entraîne pour le Grand Oral en enregistrant sa présentation avec Julius IA. L’outil signale qu’il parle trop vite, utilise fréquemment “du coup” et manque de transitions. L’élève retravaille alors son discours pour améliorer la fluidité et la clarté.
 
-–	Rapport détaillé avec indicateurs de performanceDonne des statistiques sur la vitesse, la richesse lexicale, la longueur des phrases, etc.
+Lien : [Julius](https://julius.ai)
 
-## Exemples d’Utilisation Concrète
-
-Exemple en Français – Lycée (Grand Oral)
-Un élève s’entraîne pour son Grand Oral en enregistrant sa présentation avec Julius IA. L’outil lui indique qu’il parle trop vite, qu’il utilise trop souvent “du coup”, et que son discours manque de transitions. Il retravaille son texte en conséquence.
-
-Exemple en Langues – Collège
-Une professeure d’anglais demande à ses élèves de lire une saynète ou faire un mini oral. Julius IA fournit une transcription et un retour sur la prononciation, ce qui permet de retravailler les sons difficiles et d’élargir le vocabulaire.
-
-## Conseils Pratiques pour l’Enseignant :
-
-✅  Utilisez-le comme support pour les pairs : Laisser les élèves s’écouter entre eux et commenter les performances avec bienveillance.
-
-✅  Travailler l'oral en transversalité : Utilisable dans toutes les disciplines nécessitant de s’exprimer clairement : histoire, EMC, arts…
-Voici une fiche pédagogique complète sur la plateforme Sydologie.ai, dans le même style que celles précédemment réalisées :
+[^1] : Source : Julius IA (site officiel)
+[^2] : Source : Forum AI4T

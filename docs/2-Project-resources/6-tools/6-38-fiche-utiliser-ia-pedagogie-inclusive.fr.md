@@ -1,35 +1,46 @@
 ---
-title: Miro AI
+title: Utiliser l'IA en pédagogie inclusive 
 description: 
 ---
 
-**Description :**
+# Utiliser l’IA pour l’accessibilité et la différenciation en classe
 
-Vidnoz AI est une plateforme qui utilise l'intelligence artificielle pour générer automatiquement des vidéos à partir de texte, permettant ainsi de créer du contenu vidéo de manière rapide et simple.
+## Adapter les cours avec la Conception Universelle des Apprentissages (CUA)
 
-**Fonctionnalités principales :**
+Principe :  
+L’IA peut reformuler les contenus pédagogiques en respectant les principes de la CUA, en diversifiant les supports et les modalités d’apprentissage.
 
-·	Génération automatique de vidéos : Convertissez rapidement vos textes en vidéos animées avec voix-off, images et musiques adaptées.
+Exemple d’application :  
+Un enseignant peut utiliser un assistant IA ([ChatGPT](https://chat.openai.com/), [Magic School AI](https://www.magicschool.ai/)) pour générer des explications adaptées aux styles d’apprentissage variés (texte simplifié, résumé audio, infographie, etc.).
 
-·	Voix-off réaliste : Génération de narration avec des voix naturelles pour accompagner les vidéos.
+---
 
-·	Bibliothèque multimédia : Accès à des images, vidéos et musiques libres de droits pour enrichir vos créations.
+## Faciliter la compréhension avec le Facile à Lire et à Comprendre (FALC)
 
-·	Personnalisation facile : Modifiez le style, la durée et la présentation des vidéos selon vos besoins.
+Principe :  
+Le langage FALC simplifie la structure et le vocabulaire des textes afin de les rendre accessibles aux élèves en difficulté de lecture ou en situation de handicap cognitif.
 
-·	Partage facile : Exportez et partagez les vidéos sur diverses plateformes (YouTube, réseaux sociaux, etc.).
+Exemple d’application :  
+Un enseignant de mathématiques peut demander à une IA de reformuler un énoncé de problème en FALC pour assurer une meilleure compréhension par tous les élèves.
 
-**Utilisation en contexte éducatif :**
+---
 
--  Création de vidéos explicatives : Créez des vidéos pédagogiques sur des concepts théoriques ou des cours pratiques.-  
-- Ressources visuelles pour les élèves : Offrez des supports vidéo pour renforcer la compréhension des sujets étudiés..  
-- Faciliter l’apprentissage à distance : Utilisez les vidéos générées pour animer des cours à distance et rendre le contenu plus interactif.
+## Soutenir les élèves en situation de handicap sensoriel
 
-**Exemple d’utilisation en classe :**
-Un professeur de littérature crée une vidéo sur l’analyse d’un poème célèbre, avec des images correspondant aux métaphores du poème et une voix-off expliquant chaque strophe. La vidéo est ensuite partagée avec les élèves pour les révisions du bac de français.
+Principe :  
+Certains outils d’IA facilitent l’accessibilité pour les élèves malentendants ou malvoyants.
 
-**Conseils pratiques  :**
+Exemple d’application :  
+Le chatbot [IRIS 4](https://www.irisai.com/) utilise l’IA pour traduire des consignes en langue des signes, permettant aux élèves sourds et malentendants d’accéder plus facilement aux explications des enseignants.
 
-✅ Utilisez les images et musiques libres de droits proposées par Vidnoz pour enrichir le contenu de vos vidéos sans problème de licence.
+---
 
-✅  Révisez le contenu généré pour s'assurer que la narration et les visuels sont alignés avec vos attentes pédagogiques.
+## Mise en Pratique en Classe
+
+| Situation pédagogique | Outil IA recommandé | Résultat attendu |
+|----------------------|-------------------|----------------|
+| Adapter un cours pour une meilleure compréhension | [ChatGPT](https://chat.openai.com/), [Magic School AI](https://www.magicschool.ai/) | Contenu reformulé selon les principes CUA et FALC |
+| Transformer un texte en version audio | [TTSMaker](https://www.ttsmaker.com/), [ElevenLabs](https://elevenlabs.io/) | Lecture facilitée pour les élèves dyslexiques |
+| Générer des sous-titres automatiques pour une vidéo pédagogique | [Whisper AI](https://openai.com/research/whisper) | Accessibilité renforcée pour les élèves malentendants |
+| Traduire un texte en langue des signes | [IRIS 4](https://www.irisai.com/) | Inclusion des élèves sourds en classe |
+```

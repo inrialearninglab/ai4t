@@ -3,31 +3,21 @@ title: Miro AI
 description: 
 ---
 
-**Description :**
+## Description : [^1]
 
-Vidnoz AI est une plateforme qui utilise l'intelligence artificielle pour générer automatiquement des vidéos à partir de texte, permettant ainsi de créer du contenu vidéo de manière rapide et simple.
+Magic School AI est une plateforme d'intelligence artificielle dédiée à l'éducation, conçue pour aider les enseignants avec 80 outils et plus de 50 pour les élèves, couvrant la planification de cours, la création de contenus, l'évaluation, la différenciation pédagogique et la promotion de la littérature en IA chez les élèves.
 
-**Fonctionnalités principales :**
+## Fonctionnalités principales :
 
-·	Génération automatique de vidéos : Convertissez rapidement vos textes en vidéos animées avec voix-off, images et musiques adaptées.
+* Planification de leçons : Génération rapide de plans de cours alignés sur les programmes et les objectifs pédagogiques.
+* Création de contenus : Élaboration de quiz, flashcards, résumés, scripts vidéo, newsletters et supports de cours.
 
-·	Voix-off réaliste : Génération de narration avec des voix naturelles pour accompagner les vidéos.
+## Exemple concret :[^2]
 
-·	Bibliothèque multimédia : Accès à des images, vidéos et musiques libres de droits pour enrichir vos créations.
+Collège (Français) : Un professeur utilise Magic School AI pour créer un quiz sur les figures de style, générer des flashcards pour réviser les termes clés, et concevoir un script vidéo expliquant les principales figures de style. Les élèves peuvent accéder aux supports via l'ENT et les utiliser en classe ou à la maison.
 
-·	Partage facile : Exportez et partagez les vidéos sur diverses plateformes (YouTube, réseaux sociaux, etc.).
+Lien de l'outil : [Magic School AI](https://www.magicschool.ai/)
 
-**Utilisation en contexte éducatif :**
+[^1]: Source : le site internet de l'outil 
 
--  Création de vidéos explicatives : Créez des vidéos pédagogiques sur des concepts théoriques ou des cours pratiques.-  
-- Ressources visuelles pour les élèves : Offrez des supports vidéo pour renforcer la compréhension des sujets étudiés..  
-- Faciliter l’apprentissage à distance : Utilisez les vidéos générées pour animer des cours à distance et rendre le contenu plus interactif.
-
-**Exemple d’utilisation en classe :**
-Un professeur de littérature crée une vidéo sur l’analyse d’un poème célèbre, avec des images correspondant aux métaphores du poème et une voix-off expliquant chaque strophe. La vidéo est ensuite partagée avec les élèves pour les révisions du bac de français.
-
-**Conseils pratiques  :**
-
-✅ Utilisez les images et musiques libres de droits proposées par Vidnoz pour enrichir le contenu de vos vidéos sans problème de licence.
-
-✅  Révisez le contenu généré pour s'assurer que la narration et les visuels sont alignés avec vos attentes pédagogiques.
+[^2]: Source : Forum AI4T

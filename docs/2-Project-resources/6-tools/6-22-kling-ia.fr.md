@@ -15,6 +15,7 @@ Kling.ai permet de générer automatiquement des vidéos en intégrant des voix 
 
 -	Intégration de voix IA : Voix naturelles pour une narration fluide.
 
-Lien du site : [https://app.klingai.com]
+Lien du site : [Kling IA](https://app.klingai.com)
 
-[^1]: Site internet de Kling IA  
+
+[^1]: Site internet kling ia 
