@@ -21,12 +21,3 @@ En combinant génération de texte et recherche d'informations, la RAG permet de
 - Précision des réponses : 
 Contrairement à des systèmes de génération de texte classique, la RAG améliore la précision des réponses en basant ses générateurs sur des sources spécifiques et vérifiables.
 
-## Exemple d’utilisation
-
-Un enseignant utilise un assistant virtuel combiné à une RAG pour répondre à des questions spécifiques des élèves sur un sujet historique. La réponse générée par apprentissage automatique est enrichie par une recherche sur des bases de données académiques pour fournir plus de détails et de citations.
-
-## Conseils pratiques
-
-✅ Vérification des sources : Bien que la RAG intègre des informations provenant de sources spécialisées, il est important de vérifier la qualité des ressources utilisées par l’IA, notamment pour les sujets complexes ou sensibles.
-
-✅ Suivi de la personnalisation : Assurez-vous que l'IA génère des réponses adaptées à chaque niveau d’élève en ajustant les critères de recherche et de génération.

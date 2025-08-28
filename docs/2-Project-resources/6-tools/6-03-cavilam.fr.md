@@ -15,6 +15,4 @@ La série d’épisodes proposée par le CAVILAM – Alliance Française guide l
 - Épisode 5 : Utilisation de l'IA pour travailler le lexique.  
 - Épisode 6 : Favoriser l'autonomie des apprenants grâce à l'IA.
 
-## Exemple d’utilisation
-
-Un professeur peut se former et former ses élèves à certaines compétences concrètes comme savoir prompter, par exemple).
+Lien vers l'outil : [Cavilam apprendre l'ia](https://www.cavilam.com/utiliser-lintelligence-artificielle-en-classe/)

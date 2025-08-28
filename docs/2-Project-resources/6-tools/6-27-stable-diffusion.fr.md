@@ -18,7 +18,6 @@ Stable Diffusion est un modèle open-source permettant de générer des images d
 
 Un professeur de faculté se sert de l'aspect open source pour enseigner à ses élèves le fonctionnement de l'IA en terme de code.
 
-Lien du site : [Stabble diffusion](https://stablediffusionweb.com/fr)
 
 [^1] : Source : Le site de leonardo.ia
 
