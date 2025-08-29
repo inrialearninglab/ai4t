@@ -3,7 +3,7 @@ title: Teachable machine
 description: Entraînez un ordinateur à reconnaître vos images, sons ou postures
 ---
 
-## Description
+## Description [^1]
 
 Teachable Machine est un outil Web qui permet d'entraîner des modèles d’intelligence artificielle (IA) sans avoir besoin de coder ni de créer un compte. Il utilise l’apprentissage automatique pour reconnaître des images, des sons ou des poses corporelles.
 
@@ -15,7 +15,7 @@ Teachable Machine est un outil Web qui permet d'entraîner des modèles d’inte
 
 - Reconnaissance de poses : Analyse les mouvements du corps pour détecter différentes postures ou gestes.
 
-## Exemple d’utilisation pédagogique
+## Exemple d’utilisation pédagogique [^2]
 
 Un enseignant de sciences demande aux élèves d'entraîner un modèle pour reconnaître différentes espèces de plantes à partir de photos prises lors d’une sortie scolaire. L’IA apprend à différencier les feuilles, et les élèves découvrent comment fonctionne la classification automatique.
 
@@ -27,3 +27,6 @@ Un enseignant de sciences demande aux élèves d'entraîner un modèle pour reco
 
 Lien vers l'outil : [Tecachable] (https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://teachablemachine.withgoogle.com/&ved=2ahUKEwjUzPOVhKaPAxVOVKQEHcq1E0EQFnoECCgQAQ&usg=AOvVaw1qZUpGCkOlABNzJnxNNkYk)
 
+[^1] : Source : Le site de Teachable 
+
+[^2] : Source : Le forum AI4T 
