@@ -3,11 +3,11 @@ title: "Cuenti.to"
 description: Générer un conte illustré pour enfants
 ---
 
-## Description
+## Description [^1]
 
 Cuenti.to est une plateforme en espagnol permettant de générer des contes pour enfants à partir d’une idée. Elle crée des histoires accompagnées d’illustrations pour de jeunes lecteurs.
 
-## Fonctionnalités [^1]
+## Fonctionnalités
 
 - Génération de contes personnalisés : L’IA crée une histoire à partir de quelques mots-clés fournis par l’utilisateur.
 

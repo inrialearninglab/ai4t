@@ -25,4 +25,5 @@ Un enseignant crée une vidéo interactive où un avatar explique les principes 
 
 Lien vers l'outil : [https://www.vidnoz.com/](https://www.vidnoz.com/)
 
-[^1] : Source : le site officiel de Vidnoz 
+[^1] : Source : le site officiel de Vidnoz
+[^2] : Source : Le forum AI4T
