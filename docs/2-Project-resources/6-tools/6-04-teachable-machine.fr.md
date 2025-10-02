@@ -25,7 +25,7 @@ Un enseignant de sciences demande aux élèves d'entraîner un modèle pour reco
 
 -  Vérifier la précision du modèle et ajuster les données d’entraînement si nécessaire.
 
-Lien vers l'outil : [Tecachable] (https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://teachablemachine.withgoogle.com/&ved=2ahUKEwjUzPOVhKaPAxVOVKQEHcq1E0EQFnoECCgQAQ&usg=AOvVaw1qZUpGCkOlABNzJnxNNkYk)
+Lien vers l'outil : [Teachable] (https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://teachablemachine.withgoogle.com/&ved=2ahUKEwjUzPOVhKaPAxVOVKQEHcq1E0EQFnoECCgQAQ&usg=AOvVaw1qZUpGCkOlABNzJnxNNkYk)
 
 [^1] : Source : Le site de Teachable 
 

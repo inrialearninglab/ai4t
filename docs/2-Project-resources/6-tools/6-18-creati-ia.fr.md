@@ -17,7 +17,7 @@ Creati.ai est un outil permettant de générer des œuvres d’art numériques e
 
 ✅  Expérimenter avec différents styles et paramètres pour trouver des inspirations originales. 
 
-Lien vers l'outil [https://creatify.ai](https://creatify.ai)
+Lien vers l'outil [Creati.ai](https://creatify.ai)
 
 
 [^1] : Source : le site officiel de creti-ai

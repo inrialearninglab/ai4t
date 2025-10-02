@@ -5,7 +5,7 @@ description: Générer des audios à partir de descriptions textuelles.
 
 ## Description [^1]
 
-Udio est une plateforme qui permet de créer, éditer et partager des contenus audios et .
+Udio est une plateforme qui permet de créer, éditer et partager des contenus audios et des musiques.
 
 ## Fonctionnalités principales
 
