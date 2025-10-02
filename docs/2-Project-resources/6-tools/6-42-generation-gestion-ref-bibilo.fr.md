@@ -2,7 +2,8 @@
 title: Génération et Gestion de Références Bibliographiques avec l'IA
 description: 
 ---
-Génération et Gestion de Références Bibliographiques avec l'IA
+
+# Génération et Gestion de Références Bibliographiques avec l'IA
 
 ## Exemples d'IA et Outils Associés
 

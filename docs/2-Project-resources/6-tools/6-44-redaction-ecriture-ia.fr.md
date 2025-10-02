@@ -3,7 +3,7 @@ title: : Rédaction et Assistance à l’Écriture avec l’IA
 description: 
 ---
 
-# Rédaction et assistance à l'écriture avec l'IA
+# Rédaction et assistance à l'écriture d'article avec l'IA
 
 ## Exemples d'IA et Outils Associés
 

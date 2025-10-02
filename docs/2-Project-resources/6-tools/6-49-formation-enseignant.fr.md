@@ -2,7 +2,7 @@
 title: : Formation des enseignants 
 description: 
 ---
-## Exemples d’IA et utilisation pour la formation des étudiants 
+# Formation des enseignants
 
 ## Exemples de plateformes de formation pour enseignants à l'IA
 

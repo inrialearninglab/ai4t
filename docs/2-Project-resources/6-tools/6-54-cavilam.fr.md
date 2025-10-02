@@ -2,6 +2,8 @@
 title: CAVILAM
 description: Utiliser et former à l’Intelligence Artificielle en Classe
 ---
+# CAVILAM
+
 ## Description
 
 La série d’épisodes proposée par le CAVILAM – Alliance Française guide les enseignants de français et de langues étrangères dans l’utilisation de l’intelligence artificielle (IA). Les ressources sont disponibles en PDF pour aider à intégrer l’IA de manière pratique et pédagogique.

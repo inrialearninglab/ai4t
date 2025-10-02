@@ -2,6 +2,8 @@
 title: : Autonomie des Élèves
 description: 
 ---
+# Autonomie des Élèves
+
 ## Exemples d’IA et utilisation
 
 ### Khan Academy (avec IA intégrée)

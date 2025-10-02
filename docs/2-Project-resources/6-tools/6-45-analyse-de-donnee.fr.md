@@ -2,6 +2,9 @@
 title: : Analyse de Données et Automatisation des Tâches avec l'IA
 description: 
 ---
+
+# Analyse de Données et Automatisation des Tâches avec l'IA
+
 ## Exemples d'IA et Outils Associés
 
 - [NVivo](https://www.qsrinternational.com/nvivo-qualitative-data-analysis-software/home) (avec IA intégrée)  

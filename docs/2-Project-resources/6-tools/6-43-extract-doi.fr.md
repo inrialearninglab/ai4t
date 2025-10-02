@@ -2,7 +2,8 @@
 title: Recherche et Extraction de DOI avec l'IA
 description: 
 ---
-Recherche et Extraction de DOI avec l'IA
+
+# Recherche et Extraction de DOI avec l'IA
 
 ## Exemples d'IA et Outils Associés
 
