@@ -1,0 +1,98 @@
+{% extends "main.html" %} {% block tabs %} {{ super() }} {% endblock %} {% block content %}
+
+<section class="explorer">
+    <div class="md-grid md-typeset">
+        <h2>{{config.extra.explorer.parts.tools.get(i18n_page_locale, config.extra.explorer.parts.tools.en)}}</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th class="level">
+                        {{config.extra.explorer.fields.level.get(i18n_page_locale,
+                        config.extra.explorer.fields.level.en)}}
+                    </th>
+                    <th>
+                        {{config.extra.explorer.fields.name.get(i18n_page_locale,
+                        config.extra.explorer.fields.name.en)}}
+                    </th>
+                    <th>
+                        {{config.extra.explorer.fields.use.get(i18n_page_locale, config.extra.explorer.fields.use.en)}}
+                    </th>
+                    <th align="right" class="actions">
+                        {{config.extra.explorer.fields.links.get(i18n_page_locale,
+                        config.extra.explorer.fields.links.en)}}
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for tool in config.extra.explorer.tools %}
+                <tr>
+                    <td>
+                        <b>
+                            {{config.extra.explorer.fields.levels[tool.level].get(i18n_page_locale,
+                            config.extra.explorer.fields.levels[tool.level].en)}}
+                        </b>
+                    </td>
+                    <td>{{tool.name}}</td>
+                    <td>{{tool.use.get(i18n_page_locale, tool.use.en)}}</td>
+                    <td align="right">
+                        <a
+                            href="/{% if i18n_page_locale != 'en' %}{{i18n_page_locale}}/{% endif %}{{tool.link}}.html"
+                            class="md-button md-button--primary"
+                        >
+                            {{config.extra.explorer.fields.see.get(i18n_page_locale,
+                            config.extra.explorer.fields.see.en)}}
+                        </a>
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        <h2>{{config.extra.explorer.parts.apps.get(i18n_page_locale, config.extra.explorer.parts.apps.en)}}</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th class="types">
+                        {{config.extra.explorer.fields.level.get(i18n_page_locale,
+                        config.extra.explorer.fields.level.en)}}
+                    </th>
+                    <th>
+                        {{config.extra.explorer.fields.name.get(i18n_page_locale,
+                        config.extra.explorer.fields.name.en)}}
+                    </th>
+                    <th>
+                        {{config.extra.explorer.fields.type.get(i18n_page_locale,
+                        config.extra.explorer.fields.type.en)}}
+                    </th>
+                    <th align="right" class="actions">
+                        {{config.extra.explorer.fields.links.get(i18n_page_locale,
+                        config.extra.explorer.fields.links.en)}}
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for app in config.extra.explorer.applications %}
+                <tr>
+                    <td>
+                        <b>
+                            {{config.extra.explorer.fields.levels[app.level].get(i18n_page_locale,
+                            config.extra.explorer.fields.levels[app.level].en)}}
+                        </b>
+                    </td>
+                    <td>{{app.name.get(i18n_page_locale, app.name.en)}}</td>
+                    <td>{{app.type.get(i18n_page_locale, app.type.en)}}</td>
+                    <td align="right">
+                        <a
+                            href="/{% if i18n_page_locale != 'en' %}{{i18n_page_locale}}/{% endif %}{{app.link}}.html"
+                            class="md-button md-button--primary"
+                        >
+                            {{config.extra.explorer.fields.see.get(i18n_page_locale,
+                            config.extra.explorer.fields.see.en)}}
+                        </a>
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</section>
+{% endblock %}
