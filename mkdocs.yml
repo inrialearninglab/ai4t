@@ -68,7 +68,9 @@ extra:
     - name: Slovenščina
       link: ./sl/
       lang: sl
+  # Page explore tools
   explorer:
+    # Champs de la table, pas besoin d'ajouter des choses ici
     fields:
       level:
         en: Level
@@ -88,6 +90,7 @@ extra:
       type:
         fr: Type
         en: Type
+      # Les différents niveaux
       levels:
         all:
           fr: Tous
@@ -104,6 +107,7 @@ extra:
         uni-hs:
           fr: Lycée / Université
           en: High School / University
+    # Titres des tables
     parts:
       tools:
         fr: Outils
@@ -111,6 +115,7 @@ extra:
       apps:
         fr: Applications pédagogiques
         en: Educational applications
+    # Liste des outils
     tools:
       - level: elementary
         name: Lalilo
@@ -118,6 +123,7 @@ extra:
           fr: Exercices de français adapté au niveau de l'élève
           en: French exercises adapted to the student's level
         link: 2-Project-resources/6-tools/6-01-lalilo
+    # Liste des applications pédagogiques
     applications:
       - level: uni-hs
         name:
@@ -127,6 +133,7 @@ extra:
           fr: Mise en pratique
           en: Implementation
         link: 2-Project-resources/6-tools/6-39-fiche-utiliser-ia-pedagogie-inclusive
+        
   # Liens vers des pages à afficher dans la page d'accueil (cards)
   parts:
     - title:
