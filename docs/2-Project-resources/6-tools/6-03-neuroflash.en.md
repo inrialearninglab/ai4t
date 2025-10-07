@@ -4,7 +4,7 @@ description: Créer et optimiser des contenus texte et image
 ---
 
 
-## Description [^1]
+## Description[^1]
 
 Neuroflash is a text and image generation platform that can be adapted to educational needs, whether for articles, social media posts or teaching materials. It allows you to create optimised and personalised content according to the needs of the teacher or institution.
 
@@ -16,7 +16,7 @@ Neuroflash is a text and image generation platform that can be adapted to educat
 
 - ImageFlash: Generates royalty-free visuals to accompany posts or educational projects on social media (e.g. infographics or illustrations for course content).
 
-## Example of use [^2]
+## Example of use[^2]
 
 A teacher uses Neuroflash to create a post announcing a school event to be shared on Cartable. They generate the text for the post using a tone appropriate for their audience (parents, pupils, school community).
 

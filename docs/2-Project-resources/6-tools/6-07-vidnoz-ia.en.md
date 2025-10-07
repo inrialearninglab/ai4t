@@ -3,7 +3,7 @@ title: Vidnoz AI
 description: Generate and enhance videos, voices, music, or images
 ---
 
-## Description [^1]
+## Description[^1]
 
 Vidnoz AI is a platform that allows you to generate, translate, and enhance videos.
 
@@ -14,11 +14,11 @@ Vidnoz AI is a platform that allows you to generate, translate, and enhance vide
 - Realistic voiceovers: Generate narration with natural voices to accompany videos.
 
 
-## Example of classroom use [^2]
+## Example of classroom use[^2]
 
 A literature teacher creates a video analysing a poem with images corresponding to the poem's metaphors and a voice-over explaining each stanza. The video is then shared with students to help them revise for their French baccalaureate exams.
 
-Link to the tool: [Vidboz Ai](https://www.vidnoz.com/)
+Link to the tool: [Vidnoz AI](https://www.vidnoz.com/)
 
 [^1]: Source: The Vidnoz AI website
 

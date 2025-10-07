@@ -3,7 +3,7 @@ title: Dall-e
 description: Generate an image from text
 ---
 
-##  Description [^1]
+##  Description[^1]
 
 DALL-E, developed by OpenAI, is capable of creating images and illustrations from descriptive text.
 
@@ -13,7 +13,7 @@ DALL-E, developed by OpenAI, is capable of creating images and illustrations fro
 - Style customisation: Allows you to adapt creations to various artistic styles (realistic, abstract, cartoon, etc.).
 - Image editing and modification: Ability to add or modify elements on an existing image.
 
-##  Example of use [^2]
+##  Example of use[^2]
 
 An art teacher uses DALL-E to introduce and train students in the use of generative artificial intelligence.
 

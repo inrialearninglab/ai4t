@@ -3,7 +3,7 @@ title: "Cuenti.to"
 description: Générer un conte illustré pour enfants
 ---
 
-## Description [^1]
+## Description[^1]
 
 Cuenti.to is a Spanish-language platform that generates children's stories based on an idea. It creates stories accompanied by illustrations for young readers.
 
@@ -15,7 +15,7 @@ Cuenti.to is a Spanish-language platform that generates children's stories based
 
 - Customisation: Stories can be adapted according to specific preferences or needs.
 
-## Example of use in an educational context [^2]
+## Example of use in an educational context[^2]
 
 A Spanish teacher uses Cuentit.to to teach her students more vocabulary and introduce them to different story structures.
 
@@ -25,7 +25,7 @@ A Spanish teacher uses Cuentit.to to teach her students more vocabulary and intr
 
 - Create links to educational sequences.
 
-Link to the tool: [Cuentito.ia] (https://cuenti.to/)
+Link to the tool: [Cuentito](https://cuenti.to/)
 
 [^1]: Source: The Cuenti.to website.
 

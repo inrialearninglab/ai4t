@@ -3,7 +3,7 @@ title: Neuroflash
 description: Créer et optimiser des contenus texte et image
 ---
 
-## Description [^1] 
+## Description[^1] 
 
 Neuroflash est une plateforme de génération de textes et d'images qui peut être adaptée aux besoins éducatifs, que ce soit pour des articles, des publications sur les réseaux sociaux ou des supports pédagogiques. Elle permet de créer du contenu optimisé et personnalisé en fonction des besoins de l'enseignant ou de l'établissement.
 
@@ -15,7 +15,7 @@ Neuroflash est une plateforme de génération de textes et d'images qui peut êt
 
 - ImageFlash : Génère des visuels libres de droits pour accompagner les publications ou les projets pédagogiques sur les réseaux sociaux (par exemple, des infographies ou des illustrations pour des contenus de cours).
 
-## Exemple d’utilisation [^2]
+## Exemple d’utilisation[^2]
 
 Un enseignant utilise Neuroflash pour créer un post annonçant un événement scolaire à partager sur Cartable. Il génère le texte de la publication en utilisant un ton adapté à son public (parents, élèves, communauté scolaire). 
 
@@ -25,6 +25,6 @@ Un enseignant utilise Neuroflash pour créer un post annonçant un événement s
 
 Lien vers l'outil: [Neuroflash](https://neuroflash.com)
 
-[^1] : Source : Le site de Neuroflash 
+[^1]: Source : Le site de Neuroflash 
 
-[^2] : Source : Le forum AI4T 
+[^2]: Source : Le forum AI4T 

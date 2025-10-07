@@ -1,28 +1,28 @@
 ---
-    title: Perplexity IA 
-description: 
+title: Perplexity IA 
+description: Obtenir des informations par synthèse de plusieurs sources 
 ---
 
-## Description : [^1]
+## Description[^1]
 
-Perplexity AI est un moteur de recherche basé sur l'intelligence artificielle qui permet d'explorer des informations provenant de diverses sources, notamment des articles scientifiques, des bases de données, et des publications sur internet. Le moteur de recherche donne ses sources à la fin de la recherche.
+Perplexity AI est un moteur de recherche basé sur l'intelligence artificielle. Il permet d'explorer et synthétiser des informations provenant de diverses sources, incluant des articles scientifiques, des bases de données, et des publications sur internet. Le moteur de recherche donne ses sources à la fin de la recherche.
 
-## Fonctionnalités :
+## Fonctionnalités
 
-–	Synthèse d’information : Lorsqu'une question est posée, l’IA génère un résumé des informations pertinentes, ce qui permet d’obtenir rapidement une vue d’ensemble sur un sujet sans avoir à naviguer entre plusieurs pages.
+- Synthèse d’information : Lorsqu'une question est posée, l’IA génère un résumé des informations pertinentes, ce qui permet d’obtenir rapidement une vue d’ensemble sur un sujet sans avoir à naviguer entre plusieurs pages.
 
-–	Intégration de sources multiples : Perplexity regroupe des données provenant de différents types de sources (articles scientifiques, blogs, livres, forums spécialisés), afin de fournir une réponse complète et diverse.
+- Intégration de sources multiples : Perplexity regroupe des données provenant de différents types de sources (articles scientifiques, blogs, livres, forums spécialisés), afin de fournir une réponse complète et diverse.
 
-## Exemple d’utilisation : [^2]
+## Exemple d’utilisation[^2]
 
 Un enseignant utilise Perplexity AI pour rechercher des données récentes sur les effets du changement climatique. L’outil affiche en quelques secondes un résumé des études les plus récentes, avec chiffres, résultats et références issues de revues scientifiques et d’institutions environnementales.
 
-## Conseils pratiques :
+## Conseils pratiques
 
-–	Utilisez Perplexity pour vos recherches préparatoires : Plutôt que de commencer vos recherches sur des moteurs de recherche classiques, utilisez Perplexity pour obtenir des réponses précises et concises qui vous guideront dans la direction des meilleures sources.
+- Utiliser Perplexity pour vos recherches préparatoires : Plutôt que de commencer vos recherches sur des moteurs de recherche classiques, utilisez Perplexity pour obtenir des réponses précises et concises qui vous guideront dans la direction des meilleures sources.
 
-Lien du produit :[Perplexity] (https://www.perplexity.ai/)
+Lien vers l'outil : [Perplexity](https://www.perplexity.ai/)
 
-[^1] : Source : Le site de leonardo.ia
+[^1]: Source : Le site de perplexity.ia
 
-[^2] : Source : Le forum AI4T 
+[^2]: Source : Le forum AI4T 

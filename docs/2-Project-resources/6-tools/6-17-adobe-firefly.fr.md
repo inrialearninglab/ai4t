@@ -3,7 +3,7 @@ title: Adobe Firefly
 description: Générer une image artistique
 ---
 
-##  Descpiption [^1]
+##  Descpiption[^1]
 
 Adobe Firefly est une application Web pour générer des images avec contrôle des paramètres artistiques.
 
@@ -13,7 +13,7 @@ Adobe Firefly est une application Web pour générer des images avec contrôle d
 - Intégration avec Adobe Creative Suite : Compatible avec Photoshop, Illustrator et d’autres logiciels Adobe.  
 - Personnalisation des styles : Permet d’ajuster les textures, les couleurs et l’apparence générale des images générées.  
 
-Lien vers l'outil : [Adobe Firely] (https://www.adobe.com/fr/products/firefly.html
+Lien vers l'outil : [Adobe Firely](https://www.adobe.com/fr/products/firefly.html
 
-[^1] : Source : le site officiel d'adobe firefly
+[^1]: Source : le site officiel d'adobe firefly
 

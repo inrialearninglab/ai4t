@@ -3,7 +3,7 @@ title: Vidnoz
 description: 
 ---
 
-##  Description [^1]
+##  Description[^1]
 
 Vidnoz simplifie la création de vidéos interactives en générant automatiquement des avatars qui parlent grâce à une IA vocale.
 
@@ -13,7 +13,7 @@ Vidnoz simplifie la création de vidéos interactives en générant automatiquem
 - Gération rapide de vidéos : Interface intuitive pour produire des vidéos en quelques minutes
 - Personnalisation : Ajustement des expressions faciales et du ton de voix
 
-##  Exemple d’utilisation [^2]
+##  Exemple d’utilisation[^2]
 
 Un enseignant crée une vidéo interactive où un avatar explique les principes de la physique à ses élèves.
 
@@ -25,5 +25,5 @@ Un enseignant crée une vidéo interactive où un avatar explique les principes 
 
 Lien vers l'outil : [Vidnoz IA](https://www.vidnoz.com/)
 
-[^1] : Source : le site officiel de Vidnoz
-[^2] : Source : Le forum AI4T
+[^1]: Source : le site officiel de Vidnoz
+[^2]: Source : Le forum AI4T

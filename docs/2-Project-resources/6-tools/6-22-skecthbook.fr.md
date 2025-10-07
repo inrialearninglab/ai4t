@@ -3,12 +3,12 @@ title: Miro AI
 description: 
 ---
 
-## Description : 
+## Description
 
 Sketchbook est un outil permettant de créer des croquis et des œuvres numériques.
 Il intègre des fonctionnalités IA pour améliorer l’expérience du dessin et proposer des suggestions créatives.
 
-## Fonctionnalités : [^1]
+## Fonctionnalités[^1]
 
 - Outils de dessin avancés : Large sélection de pinceaux, crayons et textures personnalisables.
 
@@ -16,14 +16,12 @@ Il intègre des fonctionnalités IA pour améliorer l’expérience du dessin et
 
 - Support des calques : Permet de travailler sur plusieurs niveaux pour des illustrations détaillées.
 
-## Exemple d’utilisation : [^2]
+## Exemple d’utilisation[^2]
 
 Un professeur d'art plastique peut s'en servir pour passer les dessins de ses élèves et leur donner des pistes d'amélioration. 
 
-Lien vers le site : 
+Lien vers l'outil : [sketchbook](https://www.sketchbook.com)
 
-[Skectbook](https://www.sketchbook.com)
+[^1]: Source : Le site sketchbook 
 
-[^1] : Source : Le site sketchbook 
-
-[^2] Source : Le forum AI4T 
+[^2]: Source : Le forum AI4T 

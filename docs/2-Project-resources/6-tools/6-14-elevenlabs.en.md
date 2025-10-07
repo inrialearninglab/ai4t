@@ -3,7 +3,7 @@ title: ElevenLabs
 description: Generate or transcribe a voice
 ---
 
-## Description [^1]
+## Description[^1]
 
 Eleven Labs is an AI-powered speech synthesis platform that creates ultra-realistic voiceovers. It allows you to generate, clone and modify voices from just a few minutes of audio recording and supports many languages.
 
@@ -16,7 +16,7 @@ Eleven Labs is an AI-powered speech synthesis platform that creates ultra-realis
 * Voice Changer: voice modification with customisable profiles and adjustments
 * API and SDK: integration into applications via Python or TypeScript
 
-## Example of use [^2]
+## Example of use[^2]
 
 A language teacher uses Eleven Labs to create audio files for their students. They generate multiple voices for English dialogues so that learners can listen to different accents and intonations.
 

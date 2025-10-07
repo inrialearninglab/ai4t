@@ -1,12 +1,12 @@
 ---
 title: Leonardo.IA
-description: 
+description: Créer des images et des vidéos artistiques
 ---
-## Description : [^1]
+## Description[^1]
 
-Leonardo.ai est une plateforme IA permettant de créer des images et des vidéos artistiques.Elle est particulièrement utilisé dans l’industrie du jeu vidéo, du design et du marketing.
+Leonardo.ai est une plateforme IA permettant de créer des images et des vidéos artistiques. Elle est particulièrement utilisée dans l’industrie du jeu vidéo, du design et du marketing.
 
-## Fonctionnalités :
+## Fonctionnalités
 
 -	Création d’images réalistes : Génère des visuels détaillés à partir de prompts textuels.
 
@@ -14,12 +14,12 @@ Leonardo.ai est une plateforme IA permettant de créer des images et des vidéos
 
 -	Personnalisation des styles : Possibilité de générer des illustrations dans différents styles artistiques.
 
-## Exemple d’utilisation : [^2]
+## Exemple d’utilisation[^2]
 
 Une professeur de français à créer un court meétrage avec ses élèves pour travailler et lutter contre les différentes formes de disciminations. 
 
 Lien vers le site : [Leonardo IA](https://leonardo.ai/)
 
-[^1] : Source : Le site de leonardo.ia
+[^1]: Source : Le site de leonardo.ia
 
-[^2] : Source : Le forum AI4T 
+[^2]: Source : Le forum AI4T 

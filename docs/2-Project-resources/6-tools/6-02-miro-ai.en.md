@@ -3,7 +3,7 @@ title: Miro AI
 description: Organise, structure and generate ideas on a virtual whiteboard
 ---
 
-## Description [^1]
+## Description[^1]
 
 Miro is an artificial intelligence-based visual collaboration platform used for creating interactive whiteboards, brainstorming, project management and collaborative design.
 
@@ -13,7 +13,7 @@ Miro is an artificial intelligence-based visual collaboration platform used for 
 - AI-assisted idea generation: Uses artificial intelligence to help structure ideas, generate creative proposals and guide users through their thought processes.
 - Integrations with other tools: Compatible with tools such as Google Drive, Slack, Jira, and other collaboration platforms, making it easy to manage projects and share resources.
 
-## Example of use [^2]
+## Example of use[^2]
 
 A university lecturer may ask their students to use Miro to create a brainstorming session for a group project in class. Students can collaborate on a virtual whiteboard, organise their ideas, add comments and links, all while being guided by intelligent AI suggestions. The lecturer monitors the progress of the project in real time and can intervene to guide students or rearrange priorities.
 

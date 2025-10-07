@@ -2,7 +2,7 @@
 title: Capcut
 description: Create and edit videos
 ---
-## Description [^1]
+## Description[^1]
 
 CapCut is a web and mobile application that allows you to create, edit, and customise videos.
 
@@ -13,7 +13,7 @@ CapCut is a web and mobile application that allows you to create, edit, and cust
 - Automatic subtitling: Generate subtitles.
 - Music and sound effects library: Access a selection of royalty-free music and sound effects to enhance your videos.
 
-## Example of classroom use [^2]
+## Example of classroom use[^2]
 
 A literature teacher asks their students to create an animated video presentation of a book of their choice that they read during the holidays. Students use CapCut to edit video clips, add explanatory subtitles and incorporate effects to make the summary more dynamic.
 

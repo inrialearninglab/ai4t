@@ -7,18 +7,19 @@ description: Using AI for inclusive education
 
 Lalilo is a web application that offers French and reading exercises tailored to the child's level.
 
-## Features [^1]
+## Features[^1]
 
 - Automatic adaptation of exercises: Adjusts the difficulty and content according to each student's level.
 - Interactive explanations: Provides tailored explanations when the student makes a mistake.
 - Real-time monitoring: Analyses performance and offers educational recommendations.
 - Personalised learning paths: Allows teachers to create tailor-made learning paths.
 
-## Example of use
+## Example of use[^2]
 
 Recommend the tool to parents as a French teacher to help their child catch up.
 
 Link to the tool: [Lalilo](https://lalilo.com/?language=fr)
 
-[^1]: Sources
+[^1]: Source:
+[^2]: Source:
 

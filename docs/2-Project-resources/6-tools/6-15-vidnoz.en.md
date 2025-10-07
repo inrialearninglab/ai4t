@@ -3,7 +3,7 @@ title: Vidnoz
 description: 
 ---
 
-##  Description [^1]
+##  Description[^1]
 
 Vidnoz simplifies the creation of interactive videos by automatically generating avatars that speak using voice AI.
 
@@ -13,7 +13,7 @@ Vidnoz simplifies the creation of interactive videos by automatically generating
 - Fast video generation: Intuitive interface to produce videos in minutes
 - Customisation: Adjust facial expressions and tone of voice
 
-##  Example of use [^2]
+##  Example of use[^2]
 
 A teacher creates an interactive video in which an avatar explains the principles of physics to their students.
 

@@ -3,7 +3,7 @@ title: Heygen
 description: Transformer un texte en vidéo
 ---
 
-## Description [^1]
+## Description[^1]
 
 Heygen is a platform that transforms text into a video in which a realistic avatar speaks the text provided.
 
@@ -15,7 +15,7 @@ Heygen is a platform that transforms text into a video in which a realistic avat
 
 - Multilingual: Ability to generate videos in multiple languages.
 
-## Example of classroom use [^2]
+## Example of classroom use[^2]
 
 A French teacher uses Heygen to create a video in which an avatar plays Molière and explains in the first person the importance of theatre in the 17th century. Students watch the video and then discuss the impact of his works.
 

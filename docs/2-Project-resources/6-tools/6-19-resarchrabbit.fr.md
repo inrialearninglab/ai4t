@@ -1,25 +1,24 @@
 ---
-title: Researchrabbit
-description: 
+title: ResearchRabbit
+description: Explorer, structurer et suivre un sujet de littérature scientifique
 ---
+## Description[^1]
 
-## Description: [^1]
+ResearchRabbit est un outil gratuit de recherche académique lancé en 2021. Il permet d’explorer la littérature scientifique à partir d’articles « seed » et de visualiser les réseaux de citations, co-auteurs et références.
 
-ResearchRabbit is a free academic research tool launched in 2021. It allows users to explore scientific literature based on seed articles and visualise citation networks, co-authors and references.
+## Fonctionnalités
 
-## Features:
+– Création de collections thématiques à partir d’articles (titre, DOI, URL) ou via import Zotero/RIS/BibTeX.
+– Exploration par similitudes, références citées ou articles citant l’étude.
+– Suivi automatique des auteurs ajoutés dans une collection et alertes sur leurs nouvelles publications.
+– Partage et collaboration sur des collections.
+– Intégration complète avec Zotero.
 
-– Creation of thematic collections from articles (title, DOI, URL) or via Zotero/RIS/BibTeX import.
-– Exploration by similarities, cited references or articles citing the study.
-– Automatic tracking of authors added to a collection and alerts on their new publications.
-– Sharing and collaboration on collections.
-– Full integration with Zotero.
+## Exemple concret[^2]
 
-## Concrete example: [^2]
+Un professeur de faculté apprend à ses élèves à structurer leurs recherches bibliographqiues avec cet outil.
 
-A university professor teaches his students how to structure their research using this tool.
+Lien :[ResearchRabbit](https://www.researchrabbit.ai/)
 
-Link: [Research Rabbit](https://www.researchrabbit.ai/)
-
-[^1]: Source: ResearchRabbit (official website)
-[^2]: Source: AI4T Forum
+[^1]: Source: ResearchRabbit (site officiel)
+[^2]: Source: Forum AI4T

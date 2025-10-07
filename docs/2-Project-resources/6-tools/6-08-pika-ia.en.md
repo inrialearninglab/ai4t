@@ -3,7 +3,7 @@ title: Pika
 description: Generate videos with animations from a prompt, image, or video
 ---
 
-## Description [^1]
+## Description[^1]
 
 Pika is a web platform that allows you to create interactive videos and animated visuals from videos, text, or prompts.
 
@@ -18,7 +18,7 @@ Pika is a web platform that allows you to create interactive videos and animated
 - Subtitle and voice-over integration: Create subtitles and video narrations.
 
 
-## Example of classroom use [^2]
+## Example of classroom use[^2]
 
 A geography teacher uses Pika to create an interactive video explaining different types of climates. The video includes animated maps, dynamic transitions, and voiceovers describing each type of climate. It is shared with students to help them revise before their test.
 
