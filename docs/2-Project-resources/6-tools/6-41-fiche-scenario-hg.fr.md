@@ -1,13 +1,9 @@
 ---
-title: Miro AI
-description: 
+title: Sensibiliser aux catastrophes naturelles avec l’IA
+description: Activités padagogiques pour sensibiliser les élèves aux risques liés aux catastrophes naturelles
 ---
 
-# Sensibilisation aux catastrophes naturelles avec l’IA
-
-## Objectif général
-
-Ce programme a pour but de sensibiliser les élèves aux risques liés aux catastrophes naturelles en utilisant des outils d’IA, tout en intégrant des activités interactives et créatives qui facilitent la compréhension et l’engagement des élèves.
+Ce programme pédagogique a pour but de sensibiliser les élèves aux risques liés aux catastrophes naturelles en utilisant des outils d’IA pour la création de ressources pédagogiques et des activités interactives et créatives qui facilitent la compréhension et l’engagement des élèves.
 
 ## Liste des outils utilisés
 
@@ -42,7 +38,7 @@ Ce programme a pour but de sensibiliser les élèves aux risques liés aux catas
 
 ### Séance 1 : Introduction – Immersion auditive et discussion
 
-**Ressources :** [ElevenLabs](https://elevenlabs.io/) + [ChatGPT](https://chat.openai.com/)  
+**Ressources :** [ElevenLabs](https://elevenlabs.io/), [ChatGPT](https://chat.openai.com/)  
 Objectif : Plonger les élèves dans l'expérience d'une catastrophe naturelle et amorcer une réflexion sur les stratégies de prévention.
 
 **Déroulé :**

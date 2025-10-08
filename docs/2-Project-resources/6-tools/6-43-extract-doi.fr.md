@@ -1,21 +1,19 @@
 ---
-title: Recherche et Extraction de DOI avec l'IA
-description: 
+title: Rechercher et extraire un DOI avec l'IA
+description: Rechercher, extraire ou ajouter des DOI 
 ---
 
-# Recherche et Extraction de DOI avec l'IA
-
-## Exemples d'IA et Outils Associés
+## Obtenir le DOI d’une ressource numérique
 
 - [Unpaywall](https://unpaywall.org/) (API IA)  
-  Unpaywall est un plugin IA qui permet de récupérer automatiquement les DOI pour les articles scientifiques. Ce service gratuit permet également d'accéder à des versions en libre accès des articles.  
+Unpaywall est un plugin IA qui permet de récupérer automatiquement les DOI (Digital Object Identifier) pour les articles scientifiques. Ce service gratuit permet également d'accéder à des versions en libre accès des articles.  
+**Exemple d’utilisation** : Un chercheur peut obtenir le DOI d’un article en saisissant son titre dans Unpaywall.
 
-  Exemple d’utilisation : Un chercheur peut rapidement obtenir le DOI d’un article en saisissant son titre dans Unpaywall.
+## Rechercher et ajouter des DOI
 
 - [CrossRef Metadata Search](https://www.crossref.org/)  
-  CrossRef est une base de données d’enregistrements DOI. Grâce à des API alimentées par l’IA, il permet de rechercher et d’ajouter des DOI automatiquement dans des articles ou des gestionnaires de références.  
-
-  Exemple d’utilisation : Un étudiant ajoute des articles à son gestionnaire de références, et l'outil IA récupère instantanément les DOI et les informations bibliographiques associées.
+CrossRef est une base de données d’enregistrements DOI. Grâce à des API alimentées par l’IA, CrossRef permet de rechercher et d’ajouter des DOI automatiquement dans des articles ou des gestionnaires de références.  
+**Exemple d’utilisation** : Un étudiant ajoute des articles à son gestionnaire de références ; l'outil IA récupère les DOI et les informations bibliographiques associées.
 
 ## Conseils Pratiques
 
