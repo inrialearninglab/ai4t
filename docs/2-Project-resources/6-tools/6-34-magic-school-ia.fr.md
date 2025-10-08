@@ -18,6 +18,6 @@ Collège (Français) : Un professeur utilise Magic School AI pour créer un quiz
 
 Lien de l'outil : [Magic School AI](https://www.magicschool.ai/)
 
-[^1]: Source : le site internet de l'outil 
+[^1]: Source : le site [Magic School AI](https://www.magicschool.ai/) 
 
 [^2]: Source : Forum AI4T

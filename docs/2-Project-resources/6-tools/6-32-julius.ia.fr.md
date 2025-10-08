@@ -9,9 +9,9 @@ Julius IA est un outil d’intelligence artificielle conçu pour analyser les pe
 
 ## Fonctionnalités
 
-–	Analyse détaillée du discours : fluidité, structure, mots parasites, silences et hésitations.
-–	Retour personnalisé avec conseils d’amélioration adaptés aux performances (ex. : parler plus lentement, éviter les répétitions, structurer le discours).
-–	Rapport détaillé avec indicateurs de performance : vitesse de parole, richesse lexicale, longueur des phrases, etc.
+- Analyse détaillée du discours : fluidité, structure, mots parasites, silences et hésitations.
+- Retour personnalisé avec conseils d’amélioration adaptés aux performances (ex. : parler plus lentement, éviter les répétitions, structurer le discours).
+- Rapport détaillé avec indicateurs de performance : vitesse de parole, richesse lexicale, longueur des phrases, etc.
 
 ## Exemple concret[^2]
 

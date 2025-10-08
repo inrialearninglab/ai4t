@@ -21,9 +21,9 @@ Utilisé par un professeur de tehcnologie, cette IA permet aux élèves de compr
 
 ## Conseils pratiques
 
--  Utiliser des photos de haute qualité pour obtenir un rendu optimal.
+- Utiliser des photos de haute qualité pour obtenir un rendu optimal.
 
--  Tester différentes perspectives pour affiner la modélisation en 3D.
+- Tester différentes perspectives pour affiner la modélisation en 3D.
 
 Lien vers le site : [Luma labs IA](https://lumalabs.ai/)
 

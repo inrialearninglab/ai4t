@@ -19,7 +19,7 @@ Kreai est une plateforme d’intelligence artificielle générative dédiée à 
 
 - Exemple en lettres (collège) : Un enseignant demande aux élèves d’écrire un conte, puis d’illustrer une scène clé avec Kreai.ai. Chaque élève décrit l’univers de son histoire dans un prompt, et reçoit une illustration générée par l’IA à intégrer à son livret.
 
--  Exemple en arts plastiques : Les élèves expérimentent différents styles artistiques en créant des images avec les mêmes prompts (ex. : “une forêt enchantée”) et comparent les résultats selon le style généré : cubiste, impressionniste, manga, etc.
+- Exemple en arts plastiques : Les élèves expérimentent différents styles artistiques en créant des images avec les mêmes prompts (ex. : “une forêt enchantée”) et comparent les résultats selon le style généré : cubiste, impressionniste, manga, etc.
 
 ## Conseils pratiques pour les enseignants
 

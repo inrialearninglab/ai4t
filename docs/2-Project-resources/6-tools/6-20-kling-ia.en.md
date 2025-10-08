@@ -13,7 +13,7 @@ Kling.ai automatically generates videos by integrating artificial voices, animat
 
 - Customisation of visual elements: Add animated avatars, subtitles and transitions.
 
--  AI voice integration: Natural voices for smooth narration.
+- AI voice integration: Natural voices for smooth narration.
 
 Website link: [Kling AI](https://app.klingai.com)
 

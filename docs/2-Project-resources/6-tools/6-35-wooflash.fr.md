@@ -2,6 +2,7 @@
 title: Wooflash 
 description: Générer des ressources pédagogiques et suivre la progression des élèves 
 ---
+
 ## Description[^1]
 
 Wooflash est une plateforme d’intelligence artificielle permettant de créer des cours interactifs et de suivre la progression des élèves grâce à un système d’apprentissage adaptatif.
@@ -16,7 +17,7 @@ Wooflash est une plateforme d’intelligence artificielle permettant de créer d
 
 Un professeur de sciences transforme son cours en une série de questions interactives sur Wooflash. Les élèves répondent via la plateforme, et l’IA ajuste automatiquement les exercices en fonction de leurs erreurs et progrès.
 
-Lien : [https://www.wooflash.com](https://www.wooflash.com)
+Lien : [wooflash](https://www.wooflash.com)
 
-[^1]: Source : Site Wooflash
+[^1]: Source : Site [wooflash](https://www.wooflash.com)
 [^2]: Source : Forum AI4T

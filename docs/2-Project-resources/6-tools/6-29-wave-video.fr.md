@@ -9,8 +9,8 @@ Wave.video est une plateforme en ligne qui permet de créer, éditer, héberger 
 
 ## Fonctionnalités
 
-–	Montage vidéo par glisser-déposer avec modèles et éléments visuels intégrés.
-–	Accès à une banque de contenus libres de droits (vidéos, musiques, images, icônes).
+- Montage vidéo par glisser-déposer avec modèles et éléments visuels intégrés.
+- Accès à une banque de contenus libres de droits (vidéos, musiques, images, icônes).
 
 ## Exemple concret[^2]
 
