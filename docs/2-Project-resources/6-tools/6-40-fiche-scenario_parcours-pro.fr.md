@@ -27,17 +27,10 @@ L’objectif de ce programme pédagogique est d’introduire les élèves aux co
 
 ## Mise en pratique
 
-| Situation pédagogique | Ressource utilisable | Activité |
-|----------------------|-------------------|----------------|
-| Introduction à l'IA et à l’IA générative | Article sur l’impact environnemental du numérique |1- Introduction aux bases de l’IA, en particulier à l’IA générative (ChatGPT et DALL·E).  2- Discussion sur l’éthique et la responsabilité liées à l’utilisation de l’IA dans les secteurs professionnels |
-| Création de textes et visuels avec l’IA | ChatGPT, DALL·E, Canva |1- Les élèves apprennent à rédiger des fiches produits en utilisant ChatGPT, puis à générer des visuels via DALL·E pour accompagner ces fiches.  2- Discussion : Quels types de contenus sont les plus efficaces dans une campagne marketing ? Comment l’IA peut-elle aider à la création de contenu rapide et pertinent ?  2- Introduction à Canva pour l'édition de visuels et l'intégration des éléments IA dans des créations visuelles |
-| Création de site internet | WordPress, ChatGPT, DALL·E, Canva |1- Les élèves créent un site internet via WordPress en intégrant des éléments créés à l’aide de ChatGPT (textes), DALL·E (images), et Canva (visuels).  2- Discussion : Quelles sont les meilleures pratiques pour intégrer l’IA dans la création d'un site web ? Comment rendre le contenu attractif et professionnel ?  3- Formation à l'utilisation des outils IA pour améliorer l’ergonomie et l’accessibilité des sites. |
-| Conclusion et présentation des projets | Sites web créés par les élèves |1- Les élèves présentent leur site internet créé avec WordPress, les fiches produits, et les visuels qu’ils ont générés avec l’IA.  2- Discussion finale : Comment l’IA a-t-elle facilité leur travail ? Quels défis ont-ils rencontrés ? Comment percevront-ils l’IA dans leurs futures carrières professionnelles ? |
-
 <table>
     <thead>
         <tr>
-             <th>Situation pédagogiquerson</th>
+             <th>Situation pédagogique</th>
              <th>Ressource utilisable</th>
              <th>Activité</th>
         </tr>
