@@ -1,10 +1,9 @@
 ---
-title: : Veille Scientifique Automatisée avec l'IA
-description: 
+title: Cibler une veille scientifique
+description: Services d'alerte et de structuration de publications scientifiques
 ---
-# Veille Scientifique Automatisée avec l'IA 
 
-## Exemples d'IA et Outils Associés
+## Exemples d'outils IA
 
 - [Google Scholar Alerts](https://scholar.google.com/)  
   Google Scholar propose un service d’alertes qui utilise l’IA pour envoyer des notifications lorsqu'un article pertinent est publié en lien avec les mots-clés définis par l'utilisateur.
@@ -24,4 +23,4 @@ description:
 ## Conseils Pratiques
 
 - Éviter de se laisser submerger par un trop grand nombre de publications. Il est essentiel de bien définir les mots-clés pour affiner les alertes.
-- Utiliser ces outils pour se tenir informé sans avoir à parcourir manuellement toutes les bases de données.
+- Utiliser ces outils pour se tenir informé.e sans avoir à parcourir manuellement toutes les bases de données.

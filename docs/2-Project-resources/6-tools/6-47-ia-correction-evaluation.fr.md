@@ -1,13 +1,12 @@
 ---
-title: Aide à la Réalisation des Évaluations et à la Correction
-description: 
+title: Concevoir des évaluations et les corriger
+description: Assistance IA pour la conception d'évaluations et leurs corrections
 ---
-# Aide à la Réalisation des Évaluations et à la Correction
 
-## Exemples d'IA et d'utilisation
+## Outils et utilisations
 
 - [Gradescope](https://www.gradescope.com/)  
-  Cet outil utilise l’IA pour automatiser la correction des examens et devoirs, y compris pour les questions ouvertes. Il analyse les réponses des élèves, identifie les erreurs communes, et fournit des retours détaillés aux enseignants et aux élèves.
+  Cet outil utilise l’IA pour assister la correction des examens et devoirs, y compris pour les questions ouvertes. Il analyse les réponses des élèves, identifie les erreurs communes, et fournit des retours détaillés aux enseignants et aux élèves.
 
   Exemple d’utilisation : Un professeur de mathématiques utilise Gradescope pour corriger les devoirs sur les équations linéaires. L'IA identifie des erreurs récurrentes comme des oublis de signes et propose des explications détaillées pour chaque erreur.
 

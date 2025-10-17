@@ -1,20 +1,17 @@
 ---
 title: CAVILAM
-description: Utiliser et former à l’Intelligence Artificielle en Classe
+description: Utiliser et former à l’Intelligence Artificielle en classe
 ---
-# CAVILAM
 
 ## Description
+Les ressources pédagogiques (au format pdf) proposées sur la plateforme CAVILAM – Alliance Française guide les enseignants de français et de langues étrangères dans l’utilisation de l’intelligence artificielle (IA).
 
-La série d’épisodes proposée par le CAVILAM – Alliance Française guide les enseignants de français et de langues étrangères dans l’utilisation de l’intelligence artificielle (IA). Les ressources sont disponibles en PDF pour aider à intégrer l’IA de manière pratique et pédagogique.
+## Les ressouces
+- Introduction à l'IA pour l'enseignement.  
+- Comment utiliser les prompts pour optimiser l'IA.  
+- Gagner du temps dans la préparation des cours.  
+- Travailler l'écrit avec l'IA.  
+- Utilisation de l'IA pour travailler le lexique.  
+- Favoriser l'autonomie des apprenants.
 
-## Les différentes parties
-
-- Épisode 1 : Introduction à l'IA pour l'enseignement.  
-- Épisode 2 : Comment utiliser les prompts pour optimiser l'IA.  
-- Épisode 3 : Gagner du temps dans la préparation des cours.  
-- Épisode 4 : Travailler l'écrit avec l'IA.  
-- Épisode 5 : Utilisation de l'IA pour travailler le lexique.  
-- Épisode 6 : Favoriser l'autonomie des apprenants grâce à l'IA.
-
-Lien vers l'outil : [Cavilam apprendre l'ia](https://www.cavilam.com/utiliser-lintelligence-artificielle-en-classe/)
+Lien vers la plateforme : [Cavilam - Utiliser l'intelligence artificielle en classe](https://www.leplaisirdapprendre.com/portfolio/utiliser-lintelligence-artificielle-en-classe/)

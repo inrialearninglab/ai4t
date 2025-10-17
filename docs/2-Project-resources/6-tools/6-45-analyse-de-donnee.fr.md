@@ -1,5 +1,5 @@
 ---
-title: Analyser des données en sciences humaines
+title: Analyser de données en sciences humaines
 description: Analyse de textes et données qualitatives
 ---
 

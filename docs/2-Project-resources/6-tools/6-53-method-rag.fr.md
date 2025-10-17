@@ -3,11 +3,9 @@ title: RAG (Retrieval-Augmented Generation)
 description: Enrichir les réponses d'une IA générative avec des données spécialisées. 
 ---
 
-# Methode  RAG (Retrieval-Augmented Generation)
-
 ## Description
 
-RAG (Retrieval-Augmented Generation) est une technique d'intelligence artificielle qui combine les grands modèles de langages avec la récupération d'informations spécifiques vérifées. Cela permet d'optimiser la réponse d'une IA génrative en intégrant des informations pertinentes recherchées dans une base de données ou sur Internet. Les réponses obtenues sont plus précises, actualisées et adaptées aux besoins des étudiants et des enseignants.
+RAG (Retrieval-Augmented Generation) est une technique d'intelligence artificielle qui combine les grands modèles de langages avec un ensemble d'informations spécifiques et vérifiées. Les réponses obtenues sont plus précises et contextualisées selon les besoins des étudiants ou des enseignants.
 
 ## Fonctionnalités
 
