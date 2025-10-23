@@ -1,7 +1,8 @@
 ---
 title: Lalilo
-description: Using AI for inclusive education 
+description: Using AI for inclusive education
 ---
+
 
 ## Description
 
@@ -18,8 +19,9 @@ Lalilo is a web application that offers French and reading exercises tailored to
 
 Recommend the tool to parents as a French teacher to help their child catch up.
 
-Link to the tool: [Lalilo](https://lalilo.com/?language=fr)
+<a class="md-button" href="https://lalilo.com/">
+    Access the tool
+</a>
 
-[^1]: Source: Website Lalio 
+[^1]: Source: Website Lalio
 [^2]: Source: AI4T MOOC Forum
-
