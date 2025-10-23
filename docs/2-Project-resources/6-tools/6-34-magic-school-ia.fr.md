@@ -1,5 +1,5 @@
 ---
-title: Miro AI
+title: Magic School IA
 description: Créer des parcours et activités pédagogiques
 ---
 

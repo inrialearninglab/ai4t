@@ -1,5 +1,5 @@
 ---
-title: Miro AI
+title: Skectbook IA
 description: 
 ---
 
@@ -18,7 +18,7 @@ Il intègre des fonctionnalités IA pour améliorer l’expérience du dessin et
 
 ## Exemple d’utilisation[^2]
 
-Un professeur d'art plastique peut s'en servir pour passer les dessins de ses élèves et leur donner des pistes d'amélioration. 
+Un professeur d'art plastique s'en sert avec l'accord et l'envie de ses élèves qui ont de bonnes idées de réalisation artistique mais qui ne se sentent pas assez bon techiquement pour les réaliser. L'IA leur permets de trouver de nouvelles façons ou inspirations pour concrétiser leurs idées. 
 
 Lien vers l'outil : [sketchbook](https://www.sketchbook.com)
 

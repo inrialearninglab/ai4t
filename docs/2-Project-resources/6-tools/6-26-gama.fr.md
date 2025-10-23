@@ -18,6 +18,6 @@ Un professeur de géographie utilise GAMA pour créer rapidement ses supports de
 
 Lien vers l'outil : [Gama](https://gamma.app/fr/products/presentations)
 
-[^1]: Source : Le site de leonardo.ia
+[^1]: Source : Le site de Gama
 
 [^2]: Source : Le forum AI4T 

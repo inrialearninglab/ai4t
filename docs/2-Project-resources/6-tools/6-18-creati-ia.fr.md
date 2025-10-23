@@ -5,7 +5,7 @@ description: Portail d'outils basés sur une IA
 
 ##  Description[^1]
 
-Creati.ai est un outil permettant de générer des œuvres d’art numériques et des illustrations à partir de descriptions textuelles.
+Creati.ai est un outil permettant de générer des vidéos à partir de texte.
 
 ##  Fonctionnalités
 

@@ -27,6 +27,6 @@ Utilisé par un professeur de tehcnologie, cette IA permet aux élèves de compr
 
 Lien vers le site : [Luma labs IA](https://lumalabs.ai/)
 
-[^1]: Source : Le site de leonardo.ia
+[^1]: Source : Le site de Luma labs IA
 
 [^2]: Source : Le forum AI4T 

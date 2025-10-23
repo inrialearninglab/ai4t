@@ -20,5 +20,5 @@ En tant que professeur de français, recommandation de l'outil à des parents po
 
 Lien vers l'outil : [Lalilo](https://lalilo.com/?language=fr)
 
-[^1]: Source: 
-[^2]: Source:  
+[^1]: Source: Site Lalio
+[^2]: Source: Forum MOOC AI4T

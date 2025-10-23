@@ -20,6 +20,6 @@ Recommend the tool to parents as a French teacher to help their child catch up.
 
 Link to the tool: [Lalilo](https://lalilo.com/?language=fr)
 
-[^1]: Source:
-[^2]: Source:
+[^1]: Source: Website Lalio 
+[^2]: Source: AI4T MOOC Forum
 

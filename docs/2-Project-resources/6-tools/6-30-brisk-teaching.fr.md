@@ -13,11 +13,6 @@ Brisk Teaching est une extension Chrome gratuite dédiée aux enseignants, offra
 - Outils pour l'enseignement spécialisé : Création de plans d'intervention MTSS (Système de soutien à paliers multiples), objectifs IEP (programme éducatif approprié), et supports adaptés aux élèves ayant des besoins particuliers.
 - Gestion administrative : Génération de courriels, bulletins d'information, et notes d'observation pour les enseignants et les administrateurs.
 
-## Exemple concret[^2]
-
-Une enseignante de français utilise Brisk Teaching pour générer un plan de leçon sur la poésie, créer plusieurs rubriques d'évaluation, et corriger 100 essais et 100 discours en une semaine. 
-
 Lien vers l'outil : [Briskteaching](https://www.briskteaching.com/)
 
-[^1]: Source : Site officiel de Brisk Teaching, présentant les fonctionnalités et outils disponibles pour les enseignants.
-[^2]: Source : Témoignage d'une enseignante utilisant Brisk Teaching pour la création de supports pédagogiques et l'évaluation des élèves.
+[^1]: Source : Site officiel de Brisk Teaching
