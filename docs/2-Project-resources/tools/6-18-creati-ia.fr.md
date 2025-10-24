@@ -1,11 +1,11 @@
 ---
-title: "Creati.ai"
+title: "Creati"
 description: Portail d'outils basés sur une IA
 ---
 
 ##  Description[^1]
 
-Creati.ai est un outil permettant de générer des vidéos à partir de texte.
+Creati est un outil permettant de générer des vidéos à partir de texte.
 
 ##  Fonctionnalités
 
@@ -15,10 +15,14 @@ Creati.ai est un outil permettant de générer des vidéos à partir de texte.
 
 ##  Conseils pratiques[^2]
 
-✅  Expérimenter avec différents styles et paramètres pour trouver des inspirations originales. 
+✅ Expérimenter avec différents styles et paramètres pour trouver des inspirations originales. 
 
-Lien vers l'outil [Creati.ai](https://creatify.ai)
+----
+
+<a class="md-button" href="https://creati.ai/fr/" target=_blank>
+    Accès à l'outil
+</a>
 
 
-[^1]: Source : le site officiel de creti-ai
+[^1]: Source : le site <a href="https://creati.ai/fr/" target=_blank>Creatify</a>
 [^2]: Source : Le forum AI4T

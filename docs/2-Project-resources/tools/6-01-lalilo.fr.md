@@ -16,9 +16,14 @@ Lalilo est une application web qui propose des exercices de français et et de l
 
 ## Exemple d’utilisation[^2]
 
-En tant que professeur de français, recommandation de l'outil à des parents pour aider l'élève à rattraper son retard. 
+Un professeur de français recommande l'outil à des parents pour aider l'élève à rattraper son retard. 
 
-Lien vers l'outil : [Lalilo](https://lalilo.com/?language=fr)
+----
 
-[^1]: Source: Site Lalio
+<a class="md-button" href="https://lalilo.com/" target=_blank>
+    Accès à l'outil
+</a>
+
+
+[^1]: Source: Site Web <a href="https://lalilo.com/" target=_blank>Lalilo</a>
 [^2]: Source: Forum MOOC AI4T

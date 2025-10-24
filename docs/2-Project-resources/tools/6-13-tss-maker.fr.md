@@ -17,7 +17,11 @@ TTSMaker est une plateforme gratuite qui transforme un texte écrit en audio gr�
 
 Un enseignant de langues utilise TTSMaker pour générer des fichiers audio avec différentes voix et accents afin d’entraîner ses élèves à la compréhension orale.
 
-Lien vers le site : [TTSMaker](https://ttsmaker.com)
+----
 
-[^1]: Source : le site officiel TTSMaker
+<a class="md-button" href="https://ttsmaker.com" target=_blank>
+    Accès à l'outil
+</a>
+
+[^1]: Source : le site de <a href="https://ttsmaker.com" target=_blank>TTSMaker</a>
 [^2]: Source : forum AI4T

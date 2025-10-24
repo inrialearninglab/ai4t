@@ -18,7 +18,11 @@ ResearchRabbit est un outil gratuit de recherche académique lancé en 2021. Il 
 
 Un professeur de faculté apprend à ses élèves à structurer leurs recherches bibliographqiues avec cet outil.
 
-Lien :[ResearchRabbit](https://www.researchrabbit.ai/)
+----
 
-[^1]: Source: ResearchRabbit (site officiel)
+<a class="md-button" href="https://www.researchrabbit.ai/" target=_blank>
+    Accès à l'outil
+</a>
+
+[^1]: Source: Site <a href="https://www.researchrabbit.ai/" target=_blank>ResearchRabbit</a>
 [^2]: Source: Forum AI4T

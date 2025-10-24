@@ -23,8 +23,12 @@ Un enseignant utilise Neuroflash pour créer un post annonçant un événement s
 
 - Vérification du contenu : Il est essentiel de vérifier les informations et d'ajuster les textes générés pour garantir leur adéquation avec les objectifs pédagogiques ou les valeurs de l'établissement.
 
-Lien vers l'outil: [Neuroflash](https://neuroflash.com)
+----
 
-[^1]: Source : Le site de Neuroflash 
+<a class="md-button" href="https://neuroflash.com/fr/" target=_blank>
+    Accès à l'outil
+</a>
 
+
+[^1]: Source : Le site de <a href="https://neuroflash.com/fr/" target=_blank>Neuroflash</a>
 [^2]: Source : Le forum AI4T 

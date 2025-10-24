@@ -19,7 +19,12 @@ Copilot, développé par Microsoft, est conçu pour aider à la rédaction, la p
 
 Un professeur se sert de copilot pour trouver de nouvelles idées d'angles d'approches pour des cours ou du brainstorming pour des projets à proposer aux élèves.
 
-Lien du site : [copilot](https://copilot.microsoft.com)
+----
 
-[^1]Source : le site de copilot 
+<a class="md-button" href="https://copilot.microsoft.com" target=_blank>
+    Accès à l'outil
+</a>
+
+
+[^1]Source : Site <a href="https://copilot.microsoft.com" target=_blank>Copilot</a>
 [^2]Source : Le forum d'AI4T

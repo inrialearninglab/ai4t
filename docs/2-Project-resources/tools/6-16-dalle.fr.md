@@ -15,9 +15,13 @@ DALL-E, développé par OpenAI, est capable de créer des images et illustration
 
 ##  Exemple d’utilisation[^2]
 
-Un enseignant en arts plastiques utilise DALL-E pour initier et former les élèves à l'usage de l'intlligence artificielle générative 
+Un enseignant en arts plastiques utilise DALL-E pour initier et former les élèves à l'usage de l'intlligence artificielle générative.
 
-Lien vers l'outil : [Dall-e](https://www.dall-efree.com)
+----
 
-[^1]: Source : le site officiel de Dall-e
+<a class="md-button" href="https://www.dall-efree.com" target=_blank>
+    Accès à l'outil
+</a>
+
+[^1]: Source : le site de <a href="https://www.dall-efree.com" target=_blank>Dall-e</a>
 [^2]: Source : Le forum AI4T

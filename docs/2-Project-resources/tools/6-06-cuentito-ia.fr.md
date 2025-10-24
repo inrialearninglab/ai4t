@@ -21,12 +21,14 @@ Une enseignante d'espagnol se sert de Cuenti.to pour apprendre plus de vocabulai
 
 ## Conseils pratiques
 
-- Vérifier et adapter les textes générés pour s’assurer de leur pertinence pédagogique.
-
+- Vérifier et adapter les textes générés pour s’assurer de leur pertinence pédagogique.  
 - Créer des liens avec les séquences pédagogiques 
 
-Lien vers l'outil : [Cuentito](https://cuenti.to/) 
+----
 
-[^1]: Source : Le site de Cuenti.to
+<a class="md-button" href="https://cuenti.to/" target=_blank>
+    Accès à l'outil
+</a>
 
+[^1]: Source : Le site en espagnol de <a href="https://cuenti.to/" target=_blank>Cuenti.to</a>
 [^2]: Source : Le forum AI4T 

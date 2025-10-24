@@ -1,11 +1,11 @@
 ---
-title: Vidnoz AI
+title: Vidnoz
 description: Générer et améliorer une vidéo, une voix, une musique ou une image
 ---
 
 ## Description[^1]
 
-Vidnoz AI est une plateforme qui permet de générer, traduire, améliorer des vidéos.
+Vidnoz est une plateforme qui permet de générer, traduire, améliorer des vidéos.
 
 ## Fonctionnalités principales
 
@@ -18,8 +18,12 @@ Vidnoz AI est une plateforme qui permet de générer, traduire, améliorer des v
 
 Un professeur de littérature crée une vidéo sur l’analyse d’un poème avec des images correspondant aux métaphores du poème et une voix-off expliquant chaque strophe. La vidéo est ensuite partagée avec les élèves pour leur donner un exemple de révisions du bac de français.
 
-Lien vers l'outil : [Vidnoz AI](https://www.vidnoz.com/)
+----
 
-[^1]: Source : Le site de Vidnoz AI
+<a class="md-button" href="https://www.vidnoz.com/" target=_blank>
+    Accès à l'outil
+</a>
 
+
+[^1]: Source : Le site de <a href="https://www.vidnoz.com/" target=_blank>Vidnoz</a>
 [^2]: Source : Le forum AI4T 

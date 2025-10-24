@@ -1,12 +1,12 @@
 ---
-title: Skectbook IA
-description: 
+title: Skechtbook
+description: Créer des croquis et des œuvres numériques
 ---
 
 ## Description
 
 Sketchbook est un outil permettant de créer des croquis et des œuvres numériques.
-Il intègre des fonctionnalités IA pour améliorer l’expérience du dessin et proposer des suggestions créatives.
+Il intègre des fonctionnalités IA pour améliorer l’expérience du dessin et faire des suggestions créatives.
 
 ## Fonctionnalités[^1]
 
@@ -20,8 +20,12 @@ Il intègre des fonctionnalités IA pour améliorer l’expérience du dessin et
 
 Un professeur d'art plastique s'en sert avec l'accord et l'envie de ses élèves qui ont de bonnes idées de réalisation artistique mais qui ne se sentent pas assez bon techiquement pour les réaliser. L'IA leur permets de trouver de nouvelles façons ou inspirations pour concrétiser leurs idées. 
 
-Lien vers l'outil : [sketchbook](https://www.sketchbook.com)
+----
 
-[^1]: Source : Le site sketchbook 
+<a class="md-button" href="https://www.sketchbook.com" target=_blank>
+    Accès à l'outil
+</a>
 
+
+[^1]: Source : Le site <a href="https://www.sketchbook.com" target=_blank>Sketchbook</a>
 [^2]: Source : Le forum AI4T 

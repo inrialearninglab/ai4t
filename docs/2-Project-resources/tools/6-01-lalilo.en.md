@@ -17,11 +17,13 @@ Lalilo is a web application that offers French and reading exercises tailored to
 
 ## Example of use[^2]
 
-Recommend the tool to parents as a French teacher to help their child catch up.
+A French teacher recommends the tool to parents to help their child catch up.
 
-<a class="md-button" href="https://lalilo.com/">
+----
+
+<a class="md-button" href="https://lalilo.com/" target=_blank>
     Access the tool
 </a>
 
-[^1]: Source: Website Lalio
+[^1]: Source: Website in French <a href="https://lalilo.com/" target=_blank>Lalilo</a> 
 [^2]: Source: AI4T MOOC Forum

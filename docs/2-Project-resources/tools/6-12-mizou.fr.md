@@ -23,7 +23,11 @@ Un professeur de français utilise Mizou comme assistant de grammaire pour ses �
 
 ✅ Intégrer les résultats en classe : Utilisez les erreurs fréquentes relevées par Mizou pour orienter les révisions en classe, en abordant les points communs dans les difficultés des élèves.
 
-Lien vers l'outil : [Mizou](https://mizou.com/)
+----
 
-[^1]: Source : le site officiel de mizou 
+<a class="md-button" href="https://mizou.com/" target=_blank>
+    Accès à l'outil
+</a>
+
+[^1]: Source : le site de <a href="https://mizou.com/" target=_blank>mizou</a>
 [^2]: Source : forum AI4T

@@ -25,8 +25,12 @@ Un enseignant de sciences demande aux élèves d'entraîner un modèle pour reco
 
 - Vérifier la précision du modèle et ajuster les données d’entraînement si nécessaire.
 
-Lien vers l'outil : [Teachable](https://teachablemachine.withgoogle.com/)
+----
 
-[^1]: Source : Le site de Teachable 
+<a class="md-button" href="https://teachablemachine.withgoogle.com/" target=_blank>
+    Accès à l'outil
+</a>
 
+
+[^1]: Source : Le site de <a href="https://teachablemachine.withgoogle.com/" target=_blank>Teachable</a>
 [^2]: Source : Le forum AI4T 

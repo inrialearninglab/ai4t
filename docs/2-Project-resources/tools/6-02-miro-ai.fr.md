@@ -22,8 +22,11 @@ Un enseignant d'université peut demander à ses élèves de se servir de Miro p
 - Abonnement premium : Certaines fonctionnalités avancées nécessitent un abonnement payant, bien que la version de base soit gratuite et offre de nombreuses possibilités.  
 - Complexité pour les nouveaux utilisateurs : Bien que l’outil soit intuitif, les utilisateurs novices dans la gestion de projet ou le travail collaboratif peuvent avoir besoin d'un peu de temps pour s’adapter aux fonctionnalités.
 
-Lien vers l'outil : [Miro](https://miro.com/fr/)
+----
+<a class="md-button" href="https://miro.com/fr/" target=_blank>
+    Accès à l'outil
+</a>
 
-[^1]: Source : Le site de Miro 
-
+[^1]: Source : Le site de <a href="https://miro.com/fr/" target=_blank>Miro</a>
 [^2]: Source : Le forum AI4T 
+

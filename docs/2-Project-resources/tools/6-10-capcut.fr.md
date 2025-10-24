@@ -17,8 +17,11 @@ CapCut est une application web et mobile qui permet de créer, monter, et person
 
 Un professeur de littérature demande à ses élèves de créer une vidéo animée de présentation d'un livre de leur choix qu'ils ont lu pendant les vacances. Les élèves utilisent CapCut pour monter des extraits vidéo, ajouter des sous-titres explicatifs et intégrer des effets pour rendre le résumé plus dynamique. 
 
-Lien vers l'outil : [Capcut](https://www.capcut.com/)
+----
 
-[^1]: Source : Le site de Capcut
+<a class="md-button" href="https://www.capcut.com/fr-fr/" target=_blank>
+    Accès à l'outil
+</a>
 
+[^1]: Source : Le site de <a href="https://www.capcut.com/fr-fr/" target=_blank>Capcut</a>
 [^2]: Source : Le forum AI4T 

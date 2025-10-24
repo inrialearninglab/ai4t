@@ -5,7 +5,7 @@ description: Générer des audios à partir de descriptions textuelles.
 
 ## Description[^1]
 
-Udio est une plateforme qui permet de créer, éditer et partager des contenus audios et des musiques.
+Udio est une plateforme américaine qui permet de créer, éditer et partager des contenus audios et des musiques.
 
 ## Fonctionnalités principales
 
@@ -14,10 +14,14 @@ Udio est une plateforme qui permet de créer, éditer et partager des contenus a
 
 ## Exemple d’utilisation en classe[^2]
 
-Une professeur propose à ses élèves qui ont des difficultés de lecture de passer leurs cours sur Udio pour réviser à la maison en leur fournisant un cours écrit. 
+Une professeure propose à ses élèves qui ont des difficultés de lecture de passer leurs cours sur Udio pour réviser à la maison en leur fournisant un cours écrit. 
 
-Lien vers l'outil : [Udio](https://www.udio.com/)
+----
 
-[^1]: Source : Le site d'Udio
+<a class="md-button" href="https://www.udio.com/" target=_blank>
+    Accès à l'outil
+</a>
 
+
+[^1]: Source : Le site web en anglais d'<a href="https://www.udio.com/" target=_blank>Udio</a>
 [^2]: Source : Le forum AI4T 

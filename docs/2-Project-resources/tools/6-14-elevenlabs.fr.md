@@ -25,7 +25,11 @@ Un enseignant de langues utilise Eleven Labs pour créer des fichiers audio dest
 - Assurer une qualité d’enregistrement propre pour un clonage vocal optimal
 - Respecter les droits et l’éthique : ne cloner que sa propre voix ou celle dont vous détenez les droits
 
-Lien vers le site web de l'outil : [Eleven Labs](https://elevenlabs.io/fr)
+----
 
-[^1]: Source : site web officiel d'Elevenlabs.
+<a class="md-button" href="https://elevenlabs.io/fr" target=_blank>
+    Accès à l'outil
+</a>
+
+[^1]: Source : site web d'<a href="https://elevenlabs.io/fr" target=_blank>Elevenlabs</a>.
 [^2]: Source : forum AI4T.

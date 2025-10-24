@@ -16,8 +16,11 @@ Loudme est une plateforme de génération de musiques et effets sonores à parti
 
 Un professeur d'histoire utilise Loudme pour créer des podcasts où il raconte des événements historiques, en modifiant le ton et l’accent des voix selon le contexte, afin de rendre l'apprentissage plus immersif. Les élèves écoutent les podcasts à la maison et répondent à des questions en ligne basées sur le contenu audio.
 
-Lien vers l'outil : [Loud.me ](https://loudme.ai/)
+----
 
-[^1]: Source : Le site de Loudme
+<a class="md-button" href="https://loudme.ai/" target=_blank>
+    Accès à l'outil
+</a>
 
+[^1]: Source : Le site de <a href="historique" target=_blank>Loudme</a>
 [^2]: Source : Le forum AI4T 

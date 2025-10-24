@@ -23,8 +23,12 @@ Un professeur de français utilise Heygen pour créer une vidéo où un avatar i
 
 - Vérifier la prononciation et la fluidité avant de partager la vidéo.
 
-Lien vers l'outil : [Heygen](https://www.heygen.com/fr)
+----
 
-[^1]: Source : Le site de Heygen
+<a class="md-button" href="https://www.heygen.com/fr-fr" target=_blank>
+    Accès à l'outil
+</a>
 
+
+[^1]: Source : Le site de <a href="https://www.heygen.com/fr-fr" target=_blank>Heygen</a>
 [^2]: Source : Le forum AI4T 
