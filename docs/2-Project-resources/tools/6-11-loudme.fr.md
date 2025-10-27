@@ -22,5 +22,5 @@ Un professeur d'histoire utilise Loudme pour créer des podcasts où il raconte 
     Accès à l'outil
 </a>
 
-[^1]: Source : Le site de <a href="historique" target=_blank>Loudme</a>
+[^1]: Source : Le site de <a href="https://loudme.ai/" target=_blank>Loudme</a>
 [^2]: Source : Le forum AI4T 

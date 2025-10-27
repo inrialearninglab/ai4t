@@ -1,5 +1,5 @@
 ---
-title: Miro AI
+title: Miro
 description: Organise, structure and generate ideas on a virtual whiteboard
 ---
 

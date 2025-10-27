@@ -1,5 +1,5 @@
 ---
-title: "Cuenti.to"
+title: "Cuentito"
 description: Générer un conte illustré pour enfants
 ---
 

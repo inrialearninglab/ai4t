@@ -5,7 +5,7 @@ description: Générer ou transcrire une voix
 
 ## Description[^1]
 
-Eleven Labs est une plateforme de synthèse vocale propulsée par l’IA qui permet de créer des voix off ultra-réalistes. Elle permet de générer, cloner et modifier des voix à partir de quelques minutes d’enregistrement audio et prend en charge de nombreuses langues.
+Eleven Labs est une plateforme américaine de synthèse vocale propulsée par l’IA qui permet de créer des voix off ultra-réalistes. Elle permet de générer, cloner et modifier des voix à partir de quelques minutes d’enregistrement audio et prend en charge de nombreuses langues.
 
 ## Fonctionnalités
 

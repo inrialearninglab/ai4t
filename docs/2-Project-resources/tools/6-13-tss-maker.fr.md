@@ -5,7 +5,7 @@ description: Générer une voix à partir d'un texte
 
 ## Description[^1]
 
-TTSMaker est une plateforme gratuite qui transforme un texte écrit en audio grâce à une synthèse vocale IA. Il prend en charge plusieurs langues et différentes voix.
+TTSMaker est une plateforme américaine qui transforme un texte écrit en audio grâce à une synthèse vocale IA. Il prend en charge plusieurs langues et différentes voix.
 
 ## Fonctionnalités
 
@@ -19,9 +19,9 @@ Un enseignant de langues utilise TTSMaker pour générer des fichiers audio avec
 
 ----
 
-<a class="md-button" href="https://ttsmaker.com" target=_blank>
+<a class="md-button" href="https://ttsmaker.com/fra" target=_blank>
     Accès à l'outil
 </a>
 
-[^1]: Source : le site de <a href="https://ttsmaker.com" target=_blank>TTSMaker</a>
+[^1]: Source : le site de <a href="https://ttsmaker.com/fra" target=_blank>TTSMaker</a>
 [^2]: Source : forum AI4T

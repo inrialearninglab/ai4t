@@ -5,7 +5,7 @@ description: Création d'un chatbot d'apprentissage
 
 ## Description[^1]
 
-Mizou est une plateforme de conception de chatbot personnalisé pour l'apprentissage et le suivi d'apprentissage.
+Mizou est une plateforme française de conception de chatbot personnalisé pour l'apprentissage et le suivi d'apprentissage.
 
 ## Fonctionnalités principales
 
@@ -25,9 +25,9 @@ Un professeur de français utilise Mizou comme assistant de grammaire pour ses �
 
 ----
 
-<a class="md-button" href="https://mizou.com/" target=_blank>
+<a class="md-button" href="https://mizou.com/home-fr" target=_blank>
     Accès à l'outil
 </a>
 
-[^1]: Source : le site de <a href="https://mizou.com/" target=_blank>mizou</a>
+[^1]: Source : le site de <a href="https://mizou.com/home-fr" target=_blank>mizou</a>
 [^2]: Source : forum AI4T

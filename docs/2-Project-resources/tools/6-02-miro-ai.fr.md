@@ -1,11 +1,11 @@
 ---
-title: Miro AI
+title: Miro
 description: Organiser, structurer et générer des idées sur tableau blanc virtuel
 ---
 
 ## Description[^1]
 
-Miro est une plateforme de collaboration visuelle basée sur l’intelligence artificielle, utilisée pour la création de tableaux blancs interactifs, le brainstorming, la gestion de projet et la conception collaborative. 
+Miro est une plateforme américaine de travail collaboratif basé sur l’intelligence artificielle. Miro est utilisée pour la création de tableaux blancs collaboratifs, le brainstorming, la gestion de projet et la conception collaborative. 
 
 ## Fonctionnalités
 

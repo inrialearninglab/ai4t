@@ -5,7 +5,7 @@ description: Créer et optimiser des contenus texte et image
 
 ## Description[^1] 
 
-Neuroflash est une plateforme de génération de textes et d'images qui peut être adaptée aux besoins éducatifs, que ce soit pour des articles, des publications sur les réseaux sociaux ou des supports pédagogiques. Elle permet de créer du contenu optimisé et personnalisé en fonction des besoins de l'enseignant ou de l'établissement.
+Neuroflash est une plateforme allemande de génération de textes et d'images qui peut être adaptée aux besoins éducatifs, que ce soit pour des articles, des publications sur les réseaux sociaux ou des supports pédagogiques. Elle permet de créer du contenu optimisé et personnalisé en fonction des besoins de l'enseignant ou de l'établissement.
 
 ## Fonctionnalités
 

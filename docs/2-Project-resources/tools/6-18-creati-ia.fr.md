@@ -1,5 +1,5 @@
 ---
-title: "Creati"
+title: Creati
 description: Portail d'outils basés sur une IA
 ---
 

@@ -5,7 +5,7 @@ description: Générer une image à partir d'un texte
 
 ##  Description[^1]
 
-DALL-E, développé par OpenAI, est capable de créer des images et illustrations à partir d’un texte descriptif.
+DALL-E, logiciel développé par la société américaine OpenAI, est capable de créer des images et illustrations à partir d’un texte descriptif.
 
 ##  Fonctionnalités
 
@@ -15,13 +15,13 @@ DALL-E, développé par OpenAI, est capable de créer des images et illustration
 
 ##  Exemple d’utilisation[^2]
 
-Un enseignant en arts plastiques utilise DALL-E pour initier et former les élèves à l'usage de l'intlligence artificielle générative.
+Un enseignant en arts plastiques utilise DALL-E 3 pour initier et former les élèves à l'usage de l'intlligence artificielle générative.
 
 ----
 
-<a class="md-button" href="https://www.dall-efree.com" target=_blank>
+<a class="md-button" href="https://openai.com/fr-FR/index/dall-e-3/" target=_blank>
     Accès à l'outil
 </a>
 
-[^1]: Source : le site de <a href="https://www.dall-efree.com" target=_blank>Dall-e</a>
+[^1]: Source : le site de <a href="https://openai.com/fr-FR/index/dall-e-3/" target=_blank>Dall-e</a>
 [^2]: Source : Le forum AI4T

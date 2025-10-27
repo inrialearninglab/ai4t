@@ -4,7 +4,7 @@ description: Créer et éditer des vidéos
 ---
 ## Description[^1]
 
-CapCut est une application web et mobile qui permet de créer, monter, et personnaliser des vidéos.
+CapCut est une application web et mobile singapourienne qui permet de créer, monter, et personnaliser des vidéos.
 
 ## Fonctionnalités principales
 

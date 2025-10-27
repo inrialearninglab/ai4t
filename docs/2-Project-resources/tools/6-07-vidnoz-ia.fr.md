@@ -5,12 +5,11 @@ description: Générer et améliorer une vidéo, une voix, une musique ou une im
 
 ## Description[^1]
 
-Vidnoz est une plateforme qui permet de générer, traduire, améliorer des vidéos.
+Vidnoz est une plateforme américaine qui permet de générer, traduire, améliorer des vidéos.
 
 ## Fonctionnalités principales
 
 - Génération automatique de vidéos : Conversion de textes en vidéos animées avec voix-off, images et musiques adaptées.
-
 - Voix-off réaliste : Génération de narration avec des voix naturelles pour accompagner les vidéos.
 
 
@@ -25,5 +24,5 @@ Un professeur de littérature crée une vidéo sur l’analyse d’un poème ave
 </a>
 
 
-[^1]: Source : Le site de <a href="https://www.vidnoz.com/" target=_blank>Vidnoz</a>
+[^1]: Source : Le site en anglais de <a href="https://www.vidnoz.com/" target=_blank>Vidnoz</a>
 [^2]: Source : Le forum AI4T 
