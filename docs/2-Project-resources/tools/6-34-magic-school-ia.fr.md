@@ -1,5 +1,5 @@
 ---
-title: Magic School IA
+title: Magic School
 description: Créer des parcours et activités pédagogiques
 ---
 
@@ -9,15 +9,18 @@ Magic School AI est une plateforme d'intelligence artificielle dédiée à l'éd
 
 ## Fonctionnalités principales
 
-* Planification de leçons : Génération rapide de plans de cours alignés sur les programmes et les objectifs pédagogiques.
-* Création de contenus : Élaboration de quiz, flashcards, résumés, scripts vidéo, newsletters et supports de cours.
+- Planification de leçons : Génération rapide de plans de cours alignés sur les programmes et les objectifs pédagogiques.
+- Création de contenus : Élaboration de quiz, flashcards, résumés, scripts vidéo, newsletters et supports de cours.
 
 ## Exemple concret[^2]
 
-Collège (Français) : Un professeur utilise Magic School AI pour créer un quiz sur les figures de style, générer des flashcards pour réviser les termes clés, et concevoir un script vidéo expliquant les principales figures de style. Les élèves peuvent accéder aux supports via l'ENT et les utiliser en classe ou à la maison.
+Un professeur de collège utilise Magic School pour créer un quiz sur les figures de style, générer des flashcards pour réviser les termes clés, et concevoir un script vidéo expliquant les principales figures de style. Les élèves peuvent accéder aux supports via l'ENT et les utiliser en classe ou à la maison.
 
-Lien de l'outil : [Magic School AI](https://www.magicschool.ai/)
+----
 
-[^1]: Source : le site [Magic School AI](https://www.magicschool.ai/) 
+<a class="md-button" href="https://www.magicschool.ai/" target=_blank>
+    Accès à l'outil
+</a>
 
+[^1]: Source : le site <a href="https://www.magicschool.ai/" target=_blank>Magic School</a>
 [^2]: Source : Forum AI4T

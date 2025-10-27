@@ -1,5 +1,5 @@
 ---
-title: Wave video 
+title: Wave 
 description: Créer, éditer, héberger et partager des vidéos éducatives
 ---
 
@@ -12,6 +12,10 @@ Wave.video est une plateforme en ligne qui permet de créer, éditer, héberger 
 - Montage vidéo par glisser-déposer avec modèles et éléments visuels intégrés.
 - Accès à une banque de contenus libres de droits (vidéos, musiques, images, icônes).
 
-Lien : [https://wave.video](https://wave.video)
+----
 
-[^1]: Source : Site wave.video
+<a class="md-button" href="https://wave.video" target=_blank>
+    Accès à l'outil
+</a>
+
+[^1]: Source : Site <a href="https://wave.video" target=_blank>wave.video</a>

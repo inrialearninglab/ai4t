@@ -1,5 +1,5 @@
 ---
-title: Sydologie IA 
+title: Sydologie
 description: Générer et enrichir la création d'activités pédagogiques
 ---
 
@@ -24,10 +24,13 @@ Un professeur de SVT utilise Sydologie.ai pour créer un module sur le système 
 - Personnalisez les contenus générés** : Bien que l'IA fournisse une base solide, il est essentiel d'adapter les supports à votre contexte spécifique.
 - Utilisez les outils en complément de vos méthodes pédagogiques** : L'IA est un atout, mais elle ne remplace pas l'interaction humaine et l'expertise pédagogique.
 
-## Lien : [Sydologie.ai](https://sydologie.ai)
+----
 
-[^1]: Source : [Sydologie.ai](https://sydologie.ai)
+<a class="md-button" href="https://sydologie.ai" target=_blank>
+    Accès à l'outil
+</a>
 
+[^1]: Source : Site <a href="https://sydologie.ai" target=_blank>sydologie.ai</a>
 [^2]: Source : Forum AI4T
 
 

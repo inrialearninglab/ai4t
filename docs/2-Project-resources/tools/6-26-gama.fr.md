@@ -16,8 +16,11 @@ GAMA est une plateforme d'intelligence artificielle dédiée à la conception qu
 
 Un professeur de géographie utilise GAMA pour créer rapidement ses supports de cours en mettant à jour son contenu selon l'actulité poilitque et géogpraphique mondiale. 
 
-Lien vers l'outil : [Gama](https://gamma.app/fr/products/presentations)
+----
 
-[^1]: Source : Le site de Gama
+<a class="md-button" href="https://gamma.app/fr/products/presentations" target=_blank>
+    Accès à l'outil
+</a>
 
+[^1]: Source : Le site de <a href="https://gamma.app/fr/products/presentations" target=_blank>Gama</a>
 [^2]: Source : Le forum AI4T 

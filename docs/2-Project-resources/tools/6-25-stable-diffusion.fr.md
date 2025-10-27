@@ -8,18 +8,19 @@ Stable Diffusion est un modèle open-source permettant de générer des images d
 
 ## Fonctionnalités
 
--	Génération d’images ultra-réalistes : Capable de créer des paysages, des portraits et des compositions artistiques.
-
--	Personnalisation des styles : Permet de contrôler l’esthétique des images générées.
-
--	Open-source : Possibilité d’être modifié et intégré dans différents projets.
+- Génération d’images ultra-réalistes : Capable de créer des paysages, des portraits et des compositions artistiques.
+- Personnalisation des styles : Permet de contrôler l’esthétique des images générées.
+- Open-source : Possibilité d’être modifié et intégré dans différents projets.
 
 ## Exemple d’utilisation[^2]
 
 Un professeur de faculté se sert de l'aspect open source pour enseigner à ses élèves le fonctionnement de l'IA en terme de code.
 
-Lien vers l'outil : [Stable diffusion](https://stablediffusionweb.com/fr)
+----
 
-[^1]: Source : Le site Stabble diffusion 
+<a class="md-button" href="https://stablediffusionweb.com/fr" target=_blank>
+    Accès à l'outil
+</a>
 
+[^1]: Source : Le site <a href="https://stablediffusionweb.com/fr" target=_blank>Stabble diffusion </a>
 [^2]: Source : Le forum AI4T 

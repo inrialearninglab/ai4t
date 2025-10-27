@@ -1,5 +1,5 @@
 ---
-title: Briskteaching IA
+title: Briskteaching
 description: Générer des supports pédagogiques personnalisés avec Google
 ---
 
@@ -13,6 +13,11 @@ Brisk Teaching est une extension Chrome gratuite dédiée aux enseignants, offra
 - Outils pour l'enseignement spécialisé : Création de plans d'intervention MTSS (Système de soutien à paliers multiples), objectifs IEP (programme éducatif approprié), et supports adaptés aux élèves ayant des besoins particuliers.
 - Gestion administrative : Génération de courriels, bulletins d'information, et notes d'observation pour les enseignants et les administrateurs.
 
+----
+
+<a class="md-button" href="https://www.briskteaching.com/" target=_blank>
+    Accès à l'outil
+</a>
 Lien vers l'outil : [Briskteaching](https://www.briskteaching.com/)
 
-[^1]: Source : Site officiel de Brisk Teaching
+[^1]: Source : Site de <a href="https://www.briskteaching.com/" target=_blank>Brisk Teaching</a>

@@ -17,7 +17,11 @@ Wooflash est une plateforme d’intelligence artificielle permettant de créer d
 
 Un professeur de sciences transforme son cours en une série de questions interactives sur Wooflash. Les élèves répondent via la plateforme, et l’IA ajuste automatiquement les exercices en fonction de leurs erreurs et progrès.
 
-Lien : [wooflash](https://www.wooflash.com)
+----
 
-[^1]: Source : Site [wooflash](https://www.wooflash.com)
+<a class="md-button" href="https://www.wooflash.com" target=_blank>
+    Accès à l'outil
+</a>
+
+[^1]: Source : Site de <a href="https://www.wooflash.com" target=_blank>wooflash</a>
 [^2]: Source : Forum AI4T
