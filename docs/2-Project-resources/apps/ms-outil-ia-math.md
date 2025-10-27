@@ -1,0 +1,30 @@
+---
+title: Outils numériques pour l'enseignement des mathématiques
+description: Assistants pédagogiques intelligents pour personnaliser l'apprentissage en mathématiques
+---
+
+**[ADAPTIV’MATH](https://www.adaptivmath.fr/)**
+
+Assistant pédagogique intelligent permettant de personnaliser les parcours des   et de cibler leurs difficultés.
+- Test initial pour constituer des groupes d’élèves.
+- Analyse régulière des résultats pour reconfigurer les groupes.
+- Évaluation finale et synthèse des résultats pour l’enseignant.
+
+**[MATHIA](https://mathia.education/)**
+
+Dispositif ludique où l’élève progresse en collectionnant des étoiles.
+- Tableau de bord pour suivre la classe et constituer des groupes.
+- Informations synthétiques sur l’acquisition des compétences.
+
+**[SMART ENSEIGNO](https://www.smartenseigno.fr/)**
+
+Plateforme ludique où les élèves évoluent dans un univers spatial pour progresser en mathématiques.
+- Tableau de bord pour suivre la progression individuelle et collective.
+- Parcours personnalisés avec diagnostics et remédiation adaptative.
+
+**Source :**
+
+Ces outils sont proposés sur le site de [l'académie de Paris](https://www.ac-paris.fr/l-intelligence-artificielle-dans-l-education-130992).  
+Ils sont cités dans le forum du MOOC AI4T (Artificial Intelligence For Teacher) : [Lien du forum](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/) (consulté le 19/10/2025).
+Ce site a été mis en valeur pour les outils d'IA destinés aux mathématiques présentés ci-dessus.
+
