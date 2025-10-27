@@ -9,10 +9,6 @@ description: Assistance à la rédaction d'article avec l'IA
 Un des outils les plus populaires pour la correction grammaticale et stylistique. Il propose des améliorations en aidant à structurer les phrases de manière plus fluide.  
 **Exemple d’utilisation** : Un étudiant soumet un brouillon de son article ; l'IA corrige en suggérant des reformulations et améliore la clarté du texte.
 
-- [ChatGPT](https://chat.openai.com/) (Assistant IA)  
-L’IA peut générer des idées pour structurer un article, créer des introductions ou proposer des points de discussion basés sur des résumés ou des données brutes.  
-**Exemple d’utilisation** : Un chercheur utilise ChatGPT pour générer des idées de méthodologie et des reformulations pour son projet de recherche.
-
 - Scrivener avec IA intégrée ([Scrivener](https://www.literatureandlatte.com/scrivener/))  
 Permet d'organiser de grandes quantités de texte et offre des suggestions d’IA pour améliorer la structure des articles.  
 **Exemple d’utilisation** : Un étudiant utilise Scrivener pour rédiger son mémoire en profitant des suggestions IA pour améliorer la cohérence et l’organisation de son travail.
