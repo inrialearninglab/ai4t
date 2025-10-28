@@ -4,7 +4,7 @@ description: Générer des images détaillées et artistiques à partir de texte
 ---
 ## Description[^1]
 
-Stable Diffusion est un modèle open-source permettant de générer des images détaillées et artistiques à partir de descriptions textuelles.
+Stable Diffusion est une application web britanique gratuite qui permet de générer des images détaillées et artistiques à partir de descriptions textuelles.
 
 ## Fonctionnalités
 
@@ -14,7 +14,7 @@ Stable Diffusion est un modèle open-source permettant de générer des images d
 
 ## Exemple d’utilisation[^2]
 
-Un professeur de faculté se sert de l'aspect open source pour enseigner à ses élèves le fonctionnement de l'IA en terme de code.
+Un professeur d'université se sert de l'aspect open source pour enseigner le fonctionnement de l'IA en terme de code.
 
 ----
 

@@ -1,12 +1,12 @@
 ---
 title: ResearchRabbit
-description: Explorer, structurer et suivre un sujet de littérature scientifique
+description: Explorer, structurer et suivre un sujet de littérature académique
 ---
 ## Description[^1]
 
-ResearchRabbit est un outil gratuit de recherche académique lancé en 2021. Il permet d’explorer la littérature scientifique à partir d’articles « seed » et de visualiser les réseaux de citations, co-auteurs et références.
+ResearchRabbit est une plateforme néo-zélandaise gratuite pour la recherche et la veille de littérature académique. Elle permet d’explorer la littérature académique par similutide à un article « seed », de visualiser les réseaux d'articles et de co-auteurs, et de créer ses propres collections de références.
 
-## Fonctionnalités
+## Fonctionnalités[^1]
 
 – Création de collections thématiques à partir d’articles (titre, DOI, URL) ou via import Zotero/RIS/BibTeX.
 – Exploration par similitudes, références citées ou articles citant l’étude.

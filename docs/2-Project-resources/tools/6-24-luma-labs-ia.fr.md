@@ -5,7 +5,7 @@ description: Générer des vidéos et des rendus en 3D à partir de photos et te
 
 ## Description[^1]
 
-Luma est une plateforme qui utilise l’IA pour générer des vidéos et des rendus en 3D à partir de photos et de descriptions textuelles.
+Luma est une plateforme américaine qui utilise l’IA pour générer des vidéos et des rendus en 3D à partir de photos et de descriptions textuelles.
 
 ## Fonctionnalités
 
@@ -15,7 +15,7 @@ Luma est une plateforme qui utilise l’IA pour générer des vidéos et des ren
 
 ## Exemple d’utilisation[^2]
 
-Utilisé par un professeur de tehcnologie, cette IA permet aux élèves de comprendre la 3D et de manipuler des maquettes. 
+Utilisé par un professeur de technologie, cette plateforme permet aux élèves de mieux comprendre la 3D et de manipuler des maquettes. 
 
 ## Conseils pratiques
 
@@ -28,5 +28,5 @@ Utilisé par un professeur de tehcnologie, cette IA permet aux élèves de compr
     Accès à l'outil
 </a>
 
-[^1]: Source : Le site de <a href="https://lumalabs.ai/" target=_blank>Luma labs IA</a>
+[^1]: Source : Le site en anglais de <a href="https://lumalabs.ai/" target=_blank>Luma labs IA</a>
 [^2]: Source : Le forum AI4T 

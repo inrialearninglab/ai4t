@@ -5,19 +5,21 @@ description:
 
 ## Description[^1]
 
-Copilot, développé par Microsoft, est conçu pour aider à la rédaction, la programmation et la gestion de contenu numérique.  Il s’intègre à plusieurs applications (Word, Excel, PowerPoint, GitHub) pour automatiser et optimiser les tâches courantes.
+Copilot, développé par la société américaine Microsoft, est conçu pour aider à la rédaction, la programmation et la gestion de contenu numérique.  Il s’intègre à plusieurs applications (Word, Excel, PowerPoint, GitHub) pour automatiser et optimiser les tâches courantes.
 
-## Fonctionnalités
+## Fonctionnalités[^1]
 
--	Assistance à la rédaction : Génère du texte et propose des corrections intelligentes.
-
--	Aide au développement : Complète automatiquement du code dans des environnements de programmation.
-
--	Création de résumés et de présentations : Synthétise du contenu de manière automatisée.
+- Assistance à la rédaction : Génère du texte et propose des corrections intelligentes.
+- Aide au développement : Complète automatiquement du code dans des environnements de programmation.
+- Création de résumés et de présentations : Synthétise du contenu de manière automatisée.
 
 ## Exemple d’utilisation[^2]
+Des professeurs se servent de copilot pour :  
+- trouver de nouveaux angles d'approche pour des cours ou des projets à proposer aux élèves.  
+- créer des exercices pertinents en cours de bureautique.  
+- élaborer des questionnaires à choix multiples pour des compréhensions orales et écrites.  
+- faire réfléchir les élèves sur les stéréotypes des IA lors de la génération de vidéos à partir de prompts.
 
-Un professeur se sert de copilot pour trouver de nouvelles idées d'angles d'approches pour des cours ou du brainstorming pour des projets à proposer aux élèves.
 
 ----
 
@@ -26,5 +28,5 @@ Un professeur se sert de copilot pour trouver de nouvelles idées d'angles d'app
 </a>
 
 
-[^1]Source : Site <a href="https://copilot.microsoft.com" target=_blank>Copilot</a>
-[^2]Source : Le forum d'AI4T
+[^1]: Source : Site <a href="https://copilot.microsoft.com" target=_blank>Copilot</a>
+[^2]: Source : Le forum d'AI4T

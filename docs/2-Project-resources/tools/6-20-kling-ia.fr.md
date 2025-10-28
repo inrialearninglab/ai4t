@@ -1,25 +1,32 @@
 ---
 title: Kling
-description: 
+description: Générer des vidéos et des images de qualité professionnelle
 ---
 
 ## Description[^1]
 
-Kling automatically generates videos by integrating artificial voices, animations, and subtitles.
+Kling est une platefome web chinoise qui permet la génération automatique de vidéos avec intégration de voix artificielles, animations et sous-titres.
 
-## Features
+## Features[^1]
 
-- Automatic video generation: Converts text into animated videos with voiceovers.
+- Génération automatique de vidéo : Convertit du texte en animation vidéo avec voix off.
+- Adaptation d'éléments visuels : Ajoute des avatars animés, sous-titres et transitions.
+- Intégration de voix IA : Voix naturelles pour une narration fluide.
 
-- Customisation of visual elements: Add animated avatars, subtitles and transitions.
+## Exemple d’utilisation[^2]
 
-- AI voice integration: Natural voices for smooth narration.
+Un professeur d'arts plastiques cite la plateforme Kling pour la génération de vidéos. Autre exemple : un formateur l'utilise pour transformer ses supports de formation en vidéos interactives avec narration.
+
+## Conseils pratiques 
+✅ Expérimenter avec différentes voix et animations pour varier les styles de présentation.
+✅ Vérifier la qualité de la voix générée pour s’assurer d’une intonation naturelle.
 
 ----
 
-<a class="md-button" href="https://app.klingai.com" target=_blank>
+<a class="md-button" href="https://klingai.com/global/" target=_blank>
     Accès à l'outil
 </a>
 
 
-[^1]: Source: Site de <a href="https://app.klingai.com" target=_blank>Kling</a>
+[^1]: Source: Site en anglais de <a href="https://klingai.com/global/" target=_blank>Kling</a>
+[^2]: Source : Le forum d'AI4T
