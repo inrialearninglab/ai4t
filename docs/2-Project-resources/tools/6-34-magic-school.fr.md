@@ -14,7 +14,8 @@ Magic School AI est une plateforme américaine dédiée à l'éducation. Elle in
 
 ## Exemple d'utilisation[^2]
 
-Magic School a été experimenté par les enseignants notamment pour :
+Magic School a été experimenté par les enseignants notamment pour : 
+
 - résumer des textes, les adpater à différents niveaux
 - créer des quiz et concevoir un script vidéo sur les figures de style, 
 - générer des flashcards de révision sur des termes clés,  
@@ -28,5 +29,5 @@ Parmi les outils de Magic School, certains ont été testés et contextualisés 
     Accès à l'outil
 </a>
 
-[^1]: Source : le site <a href="https://www.magicschool.ai/" target=_blank>Magic School</a>
+[^1]: Source : le site en anglais de <a href="https://www.magicschool.ai/" target=_blank>Magic School</a>
 [^2]: Source : Forum AI4T

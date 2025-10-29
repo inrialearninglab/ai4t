@@ -1,5 +1,5 @@
 ---
-title: Skechtbook
+title: Sketchbook
 description: Créer des croquis et des œuvres numériques
 ---
 
