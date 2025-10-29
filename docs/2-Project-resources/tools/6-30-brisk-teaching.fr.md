@@ -5,7 +5,7 @@ description: Générer des supports pédagogiques personnalisés avec Google
 
 ## Description[^1]
 
-Brisk Teaching est une extension Chrome gratuite dédiée aux enseignants, offrant plus de 30 outils d'intelligence artificielle pour simplifier la planification, l'évaluation et la différenciation pédagogique. Elle s'intègre directement dans les applications Google (Docs, Slides, Classroom, Forms) et permet de générer instantanément des supports pédagogiques personnalisés, tout en offrant des retours ciblés sur les productions des élèves.
+Brisk Teaching est plateforme américaine dédiée aux enseignants. Par une extension sur les navigateurs Chrome et Edge, elle offre plus de 30 outils d'intelligence artificielle pour simplifier la planification, l'évaluation et la différenciation pédagogique. Elle s'intègre directement dans les applications Google (Docs, Slides, Classroom, Forms) et permet de générer des supports pédagogiques personnalisés, tout en offrant des retours ciblés sur les productions des élèves.
 
 ## Fonctionnalités principales
 
@@ -18,6 +18,5 @@ Brisk Teaching est une extension Chrome gratuite dédiée aux enseignants, offra
 <a class="md-button" href="https://www.briskteaching.com/" target=_blank>
     Accès à l'outil
 </a>
-Lien vers l'outil : [Briskteaching](https://www.briskteaching.com/)
 
 [^1]: Source : Site de <a href="https://www.briskteaching.com/" target=_blank>Brisk Teaching</a>
