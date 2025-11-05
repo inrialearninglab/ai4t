@@ -31,11 +31,8 @@ Le RAG (Retrieval-Augmented Generation) associe un moteur de recherche interne �
 - Suivi des progrès et adaptation des activités selon le niveau de l’élève.
 
 ## Outils pour RAG cité dans le forum AI4T
-- ChatGPT : génération de texte, correction, création de supports.
-- Perplexity AI : recherche documentaire et scénarios réalistes.
-- Claude AI : aide à la créativité et à la structuration des contenus.
+- Poe IA : Interface d'uilisation de LMS
 - Brisk Teaching / Nolej AI : génération de questionnaires et contenus interactifs.
-- Canva IA : production de supports visuels pour illustrer les contenus générés.
 
 ## Bonnes pratiques
 - Limiter l’IA aux supports validés pour réduire les hallucinations.

@@ -4,7 +4,7 @@ description: Rechercher, extraire ou ajouter des DOI
 ---
 
 **[Zotero](https://www.zotero.org/) & [EndNote](https://endnote.com/) (avec IA intégrée)**  
-Ces outils populaires de gestion bibliographique peuvent être améliorés par des plugins IA, qui extraient automatiquement des métadonnées à partir de pages web, PDF ou DOI pour ajouter des références à une bibliothèque.  
+Ces outils de gestion bibliographique peuvent être améliorés par des plugins IA, qui extraient automatiquement des métadonnées à partir de pages web, PDF ou DOI pour ajouter des références à une bibliothèque.  
 Exemple d’utilisation : Un étudiant cherche un article scientifique sur Google Scholar, en extrait automatiquement les métadonnées et les ajoute directement à sa bibliothèque Zotero.
 
 **[CrossRef Metadata Search](https://www.crossref.org/)**  

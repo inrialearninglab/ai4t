@@ -25,11 +25,7 @@ Permettre aux enseignants d’automatiser la correction des devoirs et évaluati
 - [Gradescope](https://www.gradescope.com/) : correction automatisée et semi-automatisée des examens et devoirs.
 - [Turnitin Draft Coach](https://www.turnitin.com/) : suggestions d’amélioration et détection de plagiat.
 - [Moodle avec plugins IA](https://moodle.org/) : correction automatique et feedback personnalisé.
-- Autres outils IA pouvant être intégrés : [ChatGPT](https://chat.openai.com) pour générer des commentaires ou analyser les travaux.
+- Autres outils IA pouvant être intégrés : [ChatGPT](https://chat.openai.com) pour générer des commentaires ou analyser les travaux
 
-**Conseils pratiques**
-
-- Vérifier régulièrement les corrections pour éviter des erreurs d’interprétation.
-- Compléter le retour automatisé avec un suivi humain pour garantir la pertinence pédagogique.
-- Combiner plusieurs outils pour maximiser l’efficacité et la précision de la correction.  
-
+Ces outils sont cités dans le forum du MOOC AI4T (Artificial Intelligence For Teacher) : [Lien du forum](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/) (consulté le 19/10/2025).
+Les informations présentées sont extraites des sites officiels de chaque outil.

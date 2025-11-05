@@ -14,7 +14,7 @@ Gamma est une plateforme américaine dédiée à la conception et création de p
 
 ## Exemple d’utilisation[^2]
 
-Un professeur de géographie utilise Gamma pour créer rapidement ses supports de cours en mettant à jour son contenu selon l'actualité poilitque et géogpraphique mondiale. 
+Un professeur de langue a  proposé aux élèves de lycée d’utiliser Gamma App, qui intègre une IA et un service de text-to-speech, pour créer et présenter des contenus. L’bjectif étant de soutenir ceux qui ont des difficultés de prononciation.
 
 ----
 

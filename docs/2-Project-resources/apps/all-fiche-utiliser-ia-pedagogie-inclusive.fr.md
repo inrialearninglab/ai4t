@@ -3,6 +3,7 @@ title: Faciliter la pédagogie inclusive avec l'IA
 description: Utiliser l’intelligence artificielle pour favoriser l’accessibilité et la différenciation en classe  
 ---
 
+
 ## Faciliter la compréhension avec le Facile à Lire et à Comprendre (FALC)
 
 Principe :  
@@ -47,4 +48,5 @@ Un enseignant peut utiliser une IA pour reformuler un message à destination d�
 
 ---
 
-Source : Forum AI4T
+Méthode et conseil extrait du forum du MOOC AI4T (Artificial Intelligence For Teacher) : [Lien du forum](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/) (consulté le 19/10/2025).
+

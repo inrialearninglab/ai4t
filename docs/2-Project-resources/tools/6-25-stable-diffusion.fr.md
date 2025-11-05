@@ -14,7 +14,7 @@ Stable Diffusion est une application web britanique gratuite qui permet de gén�
 
 ## Exemple d’utilisation[^2]
 
-Un professeur d'université se sert de l'aspect open source pour enseigner le fonctionnement de l'IA en terme de code.
+Un professeur de français langue étrangère a utilisé Stable Diffusion pour montrer que les intelligences artificielles ne sont pas neutres et peuvent générer des résultats contenant des stéréotypes.
 
 ----
 

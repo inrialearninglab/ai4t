@@ -2,7 +2,6 @@
 title: Se former et former à l'IA en tant qu'enseignant
 description: Plateformes de formation à l'IA pour enseignants 
 ---
-Outil de formation à l'IA sités par les enseignants dans le forum du MOOC AI4T (Artificial Intelligence For Teacher) : https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/
 
 ## [Coursera for Educators](https://www.coursera.org/)
 Coursera est une plateforme d'apprentissage en ligne proposant des cours pour les enseignants, incluant l’utilisation de l'IA en éducation. Les formations couvrent l’analyse de données éducatives, la gestion de classe, et l’utilisation de l’IA pour personnaliser l’apprentissage.
@@ -23,3 +22,5 @@ Plateforme proposant des formations et des ressources pédagogiques pour intégr
 
 ## [Pix – Campagnes de formation](https://app.pix.org/campagnes/JJTQKS244/presentation)
 Site pour former les enseignants et élèves aux compétences numériques, avec un focus sur l’utilisation de l’IA et l’évaluation des compétences numériques.
+
+Source : Outil de formation à l'IA cités par les enseignants dans le forum du MOOC AI4T (Artificial Intelligence For Teacher) : [Lien du forum](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/) (consulté le 19/10/2025).

@@ -13,11 +13,6 @@ Wooflash est une plateforme belge qui permet de créer des ressources pédagogiq
 - Suivi de progression : analyse des performances des élèves et adaptation du contenu.
 - Statistiques détaillées : retour précis sur les acquis et les lacunes des élèves.
 
-
-## Exemple d'utilisation[^2]
-
-Un professeur de sciences transforme son cours en une série de questions interactives sur Wooflash. Les élèves répondent via la plateforme, et l’IA ajuste automatiquement les exercices en fonction de leurs erreurs et progrès.
-
 ----
 
 <a class="md-button" href="https://www.wooflash.com/fr/" target=_blank>

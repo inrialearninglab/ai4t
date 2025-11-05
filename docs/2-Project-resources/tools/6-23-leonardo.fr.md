@@ -14,7 +14,7 @@ Leonardo est une plateforme australienne permettant de créer des images et des 
 
 ## Exemple d’utilisation[^2]
 
-Une professeur de français à créé un court métrage avec ses élèves pour travailler sur les différentes formes de discrimination.
+Une professeur principal en vie de classe à créé un court métrage avec ses élèves pour travailler sur les différentes formes de discrimination.
 
 ----
 
