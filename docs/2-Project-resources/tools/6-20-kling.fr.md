@@ -28,5 +28,6 @@ Un professeur d'arts plastiques cite la plateforme Kling pour la génération de
 </a>
 
 
-[^1]: Source: Site en anglais de <a href="https://klingai.com/global/" target=_blank>Kling</a>
-[^2]: Source : Le forum d'AI4T
+[^1]: Source: Site en anglais de <a href="https://klingai.com/global/" target=_blank>Kling</a> consulté le 01/10/2025
+
+[^2]: Source: Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025

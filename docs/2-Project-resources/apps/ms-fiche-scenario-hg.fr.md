@@ -3,7 +3,7 @@ title: Sensibiliser aux catastrophes naturelles avec l’IA
 description: Activités pédagogiques pour sensibiliser les élèves aux risques liés aux catastrophes naturelles
 ---
 
-Ce programme pédagogique a pour but de sensibiliser les élèves aux risques liés aux catastrophes naturelles. Il a été presenté sur le forum AI4T, destiné à des cours de géographie ou EMC niveau collège. 
+Ce programme pédagogique a pour but de sensibiliser les élèves aux risques liés aux catastrophes naturelles. Il destiné à des cours de géographie niveau collège. Il a été presenté sur Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025
 
 ## Liste des outils utilisés
 

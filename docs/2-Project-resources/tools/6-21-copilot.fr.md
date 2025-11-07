@@ -28,5 +28,6 @@ Des professeurs se servent de copilot pour :
 </a>
 
 
-[^1]: Source : Site <a href="https://copilot.microsoft.com" target=_blank>Copilot</a>
-[^2]: Source : Le forum d'AI4T
+[^1]: Source: Site web de [Copilot](https://copilot.microsoft.com) - consulté le 01/10/2025
+
+[^2]: Source: Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025

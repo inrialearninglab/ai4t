@@ -18,4 +18,4 @@ Wave.video est une plateforme américaine qui permet de créer, éditer, héberg
     Accès à l'outil
 </a>
 
-[^1]: Source : Site <a href="https://wave.video/fr/" target=_blank>wave.video</a>
+[^1]: Source: Site web de [Wave](https://fr.wavel.ai/) - consulté le 01/10/2025

@@ -36,7 +36,5 @@ Le RAG (Retrieval-Augmented Generation) associe un moteur de recherche interne �
 
 ## Bonnes pratiques
 - Limiter l’IA aux supports validés pour réduire les hallucinations.
-- Former les enseignants à l’utilisation de ces outils.
-- Utiliser RAG pour tutorat virtuel plutôt que pour remplacer l’enseignant.
 - Adapter les contenus selon le public : remédiation, consolidation, dépassement.
 

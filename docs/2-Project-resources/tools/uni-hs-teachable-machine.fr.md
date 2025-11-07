@@ -22,12 +22,12 @@ Un enseignant de sciences demande aux élèves d'entraîner un modèle pour reco
 - Utiliser des exemples variés pour éviter les biais dans l’IA.
 - Vérifier la précision du modèle et ajuster les données d’entraînement si nécessaire.
 
-----
+-- à
 
 <a class="md-button" href="https://teachablemachine.withgoogle.com/" target=_blank>
     Accès à l'outil
 </a>
 
 
-[^1]: Source : Le site de <a href="https://teachablemachine.withgoogle.com/" target=_blank>Teachable</a>
-[^2]: Source : Le forum AI4T 
+[^1]: Source: Site web de [Teachable mechine](https://teachablemachine.withgoogle.com/train) - consulté le 01/10/2025
+[^2]: Source : Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025

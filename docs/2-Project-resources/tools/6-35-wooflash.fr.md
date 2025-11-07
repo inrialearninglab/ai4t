@@ -19,5 +19,6 @@ Wooflash est une plateforme belge qui permet de créer des ressources pédagogiq
     Accès à l'outil
 </a>
 
-[^1]: Source : Site de <a href="https://www.wooflash.com/fr/" target=_blank>wooflash</a>
-[^2]: Source : Forum AI4T
+[^1]: Source: Site web de [Wooflash](https://www.wooflash.com/fr/) - consulté le 01/10/2025
+
+[^2]: Source : Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025

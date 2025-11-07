@@ -3,6 +3,9 @@ title: Analyser de données en sciences humaines
 description: Analyse de textes et données qualitatives
 ---
 
+Ces outils sont cités sur le site du forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025
+Les informations présentées ci-dessous sont extraites des sites officiels de chaque outil.
+
 **Analyse d'entretiens**
 
 - [NVivo](https://www.qsrinternational.com/nvivo-qualitative-data-analysis-software/home) (avec IA intégrée)  
@@ -19,8 +22,4 @@ Logiciel d’analyse qualitative utilisant l’IA pour automatiser l’étiqueta
 [DataRobot](https://www.datarobot.com/) (pour l'analyse prédictive)  
 Plateforme d’analyse de données utilisant l’IA pour automatiser l’analyse de grandes quantités de données et effectuer des prévisions afin de mieux comprendre les tendances.
 
---- 
 
-Source :
-Ces outils sont cités sur le site du MOOC AI4T (Artificial Intelligence For Teacher) pour un public universitaire : [Lien du forum](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/) (consulté le 19/10/2025).  
-Les informations présentées ci-dessous sont extraites des sites officiels de chaque outil.

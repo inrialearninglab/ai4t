@@ -69,5 +69,5 @@ description: Méthodes pour une utilisation efficace des IA conversationnelles
 
 ---
 
-[^1]:Ces méthodes sont cités sur le forum du MOOC AI4T (Artificial Intelligence For Teacher) : [Lien du forum](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/) (consulté le 19/10/2025).
+[^1]:Ces méthodes sont cités sur le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025
 [^2]: [Site de la DRANE – académie de Versailles](https://www.dane.ac-versailles.fr/spip.php?article792) consultation au 24/10/2025

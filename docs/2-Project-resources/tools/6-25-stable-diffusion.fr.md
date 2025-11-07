@@ -22,5 +22,5 @@ Un professeur de français langue étrangère a utilisé Stable Diffusion pour m
     Accès à l'outil
 </a>
 
-[^1]: Source : Le site <a href="https://stablediffusionweb.com/fr" target=_blank>Stabble diffusion </a>
-[^2]: Source : Le forum AI4T 
+[^1]: Source: Site web de [Stabble diffusion](https://stablediffusionweb.com/fr) - consulté le 01/10/2025
+[^2]: Source : Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025

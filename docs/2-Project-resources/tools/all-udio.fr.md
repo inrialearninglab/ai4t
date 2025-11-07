@@ -19,5 +19,5 @@ Udio est une plateforme américaine qui permet de créer, éditer et partager de
 </a>
 
 
-[^1]: Source : Le site web en anglais d'<a href="https://www.udio.com/" target=_blank>Udio</a>
-[^2]: Source : Le forum AI4T 
+[^1]: Source: Site web de [Udio](https://www.udio.com/) - consulté le 01/10/2025
+[^2]: Source : Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025

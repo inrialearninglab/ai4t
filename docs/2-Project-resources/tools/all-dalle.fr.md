@@ -23,5 +23,6 @@ Un enseignant en arts plastiques utilise DALL-E 3 pour initier et former les él
     Accès à l'outil
 </a>
 
-[^1]: Source : le site de <a href="https://openai.com/fr-FR/index/dall-e-3/" target=_blank>Dall-e</a>
-[^2]: Source : Le forum AI4T
+[^1]: Source: Site web de [dall e](https://openai.com/fr-FR/index/dall-e-3/) - consulté le 01/10/2025
+
+[^2]: Source : Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025

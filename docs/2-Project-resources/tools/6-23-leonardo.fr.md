@@ -22,5 +22,5 @@ Une professeur principal en vie de classe à créé un court métrage avec ses �
     Accès à l'outil
 </a>
 
-[^1]: Source : Le site en anglais de <a href="https://leonardo.ai/" target=_blank>Leonardo</a>
-[^2]: Source : Le forum AI4T 
+[^1]: Source: Site web anglais de [Leonardo IA](https://leonardo.ai/) - consulté le 01/10/2025
+[^2]: Source : Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025

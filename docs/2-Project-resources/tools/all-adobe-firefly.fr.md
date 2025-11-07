@@ -19,6 +19,5 @@ Firefly est une application Web de la société américaine Adobe pour générer
     Accès à l'outil
 </a>
 
-
-[^1]: Source : le site <a href="https://www.adobe.com/fr/products/firefly.html" target=_blank>Adobe firefly</a>
+[^1]: Source: Site web de [Adobe Firefly](https://www.adobe.com/fr/products/firefly.html) - consulté le 01/10/2025
 

@@ -18,4 +18,4 @@ Kling.ai automatically generates videos by integrating artificial voices, animat
 Website link: [Kling AI](https://app.klingai.com)
 
 
-[^1]: Kling AI website 
+[^1]: Kling AI website <a href="https://klingai.com/global/" target=_blank>Kling</a> accessed on 01/10/2025 

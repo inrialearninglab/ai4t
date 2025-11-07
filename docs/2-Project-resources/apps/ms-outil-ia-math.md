@@ -2,6 +2,8 @@
 title: Outils numériques pour l'enseignement des mathématiques
 description: Assistants pédagogiques intelligents pour personnaliser l'apprentissage en mathématiques
 ---
+Ces outils destinés à aider les apprenants en mathématiques sont proposés sur le site de [l'académie de Paris](https://www.ac-paris.fr/l-intelligence-artificielle-dans-l-education-130992).  
+Ils ont aussi été cités dans Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025
 
 **[ADAPTIV’MATH](https://www.adaptivmath.fr/)**
 
@@ -21,10 +23,4 @@ Dispositif ludique où l’élève progresse en collectionnant des étoiles.
 Plateforme ludique où les élèves évoluent dans un univers spatial pour progresser en mathématiques.
 - Tableau de bord pour suivre la progression individuelle et collective.
 - Parcours personnalisés avec diagnostics et remédiation adaptative.
-
-**Source :**
-
-Ces outils sont proposés sur le site de [l'académie de Paris](https://www.ac-paris.fr/l-intelligence-artificielle-dans-l-education-130992).  
-Ils sont cités dans le forum du MOOC AI4T (Artificial Intelligence For Teacher) : [Lien du forum](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/) (consulté le 19/10/2025).
-Ce site a été mis en valeur pour les outils d'IA destinés aux mathématiques présentés ci-dessus.
 

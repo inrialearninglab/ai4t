@@ -29,5 +29,6 @@ Un professeur de français utilise Mizou comme assistant de grammaire pour ses �
     Accès à l'outil
 </a>
 
-[^1]: Source : le site de <a href="https://mizou.com/home-fr" target=_blank>mizou</a>
-[^2]: Source : forum AI4T
+[^1]: Source: Site web de [Mizou](https://mizou.com/home-fr) - consulté le 01/10/2025
+
+[^2]: Source : Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025

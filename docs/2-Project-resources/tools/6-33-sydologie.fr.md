@@ -29,6 +29,6 @@ Un professeur de SVT utilise Sydologie.ai pour créer un module sur le système 
     Accès à l'outil
 </a>
 
-[^1]: Source : Site <a href="https://sydologie.ai" target=_blank>sydologie.ai</a>
+[^1]: Source: Site web de [Sydologie IAl](https://sydologie.ai) - consulté le 01/10/2025
 
 

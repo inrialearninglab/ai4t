@@ -24,5 +24,5 @@ Un professeur de faculté apprend à ses élèves à structurer leurs recherches
     Accès à l'outil
 </a>
 
-[^1]: Source: Site <a href="https://www.researchrabbit.ai/" target=_blank>ResearchRabbit</a>
-[^2]: Source: Forum AI4T
+[^1]: Source: Site web de [Research rabbit](https://www.researchrabbit.ai/) - consulté le 01/10/2025
+[^2]: Source: Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025

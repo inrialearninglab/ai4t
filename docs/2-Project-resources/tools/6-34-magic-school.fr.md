@@ -29,5 +29,6 @@ Parmi les outils de Magic School, certains ont été testés et contextualisés 
     Accès à l'outil
 </a>
 
-[^1]: Source : le site en anglais de <a href="https://www.magicschool.ai/" target=_blank>Magic School</a>
-[^2]: Source : Forum AI4T
+[^1]: Source: Site web anglaise de [Magic school](https://www.magicschool.ai/) - consulté le 01/10/2025
+
+[^2]: Source : Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025
