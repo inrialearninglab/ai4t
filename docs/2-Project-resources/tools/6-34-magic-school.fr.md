@@ -21,7 +21,7 @@ Magic School a été experimenté par les enseignants notamment pour :
 - générer des flashcards de révision sur des termes clés,  
 - générer un résumé et des questions QCM en 3 langues (anglais, français et vietnamien) à partir de vidéos de cours. 
 
-Parmi les outils de Magic School, certains ont été testés et contextualisés par un enseignant Inspé de l’académie de Créteil dans le document "<a href="https://nuage02.apps.education.fr/index.php/s/WiHeKXKHtTwcd7E" target=_blank>Découverte de Magic School"</a> sur l'espace partagé de l'éducation nationale française.
+Parmi les outils de Magic School, certains ont été testés[^3] et contextualisés par un enseignant de l'INSPÉ Académie de Créteil.
 
 ----
 
@@ -29,6 +29,8 @@ Parmi les outils de Magic School, certains ont été testés et contextualisés 
     Accès à l'outil
 </a>
 
-[^1]: Source: Site web anglaise de [Magic school](https://www.magicschool.ai/) - consulté le 01/10/2025
+[^1]: Source: Site web anglaise de [Magic school](https://www.magicschool.ai/) - consulté le 01/10/2025.
 
-[^2]: Source : Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025
+[^2]: Source : Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025.
+
+[^3]: Source : "<a href="https://nuage02.apps.education.fr/index.php/s/WiHeKXKHtTwcd7E" target=_blank>Découverte de Magic School"</a> sur l'espace partagé de l'éducation nationale française. Consulté le 01/07/2025.

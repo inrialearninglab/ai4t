@@ -10,7 +10,7 @@ Udio est une plateforme américaine qui permet de créer, éditer et partager de
 ## Fonctionnalités principales
 
 - Génération de voix off : Créer des narrations audio à partir de textes, avec une large gamme de voix et de tonalités.
-- Conversion texte en audio : Convertissez facilement des documents textuels en fichiers audio, ce qui permet de rendre du contenu plus accessible.
+- Conversion texte en audio : Convertir des documents textuels en fichiers audio pour rendre le contenu plus accessible.
 
 ----
 

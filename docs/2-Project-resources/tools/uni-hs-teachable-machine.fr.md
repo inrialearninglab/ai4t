@@ -22,8 +22,7 @@ Un enseignant de sciences demande aux élèves d'entraîner un modèle pour reco
 - Utiliser des exemples variés pour éviter les biais dans l’IA.
 - Vérifier la précision du modèle et ajuster les données d’entraînement si nécessaire.
 
--- à
-
+----
 <a class="md-button" href="https://teachablemachine.withgoogle.com/" target=_blank>
     Accès à l'outil
 </a>
