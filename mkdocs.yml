@@ -125,7 +125,7 @@ extra:
         use:
           fr: Exercices de français adapté au niveau de l'élève
           en: French exercises adapted to the student's level
-        link: 2-Project-resources/6-tools/6-01-lalilo
+        link: 2-Project-resources/tools/elem-lalilo
     # Liste des applications pédagogiques
     applications:
       - level: uni-hs
