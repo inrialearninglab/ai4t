@@ -1,6 +1,7 @@
 ---
 title: Correction automatisée des travaux avec l’IA
 description: Utilisation de l’IA pour assister les enseignants dans la correction 
+---
 
 **Objectif :**
 
