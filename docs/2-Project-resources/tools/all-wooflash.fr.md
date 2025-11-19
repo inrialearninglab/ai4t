@@ -7,7 +7,7 @@ description: Générer des ressources pédagogiques et suivre la progression des
 
 Wooflash est une plateforme belge qui permet de créer des ressources pédagogiques, de suivre la progression des élèves et planifier des révisions avec un système d’apprentissage adaptatif.
 
-## Fonctionnalités
+## Fonctionnalités[^1]
 
 - Génération de modules pédagogiques interactifs (dont quiz) adaptés au niveau des apprenants.
 - Suivi de progression : analyse des performances des élèves et adaptation du contenu.
@@ -21,4 +21,3 @@ Wooflash est une plateforme belge qui permet de créer des ressources pédagogiq
 
 [^1]: Source: Site web de [Wooflash](https://www.wooflash.com/fr/) - consulté le 01/10/2025
 
-[^2]: Source : Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025

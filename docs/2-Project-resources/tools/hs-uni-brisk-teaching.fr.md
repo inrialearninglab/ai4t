@@ -7,7 +7,7 @@ description: Générer des supports pédagogiques personnalisés avec Google
 
 Brisk Teaching est plateforme américaine dédiée aux enseignants. Par une extension sur les navigateurs Chrome et Edge, elle offre plus de 30 outils d'intelligence artificielle pour simplifier la planification, l'évaluation et la différenciation pédagogique. Elle s'intègre directement dans les applications Google (Docs, Slides, Classroom, Forms) et permet de générer des supports pédagogiques personnalisés, tout en offrant des retours ciblés sur les productions des élèves.
 
-## Fonctionnalités principales
+## Fonctionnalités[^1]
 
 - Génération de supports pédagogiques : Création rapide de plans de leçons, quiz, présentations, lettres de recommandation, tests de pratique (SAT, ACT), et plus encore.
 - Outils pour l'enseignement spécialisé : Création de plans d'intervention MTSS (Système de soutien à paliers multiples), objectifs IEP (programme éducatif approprié), et supports adaptés aux élèves ayant des besoins particuliers.

@@ -5,9 +5,9 @@ description: Créer des parcours et activités pédagogiques
 
 ## Description[^1]
 
-Magic School AI est une plateforme américaine dédiée à l'éducation. Elle intègre plus de <a href="https://www.magicschool.ai/" target=_blank>80 outils pour les enseignants et plus de 50 pour les élèves</a>, incluant la planification de cours, la création de contenus, l'évaluation, la différenciation pédagogique et l'acculturation à l'IA.
+Magic School AI est une plateforme américaine dédiée à l'éducation. Elle intègre plus de 80 outils pour les enseignants et plus de 50 pour les élèves</a>, incluant la planification de cours, la création de contenus, l'évaluation, la différenciation pédagogique et l'acculturation à l'IA.
 
-## Fonctionnalités principales[^1]
+## Fonctionnalités[^1]
 
 - Planification de leçons : Génération rapide de plans de cours alignés sur les programmes et les objectifs pédagogiques.
 - Création de contenus : Élaboration de quiz, flashcards, résumés, scripts vidéo, newsletters et supports de cours.

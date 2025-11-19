@@ -7,7 +7,7 @@ description: Generate an artistic image
 
 Adobe Firefly is a web application for generating images with artistic parameter control.
 
-##  Features
+##  Features[^1]
 
 - Image and visual effects generation: Instantly create textures, illustrations, and special effects.
 - Integration with Adobe Creative Suite: Compatible with Photoshop, Illustrator, and other Adobe software.

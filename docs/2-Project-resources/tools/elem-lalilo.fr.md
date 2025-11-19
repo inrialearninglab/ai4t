@@ -3,7 +3,7 @@ title: Lalilo
 description: Utiliser l’IA pour une pédagogie inclusive 
 ---
 
-## Description
+## Description[^1]
 
 Lalilo est une application web qui propose des exercices de français et et de lecture qui s'adaptent au niveau de l'enfant. 
 

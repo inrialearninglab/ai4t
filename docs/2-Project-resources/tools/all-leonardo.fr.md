@@ -12,10 +12,6 @@ Leonardo est une plateforme australienne permettant de créer des images et des 
 - Animation d’images : Transforme des images statiques en courtes animations.
 - Personnalisation des styles : Possibilité de générer des illustrations dans différents styles artistiques.
 
-## Exemple d’utilisation[^2]
-
-Une professeure principale, en vie de classe, a créé un court métrage avec ses élèves pour travailler sur les différentes formes de discrimination.
-
 ----
 
 <a class="md-button" href="https://leonardo.ai/" target=_blank>
@@ -23,4 +19,3 @@ Une professeure principale, en vie de classe, a créé un court métrage avec se
 </a>
 
 [^1]: Source: Site web anglais de [Leonardo IA](https://leonardo.ai/) - consulté le 01/10/2025
-[^2]: Source : Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025

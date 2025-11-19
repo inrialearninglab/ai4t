@@ -7,7 +7,7 @@ description: Générer ou transcrire une voix
 
 Eleven Labs est une plateforme américaine de synthèse vocale propulsée par l’IA qui permet de créer des voix off ultra-réalistes. Elle permet de générer, cloner et modifier des voix à partir de quelques minutes d’enregistrement audio et prend en charge de nombreuses langues.
 
-## Fonctionnalités
+## Fonctionnalités[^1]
 
 * Synthèse vocale multilingue : génération de voix naturelles dans plusieurs langues et accents
 * Clonage vocal professionnel : création d’une réplique fidèle de votre voix à partir d’enregistrements audio
@@ -20,7 +20,7 @@ Eleven Labs est une plateforme américaine de synthèse vocale propulsée par l�
 
 Un enseignant de langues utilise Eleven Labs pour créer des fichiers audio destinés à ses élèves. Il génère plusieurs voix pour des dialogues en anglais afin que les apprenants puissent écouter différents accents et intonations.
 
-## Conseils pratiques
+## Conseils pratiques[^2]
 
 - Assurer une qualité d’enregistrement propre pour un clonage vocal optimal
 - Respecter les droits et l’éthique : ne cloner que sa propre voix ou celle dont vous détenez les droits

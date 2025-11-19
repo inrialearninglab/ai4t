@@ -7,7 +7,7 @@ description:
 
 Kling.ai automatically generates videos by integrating artificial voices, animations, and subtitles.
 
-## Features
+## Fonctionnalités [^1]
 
 - Automatic video generation: Converts text into animated videos with voiceovers.
 

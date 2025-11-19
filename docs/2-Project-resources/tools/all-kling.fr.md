@@ -7,7 +7,7 @@ description: Générer des vidéos et des images de qualité professionnelle
 
 Kling est une platefome web chinoise qui permet la génération automatique de vidéos avec intégration de voix artificielles, animations et sous-titres.
 
-## Features[^1]
+## Fonctionnalités [^1]
 
 - Génération automatique de vidéo : Convertit du texte en animation vidéo avec voix off.
 - Adaptation d'éléments visuels : Ajoute des avatars animés, sous-titres et transitions.
@@ -15,11 +15,12 @@ Kling est une platefome web chinoise qui permet la génération automatique de v
 
 ## Exemple d’utilisation[^2]
 
-Un professeur d'arts plastiques cite la plateforme Kling pour la génération de vidéos. Autre exemple : un formateur l'utilise pour transformer ses supports de formation en vidéos interactives avec narration.
+Un professeur d'arts plastiques cite la plateforme Kling pour la génération de vidéos. 
+Autre exemple : un formateur l'utilise pour transformer ses supports de formation en vidéos interactives avec narration.
 
-## Conseils pratiques 
-✅ Expérimenter avec différentes voix et animations pour varier les styles de présentation.
-✅ Vérifier la qualité de la voix générée pour s’assurer d’une intonation naturelle.
+## Conseils pratiques[^2]
+-  Expérimenter avec différentes voix et animations pour varier les styles de présentation.
+- Vérifier la qualité de la voix générée pour s’assurer d’une intonation naturelle.
 
 ----
 

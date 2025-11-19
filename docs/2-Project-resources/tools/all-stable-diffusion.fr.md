@@ -6,7 +6,7 @@ description: Générer des images détaillées et artistiques à partir de texte
 
 Stable Diffusion est une application web britanique gratuite qui permet de générer des images détaillées et artistiques à partir de descriptions textuelles.
 
-## Fonctionnalités
+## Fonctionnalités[^1]
 
 - Génération d’images ultra-réalistes : Capable de créer des paysages, des portraits et des compositions artistiques.
 - Personnalisation des styles : Permet de contrôler l’esthétique des images générées.

@@ -8,11 +8,11 @@ ResearchRabbit est une plateforme néo-zélandaise gratuite pour la recherche et
 
 ## Fonctionnalités[^1]
 
-– Création de collections thématiques à partir d’articles (titre, DOI, URL) ou via import Zotero/RIS/BibTeX.
-– Exploration par similitudes, références citées ou articles citant l’étude.
-– Suivi automatique des auteurs ajoutés dans une collection et alertes sur leurs nouvelles publications.
-– Partage et collaboration sur des collections.
-– Intégration complète avec Zotero.
+- Création de collections thématiques à partir d’articles (titre, DOI, URL) ou via import Zotero/RIS/BibTeX.
+- Exploration par similitudes, références citées ou articles citant l’étude.
+- Suivi automatique des auteurs ajoutés dans une collection et alertes sur leurs nouvelles publications.
+- Partage et collaboration sur des collections.
+- Intégration complète avec Zotero.
 
 ## Exemple concret[^2]
 

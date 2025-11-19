@@ -7,7 +7,7 @@ description: Entraînez un ordinateur à reconnaître vos images, sons ou postur
 
 Teachable Machine est un service Web (proposé par Google) qui permet d'entraîner des modèles d’intelligence artificielle (IA) sans avoir besoin de coder ni de créer un compte. Il utilise l’apprentissage automatique pour reconnaître des images, des sons ou des poses corporelles.
 
-## Fonctionnalités
+## Fonctionnalités[^1]
 
 - Reconnaissance d’images : Identifie des objets, des expressions faciales ou des dessins.
 - Reconnaissance de sons : Différencie des bruits spécifiques ou des commandes vocales.
@@ -28,5 +28,5 @@ Un enseignant de sciences demande aux élèves d'entraîner un modèle pour reco
 </a>
 
 
-[^1]: Source: Site web de [Teachable mechine](https://teachablemachine.withgoogle.com/train) - consulté le 01/10/2025
+[^1]: Source: Site web de [Teachable machine](https://teachablemachine.withgoogle.com/train) - consulté le 01/10/2025
 [^2]: Source : Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025

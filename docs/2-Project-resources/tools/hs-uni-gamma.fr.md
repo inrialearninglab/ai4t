@@ -7,7 +7,7 @@ description: Créer une présentation et concevoir un site web
 
 Gamma est une plateforme américaine dédiée à la conception et création de présentations et de sites web.
 
-## Fonctionnalités
+## Fonctionnalités[^1]
 
 - Génération de supports de présentation personnalisés à partir d'un contenu donné
 - Conception de site internet 

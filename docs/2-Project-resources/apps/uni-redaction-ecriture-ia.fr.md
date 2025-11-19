@@ -1,4 +1,4 @@
-_---
+---
 title: Rédiger des articles avec l’aide de l'IA
 description: Assistance à la rédaction d'article avec l'IA
 ---

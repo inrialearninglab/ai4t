@@ -7,7 +7,7 @@ description: Générer des vidéos et des rendus en 3D à partir de photos et te
 
 Luma est une plateforme américaine qui utilise l’IA pour générer des vidéos et des rendus en 3D à partir de photos et de descriptions textuelles.
 
-## Fonctionnalités
+## Fonctionnalités[^1]
 
 - Conversion d’images en modèles 3D : Permet de créer des objets et des environnements en 3D à partir de simples photos.
 - Rendu réaliste : Utilisation de l’IA pour améliorer la lumière, les textures et les détails des animations.
@@ -17,7 +17,7 @@ Luma est une plateforme américaine qui utilise l’IA pour générer des vidéo
 
 Utilisé par un professeur de technologie, cette plateforme permet aux élèves de mieux comprendre la 3D et de manipuler des maquettes. 
 
-## Conseils pratiques
+## Conseils pratiques[^2]
 
 - Utiliser des photos de haute qualité pour obtenir un rendu optimal.
 - Tester différentes perspectives pour affiner la modélisation en 3D.
