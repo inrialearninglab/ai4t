@@ -11,6 +11,8 @@ Les informations présentées ci-dessous sont extraites des sites officiels de c
 - [NVivo](https://www.qsrinternational.com/nvivo-qualitative-data-analysis-software/home) (avec IA intégrée)  
 Outil d’analyse qualitative des données. L’IA peut analyser des corpus de textes et aider à l’identification de thèmes, de modèles ou de relations.
 
+--- 
+
 - [MAXQDA](https://www.maxqda.com/) (avec IA intégrée)  
 Logiciel d’analyse qualitative utilisant l’IA pour automatiser l’étiquetage des données, faciliter l’analyse des transcriptions et identifier des relations entre variables.
 - Exemple d’utilisation : Un étudiant en marketing réalise une étude qualitative sur le comportement des consommateurs et utilise MAXQDA pour coder les entretiens et repérer les tendances et insights.

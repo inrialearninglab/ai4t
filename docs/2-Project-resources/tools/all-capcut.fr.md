@@ -13,7 +13,7 @@ CapCut est une application web et mobile singapourienne qui permet de créer, mo
 - Sous-titrage automatique : Génération de sous-titres.
 - Bibliothèque de musique et effets sonores : Accès à une sélection de musiques libres de droits et d'effets sonores pour enrichir les vidéos.
 
-## Exemple d’utilisation en classe[^2]
+## Exemple d’utilisation[^2]
 
 Un professeur de littérature demande à ses élèves de créer une vidéo animée de présentation d'un livre de leur choix qu'ils ont lu pendant les vacances. Les élèves utilisent CapCut pour monter des extraits vidéo, ajouter des sous-titres explicatifs et intégrer des effets pour rendre le résumé plus dynamique. 
 

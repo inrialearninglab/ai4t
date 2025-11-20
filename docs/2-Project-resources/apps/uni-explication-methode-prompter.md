@@ -3,7 +3,9 @@ title: Prompter avec méthode
 description: Méthodes pour une utilisation efficace des IA conversationnelles  
 ---
 
-## La méthode A C T I F [^1]
+Ces méthodes pour prompter plus facilement sont cités sur le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025
+
+## La méthode A C T I F 
 
 - **A pour Action** : précisez ce que vous attendez de l’IA.  
   *Exemple : générer un résumé, analyser des données.*
@@ -22,7 +24,7 @@ description: Méthodes pour une utilisation efficace des IA conversationnelles
 
 ---
 
-## Les cinq étapes pour créer un bon prompt (selon la DRANE) [^2]
+## Les cinq étapes pour créer un bon prompt (selon la DRANE) [^1]
 
 - **Initialiser la conversation** : commencez par définir votre rôle et votre objectif.  
   *Exemple : je suis professeur de français et je souhaite créer une leçon sur le romantisme.*
@@ -68,6 +70,4 @@ description: Méthodes pour une utilisation efficace des IA conversationnelles
 > Je suis professeur de mathématiques au collège. Je souhaite créer un quiz sur les fractions pour mes élèves. Génère 10 questions à choix multiples avec des réponses détaillées pour chacune. Adapte le niveau des questions à des élèves allant de débutants à intermédiaires.
 
 ---
-
-[^1]:Ces méthodes sont cités sur le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025
-[^2]: [Site de la DRANE – académie de Versailles](https://www.dane.ac-versailles.fr/spip.php?article792) consultation au 24/10/2025
+[^1]: [Site de la DRANE – académie de Versailles](https://www.dane.ac-versailles.fr/spip.php?article792) consultation au 24/10/2025

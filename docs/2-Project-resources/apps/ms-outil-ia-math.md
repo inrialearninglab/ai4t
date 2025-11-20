@@ -12,11 +12,15 @@ Assistant pédagogique intelligent permettant de personnaliser les parcours des 
 - Analyse régulière des résultats pour reconfigurer les groupes.
 - Évaluation finale et synthèse des résultats pour l’enseignant.
 
+--- 
+
 **[MATHIA](https://mathia.education/)**
 
 Dispositif ludique où l’élève progresse en collectionnant des étoiles.
 - Tableau de bord pour suivre la classe et constituer des groupes.
 - Informations synthétiques sur l’acquisition des compétences.
+
+--- 
 
 **[SMART ENSEIGNO](https://www.smartenseigno.fr/)**
 
