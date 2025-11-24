@@ -1,0 +1,14 @@
+{% set tools = [] %}
+{% set apps = [] %}
+{% for item in nav.items recursive %}
+    {% if item.url %}
+        {% if '/tools/' in item.url %}
+            {{ tools.append(item) }}
+        {% elif '/apps/' in item.url %}
+            {{ apps.append(item) }}
+        {% endif %}
+    {% endif %}
+    {% if item.children %}
+        {{ loop(item.children) }}
+    {% endif %}
+{% endfor %}

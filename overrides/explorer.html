@@ -1,4 +1,5 @@
-{% extends "main.html" %} {% block tabs %} {{ super() }} {% endblock %} {% block content %}
+{% extends "main.html" %} {% block tabs %} {{ super() }} {% endblock %} {% import "variables.html" as var with context
+%} {% block content %}
 
 <section class="explorer">
     <div class="md-grid md-typeset">
@@ -24,21 +25,22 @@
                 </tr>
             </thead>
             <tbody>
-                {% for tool in config.extra.explorer.tools %}
+                {% for tool in var.tools %}
                 <tr>
                     <td>
+                        {% set filename = tool.url.split('/')[-1] %} {% set filename_without_ext =
+                        filename.split('.')[0] %} {% set level = filename_without_ext.split('-')[0] %}
+
                         <b>
-                            {{config.extra.explorer.fields.levels[tool.level].get(i18n_page_locale,
-                            config.extra.explorer.fields.levels[tool.level].en)}}
+                            {% if config.extra.explorer.fields.levels[level] is defined %} {{
+                            config.extra.explorer.fields.levels[level].get(i18n_page_locale,
+                            config.extra.explorer.fields.levels[level].en) }} {% else %} - {% endif %}
                         </b>
                     </td>
-                    <td>{{tool.name}}</td>
-                    <td>{{tool.use.get(i18n_page_locale, tool.use.en)}}</td>
+                    <td>{{ tool.title }}</td>
+                    <td>{{ tool.meta.description }}</td>
                     <td align="right">
-                        <a
-                            href="/{% if i18n_page_locale != 'en' %}{{i18n_page_locale}}/{% endif %}{{tool.link}}.html"
-                            class="md-button md-button--primary"
-                        >
+                        <a href="/{{tool.url}}" class="md-button md-button--primary">
                             {{config.extra.explorer.fields.see.get(i18n_page_locale,
                             config.extra.explorer.fields.see.en)}}
                         </a>
@@ -70,21 +72,22 @@
                 </tr>
             </thead>
             <tbody>
-                {% for app in config.extra.explorer.applications %}
+                {% for app in var.apps %}
                 <tr>
                     <td>
+                        {% set filename = app.url.split('/')[-1] %} {% set filename_without_ext = filename.split('.')[0]
+                        %} {% set level = filename_without_ext.split('-')[0] %}
+
                         <b>
-                            {{config.extra.explorer.fields.levels[app.level].get(i18n_page_locale,
-                            config.extra.explorer.fields.levels[app.level].en)}}
+                            {% if config.extra.explorer.fields.levels[level] is defined %} {{
+                            config.extra.explorer.fields.levels[level].get(i18n_page_locale,
+                            config.extra.explorer.fields.levels[level].en) }} {% else %} - {% endif %}
                         </b>
                     </td>
-                    <td>{{app.name.get(i18n_page_locale, app.name.en)}}</td>
-                    <td>{{app.type.get(i18n_page_locale, app.type.en)}}</td>
+                    <td>{{app.title}}</td>
+                    <td>{{app.meta.description}}</td>
                     <td align="right">
-                        <a
-                            href="/{% if i18n_page_locale != 'en' %}{{i18n_page_locale}}/{% endif %}{{app.link}}.html"
-                            class="md-button md-button--primary"
-                        >
+                        <a href="/{{app.url}}" class="md-button md-button--primary">
                             {{config.extra.explorer.fields.see.get(i18n_page_locale,
                             config.extra.explorer.fields.see.en)}}
                         </a>
