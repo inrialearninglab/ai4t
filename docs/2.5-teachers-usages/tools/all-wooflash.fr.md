@@ -19,5 +19,5 @@ Wooflash est une plateforme belge qui permet de créer des ressources pédagogiq
     Accès à l'outil
 </a>
 
-[^1]: Source: Site web de [Wooflash](https://www.wooflash.com/fr/) - consulté le 01/10/2025
+[^1]: Source : Site de <a href="https://www.wooflash.com/fr/" target=_blank>wooflash</a> - consulté le 01/10/2025
 

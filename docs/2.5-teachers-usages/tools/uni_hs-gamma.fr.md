@@ -22,6 +22,6 @@ Un professeur de langue a  proposé aux élèves de lycée d’utiliser Gamma Ap
     Accès à l'outil
 </a>
 
-[^1]: Source: Site web de [Gamma](https://gamma.app/fr/products/presentations) - consulté le 01/10/2025
+[^1]: Source : Le site de <a href="https://gamma.app/fr/products/presentations" target=_blank>Gamma</a> - consulté le 01/10/2025
 
 [^2]: Source : Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025

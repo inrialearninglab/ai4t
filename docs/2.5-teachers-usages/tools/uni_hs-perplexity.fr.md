@@ -26,5 +26,5 @@ Un enseignant utilise Perplexity pour rechercher des données récentes sur les 
     Accès à l'outil
 </a>
 
-[^1]: Source : Le site <a href="https://www.perplexity.ai/" target=_blank>Perplexity</a> consulté le 01/10/2025
+[^1]: Source : Le site <a href="https://www.perplexity.ai/" target=_blank>Perplexity</a> - consulté le 01/10/2025
 [^2]: Source : Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025

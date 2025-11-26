@@ -26,7 +26,6 @@ Un enseignant d'université peut demander à ses élèves de se servir de Miro p
 <a class="md-button" href="https://miro.com/fr/" target=_blank>
     Accès à l'outil
 </a>
-
-[^1]: Source: Site web de [Miro ai](https://miro.com/fr/ai/ai-overview/) - consulté le 01/10/2025
+[^1]: Source : Le site de <a href="https://miro.com/fr/" target=_blank>Miro</a> - consulté le 01/10/2025
 [^2]: Source : Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025 
 

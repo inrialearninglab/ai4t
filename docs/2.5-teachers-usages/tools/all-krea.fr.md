@@ -20,4 +20,4 @@ Krea.ia est une plateforme américaine dédiée à la création d’images, d’
     Accès à l'outil
 </a>
 
-[^1]: Source: Site web de [Krea ia](https://www.krea.ai/) - consulté le 01/10/2025
+[^1]: Source : Le site <a href="https://www.krea.ai/" target=_blank>kreai.ia</a> - consulté le 01/10/2025

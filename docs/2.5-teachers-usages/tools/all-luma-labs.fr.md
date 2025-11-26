@@ -1,5 +1,5 @@
 ---
-title: Luma
+title: Luma Labs
 description: Générer des vidéos et des rendus en 3D à partir de photos et textes
 ---
 
@@ -28,6 +28,6 @@ Utilisé par un professeur de technologie, cette plateforme permet aux élèves 
     Accès à l'outil
 </a>
 
-[^1]: Source: Site web de [Luma labs](https://lumalabs.ai/) - consulté le 01/10/2025
+[^1]: Source : Le site en anglais de <a href="https://lumalabs.ai/" target=_blank>Luma labs IA</a> - consulté le 01/10/2025
 
 [^2]: Source : Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025 

@@ -25,6 +25,6 @@ Un professeur de français recommande l'outil à des parents pour aider l'élèv
 </a>
 
 
-[^1]: Source: Site web de [Lalilo](https://lalilo.com/) - consulté le 01/10/2025
+[^1]: Source: Site Web <a href="https://lalilo.com/" target=_blank>Lalilo</a> - consulté le 01/10/2025
 
 [^2]: Source: Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025

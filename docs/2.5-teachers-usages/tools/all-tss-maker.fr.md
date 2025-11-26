@@ -23,5 +23,5 @@ Un enseignant de langues utilise TTSMaker pour générer des fichiers audio avec
     Accès à l'outil
 </a>
 
-[^1]: Source: Site web de [TSS maker](https://ttsmaker.com/fra) - consulté le 01/10/2025
+[^1]: Source : le site de <a href="https://ttsmaker.com/fra" target=_blank>TTSMaker</a> - consulté le 01/10/2025
 [^2]: Source : Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025

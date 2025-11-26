@@ -27,6 +27,6 @@ Un professeur de français utilise Heygen pour créer une vidéo où un avatar i
     Accès à l'outil
 </a>
 
-[^1]: Source: Site web anglais d' [Heygen](https://www.heygen.com/fr-fr) - consulté le 01/10/2025
+[^1]: Source : Le site en anglais de <a href="https://www.heygen.com/fr-fr" target=_blank>Heygen</a> - consulté le 01/10/2025
 
 [^2]: Source : Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025

@@ -29,6 +29,6 @@ Un enseignant utilise Neuroflash pour créer un post annonçant un événement s
     Accès à l'outil
 </a>
 
-[^1]: Source: Site web de [Neuroflash](https://neuroflash.com/fr/) - consulté le 01/10/2025
+[^1]: Source : Le site de <a href="https://neuroflash.com/fr/" target=_blank>Neuroflash</a> - consulté le 01/10/2025
 
 [^2]: Source : Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025

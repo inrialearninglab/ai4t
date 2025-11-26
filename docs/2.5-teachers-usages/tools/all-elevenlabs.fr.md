@@ -31,5 +31,5 @@ Un enseignant de langues utilise Eleven Labs pour créer des fichiers audio dest
     Accès à l'outil
 </a>
 
-[^1]: Source: Site web' [Elevenlabs](https://elevenlabs.io/fr) - consulté le 01/10/2025
+[^1]: Source : site web d'<a href="https://elevenlabs.io/fr" target=_blank>Elevenlabs</a>. - consulté le 01/10/2025
 [^2]: Source : Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025

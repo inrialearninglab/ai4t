@@ -18,4 +18,4 @@ Leonardo est une plateforme australienne permettant de créer des images et des 
     Accès à l'outil
 </a>
 
-[^1]: Source: Site web anglais de [Leonardo IA](https://leonardo.ai/) - consulté le 01/10/2025
+[^1]: Source : Le site en anglais de <a href="https://leonardo.ai/" target=_blank>Leonardo</a>
