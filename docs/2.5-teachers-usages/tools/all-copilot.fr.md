@@ -1,6 +1,6 @@
 ---
 title: Copilot 
-description: 
+description: Générer du contenus, aider à la création de contenus numériques sur les logiciels Microsoft
 ---
 
 ## Description[^1]

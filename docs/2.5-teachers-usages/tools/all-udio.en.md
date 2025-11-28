@@ -1,20 +1,21 @@
 ---
 title: Udio
-description: Generate audio from text descriptions.
+description: Generate audio from text descriptions
 ---
 
 ## Description[^1]
 
-Udio is a platform that allows you to create, edit, and share audio content.
+Udio is an American platform that allows creating, editing, and sharing audio content and music.
 
-## Main features
+## Features[^1]
 
 - Voice-over generation: Create audio narrations from text, with a wide range of voices and tones.
-- Text-to-audio conversion: Easily convert text documents into audio files, making content more accessible.
+- Text-to-audio conversion: Convert text documents into audio files to make content more accessible.
 
+----
 
-Link to the tool: [Udio](https://www.udio.com/)
+<a class="md-button" href="https://www.udio.com/" target=_blank>
+    Access the tool
+</a>
 
-[^1]: Source: The Udio website
-
-[^2]: Source: The AI4T forum 
+[^1]: Source: <a href="https://www.udio.com/" target=_blank>Udio</a> website – consulted on 01/10/2025

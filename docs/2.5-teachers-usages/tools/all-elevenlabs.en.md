@@ -1,31 +1,36 @@
----
+_---
 title: ElevenLabs
 description: Generate or transcribe a voice
 ---
 
 ## Description[^1]
 
-Eleven Labs is an AI-powered speech synthesis platform that creates ultra-realistic voiceovers. It allows you to generate, clone and modify voices from just a few minutes of audio recording and supports many languages.
+Eleven Labs is a US-based AI-powered text-to-speech platform that allows creating ultra-realistic voiceovers. It can generate, clone, and modify voices from just a few minutes of audio recordings and supports multiple languages.
 
-## Features
+## Features[^1]
 
-* Multilingual speech synthesis: generation of natural voices in multiple languages and accents
-* Professional voice cloning: creation of a faithful replica of your voice from audio recordings
-* Instant voice cloning: rapid voice replication for temporary trials or projects
-* Voice dubbing: voice translation of videos or audio recordings while preserving intonation and emotion
-* Voice Changer: voice modification with customisable profiles and adjustments
-* API and SDK: integration into applications via Python or TypeScript
+* Multilingual speech synthesis: Generate natural-sounding voices in multiple languages and accents
+* Professional voice cloning: Create an accurate replica of your voice from audio recordings
+* Instant voice cloning: Quickly replicate a voice for short-term tests or projects
+* Voice dubbing: Translate audio or video while preserving intonation and emotion
+* Voice Changer: Modify voices using customizable profiles and adjustments
+* API and SDK: Integrate into applications via Python or TypeScript
 
 ## Example of use[^2]
 
-A language teacher uses Eleven Labs to create audio files for their students. They generate multiple voices for English dialogues so that learners can listen to different accents and intonations.
+A language teacher uses Eleven Labs to generate audio files for students. They create multiple voices for English dialogues so learners can hear different accents and intonations.
 
-## Practical tips
+## Practical tips[^2]
 
-- Ensure clean recording quality for optimal voice cloning
-- Respect rights and ethics: only clone your own voice or voices for which you hold the rights
+- Ensure high-quality recordings for optimal voice cloning
+- Respect rights and ethics: only clone your own voice or voices you have permission to use
 
-Link to the tool's website: [Eleven Labs](https://elevenlabs.io/fr)
+----
 
-[^1]: Source: Elevenlabs official website
-[^2]: Source: AI4T forum
+<a class="md-button" href="https://elevenlabs.io/fr" target=_blank>
+    Access the tool
+</a>
+
+[^1]: Source: <a href="https://elevenlabs.io/fr" target=_blank>Elevenlabs</a> website – consulted on 01/10/2025
+
+[^2]: Source: AI4T MOOC forum "[Artificial intelligence for and by teachers](https://www.fun-mooc.fr/en/courses/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" – accessed on 01/07/2025. This forum allows French teachers to exchange insights about their practical uses of AI, and the examples included here originate from those discussions.

@@ -1,32 +1,34 @@
 ---
+
 title: Teachable machine
-description: 
+description: Train a computer to recognize your images, sounds, or poses
 ---
 
 ## Description[^1]
 
-Teachable Machine is a web-based tool that allows you to train artificial intelligence (AI) models without the need for coding or creating an account. It uses machine learning to recognise images, sounds, or body poses.
+Teachable Machine is a web service (developed by Google) that allows you to train artificial intelligence (AI) models without needing to code or create an account. It uses machine learning to recognize images, sounds, or body poses.
 
-## Features
+## Features[^1]
 
-- Image recognition: Identifies objects, facial expressions, or drawings.
-
-- Sound recognition: Differentiates specific sounds or voice commands.
-
-- Pose recognition: Analyses body movements to detect different postures or gestures.
+* Image recognition: Identifies objects, facial expressions, or drawings.
+* Sound recognition: Distinguishes specific noises or voice commands.
+* Pose recognition: Analyzes body movements to detect different postures or gestures.
 
 ## Example of educational use[^2]
 
-A science teacher asks students to train a model to recognise different plant species from photos taken on a school trip. The AI learns to differentiate between leaves, and students discover how automatic classification works.
+A science teacher asks students to train a model to recognize different plant species from photos taken during a field trip. The AI learns to distinguish leaf shapes, and students explore how automatic classification works.
 
 ## Practical tips
 
-- Use a variety of examples to avoid bias in the AI.
+* Use varied examples to avoid bias in the AI.
+* Check the model’s accuracy and adjust the training data if needed.
 
-- Check the accuracy of the model and adjust the training data if necessary.
+---
 
-Link to the tool: [Teachable](https://teachablemachine.withgoogle.com/))
+<a class="md-button" href="https://teachablemachine.withgoogle.com/?hl=en" target=_blank>
+    Access the tool
+</a>
 
-[^1]: Source: Teachable website
+[^1]: Source: <a href="https://teachablemachine.withgoogle.com/?hl=en" target=_blank>Teachable</a> website – consulted on 10/01/2025
 
-[^2]: Source: AI4T forum 
+[^2]: Source: AI4T MOOC forum "[Artificial intelligence for and by teachers](https://www.fun-mooc.fr/en/courses/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" – accessed on 01/07/2025. This forum allows French teachers to exchange insights about their practical uses of AI, and the examples included here originate from those discussions.

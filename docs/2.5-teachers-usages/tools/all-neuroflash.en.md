@@ -1,31 +1,32 @@
 ---
 title: Neuroflash
-description: Créer et optimiser des contenus texte et image
+description: Create and optimize text and image content
 ---
-
 
 ## Description[^1]
 
-Neuroflash is a text and image generation platform that can be adapted to educational needs, whether for articles, social media posts or teaching materials. It allows you to create optimised and personalised content according to the needs of the teacher or institution.
+Neuroflash is a German platform for generating text and images that can be adapted for educational purposes, whether for articles, social media posts, or teaching materials. It allows creating optimized and personalized content according to the needs of the teacher or institution.
 
-## Features
+## Features[^1]
 
-- AI text generator: Instantly creates articles, summaries, or social media posts
-
-- ChatFlash: A personalised assistant that helps produce texts taking into account the desired tone and style, useful for writing announcements, invitations, or other educational communications.
-
-- ImageFlash: Generates royalty-free visuals to accompany posts or educational projects on social media (e.g. infographics or illustrations for course content).
+- AI text generator: Instantly creates articles, summaries, or social media posts.
+- ChatFlash: A personalized assistant that helps produce text according to the desired tone and style, useful for announcements, invitations, or other educational communications.
+- ImageFlash: Generates royalty-free visuals to accompany posts or educational projects on social media (e.g., infographics or illustrations for lesson content).
 
 ## Example of use[^2]
 
-A teacher uses Neuroflash to create a post announcing a school event to be shared on Cartable. They generate the text for the post using a tone appropriate for their audience (parents, pupils, school community).
+A teacher uses Neuroflash to create a post announcing a school event to share on Cartable. The text is generated with a tone suitable for the audience (parents, students, school community).
 
-## Practical tips
+## Practical tips[^2]
 
-- Content verification: It is essential to verify the information and adjust the generated texts to ensure they are in line with the educational objectives or values of the institution.
+- Content verification: It is essential to check the information and adjust generated texts to ensure alignment with educational objectives and institutional values.
 
-Link to the tool: [Neuroflash](https://neuroflash.com/)
+----
 
-[^1]: Source: The Neuroflash website
+<a class="md-button" href="https://neuroflash.com/fr/" target=_blank>
+    Access the tool
+</a>
 
-[^2]: Source: The AI4T forum
+[^1]: Source: <a href="https://neuroflash.com/fr/" target=_blank>Neuroflash</a> website – consulted on 01/10/2025
+
+[^2]: Source: AI4T forum – This forum allows French teachers to exchange ideas about their practical use of AI. The examples and advice provided in the tool description are taken from these exchanges.

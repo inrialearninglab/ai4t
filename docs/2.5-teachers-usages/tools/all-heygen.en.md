@@ -1,30 +1,32 @@
 ---
 title: Heygen
-description: Transformer un texte en vidéo
+description: Transform text into video
 ---
 
 ## Description[^1]
 
-Heygen is a platform that transforms text into a video in which a realistic avatar speaks the text provided.
+Heygen is a US-based platform that converts text into a video where a realistic avatar speaks the provided text.
 
-## Main features
+## Features[^1]
 
-- Realistic avatars: Allows you to animate human characters who speak text.
+- Realistic avatars: Animate human characters to speak the text
+- Advanced speech synthesis: Converts text into natural and expressive speech
+- Multilingual: Ability to generate videos in multiple languages
 
-- Advanced speech synthesis: Transforms text into speech with natural and expressive voices.
+## Example of use[^2]
 
-- Multilingual: Ability to generate videos in multiple languages.
+A French teacher uses Heygen to create a video where an avatar plays Molière and explains in the first person the importance of theatre in the 17th century. Students watch the video and then discuss the impact of his works.
 
-## Example of classroom use[^2]
+## Practical tips[^2]
 
-A French teacher uses Heygen to create a video in which an avatar plays Molière and explains in the first person the importance of theatre in the 17th century. Students watch the video and then discuss the impact of his works.
+- Check pronunciation and fluency before sharing the video
 
-## Practical tips
+----
 
-- Check the pronunciation and fluency before sharing the video.
+<a class="md-button" href="https://www.heygen.com/fr-fr" target=_blank>
+    Access the tool
+</a>
 
-Link to the tool: [Heygen](https://www.heygen.com/)
+[^1]: Source: <a href="https://www.heygen.com/fr-fr" target=_blank>Heygen</a> website – consulted on 01/10/2025
 
-[^1]: Source: Heygen website
-
-[^2]: Source: AI4T forum 
+[^2]: Source: AI4T MOOC forum "[Artificial intelligence for and by teachers](https://www.fun-mooc.fr/en/courses/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" – accessed on 01/07/2025. This forum allows French teachers to exchange insights about their practical uses of AI, and the examples included here originate from those discussions.

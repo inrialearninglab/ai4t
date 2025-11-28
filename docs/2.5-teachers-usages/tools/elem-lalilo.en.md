@@ -1,23 +1,22 @@
 ---
 title: Lalilo
-description: Using AI for inclusive education
+description: Use AI for inclusive pedagogy
 ---
 
+## Description[^1]
 
-## Description
-
-Lalilo is a web application that offers French and reading exercises tailored to the child's level.
+Lalilo is a web application that offers French and reading exercises adapted to the child’s level.
 
 ## Features[^1]
 
-- Automatic adaptation of exercises: Adjusts the difficulty and content according to each student's level.
-- Interactive explanations: Provides tailored explanations when the student makes a mistake.
-- Real-time monitoring: Analyses performance and offers educational recommendations.
-- Personalised learning paths: Allows teachers to create tailor-made learning paths.
+- Automatic exercise adaptation: Adjusts difficulty and content based on each student’s level.
+- Interactive explanations: Provides tailored explanations when the student makes mistakes.
+- Real-time tracking: Analyzes performance and offers pedagogical recommendations.
+- Personalized learning paths: Allows teachers to create customized learning paths.
 
 ## Example of use[^2]
 
-A French teacher recommends the tool to parents to help their child catch up.
+A French teacher recommends the tool to parents to help a student catch up.
 
 ----
 
@@ -25,5 +24,5 @@ A French teacher recommends the tool to parents to help their child catch up.
     Access the tool
 </a>
 
-[^1]: Source: Website in French <a href="https://lalilo.com/" target=_blank>Lalilo</a> 
-[^2]: Source: AI4T MOOC Forum
+[^1]: Source: <a href="https://lalilo.com/" target=_blank>Lalilo</a> website – consulted on 01/10/2025  
+[^2]: Source: AI4T MOOC forum "[Artificial intelligence for and by teachers](https://www.fun-mooc.fr/en/courses/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" – accessed on 01/07/2025. This forum allows French teachers to exchange insights about their practical uses of AI, and the examples included here originate from those discussions.

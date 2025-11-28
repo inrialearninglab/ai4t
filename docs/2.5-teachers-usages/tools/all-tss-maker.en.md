@@ -1,23 +1,28 @@
 ---
 title: TTS Maker
-description: Générer une voix à partir d'un texte
+description: Generate a voice from text
 ---
 
 ## Description[^1]
 
-TTSMaker is a free platform that converts written text into audio using AI speech synthesis. It supports multiple languages and different voices.
+TTSMaker is an American platform that converts written text into audio using AI speech synthesis. It supports multiple languages and different voices.
 
-## Features
+## Features[^1]
 
-* Multilingual speech synthesis: ability to generate voices in multiple languages and accents.
-* Voice settings: choice of different tones and reading speeds to suit educational needs.
-* Audio file downloads: export generated voices in different audio formats for easy reuse.
+- Multilingual speech synthesis: generate voices in multiple languages and accents.
+- Voice customization: choose different tones and reading speeds to fit pedagogical needs.
+- Audio file download: export generated voices in various audio formats for easy reuse.
 
-## Example of use[^2]
+## Example of classroom use[^2]
 
-A language teacher uses TTSMaker to generate audio files with different voices and accents to train their students in listening comprehension.
+A language teacher uses TTSMaker to generate audio files with different voices and accents to train students in listening comprehension.
 
-Link to the website: [TTSMaker](https://ttsmaker.com)
+----
 
-[^1]: Source: the official TTSMaker website
-[^2]: Source: AI4T forum
+<a class="md-button" href="https://ttsmaker.com/fra" target=_blank>
+    Access the tool
+</a>
+
+[^1]: Source: <a href="https://ttsmaker.com/fra" target=_blank>TTSMaker</a> website – consulted on 01/10/2025  
+
+[^2]: Source: AI4T MOOC forum "[Artificial intelligence for and by teachers](https://www.fun-mooc.fr/en/courses/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" – accessed on 01/07/2025. This forum allows French teachers to exchange insights about their practical uses of AI, and the examples included here originate from those discussions.

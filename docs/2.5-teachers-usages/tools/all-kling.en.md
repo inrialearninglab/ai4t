@@ -1,21 +1,33 @@
 ---
-title: Kling IA 
-description: 
+title: Kling
+description: Generate professional-quality videos and images
 ---
 
 ## Description[^1]
 
-Kling.ai automatically generates videos by integrating artificial voices, animations, and subtitles.
+Kling is a Chinese web platform that enables automatic video generation with integrated AI voices, animations, and subtitles.
 
-## Fonctionnalités [^1]
+## Features[^1]
 
-- Automatic video generation: Converts text into animated videos with voiceovers.
+- Automatic video generation: Converts text into animated videos with voice-over
+- Visual element adaptation: Adds animated avatars, subtitles, and transitions
+- AI voice integration: Natural voices for smooth narration
 
-- Customisation of visual elements: Add animated avatars, subtitles and transitions.
+## Example of use[^2]
 
-- AI voice integration: Natural voices for smooth narration.
+An art teacher uses Kling to generate videos. Another example: a trainer uses it to convert training materials into interactive videos with narration.
 
-Website link: [Kling AI](https://app.klingai.com)
+## Practical tips[^2]
 
+- Experiment with different voices and animations to vary presentation styles
+- Check the quality of generated voices to ensure natural intonation
 
-[^1]: Kling AI website <a href="https://klingai.com/global/" target=_blank>Kling</a> accessed on 01/10/2025 
+----
+
+<a class="md-button" href="https://klingai.com/global/" target=_blank>
+    Access the tool
+</a>
+
+[^1]: Source: <a href="https://klingai.com/global/" target=_blank>Kling</a> website – consulted on 01/10/2025
+
+[^2]: Source: AI4T MOOC forum "[Artificial intelligence for and by teachers](https://www.fun-mooc.fr/en/courses/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" – accessed on 01/07/2025. This forum allows French teachers to exchange insights about their practical uses of AI, and the examples included here originate from those discussions.

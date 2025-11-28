@@ -4,21 +4,25 @@ description: Create and edit videos
 ---
 ## Description[^1]
 
-CapCut is a web and mobile application that allows you to create, edit, and customise videos.
+CapCut is a Singaporean web and mobile application that allows users to create, edit, and customise videos.
 
-## Main features
+## Features[^1]
 
 - Video editing: Cut, adjust, and organise video clips.
-- Add text and animations: Add animated text to explain concepts or illustrate key points.
-- Automatic subtitling: Generate subtitles.
-- Music and sound effects library: Access a selection of royalty-free music and sound effects to enhance your videos.
+- Text and animation: Add animated text to explain concepts or illustrate key points.
+- Automatic subtitling: Generate subtitles automatically.
+- Music and sound effects library: Access a selection of royalty-free music and sound effects to enhance videos.
 
-## Example of classroom use[^2]
+## Example of use[^2]
 
-A literature teacher asks their students to create an animated video presentation of a book of their choice that they read during the holidays. Students use CapCut to edit video clips, add explanatory subtitles and incorporate effects to make the summary more dynamic.
+A literature teacher asks students to create an animated video presenting a book of their choice that they read during the holidays. Students use CapCut to edit video clips, add explanatory subtitles, and incorporate effects to make the summary more dynamic.
 
-Link to the tool: [Capcut](https://www.capcut.com/)
+----
 
-[^1]: Source: Capcut website
+<a class="md-button" href="https://www.capcut.com/" target=_blank>
+    Access the tool
+</a>
 
-[^2]: Source: AI4T forum 
+[^1]: Source: <a href="https://www.capcut.com/" target=_blank>CapCut</a> website – accessed on 01/10/2025
+
+[^2]: Source: AI4T MOOC forum "[Artificial intelligence for and by teachers](https://www.fun-mooc.fr/en/courses/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" – accessed on 01/07/2025. This forum allows French teachers to exchange insights about their practical uses of AI, and the examples included here originate from those discussions.
