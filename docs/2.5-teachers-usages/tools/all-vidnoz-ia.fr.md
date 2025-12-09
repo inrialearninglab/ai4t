@@ -24,5 +24,5 @@ Un professeur de littérature crée une vidéo sur l’analyse d’un poème ave
 </a>
 
 
-[^1]: Source : Le site en anglais de <a href="https://www.vidnoz.com/" target=_blank>Vidnoz</a> - consulté le 01/10/2025
-[^2]: Source : Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025
+[^1]: Source : Le site en anglais de <a href="https://www.vidnoz.com/" target=_blank>Vidnoz</a> - consulté le 01/10/2025.
+[^2]: Source : Le forum du Mooc <a href="https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/" target=_blank>"Intelligence artificielle pour et par les enseignants"</a> - consulté le 01/07/2025.

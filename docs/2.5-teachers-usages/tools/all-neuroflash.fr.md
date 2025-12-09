@@ -9,7 +9,7 @@ Neuroflash est une plateforme allemande de génération de textes et d'images qu
 
 ## Fonctionnalités[^1]
 
-- Générateur de texte IA : Crée instantanément des articles, des résumés ou des publications pour les réseaux sociaux
+- Générateur de texte IA : Crée instantanément des articles, des résumés ou des publications pour les réseaux sociaux.
 
 - ChatFlash : Un assistant personnalisé qui aide à produire des textes en tenant compte du ton et du style souhaités, utile pour la rédaction d'annonces, d'invitations ou d'autres communications éducatives.
 
@@ -29,6 +29,6 @@ Un enseignant utilise Neuroflash pour créer un post annonçant un événement s
     Accès à l'outil
 </a>
 
-[^1]: Source : Le site de <a href="https://neuroflash.com/fr/" target=_blank>Neuroflash</a> - consulté le 01/10/2025
+[^1]: Source : Le site de <a href="https://neuroflash.com/fr/" target=_blank>Neuroflash</a> - consulté le 01/10/2025.
 
-[^2]: Source : Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025
+[^2]: Source : Le forum du Mooc <a href="https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/" target=_blank>"Intelligence artificielle pour et par les enseignants"</a> - consulté le 01/07/2025.

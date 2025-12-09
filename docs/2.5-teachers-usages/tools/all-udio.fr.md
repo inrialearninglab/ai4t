@@ -19,4 +19,4 @@ Udio est une plateforme américaine qui permet de créer, éditer et partager de
 </a>
 
 
-[^1]: Source : Le site web en anglais d'<a href="https://www.udio.com/" target=_blank>Udio</a> - consulté le 01/10/2025
+[^1]: Source : Le site web en anglais d'<a href="https://www.udio.com/" target=_blank>Udio</a> - consulté le 01/10/2025.

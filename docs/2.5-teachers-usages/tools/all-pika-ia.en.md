@@ -20,4 +20,4 @@ Pika is an American web platform that allows creating interactive videos and ani
     Access the tool
 </a>
 
-[^1]: Source: <a href="https://pika.art/" target=_blank>pika.art</a> website – consulted on 01/10/2025
+[^1]: Source: <a href="https://pika.art/" target=_blank>pika.art</a> website – visited on 01/10/2025.

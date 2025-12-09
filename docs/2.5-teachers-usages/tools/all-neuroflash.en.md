@@ -23,10 +23,10 @@ A teacher uses Neuroflash to create a post announcing a school event to share on
 
 ----
 
-<a class="md-button" href="https://neuroflash.com/fr/" target=_blank>
+<a class="md-button" href="https://neuroflash.com" target=_blank>
     Access the tool
 </a>
 
-[^1]: Source: <a href="https://neuroflash.com/fr/" target=_blank>Neuroflash</a> website – consulted on 01/10/2025
+[^1]: Source: <a href="https://neuroflash.com" target=_blank>Neuroflash</a> website – visited on 01/10/2025.
 
-[^2]: Source: AI4T forum – This forum allows French teachers to exchange ideas about their practical use of AI. The examples and advice provided in the tool description are taken from these exchanges.
+[^2]: Source: Forum of the French MOOC <a href="https://www.fun-mooc.fr/en/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t" target=_blank>"Artificial intelligence for and by teachers"</a> – visited on 01/07/2025. This forum allows French teachers to exchange insights about their practical uses of AI; the examples included here originate from those discussions.

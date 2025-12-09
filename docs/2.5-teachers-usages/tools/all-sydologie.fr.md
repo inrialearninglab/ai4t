@@ -21,6 +21,6 @@ Sydologie.ai est une plateforme fraçaise gratuite dédiée à la création de r
     Accès à l'outil
 </a>
 
-[^1]: Source : Site <a href="https://sydologie.ai" target=_blank>sydologie.ai</a> - consulté le 01/10/2025
+[^1]: Source : Site <a href="https://sydologie.ai" target=_blank>sydologie.ai</a> - consulté le 01/10/2025.
 
 

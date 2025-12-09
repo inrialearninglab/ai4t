@@ -14,8 +14,8 @@ Wave.video is an American platform that allows creating, editing, hosting, and s
 
 ---
 
-<a class="md-button" href="https://wave.video/fr/" target=_blank>
+<a class="md-button" href="https://wave.video" target=_blank>
     Access the Tool
 </a>
 
-[^1]: Source : <a href="https://wave.video/fr/" target=_blank>wave.video</a> website - consulted on 01/10/2025
+[^1]: Source : <a href="https://wave.video" target=_blank>wave.video</a> website - visited on 01/10/2025.

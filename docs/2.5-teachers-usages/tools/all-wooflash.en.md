@@ -15,9 +15,9 @@ Wooflash is a Belgian platform that allows creating educational resources, track
 
 ---
 
-<a class="md-button" href="https://www.wooflash.com/fr/" target=_blank>
+<a class="md-button" href="https://www.wooflash.com" target=_blank>
     Access the Tool
 </a>
 
-[^1]: Source : <a href="https://www.wooflash.com/fr/" target=_blank>wooflash</a> website - consulted le 01/10/2025
+[^1]: Source : <a href="https://www.wooflash.com" target=_blank>wooflash</a> website - visited on 01/10/2025.
 

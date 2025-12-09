@@ -19,5 +19,5 @@ Firefly is a web application developed by the American company Adobe, used to ge
     Access the tool
 </a>
 
-[^1]: Source: <a href="https://www.adobe.com/products/firefly.html" target=_blank>Adobe Firefly</a> Website - accessed on 01/10/2025
+[^1]: Source: <a href="https://www.adobe.com/products/firefly.html" target=_blank>Adobe Firefly</a> Website - accessed on 01/10/2025.
 

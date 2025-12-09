@@ -22,8 +22,8 @@ Un enseignant de langues utilise Eleven Labs pour créer des fichiers audio dest
 
 ## Conseils pratiques[^2]
 
-- Assurer une qualité d’enregistrement propre pour un clonage vocal optimal
-- Respecter les droits et l’éthique : ne cloner que sa propre voix ou celle dont vous détenez les droits
+- Assurer une qualité d’enregistrement propre pour un clonage vocal optimal.
+- Respecter les droits et l’éthique : ne cloner que sa propre voix ou celle dont vous détenez les droits.
 
 ----
 
@@ -31,5 +31,5 @@ Un enseignant de langues utilise Eleven Labs pour créer des fichiers audio dest
     Accès à l'outil
 </a>
 
-[^1]: Source : site web d'<a href="https://elevenlabs.io/fr" target=_blank>Elevenlabs</a>. - consulté le 01/10/2025
-[^2]: Source : Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025
+[^1]: Source : site web d'<a href="https://elevenlabs.io/fr" target=_blank>Elevenlabs</a> - consulté le 01/10/2025.
+[^2]: Source : Le forum du Mooc <a href="https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/" target=_blank>"Intelligence artificielle pour et par les enseignants"</a> - consulté le 01/07/2025.

@@ -9,7 +9,7 @@ Krea.ia est une plateforme américaine dédiée à la création d’images, d’
 
 ## Fonctionnalités[^1]
 
-- Génération d’images par prompt 
+- Génération d’images par prompt.
 - Choix de styles artistiques variés : créer des visuels dans des styles comme “peinture à l’huile”, “dessin au crayon”, “illustration BD”, ou “réaliste”.
 - Utilisation libre pour l’éducation : les images peuvent être téléchargées et utilisées dans des présentations, fiches pédagogiques, diaporamas, projets artistiques ou d'écriture.
 
@@ -20,4 +20,4 @@ Krea.ia est une plateforme américaine dédiée à la création d’images, d’
     Accès à l'outil
 </a>
 
-[^1]: Source : Le site <a href="https://www.krea.ai/" target=_blank>kreai.ia</a> - consulté le 01/10/2025
+[^1]: Source : Le site en anglais de <a href="https://www.krea.ai/" target=_blank>Krea</a> - consulté le 01/10/2025.

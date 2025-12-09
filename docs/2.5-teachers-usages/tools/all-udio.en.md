@@ -18,4 +18,4 @@ Udio is an American platform that allows creating, editing, and sharing audio co
     Access the tool
 </a>
 
-[^1]: Source: <a href="https://www.udio.com/" target=_blank>Udio</a> website – consulted on 01/10/2025
+[^1]: Source: <a href="https://www.udio.com/" target=_blank>Udio</a> website – visited on 01/10/2025

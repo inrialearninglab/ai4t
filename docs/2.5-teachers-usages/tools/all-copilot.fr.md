@@ -14,7 +14,9 @@ Copilot, développé par la société américaine Microsoft, est conçu pour aid
 - Création de résumés et de présentations : Synthétise du contenu de manière automatisée.
 
 ## Exemple d’utilisation[^2]
-Des professeurs se servent de copilot pour :  
+
+Des professeurs se servent de copilot pour : 
+
 - trouver de nouveaux angles d'approche pour des cours ou des projets à proposer aux élèves.  
 - créer des exercices pertinents en cours de bureautique.  
 - élaborer des questionnaires à choix multiples pour des compréhensions orales et écrites.  
@@ -27,6 +29,6 @@ Des professeurs se servent de copilot pour :
     Accès à l'outil
 </a>
 
-[^1]: Source : Site <a href="https://copilot.microsoft.com" target=_blank>Copilot</a> - consulté le 01/10/2025
+[^1]: Source : Site <a href="https://copilot.microsoft.com" target=_blank>Copilot</a> - consulté le 01/10/2025.
 
-[^2]: Source: Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025
+[^2]: Source : Le forum du Mooc <a href="https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/" target=_blank>"Intelligence artificielle pour et par les enseignants"</a> - consulté le 01/07/2025.

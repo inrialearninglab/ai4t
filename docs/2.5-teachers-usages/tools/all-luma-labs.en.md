@@ -30,5 +30,5 @@ Used by a technology teacher, this platform helps students better understand 3D 
 
 [^1]: Source : <a href="https://lumalabs.ai/" target=_blank>Luma labs IA</a> website - consulted on 01/10/2025.
 
-[^2]: Source: AI4T MOOC forum "[Artificial intelligence for and by teachers](https://www.fun-mooc.fr/en/courses/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" – accessed on 01/07/2025. This forum allows French teachers to exchange insights about their practical uses of AI, and the examples included here originate from those discussions.
+[^2]: Source: Forum of the French MOOC <a href="https://www.fun-mooc.fr/en/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t" target=_blank>"Artificial intelligence for and by teachers"</a> – accessed on 01/07/2025. This forum allows French teachers to exchange insights about their practical uses of AI; the examples included here originate from those discussions.
 

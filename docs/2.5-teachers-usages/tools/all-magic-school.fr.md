@@ -16,7 +16,7 @@ Magic School AI est une plateforme américaine dédiée à l'éducation. Elle in
 
 Magic School a été experimenté par les enseignants notamment pour : 
 
-- résumer des textes, les adpater à différents niveaux
+- résumer des textes, les adpater à différents niveaux,
 - créer des quiz et concevoir un script vidéo sur les figures de style, 
 - générer des flashcards de révision sur des termes clés,  
 - générer un résumé et des questions QCM en 3 langues (anglais, français et vietnamien) à partir de vidéos de cours. 
@@ -31,6 +31,6 @@ Parmi les outils de Magic School, certains ont été testés[^3] et contextualis
 
 [^1]: Source : le site en anglais de <a href="https://www.magicschool.ai/" target=_blank>Magic School</a>- consulté le 01/10/2025.
 
-[^2]: Source : Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025.
+[^2]: Source : le forum du Mooc <a href="https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/" target=_blank>"Intelligence artificielle pour et par les enseignants"</a> - consulté le 01/07/2025.
 
 [^3]: Source : "<a href="https://nuage02.apps.education.fr/index.php/s/WiHeKXKHtTwcd7E" target=_blank>Découverte de Magic School"</a> sur l'espace partagé de l'éducation nationale française. Consulté le 01/07/2025.

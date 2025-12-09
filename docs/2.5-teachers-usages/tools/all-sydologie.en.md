@@ -20,4 +20,4 @@ Sydologie.ai is a free French platform dedicated to creating educational resourc
     Access the Tool
 </a>
 
-[^1]: Source : <a href="https://sydologie.ai" target=_blank>sydologie.ai</a> website - consulted on 01/10/2025.
+[^1]: Source : <a href="https://sydologie.ai" target=_blank>sydologie.ai</a> website in French - visited on 01/10/2025.

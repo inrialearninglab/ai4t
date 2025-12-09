@@ -1,4 +1,4 @@
-_---
+---
 title: ElevenLabs
 description: Generate or transcribe a voice
 ---
@@ -27,10 +27,10 @@ A language teacher uses Eleven Labs to generate audio files for students. They c
 
 ----
 
-<a class="md-button" href="https://elevenlabs.io/fr" target=_blank>
+<a class="md-button" href="https://elevenlabs.io" target=_blank>
     Access the tool
 </a>
 
-[^1]: Source: <a href="https://elevenlabs.io/fr" target=_blank>Elevenlabs</a> website – consulted on 01/10/2025
+[^1]: Source: <a href="https://elevenlabs.io" target=_blank>Elevenlabs</a> website – consulted on 01/10/2025.
 
-[^2]: Source: AI4T MOOC forum "[Artificial intelligence for and by teachers](https://www.fun-mooc.fr/en/courses/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" – accessed on 01/07/2025. This forum allows French teachers to exchange insights about their practical uses of AI, and the examples included here originate from those discussions.
+[^2]: Source: Forum of the French MOOC <a href="https://www.fun-mooc.fr/en/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t" target=_blank>"Artificial intelligence for and by teachers"</a> – accessed on 01/07/2025. This forum allows French teachers to exchange insights about their practical uses of AI; the examples included here originate from those discussions.

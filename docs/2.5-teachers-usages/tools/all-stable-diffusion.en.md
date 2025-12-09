@@ -19,10 +19,10 @@ A French as a Foreign Language teacher used Stable Diffusion to demonstrate that
 
 ---
 
-<a class="md-button" href="https://stablediffusionweb.com/fr" target=_blank>
+<a class="md-button" href="https://stablediffusionweb.com" target=_blank>
     Access the Tool
 </a>
 
-[^1]: Source: <a href="https://stablediffusionweb.com/fr" target=_blank>Stable Diffusion</a> website – accessed on 10/01/2025
+[^1]: Source: <a href="https://stablediffusionweb.com" target=_blank>Stable Diffusion</a> website – visited on 10/01/2025.
 
-[^2]: Source: AI4T MOOC forum "[Artificial intelligence for and by teachers](https://www.fun-mooc.fr/en/courses/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" – accessed on 01/07/2025. This forum allows French teachers to exchange insights about their practical uses of AI, and the examples included here originate from those discussions.
+[^2]: Source: Forum of the French MOOC <a href="https://www.fun-mooc.fr/en/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t" target=_blank>"Artificial intelligence for and by teachers"</a> – visited on 01/07/2025. This forum allows French teachers to exchange insights about their practical uses of AI; the examples included here originate from those discussions.
