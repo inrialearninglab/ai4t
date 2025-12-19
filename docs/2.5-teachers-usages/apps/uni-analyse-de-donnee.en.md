@@ -3,7 +3,8 @@ title: Analyzing Data in the Humanities
 description: Text and qualitative data analysis
 ---
 
-These tools are cited on the forum of the MOOC "[Artificial Intelligence For Teachers](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - accessed 01/07/2025. The information below is extracted from the official websites of each tool.
+These tools are cited on the forum of the French MOOC <a href="https://www.fun-mooc.fr/en/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t" target=_blank>"Artificial intelligence for and by teachers"</a> – visited on 01/07/2025.
+The information below is extracted from the official websites of each tool.
 
 **Interview Analysis**
 

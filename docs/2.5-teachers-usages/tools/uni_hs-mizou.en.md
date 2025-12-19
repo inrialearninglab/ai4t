@@ -25,10 +25,10 @@ A French teacher uses Mizou as a grammar assistant for students. Every week, stu
 
 ---
 
-<a class="md-button" href="https://mizou.com/home-en" target=_blank>
+<a class="md-button" href="https://mizou.com/" target=_blank>
     Access the tool
 </a>
 
-[^1]: Source: <a href="https://mizou.com/home-en" target=_blank>Mizou</a> website – consulted on 10/01/2025
+[^1]: Source: <a href="https://mizou.com/" target=_blank>Mizou</a> website – consulted on 10/01/2025.
 
-[^2]: Source: AI4T MOOC forum "[Artificial intelligence for and by teachers](https://www.fun-mooc.fr/en/courses/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" – accessed on 01/07/2025. This forum allows French teachers to exchange insights about their practical uses of AI, and the examples included here originate from those discussions.
+[^2]: Source: Forum of the French MOOC <a href="https://www.fun-mooc.fr/en/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t" target=_blank>"Artificial intelligence for and by teachers"</a> – visited on 01/07/2025. This forum allows French teachers to exchange insights about their practical uses of AI; the examples included here originate from those discussions.

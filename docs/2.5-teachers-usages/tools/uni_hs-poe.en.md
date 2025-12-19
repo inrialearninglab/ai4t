@@ -3,7 +3,8 @@ title: Poe
 description: Converser avec différents modèles d'IA
 ---
 ## Description[^1]
-Poe (Platform for Open Exploration) est une plateforme conversationnelle américaine, permettant aux utilisateurs d'interagir avec plusieurs modèles d'IA avancés, dont GPT-4. 
+
+Poe (Platform for Open Exploration) est une plateforme conversationnelle américaine, permettant aux utilisateurs d'interagir avec plusieurs modèles d'IA avancés, dont GPT-4.
 
 ## Fonctionnalités[^1]
 
@@ -13,7 +14,7 @@ Poe (Platform for Open Exploration) est une plateforme conversationnelle améric
 
 ## Exemple d’utilisation[^2]
 
-Un enseignant de physique utilise Poe pour aider ses étudiants à comprendre les lois de Newton. Chaque élève peut choisir un modèle pour poser des questions spécifiques, et l'IA fournit des explications. L'objectif est de comparer les résultats et d'apprendre à utiliser une IA avec un oeil critique. 
+Un enseignant de physique utilise Poe pour aider ses étudiants à comprendre les lois de Newton. Chaque élève peut choisir un modèle pour poser des questions spécifiques, et l'IA fournit des explications. L'objectif est de comparer les résultats et d'apprendre à utiliser une IA avec un oeil critique.
 
 ----
 
@@ -21,7 +22,7 @@ Un enseignant de physique utilise Poe pour aider ses étudiants à comprendre le
     Accès à l'outil
 </a>
 
-[^1]: Source : <a href="https://poe.com" target=_blank>Poe</a> website - consulted on 01/10/2025
 
-[^2]: Source: AI4T MOOC forum "[Artificial intelligence for and by teachers](https://www.fun-mooc.fr/en/courses/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" – accessed on 01/07/2025. This forum allows French teachers to exchange insights about their practical uses of AI, and the examples included here originate from those discussions.
+[^1]: Source : <a href="https://poe.com" target=_blank>Poe</a> website - consulted on 01/10/2025.
 
+[^2]: Source: Forum of the French MOOC <a href="https://www.fun-mooc.fr/en/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t" target=_blank>"Artificial intelligence for and by teachers"</a> – visited on 01/07/2025. This forum allows French teachers to exchange insights about their practical uses of AI; the examples included here originate from those discussions.

@@ -19,4 +19,4 @@ Brisk Teaching is an American platform dedicated to teachers. Through a browser 
     Access the Tool
 </a>
 
-[^1]: Source : <a href="https://www.briskteaching.com/" target=_blank>Brisk Teaching</a> website - consulted on 01/10/2025
+[^1]: Source : <a href="https://www.briskteaching.com/" target=_blank>Brisk Teaching</a> website - consulted on 01/10/2025.

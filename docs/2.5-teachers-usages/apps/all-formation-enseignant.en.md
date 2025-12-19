@@ -3,7 +3,9 @@ title: Teacher Training in AI
 description: Platforms for AI training aimed at educators
 ---
 
-The AI training content below is drawn from teacher experiences shared on the AI4T forum.
+The AI training content below is drawn from teacher experiences shared on the French MOOC <a href="https://www.fun-mooc.fr/en/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t" target=_blank>"Artificial intelligence for and by teachers"</a> – visited on 01/07/2025.
+Additional information (e.g., country of origin) was extracted from the official websites of each tool.
+
 
 ## [Coursera for Educators](https://www.coursera.org/)
 Coursera offers online courses for teachers, including the use of AI in education. Training covers educational data analysis, classroom management, and using AI to personalize learning.

@@ -3,7 +3,8 @@ title: RAG (Retrieval-Augmented Generation)
 description: Enrich generative AI responses with specialized data
 ---
 
-The method below was explained by teachers on the AI4T forum.
+The method below was explained by teachers on the French MOOC <a href="https://www.fun-mooc.fr/en/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t" target=_blank>"Artificial intelligence for and by teachers"</a> – visited on 01/07/2025.
+Additional information (e.g., country of origin) was extracted from the official websites of each tool.
 
 ## Definition
 Retrieval-Augmented Generation (RAG) combines an internal search engine with a text generation model. In education, it enables chatbots or virtual assistants to provide responses based solely on verified pedagogical resources (course materials, PDFs, videos, official documents), reducing errors and AI hallucinations.

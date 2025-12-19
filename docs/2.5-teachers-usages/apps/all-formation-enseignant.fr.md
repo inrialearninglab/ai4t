@@ -1,14 +1,14 @@
 ---
 title: Se former et former à l'IA en tant qu'enseignant
-description: Plateformes de formation à l'IA pour enseignants 
+description: Plateformes de formation à l'IA pour enseignants
 ---
 
-Les contenus de formation à l'IA presenté ci dessous ont été extrait de témoignages d'usage par des professeurs sur le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025
+Les contenus de formation à l'IA présentés ci dessous ont été extraits de témoignages d'utilisation par des professeurs sur le forum du Mooc <a href="https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/" target=_blank>"Intelligence artificielle pour et par les enseignants"</a> - consulté le 01/07/2025.
 
 ## [Coursera for Educators](https://www.coursera.org/)
 Coursera est une plateforme d'apprentissage en ligne proposant des cours pour les enseignants, incluant l’utilisation de l'IA en éducation. Les formations couvrent l’analyse de données éducatives, la gestion de classe, et l’utilisation de l’IA pour personnaliser l’apprentissage.
 
---- 
+---
 
 ## [Cavilam](https://www.cavilam.com/)
 Cavilam propose des ressources pédagogiques (au format PDF) pour guider les enseignants de français et de langues étrangères dans l’utilisation de l’intelligence artificielle (IA).
@@ -22,17 +22,17 @@ Cavilam propose des ressources pédagogiques (au format PDF) pour guider les ens
 - Utilisation de l'IA pour travailler le lexique
 - Favoriser l'autonomie des apprenants
 
---- 
+---
 
 ## [AI4T](https://www.ai4t.education/)
 Plateforme proposant des formations et des ressources pédagogiques pour intégrer l'IA dans l’enseignement, avec des modules pratiques, exemples concrets et outils pour enseignants.
 
---- 
+---
 
 ## [Pix – Campagnes de formation](https://app.pix.org/campagnes/JJTQKS244/presentation)
 Site pour former les enseignants et élèves aux compétences numériques, avec un focus sur l’utilisation de l’IA et l’évaluation des compétences numériques.
 
---- 
+---
 
 ## [AI-EDUC - UNESCO](https://www.unesco.org/en/digital-education/artificial-intelligence)
 
@@ -49,5 +49,3 @@ Le site AI-EDUC accompagne les lycées dans leur transition numérique et écolo
 - Modules de formation : cours en ligne et ateliers sur les fondamentaux et applications de l’IA en éducation.
 - Ressources pédagogiques : guides, études de cas, exemples de projets intégrant l’IA dans diverses disciplines.
 - Communauté d’échange : forum et espaces collaboratifs pour partager expériences et bonnes pratiques.
-
-

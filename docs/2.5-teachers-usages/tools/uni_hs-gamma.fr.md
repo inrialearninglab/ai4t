@@ -10,11 +10,11 @@ Gamma est une plateforme américaine dédiée à la conception et création de p
 ## Fonctionnalités[^1]
 
 - Génération de supports de présentation personnalisés à partir d'un contenu donné
-- Conception de site internet 
+- Conception de site internet
 
 ## Exemple d’utilisation[^2]
 
-Un professeur de langue a  proposé aux élèves de lycée d’utiliser Gamma App, qui intègre une IA et un service de text-to-speech, pour créer et présenter des contenus. L’bjectif étant de soutenir ceux qui ont des difficultés de prononciation.
+Un professeur de langue a proposé aux élèves de lycée d’utiliser Gamma App, qui intègre une IA et un service de text-to-speech, pour créer et présenter des contenus. L’objectif étant de soutenir ceux qui ont des difficultés de prononciation.
 
 ----
 
@@ -22,6 +22,6 @@ Un professeur de langue a  proposé aux élèves de lycée d’utiliser Gamma Ap
     Accès à l'outil
 </a>
 
-[^1]: Source : Le site de <a href="https://gamma.app/fr/products/presentations" target=_blank>Gamma</a> - consulté le 01/10/2025
+[^1]: Source : Le site de <a href="https://gamma.app/fr/products/presentations" target=_blank>Gamma</a> - consulté le 01/10/2025.
 
-[^2]: Source : Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025
+[^2]: Source : Le forum du Mooc <a href="https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/" target=_blank>"Intelligence artificielle pour et par les enseignants"</a> - consulté le 01/07/2025.

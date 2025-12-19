@@ -1,10 +1,11 @@
 ---
 title: Synthèse d'outils IA de création vidéo
-description: Outils IA de création de vidéos mentionnés dans le forum du Mooc 
+description: Outils IA de création de vidéos mentionnés dans le forum du Mooc
 ---
 
-Ce tableau présente les outils de génération d’images mentionnés par des enseignants sur Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025
+Ce tableau présente les outils de génération d’images mentionnés par des enseignants sur le forum du Mooc <a href="https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/" target=_blank>"Intelligence artificielle pour et par les enseignants"</a> - consulté le 01/07/2025.
 Les informations complémentaires (exemple : nationalités) ont été extraites des sites officiels de chaque outil.
+
 
 | Outil                                                                    | Description de l’outil                               | Inscription obligatoire | Limites techniques                                     | Nationalité / Pays d’origine |
 | ------------------------------------------------------------------------ | ---------------------------------------------------- | ----------------------- | ------------------------------------------------------ |------------------------------|
@@ -15,4 +16,3 @@ Les informations complémentaires (exemple : nationalités) ont été extraites 
 | [LumaLabs AI](https://lumalabs.ai/)                                      | Création de scènes et vidéos 3D réalistes            | Oui                     | Export 3D limité en gratuit                            | Inconnue / non spécifiée     |
 | [Artflow AI](https://artflow.ai/)                                        | Génération de personnages et vidéos animées          | Oui                     | Peu de styles graphiques différents possibles          | Singapour                    |
 | [Wave.video](https://wave.video/)                                        | Édition vidéo avec outils IA intégrés                | Oui                     | Qualité réduite en gratuit                             | États‑Unis                   |
-

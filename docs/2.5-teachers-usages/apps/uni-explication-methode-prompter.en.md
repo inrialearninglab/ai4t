@@ -3,7 +3,7 @@ title: Prompting Methodology
 description: Methods for effective use of conversational AI
 ---
 
-These methods for easier prompting are cited on the forum of the MOOC "[Artificial Intelligence For Teachers](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulted on 01/07/2025
+These methods for easier prompting are cited by teachers on the forum of the French MOOC <a href="https://www.fun-mooc.fr/en/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t" target=_blank>"Artificial intelligence for and by teachers"</a> – visited on 01/07/2025.
 
 ## The A.C.T.I.V.E Method
 
@@ -76,4 +76,4 @@ These methods for easier prompting are cited on the forum of the MOOC "[Artifici
 
 ---
 
-[^1]: [DRANE – Académie de Versailles](https://www.dane.ac-versailles.fr/spip.php?article792) consulted on 24/10/2025
+[^1]: [DRANE – Académie de Versailles](https://www.dane.ac-versailles.fr/spip.php?article792) consulted on 24/10/2025.

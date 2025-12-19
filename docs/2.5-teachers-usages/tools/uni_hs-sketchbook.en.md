@@ -20,4 +20,4 @@ It integrates AI features to enhance the drawing experience and provide creative
     Access the Tool
 </a>
 
-[^1]: <a href="https://www.sketchbook.com" target=_blank>Sketchbook</a> website - consulted on 01/10/2025
+[^1]: <a href="https://www.sketchbook.com" target=_blank>Sketchbook</a> website - consulted on 01/10/2025.

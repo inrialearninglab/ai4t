@@ -6,7 +6,7 @@ description: Train a computer to recognize your images, sounds, or poses
 
 ## Description[^1]
 
-Teachable Machine is a web service (developed by Google) that allows you to train artificial intelligence (AI) models without needing to code or create an account. It uses machine learning to recognize images, sounds, or body poses.
+Teachable Machine is a American web service (developed by Google) that allows you to train artificial intelligence (AI) models without needing to code or create an account. It uses machine learning to recognize images, sounds, or body poses.
 
 ## Features[^1]
 
@@ -25,10 +25,10 @@ A science teacher asks students to train a model to recognize different plant sp
 
 ---
 
-<a class="md-button" href="https://teachablemachine.withgoogle.com/?hl=en" target=_blank>
+<a class="md-button" href="https://teachablemachine.withgoogle.com/" target=_blank>
     Access the tool
 </a>
 
-[^1]: Source: <a href="https://teachablemachine.withgoogle.com/?hl=en" target=_blank>Teachable</a> website – consulted on 10/01/2025
+[^1]: Source: <a href="https://teachablemachine.withgoogle.com/" target=_blank>Teachable Machine</a> website – consulted on 10/01/2025.
 
-[^2]: Source: AI4T MOOC forum "[Artificial intelligence for and by teachers](https://www.fun-mooc.fr/en/courses/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" – accessed on 01/07/2025. This forum allows French teachers to exchange insights about their practical uses of AI, and the examples included here originate from those discussions.
+[^2]: Source: Forum of the French MOOC <a href="https://www.fun-mooc.fr/en/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t" target=_blank>"Artificial intelligence for and by teachers"</a> – visited on 01/07/2025. This forum allows French teachers to exchange insights about their practical uses of AI; the examples included here originate from those discussions.

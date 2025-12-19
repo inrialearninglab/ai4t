@@ -16,7 +16,7 @@ ResearchRabbit est une plateforme néo-zélandaise gratuite pour la recherche et
 
 ## Exemple concret[^2]
 
-Un professeur de faculté apprend à ses élèves à structurer leurs recherches bibliographqiues avec cet outil.
+Un professeur de faculté apprend à ses élèves à structurer leurs recherches bibliographiques avec cet outil.
 
 ----
 
@@ -24,5 +24,5 @@ Un professeur de faculté apprend à ses élèves à structurer leurs recherches
     Accès à l'outil
 </a>
 
-[^1]: Source: Site <a href="https://www.researchrabbit.ai/" target=_blank>ResearchRabbit</a> - consulté le 01/10/2025
-[^2]: Source: Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025
+[^1]: Source: Site en anglais <a href="https://www.researchrabbit.ai/" target=_blank>ResearchRabbit</a> - consulté le 01/10/2025.
+[^2]: Source : Le forum du Mooc <a href="https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/" target=_blank>"Intelligence artificielle pour et par les enseignants"</a> - consulté le 01/07/2025.

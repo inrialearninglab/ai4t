@@ -3,9 +3,9 @@ title: Prompter avec méthode
 description: Méthodes pour une utilisation efficace des IA conversationnelles  
 ---
 
-Ces méthodes pour prompter plus facilement sont cités sur le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025
+Ces méthodes pour prompter plus facilement sont cités par des enseignants sur le forum du Mooc <a href="https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/" target=_blank>"Intelligence artificielle pour et par les enseignants"</a> - consulté le 01/07/2025.
 
-## La méthode A C T I F 
+## La méthode A C T I F
 
 - **A pour Action** : précisez ce que vous attendez de l’IA.  
   *Exemple : générer un résumé, analyser des données.*

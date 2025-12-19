@@ -20,4 +20,4 @@ Il intègre des fonctionnalités IA pour améliorer l’expérience du dessin et
     Accès à l'outil
 </a>
 
-[^1]: Le site en anglais de <a href="https://www.sketchbook.com" target=_blank>Sketchbook</a> - consulté le 01/10/2025
+[^1]: Le site en anglais de <a href="https://www.sketchbook.com" target=_blank>Sketchbook</a> - consulté le 01/10/2025.

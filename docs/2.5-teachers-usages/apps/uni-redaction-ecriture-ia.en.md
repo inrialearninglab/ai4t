@@ -4,7 +4,7 @@ title: Writing Articles with AI Assistance
 description: AI-assisted article writing
 ---
 
-These tools are cited on the forum of the MOOC "[Artificial Intelligence For Teachers](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulted on 01/07/2025
+These tools are cited on tthe forum of the French MOOC <a href="https://www.fun-mooc.fr/en/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t" target=_blank>"Artificial intelligence for and by teachers"</a> – visited on 01/07/2025.
 
 They help students and academic researchers improve writing quality and facilitate citation integration using AI.
 

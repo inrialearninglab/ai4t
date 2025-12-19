@@ -3,8 +3,9 @@ title: Enseigner l'IA avec la création numérique
 description: Introduire les concepts fondamentaux de l'IA par la création numérique
 ---
 
-L’objectif de ce programme pédagogique est d’introduire les élèves aux concepts fondamentaux de l'intelligence artificielle (IA) et de l'IA générative avec un focus particulier sur son utilisation pratique dans la création de contenus numériques. 
-L'ensemble des éléments proposés ont été tirés du forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025
+L’objectif de ce programme pédagogique est d’introduire les élèves aux concepts fondamentaux de l'intelligence artificielle (IA) et de l'IA générative avec un focus particulier sur son utilisation pratique dans la création de contenus numériques.
+L'ensemble des éléments proposés ont été extraits d'usages partagés par les enseignants dans le forum du Mooc <a href="https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/" target=_blank>"Intelligence artificielle pour et par les enseignants"</a> - consulté le 01/07/2025.
+
 ## Outils utilisables
 
 - [ChatGPT](https://chat.openai.com/)  

@@ -5,7 +5,7 @@ description: Organiser, structurer et générer des idées sur tableau blanc vir
 
 ## Description[^1]
 
-Miro est une plateforme américaine de travail collaboratif basé sur l’intelligence artificielle. Miro est utilisée pour la création de tableaux blancs collaboratifs, le brainstorming, la gestion de projet et la conception collaborative. 
+Miro est une plateforme américaine de travail collaboratif basé sur l’intelligence artificielle. Miro est utilisée pour la création de tableaux blancs collaboratifs, le brainstorming, la gestion de projet et la conception collaborative.
 
 ## Fonctionnalités[^1]
 
@@ -26,6 +26,5 @@ Un enseignant d'université peut demander à ses élèves de se servir de Miro p
 <a class="md-button" href="https://miro.com/fr/" target=_blank>
     Accès à l'outil
 </a>
-[^1]: Source : Le site de <a href="https://miro.com/fr/" target=_blank>Miro</a> - consulté le 01/10/2025
-[^2]: Source : Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025 
-
+[^1]: Source : Le site de <a href="https://miro.com/fr/" target=_blank>Miro</a> - consulté le 01/10/2025.
+[^2]: Source : Le forum du Mooc <a href="https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/" target=_blank>"Intelligence artificielle pour et par les enseignants"</a> - consulté le 01/07/2025.

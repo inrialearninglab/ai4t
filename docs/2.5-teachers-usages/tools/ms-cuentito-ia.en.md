@@ -28,6 +28,5 @@ A Spanish teacher uses Cuenti.to to teach more vocabulary to students and introd
     Access the tool
 </a>
 
-[^1]: Source: <a href="https://cuenti.to/" target=_blank>cuentito</a> spanich website – consulted on 01/10/2025  
-[^2]: Source: The forum of the MOOC “Artificial Intelligence For Teachers” – consulted on 01/07/2025  
-This forum allows French teachers to exchange ideas about their practical use of AI. The examples and advice provided in the tool description are taken from these exchanges.
+[^1]: Source: <a href="https://cuenti.to/" target=_blank>cuentito</a> spanich website – consulted on 01/10/2025.  
+[^2]: Source: Forum of the French MOOC <a href="https://www.fun-mooc.fr/en/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t" target=_blank>"Artificial intelligence for and by teachers"</a> – visited on 01/07/2025. This forum allows French teachers to exchange insights about their practical uses of AI; the examples included here originate from those discussions.

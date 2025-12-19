@@ -3,7 +3,8 @@ title: AI Quiz Generation Tools Summary
 description: AI quiz creation tools mentioned in the AI4T forum
 ---
 
-This table presents quiz creation tools mentioned by teachers on the AI4T forum. Additional information (e.g., country of origin) was extracted from the official websites of each tool.
+This table presents quiz creation tools mentioned by teachers on the French MOOC <a href="https://www.fun-mooc.fr/en/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t" target=_blank>"Artificial intelligence for and by teachers"</a> – visited on 01/07/2025.
+Additional information (e.g., country of origin) was extracted from the official websites of each tool.
 
 | Tool                          | Tool Description                           | Nationality / Country of Origin | Learner Sign-up Required             | Limitations / Comments                                               |
 | ----------------------------- | ------------------------------------------ | ------------------------------- | ----------------------------------- | -------------------------------------------------------------------- |

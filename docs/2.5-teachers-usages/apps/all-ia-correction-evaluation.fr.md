@@ -3,7 +3,7 @@ title: Correction automatisée des travaux avec l’IA
 description: Utilisation de l’IA pour assister les enseignants dans la correction
 ---
 
-Les contenus presenté ci dessous ont été extrait de témoignages d'usage par des professeurs sur le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025
+Les contenus présentés ci dessous ont été extraits de témoignages d'usage par des professeurs sur le forum du Mooc <a href="https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/" target=_blank>"Intelligence artificielle pour et par les enseignants"</a> - consulté le 01/07/2025.
 
 ## Objectif :
 
@@ -29,4 +29,3 @@ Permettre aux enseignants d’automatiser la correction des devoirs et évaluati
 - [Turnitin Draft Coach](https://www.turnitin.com/) : suggestions d’amélioration et détection de plagiat.
 - [Moodle avec plugins IA](https://moodle.org/) : correction automatique et feedback personnalisé.
 - Autres outils IA pouvant être intégrés : [ChatGPT](https://chat.openai.com) pour générer des commentaires ou analyser les travaux
-

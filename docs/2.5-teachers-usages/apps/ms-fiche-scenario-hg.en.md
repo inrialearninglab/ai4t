@@ -3,7 +3,7 @@ title: Raising Awareness of Natural Disasters with AI
 description: Educational activities to raise student awareness of natural disaster risks
 ---
 
-This educational program aims to raise students' awareness of natural disaster risks. It is intended for middle school geography classes. It was presented on the forum of the MOOC "[Artificial Intelligence For Teachers](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - accessed 01/07/2025.
+This educational program aims to raise students' awareness of natural disaster risks. It is intended for middle school geography classes. It was presented on the forum of the French MOOC <a href="https://www.fun-mooc.fr/en/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t" target=_blank>"Artificial intelligence for and by teachers"</a> – visited on 01/07/2025.
 
 ## List of Tools Used
 

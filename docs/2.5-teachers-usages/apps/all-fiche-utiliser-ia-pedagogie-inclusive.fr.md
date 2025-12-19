@@ -3,7 +3,7 @@ title: Faciliter la pédagogie inclusive avec l'IA
 description: Utiliser l’intelligence artificielle pour favoriser l’accessibilité et la différenciation en classe  
 ---
 
-Les contenus presenté ci dessous ont été extrait de témoignages d'usage par des professeurs sur le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025
+Les contenus présentés ci dessous ont été extraits de témoignages d'utilisation par des professeurs sur le forum du Mooc <a href="https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/" target=_blank>"Intelligence artificielle pour et par les enseignants"</a> - consulté le 01/07/2025.
 
 ## Faciliter la compréhension avec le Facile à Lire et à Comprendre (FALC)
 
@@ -46,5 +46,3 @@ Un enseignant peut utiliser une IA pour reformuler un message à destination d�
 | Reformuler un texte selon le FALC | [Magic School AI](https://www.magicschool.ai/) | Compréhension facilitée pour les élèves en difficulté                                  |
 | Transformer un texte en version audio | [TTSMaker](https://www.ttsmaker.com/), [ElevenLabs](https://elevenlabs.io/) | Lecture accessible aux élèves dyslexiques                                              |
 | Générer des sous-titres automatiques pour une vidéo pédagogique | [Whisper AI](https://openai.com/research/whisper) | Accessibilité accrue pour les élèves malentendants ou avec des troubles de l'attention |
-
-

@@ -3,7 +3,8 @@ title: Poe
 description: Converser avec différents modèles d'IA
 ---
 ## Description[^1]
-Poe (Platform for Open Exploration) est une plateforme conversationnelle américaine, permettant aux utilisateurs d'interagir avec plusieurs modèles d'IA avancés, dont GPT-4. 
+
+Poe (Platform for Open Exploration) est une plateforme conversationnelle américaine, permettant aux utilisateurs d'interagir avec plusieurs modèles d'IA avancés, dont GPT-4.
 
 ## Fonctionnalités[^1]
 
@@ -13,13 +14,13 @@ Poe (Platform for Open Exploration) est une plateforme conversationnelle améric
 
 ## Exemple d’utilisation[^2]
 
-Un enseignant de physique utilise Poe pour aider ses étudiants à comprendre les lois de Newton. Chaque élève peut choisir un modèle pour poser des questions spécifiques, et l'IA fournit des explications. L'objectif est de comparer les résultats et d'apprendre à utiliser une IA avec un oeil critique. 
+Un enseignant de physique utilise Poe pour aider ses étudiants à comprendre les lois de Newton. Chaque élève peut choisir un modèle pour poser des questions spécifiques, et l'IA fournit des explications. L'objectif est de comparer les résultats et d'apprendre à utiliser une IA avec un oeil critique.
 
 ----
 
 <a class="md-button" href="https://poe.com" target=_blank>
     Accès à l'outil
 </a>
-[^1]: Source : Le site de <a href="https://poe.com" target=_blank>Poe</a> - consulté le 01/10/2025
-[^2]: Source : Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025
 
+[^1]: Source : Le site de <a href="https://poe.com" target=_blank>Poe</a> - consulté le 01/10/2025.
+[^2]: Source : Le forum du Mooc <a href="https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/" target=_blank>"Intelligence artificielle pour et par les enseignants"</a> - consulté le 01/07/2025.

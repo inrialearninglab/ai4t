@@ -4,10 +4,10 @@ title: Targeting Scientific Monitoring
 description: Alert services and structuring of scientific publications
 ---
 
-These tools are cited on the forum of the MOOC "[Artificial Intelligence For Teachers](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulted on 01/07/2025.
+These tools are cited by teachers on the forum of the French MOOC <a href="https://www.fun-mooc.fr/en/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t" target=_blank>"Artificial intelligence for and by teachers"</a> – visited on 01/07/2025.
 They help students and researchers set up a focused scientific monitoring system.
 
-**Main Features**
+## Main Features
 
 * Personalized Alerts
 
@@ -24,7 +24,7 @@ They help students and researchers set up a focused scientific monitoring system
   * AI reduces noise by presenting only the most relevant publications.
   * Articles can be organized by importance, date, citations, or thematic relevance.
 
-**Cited Tools**
+## Cited Tools
 
 * Google Scholar Alerts: automatic notifications for new articles matching specific keywords or authors.
 * Connected Papers: citation graph visualization to discover related articles and structure targeted monitoring.

@@ -15,12 +15,12 @@ Cuenti.to est une plateforme espagnole qui permet de générer des contes pour e
 
 ## Exemple d’utilisation en contexte éducatif[^2]
 
-Une enseignante d'espagnol se sert de Cuenti.to pour apprendre plus de vocabulaire à ses élèves et leur présente différentes structures de conte. 
+Une enseignante d'espagnol se sert de Cuenti.to pour apprendre plus de vocabulaire à ses élèves et leur présente différentes structures de conte.
 
 ## Conseils pratiques[^2]
 
 - Vérifier et adapter les textes générés pour s’assurer de leur pertinence pédagogique.  
-- Créer des liens avec les séquences pédagogiques 
+- Créer des liens avec les séquences pédagogiques
 
 ----
 
@@ -28,6 +28,6 @@ Une enseignante d'espagnol se sert de Cuenti.to pour apprendre plus de vocabulai
     Accès à l'outil
 </a>
 
-[^1]: Source : Le site en espagnol de <a href="https://cuenti.to/" target=_blank>cuentito</a> - consulté le 01/10/2025
+[^1]: Source : Le site en espagnol de <a href="https://cuenti.to/" target=_blank>cuentito</a> - consulté le 01/10/2025.
 
-[^2]: Source : Le forum du Mooc "[Intelligence artificielle pour et par les enseignants](https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" - consulté le 01/07/2025
+[^2]: Source : Le forum du Mooc <a href="https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/" target=_blank>"Intelligence artificielle pour et par les enseignants"</a> - consulté le 01/07/2025.
