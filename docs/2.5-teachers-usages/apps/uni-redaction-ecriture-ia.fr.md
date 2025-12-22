@@ -3,9 +3,10 @@ title: Rédiger des articles avec l’aide de l'IA
 description: Assistance à la rédaction d'article avec l'IA
 ---
 
-Ces outils sont cités par des enseignants sur le forum du Mooc <a href="https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/" target=_blank>"Intelligence artificielle pour et par les enseignants"</a> - consulté le 01/07/2025.
+Ces outils sont cités par des enseignants sur le forum du Mooc <a href="https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/" target=_blank>"Intelligence artificielle pour et par les enseignants"</a> - consulté le 01/07/2025.  
+Ils aident les étudiants et enseignants-chercheurs à améliorer la rédaction académique et facilitent l’intégration de citations avec l’IA.
 
-Ils servent à aider les étudiants et enseignants-chercheurs à améliorer la rédaction académique, et faciliter l’intégration de citations grâce à l’IA.
+---
 
 **[Grammarly](https://www.grammarly.com/)**
 

@@ -5,23 +5,25 @@ description: Utilisation de l’IA pour assister les enseignants dans la correct
 
 Les contenus présentés ci dessous ont été extraits de témoignages d'usage par des professeurs sur le forum du Mooc <a href="https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/" target=_blank>"Intelligence artificielle pour et par les enseignants"</a> - consulté le 01/07/2025.
 
-## Objectif :
+--
+
+## Objectif
 
 Permettre aux enseignants d’automatiser la correction des devoirs et évaluations, tout en fournissant des retours adaptés aux besoins des élèves.
 
 ## Fonctionnalités principales
 
-- Correction intelligente
-  - L’IA peut analyser les réponses et détecter les erreurs fréquentes.
-  - Classement des travaux selon la qualité, la complétude ou la pertinence.
+**Correction intelligente**
+- L’IA peut analyser les réponses et détecter les erreurs fréquentes.
+- Classement des travaux selon la qualité, la complétude ou la pertinence.
 
-- Feedback personnalisé
-  - Génération automatique de commentaires et suggestions d’amélioration.
-  - Adaptation des retours en fonction du niveau et des besoins spécifiques des élèves.
+**Feedback personnalisé**
+- Génération automatique de commentaires et suggestions d’amélioration.
+- Adaptation des retours en fonction du niveau et des besoins spécifiques des élèves.
 
-- Analyse et suivi des performances
-  - Identification des tendances et difficultés communes dans la classe.
-  - Aide à ajuster le contenu pédagogique et les évaluations futures.
+**Analyse et suivi des performances**
+- Identification des tendances et difficultés communes dans la classe.
+ - Aide à ajuster le contenu pédagogique et les évaluations futures.
 
 ## Outils cités
 

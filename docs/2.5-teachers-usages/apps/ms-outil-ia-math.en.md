@@ -3,7 +3,10 @@ title: Digital Tools for Teaching Mathematics
 description: Intelligent teaching assistants to personalize math learning
 ---
 
-These tools, designed to support learners in mathematics, are presented on the [Académie de Paris website](https://www.ac-paris.fr/l-intelligence-artificielle-dans-l-education-130992). They were also mentioned on the forum of the French MOOC <a href="https://www.fun-mooc.fr/en/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t" target=_blank>"Artificial intelligence for and by teachers"</a> – visited on 01/07/2025.
+These tools, designed to support learners in mathematics, are presented on the [Académie de Paris website](https://www.ac-paris.fr/l-intelligence-artificielle-dans-l-education-130992).  
+They were also mentioned on the forum of the French MOOC <a href="https://www.fun-mooc.fr/en/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t" target=_blank>"Artificial intelligence for and by teachers"</a> – visited on 01/07/2025.
+
+---
 
 **[ADAPTIV’MATH](https://www.adaptivmath.fr/)**
 

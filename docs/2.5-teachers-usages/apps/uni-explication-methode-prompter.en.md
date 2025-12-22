@@ -5,21 +5,23 @@ description: Methods for effective use of conversational AI
 
 These methods for easier prompting are cited by teachers on the forum of the French MOOC <a href="https://www.fun-mooc.fr/en/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t" target=_blank>"Artificial intelligence for and by teachers"</a> – visited on 01/07/2025.
 
+---
+
 ## The A.C.T.I.V.E Method
 
-* **A – Action**: specify what you expect from the AI.
+* **A – Action**: specify what you expect from the AI.  
   *Example: generate a summary, analyze data.*
 
-* **C – Context**: clearly define the context in which the AI operates.
+* **C – Context**: clearly define the context in which the AI operates.  
   *Example: for a classroom presentation, a research project.*
 
-* **T – Task**: be explicit about the task to accomplish.
+* **T – Task**: be explicit about the task to accomplish.  
   *Example: write a text on the evolution of biology, compare two scientific articles.*
 
-* **I – Input**: provide the necessary information or data for the task.
+* **I – Input**: provide the necessary information or data for the task.  
   *Example: here are the experiment data, here is a text excerpt to summarize.*
 
-* **V – Version / Verification**: specify the desired output format or check it.
+* **V – Version / Verification**: specify the desired output format or check it.  
   *Example: a table, a 300-word text, a comparative chart.*
 
 * **E – Example / Explanation**: optionally give an example or clarify the style expected.
@@ -27,21 +29,21 @@ These methods for easier prompting are cited by teachers on the forum of the Fre
 
 ---
 
-## Five steps to create an effective prompt (according to DRANE) [^1]
+## Five steps to create an effective prompt [^1]
 
-* **Initialize the conversation**: define your role and objective.
+* **Initialize the conversation**: define your role and objective.  
   *Example: I am a French teacher and I want to create a lesson on Romanticism.*
 
-* **Describe the task**: be clear and specific in the request.
+* **Describe the task**: be clear and specific in the request.  
   *Example: I want you to generate a detailed lesson plan.*
 
-* **Add constraints**: specify limits or conditions.
+* **Add constraints**: specify limits or conditions.  
   *Example: the lesson is for middle school students and must last 45 minutes.*
 
-* **Specify output format**: indicate the expected form of the response.
+* **Specify output format**: indicate the expected form of the response.  
   *Example: provide a table with columns for objectives, activities, and assessments.*
 
-* **Refine the response**: adjust the prompt by reformulating or adding details.
+* **Refine the response**: adjust the prompt by reformulating or adding details.  
   *Example: can you expand on the classroom activities and suggest resources for each section?*
 
 ---

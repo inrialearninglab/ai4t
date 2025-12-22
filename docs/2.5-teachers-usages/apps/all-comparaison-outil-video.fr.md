@@ -3,9 +3,10 @@ title: Synthèse d'outils IA de création vidéo
 description: Outils IA de création de vidéos mentionnés dans le forum du Mooc
 ---
 
-Ce tableau présente les outils de génération d’images mentionnés par des enseignants sur le forum du Mooc <a href="https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/" target=_blank>"Intelligence artificielle pour et par les enseignants"</a> - consulté le 01/07/2025.
+Ce tableau présente les outils de génération d’images mentionnés par des enseignants sur le forum du Mooc <a href="https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/" target=_blank>"Intelligence artificielle pour et par les enseignants"</a> - consulté le 01/07/2025.  
 Les informations complémentaires (exemple : nationalités) ont été extraites des sites officiels de chaque outil.
 
+---
 
 | Outil                                                                    | Description de l’outil                               | Inscription obligatoire | Limites techniques                                     | Nationalité / Pays d’origine |
 | ------------------------------------------------------------------------ | ---------------------------------------------------- | ----------------------- | ------------------------------------------------------ |------------------------------|

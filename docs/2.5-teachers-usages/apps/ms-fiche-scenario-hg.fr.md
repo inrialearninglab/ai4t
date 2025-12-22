@@ -3,7 +3,10 @@ title: Sensibiliser aux catastrophes naturelles avec l’IA
 description: Activités pédagogiques pour sensibiliser les élèves aux risques liés aux catastrophes naturelles
 ---
 
-Ce programme pédagogique a pour but de sensibiliser les élèves aux risques liés aux catastrophes naturelles. Il est destiné à des cours de géographie de niveau collège. Il a été présenté sur le forum du Mooc <a href="https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/" target=_blank>"Intelligence artificielle pour et par les enseignants"</a> - consulté le 01/07/2025.
+Ce programme pédagogique a pour but de sensibiliser les élèves aux risques liés aux catastrophes naturelles. Il est destiné à des cours de géographie de niveau collège.  
+Il a été présenté sur le forum du Mooc <a href="https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/" target=_blank>"Intelligence artificielle pour et par les enseignants"</a> - consulté le 01/07/2025.
+
+---
 
 ## Liste des outils utilisés
 
@@ -15,7 +18,6 @@ Ce programme pédagogique a pour but de sensibiliser les élèves aux risques li
 | **Stop Disasters!** | Jeu de simulation sur la prévention des catastrophes naturelles | Permet d’expérimenter des stratégies de prévention et de gestion des risques | [stopdisastersgame.org](https://www.stopdisastersgame.org/) |
 | **Perplexity AI** | Recherche documentaire et génération de scénarios réalistes | Fournit des données vérifiées et contextuelles sur les catastrophes naturelles | [perplexity.ai](https://www.perplexity.ai/) |
 
----
 
 ## Objectifs pédagogiques
 
@@ -24,13 +26,13 @@ Ce programme pédagogique a pour but de sensibiliser les élèves aux risques li
 - Communiquer efficacement des informations de prévention.
 - Utiliser des outils numériques et de l’IA pour l’apprentissage.
 
----
 
 ## Plan de cours
 
 ### Séance 1 : Introduction – Immersion et réflexion critique
 
-**Ressource :** [Perplexity AI](https://www.perplexity.ai/)  
+**Ressource :** [Perplexity AI](https://www.perplexity.ai/)
+
 **Objectif :** Créer des scénarios inspirés de faits réels pour comprendre la gestion de crise face à une catastrophe naturelle.
 
 **Déroulé :**
@@ -38,37 +40,37 @@ Ce programme pédagogique a pour but de sensibiliser les élèves aux risques li
 - Lecture et mise en situation avec les élèves.
 - Atelier de brainstorming collectif : identifier les réactions adaptées et les erreurs à éviter.
 
----
-
 ### Séance 2 : Exploration interactive – Simulation avec *Stop Disasters!*
 
-**Ressource :** [Stop Disasters!](https://www.stopdisastersgame.org/)  
+**Ressource :** [Stop Disasters!](https://www.stopdisastersgame.org/)
+
 **Objectif :** Expérimenter différentes stratégies de prévention et de gestion des risques dans un environnement virtuel.
 
 **Déroulé :**
+
 - En groupes, les élèves jouent au jeu *Stop Disasters!* pour tester leurs choix face à diverses catastrophes.
 - Retour collectif : identification des stratégies efficaces et axes d’amélioration.
-
----
 
 ### Séance 3 : Création d’une campagne de prévention
 
 **Ressources :** [Canva](https://www.canva.com/), [IA de Canva](https://www.canva.com/features/ai-image-generator/), [Claude](https://claude.ai/)
+
 **Objectif :** Concevoir une campagne visuelle et textuelle de prévention des risques naturels.
 
 **Déroulé :**
+
 - Recherche d’idées et création du concept de campagne avec Claude.
 - Conception graphique sur Canva et sa fonction d’IA pour générer des visuels.
 - Mise en forme finale et préparation à la présentation.
 
----
-
 ### Séance 4 : Présentation et conclusion
 
-**Ressources :** Supports créés par les élèves  
+**Ressources :** Supports créés par les élèves
+
 **Objectif :** Présenter les projets et évaluer la compréhension des enjeux et de l’usage de l’IA.
 
 **Déroulé :**
+
 - Présentation des projets de campagne (affiches, visuels, textes).
 - Explication par les élèves des outils d’IA utilisés et de leur rôle dans le projet.
 - Discussion finale : apprentissages, importance de la prévention et impact des outils d’IA.

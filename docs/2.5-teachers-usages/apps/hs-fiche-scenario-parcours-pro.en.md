@@ -3,9 +3,12 @@ title: Teaching AI through Digital Creation
 description: Introducing fundamental AI concepts through digital content creation
 ---
 
-The goal of this program is to introduce students to the fundamental concepts of artificial intelligence (AI) and generative AI, with a focus on practical use in creating digital content. All elements are drawn from the forum of the French MOOC <a href="https://www.fun-mooc.fr/en/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t" target=_blank>"Artificial intelligence for and by teachers"</a> – visited on 01/07/2025.
+The goal of this program is to introduce students to the fundamental concepts of artificial intelligence (AI) and generative AI, with a focus on practical use in creating digital content.    
+All elements are drawn from the forum of the French MOOC <a href="https://www.fun-mooc.fr/en/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t" target=_blank>"Artificial intelligence for and by teachers"</a> – visited on 01/07/2025.
 
-## Tools
+---
+
+## Tools that can be used
 
 * [ChatGPT](https://chat.openai.com/)
   Use: Create textual content, generate ideas for product sheets, create dialogues for marketing campaigns.

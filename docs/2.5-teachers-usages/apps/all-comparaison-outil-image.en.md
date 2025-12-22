@@ -3,8 +3,10 @@ title: AI Image Generation Tools Summary
 description: AI image creation tools mentioned in the AI4T forum
 ---
 
-This table presents image generation tools mentioned by teachers on the French MOOC <a href="https://www.fun-mooc.fr/en/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t" target=_blank>"Artificial intelligence for and by teachers"</a> forum – visited on 01/07/2025.
+This table presents image generation tools mentioned by teachers on the French MOOC <a href="https://www.fun-mooc.fr/en/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t" target=_blank>"Artificial intelligence for and by teachers"</a> forum – visited on 01/07/2025.  
 Additional information (e.g., country of origin) was extracted from the official websites of each tool.
+
+---
 
 | Tool                                                                          | Tool Description                                       | Sign-up Required | Technical Limitations                              | Nationality / Country of Origin |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------ | ---------------- | ------------------------------------------------- | ------------------------------- |

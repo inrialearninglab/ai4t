@@ -5,6 +5,8 @@ description: Utiliser l’intelligence artificielle pour favoriser l’accessibi
 
 Les contenus présentés ci dessous ont été extraits de témoignages d'utilisation par des professeurs sur le forum du Mooc <a href="https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/" target=_blank>"Intelligence artificielle pour et par les enseignants"</a> - consulté le 01/07/2025.
 
+---
+
 ## Faciliter la compréhension avec le Facile à Lire et à Comprendre (FALC)
 
 Principe :  
