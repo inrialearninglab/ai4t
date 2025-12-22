@@ -1,6 +1,6 @@
 ---
 title: Gamma
-description: Create Presentations and Design a Website
+description: CreatepPresentations and design a website
 ---
 
 ## Description[^1]

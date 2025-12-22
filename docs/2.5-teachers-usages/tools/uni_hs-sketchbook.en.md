@@ -1,6 +1,6 @@
 ---
 title: Sketchbook
-description: Create Sketches and Digital Art
+description: Create sketches and digital art
 ---
 
 ## Description[^1]

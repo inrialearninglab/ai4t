@@ -1,6 +1,6 @@
 ---
 title: Magic School
-description: Create Educational Pathways and Activities
+description: Create educational pathways and activities
 ---
 
 ## Description[^1]

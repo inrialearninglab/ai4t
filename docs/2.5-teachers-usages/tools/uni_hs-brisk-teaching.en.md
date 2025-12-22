@@ -1,6 +1,6 @@
 ---
 title: Briskteaching
-description: Generate Personalized Educational Materials with Google
+description: Generate personalized educational materials with Google
 ---
 
 ## Description[^1]

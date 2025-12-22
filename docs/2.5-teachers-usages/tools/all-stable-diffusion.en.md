@@ -1,6 +1,6 @@
 ---
 title: Stable Diffusion
-description: Generate Detailed and Artistic Images from Text
+description: Generate detailed and artistic images from text
 ---
 
 ## Description[^1]

@@ -1,6 +1,6 @@
 ---
 title: Leonardo
-description: Create Artistic Images and Videos
+description: Create artistic images and videos
 ---
 ## Description[^1]
 

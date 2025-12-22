@@ -1,6 +1,6 @@
 ---
 title: Luma Labs
-description: Generate 3D Videos and Renders from Photos and Text
+description: Generate 3D videos and renders from photos and text
 ---
 
 ## Description[^1]

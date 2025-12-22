@@ -1,6 +1,6 @@
 ---
 title: Wave
-description: Create, Edit, Host, and Share Educational Videos
+description: Create, edit, host, and share educational videos
 ---
 
 ## Description[^1]

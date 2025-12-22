@@ -1,6 +1,6 @@
 ---
 title: Wooflash
-description: Generate Educational Resources and Track Student Progress
+description: Generate educational resources and track student progress
 ---
 
 ## Description[^1]

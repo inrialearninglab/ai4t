@@ -1,6 +1,6 @@
 ---
 title: Perplexity
-description: Obtain Information by Synthesizing Multiple Sources
+description: Obtain information by synthesizing multiple sources
 ---
 
 ## Description[^1]

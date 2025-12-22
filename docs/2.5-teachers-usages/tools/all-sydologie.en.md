@@ -1,6 +1,6 @@
 ---
 title: Sydologie
-description: Generate and Enhance the Creation of Educational Activities
+description: Generate and enhance the creation of educational activities
 ---
 
 ## Description[^1]

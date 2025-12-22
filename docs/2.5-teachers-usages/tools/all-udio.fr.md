@@ -1,6 +1,6 @@
 ---
 title: Udio
-description: Générer des audios à partir de descriptions textuelles.
+description: Générer des audios à partir de descriptions textuelles
 ---
 
 ## Description[^1]
