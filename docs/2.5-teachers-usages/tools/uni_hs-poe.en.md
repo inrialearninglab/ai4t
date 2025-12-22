@@ -1,25 +1,25 @@
 ---
 title: Poe
-description: Converser avec différents modèles d'IA
+description: Chatting with different AI models
 ---
 ## Description[^1]
 
-Poe (Platform for Open Exploration) est une plateforme conversationnelle américaine, permettant aux utilisateurs d'interagir avec plusieurs modèles d'IA avancés, dont GPT-4.
+Poe (Platform for Open Exploration) is an American conversational platform that allows users to interact with several advanced AI models, including GPT-4.
 
-## Fonctionnalités[^1]
+## Features[^1]
 
-- Chatbot interactif : Poe permet aux utilisateurs d’avoir des conversations réalistes avec des modèles d'IA comme GPT-4, facilitant ainsi l’accès à des informations de manière naturelle et interactive.
-- Création de contenu : Les utilisateurs peuvent générer du contenu, que ce soit pour la rédaction d’articles, la génération d’idées créatives, ou même l’assistance dans la rédaction académique et professionnelle.
-- Accès à plusieurs modèles : Poe permet de basculer entre différents modèles d'IA, en fonction des besoins spécifiques de l’utilisateur, pour des réponses plus détaillées ou plus créatives.
+- Interactive chatbot: Poe allows users to have realistic conversations with AI models such as GPT-4, facilitating access to information in a natural and interactive way.
+- Content creation: Users can generate content, whether for writing articles, generating creative ideas, or even assisting with academic and professional writing.
+- Access to multiple models: Poe allows users to switch between different AI models, depending on their specific needs, for more detailed or creative responses.
 
-## Exemple d’utilisation[^2]
+## Use Case[^2]
 
-Un enseignant de physique utilise Poe pour aider ses étudiants à comprendre les lois de Newton. Chaque élève peut choisir un modèle pour poser des questions spécifiques, et l'IA fournit des explications. L'objectif est de comparer les résultats et d'apprendre à utiliser une IA avec un oeil critique.
+UA physics teacher uses Poe to help his students understand Newton's laws. Each student can choose a model to ask specific questions, and the AI provides explanations. The goal is to compare results and learn how to use AI with a critical eye.
 
 ----
 
 <a class="md-button" href="https://poe.com" target=_blank>
-    Accès à l'outil
+     Access the Tool
 </a>
 
 
