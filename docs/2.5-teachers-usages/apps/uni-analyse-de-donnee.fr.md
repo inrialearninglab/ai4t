@@ -1,6 +1,6 @@
 ---
-title: Analyser de données en sciences humaines
-description: Analyse de textes et données qualitatives
+title: Analyser des données en sciences humaines
+description: Outils d'analyse de textes et de données qualitatives
 ---
 
 Ces outils sont cités par les enseignants sur le forum du Mooc <a href="https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/" target=_blank>"Intelligence artificielle pour et par les enseignants"</a> - consulté le 01/07/2025.

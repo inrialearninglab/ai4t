@@ -1,6 +1,6 @@
 ---
-title: Facilitating Inclusive Teaching with AI
-description: Using artificial intelligence to enhance accessibility and differentiation in the classroom
+title: Facilitating inclusive teaching with AI
+description: AI methods and tools to support accessibility and differentiation in the classroom
 ---
 
 The content below is drawn from teacher experiences shared on the French MOOC <a href="https://www.fun-mooc.fr/en/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t" target=_blank>"Artificial intelligence for and by teachers"</a> – visited on 01/07/2025.

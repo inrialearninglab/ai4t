@@ -1,5 +1,5 @@
 ---
-title: Teacher Training in AI
+title: Learning and teaching AI as a teacher
 description: Platforms for AI training aimed at educators
 ---
 

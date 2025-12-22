@@ -1,6 +1,6 @@
 ---
-title: Automated Grading with AI
-description: Using AI to assist teachers in evaluating student work
+title: Grading assignments with the help of AI
+description: AI principles and tools to assist teachers with grading
 ---
 
 The content below is drawn from teacher experiences shared on the the French MOOC <a href="https://www.fun-mooc.fr/en/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t" target=_blank>"Artificial intelligence for and by teachers"</a> – visited on 01/07/2025.

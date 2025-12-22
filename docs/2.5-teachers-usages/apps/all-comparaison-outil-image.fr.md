@@ -1,10 +1,10 @@
 ---
-title: Synthèse d'outils IA de génération d'image
+title: Utiliser un outil IA de génération d'image
 description: Outils IA de création d'images mentionnés dans le forum du Mooc
 ---
 
 Ce tableau présente les outils de génération d’images mentionnés par des enseignants sur le forum du Mooc <a href="https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/" target=_blank>"Intelligence artificielle pour et par les enseignants"</a> - consulté le 01/07/2025.  
-Les informations complémentaires (exemple : nationalités) ont été extraites des sites officiels de chaque outil.
+Les informations complémentaires (Description de l’outil ; Inscription obligatoire ; Limites techniques ; Pays d’origine) ont été extraites des sites officiels de chaque outil.
 
 ---
 

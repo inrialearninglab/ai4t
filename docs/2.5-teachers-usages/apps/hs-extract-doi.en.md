@@ -1,6 +1,6 @@
 ---
-title: Searching and Extracting DOIs with AI
-description: Automate the search, extraction, and addition of DOIs
+title: Searching and extracting DOIs with AI
+description: Tools and tips to search, extract, or add DOIs
 ---
 
 The tools below were mentioned by teachers on the French MOOC <a href="https://www.fun-mooc.fr/en/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t" target=_blank>"Artificial intelligence for and by teachers"</a> forum – visited on 01/07/2025, for DOI[^1] extraction.

@@ -1,6 +1,6 @@
 ---
-title: Analyzing Data in the Humanities
-description: Text and qualitative data analysis
+title: Analysing data in social sciences
+description: Tools for analysing texts and qualitative data
 ---
 
 These tools are cited on the forum of the French MOOC <a href="https://www.fun-mooc.fr/en/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t" target=_blank>"Artificial intelligence for and by teachers"</a> – visited on 01/07/2025.  

@@ -1,6 +1,6 @@
 ---
-title: Correction automatisée des travaux avec l’IA
-description: Utilisation de l’IA pour assister les enseignants dans la correction
+title: Corriger des travaux avec l'aide de l’IA
+description: Principes et outils d’IA pour assister les enseignants dans la correction
 ---
 
 Les contenus présentés ci dessous ont été extraits de témoignages d'usage par des professeurs sur le forum du Mooc <a href="https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/" target=_blank>"Intelligence artificielle pour et par les enseignants"</a> - consulté le 01/07/2025.
@@ -23,7 +23,7 @@ Permettre aux enseignants d’automatiser la correction des devoirs et évaluati
 
 **Analyse et suivi des performances**
 - Identification des tendances et difficultés communes dans la classe.
- - Aide à ajuster le contenu pédagogique et les évaluations futures.
+- Aide à ajuster le contenu pédagogique et les évaluations futures.
 
 ## Outils cités
 

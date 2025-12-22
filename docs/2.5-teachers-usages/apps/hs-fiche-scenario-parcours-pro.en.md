@@ -1,6 +1,6 @@
 ---
-title: Teaching AI through Digital Creation
-description: Introducing fundamental AI concepts through digital content creation
+title: Teaching AI through digital creation
+description: Tools and teaching scenarios to introduce the fundamental concepts of AI
 ---
 
 The goal of this program is to introduce students to the fundamental concepts of artificial intelligence (AI) and generative AI, with a focus on practical use in creating digital content.    

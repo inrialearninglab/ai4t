@@ -1,5 +1,5 @@
 ---
-title: AI Quiz Generation Tools Summary
+title: Using an AI quiz generation tool
 description: AI quiz creation tools mentioned in the AI4T forum
 ---
 

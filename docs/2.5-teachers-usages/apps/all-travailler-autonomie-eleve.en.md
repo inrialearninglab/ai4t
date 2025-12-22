@@ -1,6 +1,6 @@
 ---
-title: Accompagner l'élève dans son apprentissage
-description: Plateformes d'apprentissage autonome avec IA
+title: Supporting students in their learning
+description: Self-directed learning platforms with AI
 ---
 
 The tools below were mentioned by teachers on the French MOOC <a href="https://www.fun-mooc.fr/en/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t" target=_blank>"Artificial intelligence for and by teachers"</a> forum – visited on 01/07/2025, to support learner autonomy.

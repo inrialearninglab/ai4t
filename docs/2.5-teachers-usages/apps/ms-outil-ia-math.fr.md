@@ -1,6 +1,6 @@
 ---
-title: Outils numériques pour l'enseignement des mathématiques
-description: Assistants pédagogiques intelligents pour personnaliser l'apprentissage en mathématiques
+title: Accompagner l'apprentissage des mathématiques
+description: Outils numériques pour personnaliser l'apprentissage des mathématiques
 ---
 
 Ces outils destinés à aider les apprenants en mathématiques sont proposés sur le site de [l'académie de Paris](https://www.ac-paris.fr/l-intelligence-artificielle-dans-l-education-130992).  

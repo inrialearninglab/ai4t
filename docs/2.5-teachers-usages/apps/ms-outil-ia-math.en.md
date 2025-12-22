@@ -1,6 +1,6 @@
 ---
-title: Digital Tools for Teaching Mathematics
-description: Intelligent teaching assistants to personalize math learning
+title: Supporting mathematics learning
+description: Digital tools for customising mathematics learning
 ---
 
 These tools, designed to support learners in mathematics, are presented on the [Académie de Paris website](https://www.ac-paris.fr/l-intelligence-artificielle-dans-l-education-130992).  

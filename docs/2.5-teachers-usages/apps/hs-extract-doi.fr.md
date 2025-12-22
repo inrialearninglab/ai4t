@@ -1,6 +1,6 @@
 ---
 title: Rechercher et extraire un DOI avec l'IA
-description: Rechercher, extraire ou ajouter des DOI
+description: Outils et conseils pour rechercher, extraire ou ajouter des DOI
 ---
 
 Les outils ci dessous ont été mentionnés pour aider l'extraction de DOI[^1] par des enseignants sur le forum du Mooc <a href="https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/" target=_blank>"Intelligence artificielle pour et par les enseignants"</a> - consulté le 01/07/2025.

@@ -1,13 +1,14 @@
 ---
-title: RAG (Retrieval-Augmented Generation)
-description: Enrichir les réponses d'une IA générative avec des données spécialisées.
+title: Enrichir les réponses d'une IA générative avec des données spécialisées (RAG)
+description: Méthode et outils pour améliorer les réponses d'IA avec les RAG (génération augmentée par récupération)
 ---
-La méthode ci dessous a été expliqué par des professeurs sur le forum du Mooc <a href="https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/" target=_blank>"Intelligence artificielle pour et par les enseignants"</a> - consulté le 01/07/2025.
+
+La méthode ci dessous a été partagée par des professeurs sur le forum du Mooc <a href="https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/" target=_blank>"Intelligence artificielle pour et par les enseignants"</a> - consulté le 01/07/2025.
 
 ---
 
 ## Définition
-Le RAG (Retrieval-Augmented Generation) associe un moteur de recherche interne à un modèle de génération de texte. Dans le contexte éducatif, il permet de créer des chatbots ou assistants pédagogiques dont les réponses sont limitées aux ressources pédagogiques validées (supports de cours, PDF, vidéos, documents officiels), afin d’éviter les informations erronées ou les hallucinations de l’IA.
+La RAG (Retrieval-Augmented Generation) associe un moteur de recherche interne à un modèle de génération de texte. Dans le contexte éducatif, il permet de créer des chatbots ou assistants pédagogiques dont les réponses sont limitées aux ressources pédagogiques validées (supports de cours, PDF, vidéos, documents officiels), afin d’éviter les informations erronées ou les hallucinations de l’IA.
 
 ## Objectifs pédagogiques
 - Fournir des réponses fiables et contextualisées aux élèves.

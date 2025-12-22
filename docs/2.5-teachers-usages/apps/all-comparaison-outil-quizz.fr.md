@@ -1,6 +1,6 @@
 ---
-title: Synthèse d'outils IA de génération de quiz
-description: Outils IA de génération de quiz mentionnés dans le forum du Mooc
+title: Utiliser un outil IA de génération de quiz
+description: Outils IA de création de quiz mentionnés dans le forum du Mooc
 ---
 
 Ce tableau présente les outils de génération d’images mentionnés par des enseignants sur le forum du Mooc <a href="https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/" target=_blank>"Intelligence artificielle pour et par les enseignants"</a> - consulté le 01/07/2025.  

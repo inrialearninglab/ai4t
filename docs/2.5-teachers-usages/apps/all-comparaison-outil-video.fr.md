@@ -1,5 +1,5 @@
 ---
-title: Synthèse d'outils IA de création vidéo
+title: Utiliser un outil IA de génération de vidéos
 description: Outils IA de création de vidéos mentionnés dans le forum du Mooc
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Rédiger des articles avec l’aide de l'IA
-description: Assistance à la rédaction d'article avec l'IA
+description: Outils d'assistance à la rédaction d'articles
 ---
 
 Ces outils sont cités par des enseignants sur le forum du Mooc <a href="https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/" target=_blank>"Intelligence artificielle pour et par les enseignants"</a> - consulté le 01/07/2025.  

@@ -1,9 +1,9 @@
 ---
-title: RAG (Retrieval-Augmented Generation)
-description: Enrich generative AI responses with specialized data
+title: Enhancing generative AI responses with specialized data (RAG)
+description: Method and tools to enhance AI responses with Retrieval-Augmented Generation
 ---
 
-The method below was explained by teachers on the French MOOC <a href="https://www.fun-mooc.fr/en/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t" target=_blank>"Artificial intelligence for and by teachers"</a> – visited on 01/07/2025.  
+The method below was shared by teachers on the French MOOC <a href="https://www.fun-mooc.fr/en/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t" target=_blank>"Artificial intelligence for and by teachers"</a> – visited on 01/07/2025.  
 Additional information (e.g., country of origin) was extracted from the official websites of each tool.
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: AI Video Creation Tools Summary
+title: Using an AI video creation tool
 description: AI video creation tools mentioned in the AI4T forum
 ---
 
