@@ -14,6 +14,6 @@ This summary of the educational uses of AI allows you to:
 - Access the tools directly via the links provided
 - Identify uses that can be adapted to your context
 
-After consulting this section, feel free to share your uses, thoughts or difficulties to collectively enrich the MOOC forum on FUN.
+After consulting this section, feel free to share your uses, thoughts or difficulties to collectively enrich <a href="(https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" target=_blank>the MOOC forum on FUN</a>.
 
-[^1]: <a href="(https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)">The forum of this MOOC </a> is accessible to anyone registered for the MOOC version available on the French online learning platform "France Université Numérique" (FUN).
+[^1]: <a href="(https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" target=_blank>The forum of this MOOC </a> is accessible to anyone registered for the MOOC version available on the French online learning platform "France Université Numérique" (FUN).

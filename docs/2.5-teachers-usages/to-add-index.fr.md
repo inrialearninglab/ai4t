@@ -14,6 +14,6 @@ Cette synthèse sur les usages pédagogiques de l'IA vous permet de :
 - Accéder directement aux outils via les liens proposés
 - Identifier des usages à adapter à votre contexte
 
-Après avoir consulté cette section, n’hésitez pas à partager vos usages, réflexions ou difficultés pour enrichir collectivement le forum du MOOC sur FUN.
+Après avoir consulté cette section, n’hésitez pas à partager vos usages, réflexions ou difficultés pour enrichir collectivement le <a href="(https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" target=blank_>forum du MOOC sur FUN</a>.
 
-[^1]: <a href="(https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)">Le forum de ce MOOC </a> est accessible à toute personne inscrite à la version de ce MOOC diffusée sur la plateforme française d'apprentissage en ligne de France Université Numérique (FUN).
+[^1]: <a href="(https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/)" target=blank_>Le forum de ce MOOC </a> est accessible à toute personne inscrite à la version de ce MOOC diffusée sur la plateforme française d'apprentissage en ligne de France Université Numérique (FUN).
