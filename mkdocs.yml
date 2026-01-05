@@ -91,8 +91,8 @@ extra:
                 fr: Voir
                 en: See
             type:
-                fr: Type
-                en: Type
+                fr: Description
+                en: Description
             # Les différents niveaux
             levels:
                 all:
