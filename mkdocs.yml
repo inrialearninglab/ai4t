@@ -73,14 +73,17 @@ extra:
         # Champs de la table, pas besoin d'ajouter des choses ici
         fields:
             level:
-                en: Level
-                fr: Niveau
-            name:
-                en: Name
-                fr: Nom
+                en: Teaching level
+                fr: Niveau d'enseignement
+            tool:
+                en: AI tool used
+                fr: Outil IA utlisé
+            function:
+                en: Educational function
+                fr: Fonction en contexte éducatif
             use:
-                en: Use
-                fr: Usage
+                en: Use in an educational context
+                fr: Usage en contexte éducatif
             links:
                 en: Links
                 fr: Liens
@@ -113,29 +116,11 @@ extra:
         # Titres des tables
         parts:
             tools:
-                fr: Outils
-                en: Tools
+                fr: Outils d'IA mentionnés dans le forum du MOOC
+                en: AI tools mentioned in the MOOC forum
             apps:
                 fr: Applications pédagogiques
                 en: Educational applications
-        # Liste des outils
-        tools:
-            - level: elem
-              name: Lalilo
-              use:
-                  fr: Exercices de français adapté au niveau de l'élève
-                  en: French exercises adapted to the student's level
-              link: 2-Project-resources/tools/elem-lalilo
-        # Liste des applications pédagogiques
-        applications:
-            - level: uni_hs
-              name:
-                  fr: Utiliser l’IA pour l’accessibilité et la différenciation en classe
-                  en: Using AI for accessibility and differentiation in the classroom
-              type:
-                  fr: Mise en pratique
-                  en: Implementation
-              link: 2-Project-resources/6-tools/6-39-fiche-utiliser-ia-pedagogie-inclusive
 
     # Liens vers des pages à afficher dans la page d'accueil (cards)
     parts:
