@@ -1,0 +1,40 @@
+{% set tools_unsorted = [] %}
+{% set apps_unsorted = [] %}
+{% for item in nav.items recursive %}
+    {% if item.url %}
+        {% if '/tools/' in item.url %}
+            {{ tools_unsorted.append(item) }}
+        {% elif '/apps/' in item.url %}
+            {{ apps_unsorted.append(item) }}
+        {% endif %}
+    {% endif %}
+    {% if item.children %}
+        {{ loop(item.children) }}
+    {% endif %}
+{% endfor %}
+
+{% set level_order = ['all', 'elem', 'ms', 'hs', 'uni_hs', 'uni'] %}
+
+{% set tools = [] %}
+{% for level in level_order %}
+    {% for tool in tools_unsorted %}
+        {% set filename = tool.url.split('/')[-1] %}
+        {% set filename_without_ext = filename.split('.')[0] %}
+        {% set item_level = filename_without_ext.split('-')[0] %}
+        {% if item_level == level %}
+            {{ tools.append(tool) }}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
+{% set apps = [] %}
+{% for level in level_order %}
+    {% for app in apps_unsorted %}
+        {% set filename = app.url.split('/')[-1] %}
+        {% set filename_without_ext = filename.split('.')[0] %}
+        {% set item_level = filename_without_ext.split('-')[0] %}
+        {% if item_level == level %}
+            {{ apps.append(app) }}
+        {% endif %}
+    {% endfor %}
+{% endfor %}

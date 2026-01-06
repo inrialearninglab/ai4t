@@ -1,0 +1,163 @@
+{% extends "main.html" %} {% block tabs %} {{ super() }} {% endblock %} {% import "variables.html" as var with context
+%} {% block content %}
+
+<article class="explorer md-content">
+    {{ super() }}
+
+    <div class="md-grid md-typeset">
+        <h2 id="tools">
+            {{config.extra.explorer.parts.tools.get(i18n_page_locale, config.extra.explorer.parts.tools.en)}}
+        </h2>
+        <table>
+            <thead>
+                <tr>
+                    <th class="level">
+                        {{config.extra.explorer.fields.level.get(i18n_page_locale,
+                        config.extra.explorer.fields.level.en)}}
+                    </th>
+                    <th>
+                        {{config.extra.explorer.fields.tool.get(i18n_page_locale,
+                        config.extra.explorer.fields.tool.en)}}
+                    </th>
+                    <th>
+                        {{config.extra.explorer.fields.use.get(i18n_page_locale, config.extra.explorer.fields.use.en)}}
+                    </th>
+                    <th align="right" class="actions">
+                        {{config.extra.explorer.fields.links.get(i18n_page_locale,
+                        config.extra.explorer.fields.links.en)}}
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for tool in var.tools %}
+                <tr>
+                    <td>
+                        {% set filename = tool.url.split('/')[-1] %} {% set filename_without_ext =
+                        filename.split('.')[0] %} {% set level = filename_without_ext.split('-')[0] %}
+
+                        <b>
+                            {% if config.extra.explorer.fields.levels[level] is defined %} {{
+                            config.extra.explorer.fields.levels[level].get(i18n_page_locale,
+                            config.extra.explorer.fields.levels[level].en) }} {% else %} - {% endif %}
+                        </b>
+                    </td>
+                    <td>{{ tool.title }}</td>
+                    <td>{{ tool.meta.description }}</td>
+                    <td align="right">
+                        <a href="/{{tool.url}}" class="md-button md-button--primary">
+                            {{config.extra.explorer.fields.see.get(i18n_page_locale,
+                            config.extra.explorer.fields.see.en)}}
+                        </a>
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        <h2 id="apps">
+            {{config.extra.explorer.parts.apps.get(i18n_page_locale, config.extra.explorer.parts.apps.en)}}
+        </h2>
+        <table>
+            <thead>
+                <tr>
+                    <th class="types">
+                        {{config.extra.explorer.fields.level.get(i18n_page_locale,
+                        config.extra.explorer.fields.level.en)}}
+                    </th>
+                    <th>
+                        {{config.extra.explorer.fields.function.get(i18n_page_locale,
+                        config.extra.explorer.fields.function.en)}}
+                    </th>
+                    <th>
+                        {{config.extra.explorer.fields.type.get(i18n_page_locale,
+                        config.extra.explorer.fields.type.en)}}
+                    </th>
+                    <th align="right" class="actions">
+                        {{config.extra.explorer.fields.links.get(i18n_page_locale,
+                        config.extra.explorer.fields.links.en)}}
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for app in var.apps %}
+                <tr>
+                    <td>
+                        {% set filename = app.url.split('/')[-1] %} {% set filename_without_ext = filename.split('.')[0]
+                        %} {% set level = filename_without_ext.split('-')[0] %}
+
+                        <b>
+                            {% if config.extra.explorer.fields.levels[level] is defined %} {{
+                            config.extra.explorer.fields.levels[level].get(i18n_page_locale,
+                            config.extra.explorer.fields.levels[level].en) }} {% else %} - {% endif %}
+                        </b>
+                    </td>
+                    <td>{{app.title}}</td>
+                    <td>{{app.meta.description}}</td>
+                    <td align="right">
+                        <a href="/{{app.url}}" class="md-button md-button--primary">
+                            {{config.extra.explorer.fields.see.get(i18n_page_locale,
+                            config.extra.explorer.fields.see.en)}}
+                        </a>
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</article>
+
+<script>
+    // TOC Generation
+    document.addEventListener("DOMContentLoaded", function () {
+        const tocNav = document.querySelector(".md-nav.md-nav--secondary");
+
+        if (tocNav) {
+            let tocList = tocNav.querySelector(".md-nav__list");
+            if (!tocList) {
+                tocList = document.createElement("ul");
+                tocList.className = "md-nav__list";
+                tocNav.appendChild(tocList);
+            }
+
+            const headings = document.querySelectorAll("article h2[id]");
+
+            headings.forEach((heading) => {
+                const id = heading.id;
+                const text = heading.textContent.trim();
+
+                const item = document.createElement("li");
+                item.className = "md-nav__item";
+
+                const link = document.createElement("a");
+                link.href = `#${id}`;
+                link.className = "md-nav__link";
+                link.textContent = text;
+
+                item.appendChild(link);
+                tocList.appendChild(item);
+            });
+
+            const observer = new IntersectionObserver(
+                (entries) => {
+                    entries.forEach((entry) => {
+                        if (entry.isIntersecting) {
+                            tocList.querySelectorAll(".md-nav__link").forEach((link) => {
+                                link.classList.remove("md-nav__link--active");
+                            });
+                            const link = tocList.querySelector(`a[href="#${entry.target.id}"]`);
+                            if (link) {
+                                link.classList.add("md-nav__link--active");
+                            }
+                        }
+                    });
+                },
+                {
+                    threshold: 0.5,
+                    rootMargin: "-20% 0px -35% 0px",
+                },
+            );
+
+            headings.forEach((heading) => observer.observe(heading));
+        }
+    });
+</script>
+{% endblock %}
