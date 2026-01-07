@@ -44,7 +44,7 @@
                     <td>{{ tool.title }}</td>
                     <td>{{ tool.meta.description }}</td>
                     <td align="right">
-                        <a href="/{{tool.url}}" class="md-button md-button--primary">
+                        <a href="{{tool.url|url}}" class="md-button md-button--primary">
                             {{config.extra.explorer.fields.see.get(i18n_page_locale,
                             config.extra.explorer.fields.see.en)}}
                         </a>
@@ -93,7 +93,7 @@
                     <td>{{app.title}}</td>
                     <td>{{app.meta.description}}</td>
                     <td align="right">
-                        <a href="/{{app.url}}" class="md-button md-button--primary">
+                        <a href="{{app.url|url}}" class="md-button md-button--primary">
                             {{config.extra.explorer.fields.see.get(i18n_page_locale,
                             config.extra.explorer.fields.see.en)}}
                         </a>
