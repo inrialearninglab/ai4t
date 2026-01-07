@@ -7,7 +7,7 @@ description: Bibligraphie sur l'IA /AI dans l'éducation provenant d'institution
     - Les ressources sont classées par sujet et ensuite par date décroissante.
 
 ##*Avant-propos*
-En définissant les objectifs du projet AI4T, les promoteurs du projet se sont appuyés sur une série de rapports et de contributions de différentes institutions. Ces références ont été mises à jour avec les nouveaux développements/rapports et recommandations publiés depuis 2020, date de rédaction du projet.
+*En définissant les objectifs du projet AI4T, les promoteurs du projet se sont appuyés sur une série de rapports et de contributions de différentes institutions. Ces références ont été mises à jour avec les nouveaux développements,rapports et recommandations publiés depuis 2020, date de rédaction du projet.*
 
 
 ## Publications sur l'IA
@@ -20,18 +20,16 @@ En définissant les objectifs du projet AI4T, les promoteurs du projet se sont a
 
 2021 : (nouvelle version) AI Watch - Defining Artificial intelligence 2.0 - Rapport technique du Joint Resarch Center [^Jrc4]
 
-!!! note
-    "*La deuxième édition (pour) établir une définition opérationnelle de l'intelligence artificielle (IA).*"
+??? Note "*La deuxième édition pour établir une définition opérationnelle de l'intelligence artificielle (IA).*"
 
-Contenu notable : "*Il s'agit notamment de la classification de l'IA selon : les familles d'algorithmes et les modèles théoriques qui les sous-tendent ; les capacités cognitives reproduites par l'IA ; les fonctions réalisées par l'IA. Les applications de l'IA peuvent également être regroupées selon d'autres dimensions, comme le secteur économique dans lequel ces applications se trouvent, ou leurs fonctions commerciales.*"(voir ci-dessous)
+    Contenu notable : "*Il s'agit notamment de la classification de l'IA selon : les familles d'algorithmes et les modèles théoriques qui les sous-tendent ; les capacités cognitives reproduites par l'IA ; les fonctions réalisées par l'IA. Les applications de l'IA peuvent également être regroupées selon d'autres dimensions, comme le secteur économique dans lequel ces applications se trouvent, ou leurs fonctions commerciales.*"(voir ci-dessous)
 
 2021 : L'IA et l'éducation : Guidance for Policy-Makers- UNESCO report [^Unesco4] (en anglais)
 
 2020 : AI Watch - Defining Artificial intelligence - Rapport technique du Joint Resarch Center [^Jrc3] (en anglais)
 
-!!! Note
-    Une proposition pour "*une définition opérationnelle de l'intelligence artificielle à adopter dans le contexte d'AI Watch.*"  
-Contenu notable : "*La contribution précieuse de ce travail est la collecte des définitions élaborées entre 1955 et 2019, et la synthèse des principales caractéristiques du concept d'intelligence artificielle telles que reflétées dans la littérature pertinente.*"
+??? Note "*Une proposition pour une définition opérationnelle de l'intelligence artificielle à adopter dans le contexte d'AI Watch.*"  
+    Contenu notable : "*La contribution précieuse de ce travail est la collecte des définitions élaborées entre 1955 et 2019, et la synthèse des principales caractéristiques du concept d'intelligence artificielle telles que reflétées dans la littérature pertinente.*"
 
 2020 : L'IA dans l'éducation : Le changement à la vitesse de l'apprentissage - Rapport de l'Institut de l'UNESCO pour les technologies de l'information dans l'éducation [^Unesco3].
 
@@ -39,25 +37,25 @@ Contenu notable : "*La contribution précieuse de ce travail est la collecte des
 
 2020 : Les technologies émergentes et la profession d'enseignant - Considérations éthiques et pédagogiques basées sur des scénarios du futur proche - Un rapport du Centre commun de recherche [^Jrc2]
 
-!!! abstract "Résumé"
+??? abstract "Résumé"
     "*L'objectif des scénarios est de voir l'avenir comme quelque chose à façonner. Ces scénarios du futur proche visent à résoudre un certain nombre de problèmes qui, selon les éducateurs d'aujourd'hui, les empêchent de dispenser une éducation et une formation de qualité. Ils se déroulent dans des salles de classe, des amphithéâtres, des centres de formation et des environnements d'apprentissage numérique dans lesquels les technologies émergentes pourraient être utilisées pour aider les éducateurs dans leur profession. Les principaux défis qui ressortent des scénarios ont trait à des considérations éthiques (par exemple, l'équilibre entre l'autonomie humaine et les machines, la datafication de l'éducation, les modèles pédagogiques) et à l'évolution des exigences en matière de compétences des professionnels de l'enseignement.*"
 
 2019 : L'impact de l'IA sur l'apprentissage, l'enseignement et l'éducation - Un rapport du Centre commun de recherche [^Jrc1]
 
-!!! abstract "Résumé"
-    "Un rapport qui *décrit l'état actuel de l'intelligence artificielle (IA) et son impact potentiel pour l'apprentissage, l'enseignement et l'éducation. Il fournit les bases conceptuelles d'un travail, d'une recherche et d'activités prospectives bien informés, axés sur les politiques, qui traitent des possibilités et des défis créés par les récents développements de l'IA. Le rapport s'adresse aux responsables de l'élaboration des politiques, mais il apporte également des contributions qui intéressent les développeurs de technologies d'IA et les chercheurs qui étudient l'impact de l'IA sur l'économie, la société et l'avenir de l'éducation et de l'apprentissage.*"
+??? abstract "Résumé"
+    "*Un rapport qui décrit l'état actuel de l'intelligence artificielle (IA) et son impact potentiel pour l'apprentissage, l'enseignement et l'éducation. Il fournit les bases conceptuelles d'un travail, d'une recherche et d'activités prospectives bien informés, axés sur les politiques, qui traitent des possibilités et des défis créés par les récents développements de l'IA. Le rapport s'adresse aux responsables de l'élaboration des politiques, mais il apporte également des contributions qui intéressent les développeurs de technologies d'IA et les chercheurs qui étudient l'impact de l'IA sur l'économie, la société et l'avenir de l'éducation et de l'apprentissage.*"
 
 2019 : Consensus de Beijing sur l'intelligence artificielle et l'éducation - UNESCO [^Unesco2]
 
 2019 : Lignes directrices en matière d'éthique pour l'IA digne de confiance - Rapport du Groupe d'experts de haut niveau sur l'intelligence artificielle [^Hlegai2]
 
-!!! info
-    Ces lignes directrices ont donné naissance à ALTAI : The Assessment List for Trustworthy Artificial Intelligence" [^Hlegai3], *un outil pratique qui aide les entreprises et les organisations à auto-évaluer la fiabilité de leurs systèmes d'IA en cours de développement*".
+??? info "ALTAI, auto-évaluer la fiabilité des systèmes d'IA"
+    Ces lignes directrices ont donné naissance à ALTAI : "The Assessment List for Trustworthy Artificial Intelligence" [^Hlegai3], *un outil pratique qui aide les entreprises et les organisations à auto-évaluer la fiabilité de leurs systèmes d'IA en cours de développement*".
 
 2018 : A Definition Of AI : Main Capabilities And Disciplines - Rapport du groupe d'experts de haut niveau sur l'intelligence artificielle [^Hlegai1].
 
-!!! info
-    "*Ce document élargit la définition de l'intelligence artificielle (IA) telle que définie dans la communication de la Commission sur l'IA. Il clarifie certains aspects de l'IA en tant que discipline scientifique et en tant que technologie, dans le but d'éviter les malentendus, de parvenir à une connaissance commune partagée de l'IA qui puisse être utilisée de manière fructueuse également par les non-initiés à l'IA, et de fournir des détails utiles pouvant être utilisés dans la discussion sur les lignes directrices en matière d'éthique de l'IA et les recommandations en matière de politiques de l'IA.*"
+??? info " Définition de l'IA en tant que discipline scientifique et technologie"
+    "*Ce document élargit la définition de l'intelligence artificielle (IA) telle que définie par la Commission sur l'IA. Il clarifie certains aspects de l'IA en tant que discipline scientifique et en tant que technologie, dans le but d'éviter les malentendus, de parvenir à une connaissance commune partagée de l'IA qui puisse être utilisée de manière fructueuse également par les non-initiés à l'IA, et de fournir des détails utiles pouvant être utilisés dans la discussion sur les lignes directrices en matière d'éthique de l'IA et les recommandations en matière de politiques de l'IA.*"
 
 ## Quelques informations sur les ressources
 
