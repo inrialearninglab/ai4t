@@ -31,6 +31,6 @@ Legen Sie los und trainieren Sie eine KI!
 **Wie funktioniert ein KI-Programm?**  
 _Klicken Sie auf das Bild unten und lassen Sie sich führen!_
 
-<a href="https://pixees.fr/classcodeiai/app/tuto1?lang=de" target="_blank"><figure>
+<a href="https://classcode.gitlabpages.inria.fr/classcodeia/app/tuto1?lang=de" target="_blank"><figure>
   <img src="Images/Tuto-M1-FirstProgram-DE.png" />
 </figure></a>

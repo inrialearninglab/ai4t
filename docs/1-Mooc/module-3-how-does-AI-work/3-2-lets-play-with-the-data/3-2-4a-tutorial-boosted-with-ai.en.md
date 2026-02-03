@@ -38,7 +38,7 @@ In this tutorial are inserted 7 very short pedagogical videos which make the tut
 **It's your turn!**  
 _Click on the image below and let us guide you!_
 
-<a href="https://pixees.fr/classcodeiai/app/tuto2?lang=en" target="_blank"><figure> 
+<a href="https://classcode.gitlabpages.inria.fr/classcodeia/app/tuto2?lang=en" target="_blank"><figure> 
   <img src="Images/Tuto-M2-BoostedIA-EN.png" /> 
   <figcaption> Tutorial2: Boosted with AI </figcaption> 
 </figure></a>

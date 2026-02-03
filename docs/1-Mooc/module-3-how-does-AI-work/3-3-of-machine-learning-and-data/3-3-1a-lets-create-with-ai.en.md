@@ -34,6 +34,6 @@ This tutorial can be used in the classroom.
 **Want to try?**  
 _Click on the image below and let us guide you!_
 
-<a href="https://pixees.fr/classcodeiai/app/tuto3-ai4t/?lang=en" target="_blank"><figure> 
+<a href="https:/classcode.gitlabpages.inria.fr/classcodeia/app/tuto3-ai4t/?lang=en" target="_blank"><figure> 
   <img src="Images/Tuto-M3-HumanandAI-EN.png"/> 
 </figure></a>

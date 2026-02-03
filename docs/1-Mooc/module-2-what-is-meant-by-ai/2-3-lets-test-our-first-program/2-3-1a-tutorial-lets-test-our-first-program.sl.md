@@ -35,6 +35,6 @@ Pojdite naprej in usposobite umetno inteligenco!
 **Kako deluje program umetne inteligence?**  
 _Kliknite na spodnjo sliko in se pustite voditi!_
 
-<a href="https://pixees.fr/classcodeiai/app/tuto1?lang=sl" target="_blank"><figure>
+<a href="https://classcode.gitlabpages.inria.fr/classcodeia/app/tuto1?lang=sl" target="_blank"><figure>
   <img src="Images/Tuto-M1-FirstProgram-SI.png" />
 </figure></a>

@@ -34,6 +34,6 @@ To vodilo se lahko uporablja v učilnici.
 **Želite poskusiti?**  
 _Kliknite na spodnjo sliko in nam dovolite, da vas vodimo!_
 
-<a href="https://pixees.fr/classcodeiai/app/tuto3-ai4t/?lang=sl" target="_blank"><figure>
+<a href="https://classcode.gitlabpages.inria.fr/classcodeia/app/tuto3-ai4t/?lang=sl" target="_blank"><figure>
   <img src="Images/Tuto-M3-HumanandAI-SI.png"/>
 </figure></a>

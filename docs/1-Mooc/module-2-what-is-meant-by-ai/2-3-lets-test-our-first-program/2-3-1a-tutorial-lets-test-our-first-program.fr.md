@@ -41,6 +41,6 @@ Allez-y et entrainez une IA !
 **Comment fonctionne un programme d'IA ?**
 _Cliquez sur l'image ci-dessous et laissez-vous guider !_
 
-<a href="https://pixees.fr/classcodeiai/app/tuto1/" target="_blank"><figure>
+<a href="https://classcode.gitlabpages.inria.fr/classcodeia/app/tuto1/" target="_blank"><figure>
   <img src="Images/Tuto-M1-FirstProgram-FR.png" />
 </figure></a>

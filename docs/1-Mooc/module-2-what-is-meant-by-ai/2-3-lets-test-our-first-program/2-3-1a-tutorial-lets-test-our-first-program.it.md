@@ -35,6 +35,6 @@ Addestrate un'intelligenza artificiale!
 **Come funziona un programma AI?**  
 _Cliccate sull'immagine sottostante e lasciatevi guidare!_
 
-<a href="https://pixees.fr/classcodeiai/app/tuto1?lang=it" target="_blank"><figure>
+<a href="https://classcode.gitlabpages.inria.fr/classcodeia/app/tuto1?lang=it" target="_blank"><figure>
   <img src="Images/Tuto-M1-FirstProgram-IT.png" />
 </figure></a>

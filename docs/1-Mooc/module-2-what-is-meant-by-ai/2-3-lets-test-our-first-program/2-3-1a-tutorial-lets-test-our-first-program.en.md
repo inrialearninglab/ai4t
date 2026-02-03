@@ -35,6 +35,6 @@ Go ahead and train an AI!
 **How does an AI program work?**  
 _Click on the image below and let yourself be guided!_
 
-<a href="https://pixees.fr/classcodeiai/app/tuto1?lang=en" target="_blank"><figure> 
+<a href="https://classcode.gitlabpages.inria.fr/classcodeia/app/tuto1?lang=en" target="_blank"><figure> 
   <img src="Images/Tuto-M1-FirstProgram-EN.png" /> 
 </figure></a>
