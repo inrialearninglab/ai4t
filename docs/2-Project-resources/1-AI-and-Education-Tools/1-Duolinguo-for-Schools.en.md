@@ -9,7 +9,7 @@ It's a learning language App, for sure. And, as an AI Educational Resource, it r
 
 There are two particularities of Duolingo for Schools that makes it's a good case study:
 
-    - Duolingo shares a lot of info about how it works,
-    - Used by many learners, it has been the focus of many questions from outsiders concerned about privacy, for example. It is therefore easier to have insights about some issues that are generally not that easy to have about AIERs, like data protection.
+- Duolingo shares a lot of info about how it works,
+- Used by many learners, it has been the focus of many questions from outsiders concerned about privacy, for example. It is therefore easier to have insights about some issues that are generally not that easy to have about AIERs, like data protection.
 
 Duolingo for Schools is presented in the French Mooc (M4. AI at our service as teachers?) as a case study to experiment the "Template for AI characterisation" designed by Loria laboratory during the AI4T project.

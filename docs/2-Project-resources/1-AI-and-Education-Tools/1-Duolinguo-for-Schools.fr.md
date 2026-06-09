@@ -9,7 +9,7 @@ Il s'agit d'une application d'apprentissage des langues. Et, en tant que ressour
 
 Duolingo for Schools présente deux particularités qui en font une bonne étude de cas :
 
-    - Duolingo partage beaucoup d'informations sur son fonctionnement,
-    - Utilisé par de nombreux apprenants, il a fait l'objet de nombreuses questions de la part de personnes extérieures préoccupées par la protection de la vie privée, par exemple. Il est donc plus facile d'obtenir des informations sur certaines questions qu'il n'est généralement pas facile d'obtenir sur les AIER, comme la protection des données.
+- Duolingo partage beaucoup d'informations sur son fonctionnement,
+- Utilisé par de nombreux apprenants, il a fait l'objet de nombreuses questions de la part de personnes extérieures préoccupées par la protection de la vie privée, par exemple. Il est donc plus facile d'obtenir des informations sur certaines questions qu'il n'est généralement pas facile d'obtenir sur les AIER, comme la protection des données.
 
 Duolingo for Schools est présenté dans le Mooc français (M4. L'IA à notre service en tant qu'enseignants ?) comme étude de cas pour expérimenter le "modèle de caractérisation de l'IA" conçu par le laboratoire Loria dans le cadre du projet AI4T.
